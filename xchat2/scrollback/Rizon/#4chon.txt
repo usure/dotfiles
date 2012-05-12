@@ -1,3 +1,0 @@
-T 1334016963 19*	19Now talking on #4chon
-T 1334016963 22*	irc.cccp-project.net sets mode +n #4chon
-T 1334016963 22*	irc.cccp-project.net sets mode +t #4chon

@@ -1,4 +1,0 @@
-T 1332879799 31<Annex>30	@lastseem
-T 1332879808 31<Annex>30	@seen Tokiko
-T 1332879813 31<Annex>30	@seen a
-T 1332879816 31<Annex>30	@seen Bui

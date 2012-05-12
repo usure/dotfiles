@@ -1,3 +1,0 @@
-T 1328915726 19*	19Now talking on #VIPPER
-T 1328915726 22*	irc.pantsuland.net sets mode +n #VIPPER
-T 1328915726 22*	irc.pantsuland.net sets mode +t #VIPPER

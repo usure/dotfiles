@@ -1,2 +1,0 @@
-T 1332967310 31<Annex>30	!test
-T 1332967320 23*	23VIPServ has quit (23Remote host closed the connection23)

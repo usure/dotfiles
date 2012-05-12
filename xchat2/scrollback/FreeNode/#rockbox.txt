@@ -1,4 +1,0 @@
-T 1335357415 19*	19Now talking on #rockbox
-T 1335357415 29*	29Topic for #rockbox 29is: 3.11.2 released! | Please read before speaking: http://www.rockbox.org/wiki/IrcGuidelines | Please direct offtopic/social chat to #rockbox-community | This channel is logged at http://www.rockbox.org/irc
-T 1335357415 29*	29Topic for #rockbox 29set by AlexP 29at Thu Apr 12 12:58:00 2012
-T 1335357415 28-29ChanServ28-	[#rockbox] Please read before speaking: http://www.rockbox.org/wiki/IrcGuidelines

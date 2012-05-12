@@ -1,3 +1,0 @@
-T 1333650343 19*	19Now talking on #srs
-T 1333650343 22*	adams.freenode.net sets mode +n #srs
-T 1333650343 22*	adams.freenode.net sets mode +s #srs

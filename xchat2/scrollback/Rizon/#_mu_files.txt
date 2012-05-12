@@ -1,6 +1,0 @@
-T 1332965936 19*	19Now talking on #/mu/files
-T 1332965936 22*	irc.cccp-project.net sets mode +n #/mu/files
-T 1332965936 22*	irc.cccp-project.net sets mode +t #/mu/files
-T 1333925829 19*	19Now talking on #/mu/files
-T 1333925829 22*	irc.cccp-project.net sets mode +n #/mu/files
-T 1333925829 22*	irc.cccp-project.net sets mode +t #/mu/files

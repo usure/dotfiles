@@ -1,5 +1,0 @@
-T 1332948242 19*	19Now talking on #1
-T 1332948242 29*	29Topic for #1 29is: The #1 Channel
-T 1332948242 29*	29Topic for #1 29set by Earthworm 29at Tue Apr 20 09:55:46 2010
-T 1332948242 22*	ChanServ sets ban on *!*TheShadow@synIRC-83C350C.dyn.optonline.net
-T 1332948242 23*	You have been kicked from #1 by ChanServ (You are not permitted to be on this channel.23)

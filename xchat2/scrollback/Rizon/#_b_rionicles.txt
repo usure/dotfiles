@@ -1,3 +1,0 @@
-T 1331915959 19*	19Now talking on #/b/rionicles
-T 1331915959 22*	irc.cccp-project.net sets mode +n #/b/rionicles
-T 1331915959 22*	irc.cccp-project.net sets mode +t #/b/rionicles

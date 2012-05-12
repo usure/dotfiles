@@ -1,3 +1,0 @@
-T 1333650356 19*	19Now talking on #redditsrs
-T 1333650356 22*	adams.freenode.net sets mode +n #redditsrs
-T 1333650356 22*	adams.freenode.net sets mode +s #redditsrs

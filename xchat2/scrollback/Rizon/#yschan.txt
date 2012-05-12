@@ -1,3 +1,0 @@
-T 1333589161 19*	19Now talking on #yschan
-T 1333589161 22*	irc.x1n.org sets mode +n #yschan
-T 1333589161 22*	irc.x1n.org sets mode +t #yschan

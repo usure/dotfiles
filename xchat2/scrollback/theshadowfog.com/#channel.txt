@@ -1,3 +1,0 @@
-T 1334179030 19*	19Now talking on #channel
-T 1334179041 31<TheShadowFog>30	 dcpubot: set a, 0xbeef / set b, 0xabcd / set c, 0xdeed\
-T 1334179042 31<TheShadowFog>30	 dcpubot: set a, 0xbeef / set b, 0xabcd / set c, 0xdeed

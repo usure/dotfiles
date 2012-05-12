@@ -1,3 +1,0 @@
-T 1334575370 19*	19Now talking on #2ch
-T 1334575370 22*	irc.sxci.net sets mode +n #2ch
-T 1334575370 22*	irc.sxci.net sets mode +t #2ch

@@ -1,3 +1,0 @@
-T 1331678992 19*	19Now talking on #/jp
-T 1331678992 22*	irc.x1n.org sets mode +n #/jp
-T 1331678992 22*	irc.x1n.org sets mode +t #/jp

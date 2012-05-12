@@ -1,3 +1,0 @@
-T 1335917317 19*	19Now talking on #zdoom
-T 1335917317 22*	irc.cccp-project.net sets mode +n #zdoom
-T 1335917317 22*	irc.cccp-project.net sets mode +t #zdoom

@@ -1,3 +1,0 @@
-T 1332544181 19*	19Now talking on #mu
-T 1332544181 22*	irc.x1n.org sets mode +n #mu
-T 1332544181 22*	irc.x1n.org sets mode +t #mu

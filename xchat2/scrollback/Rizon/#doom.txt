@@ -1,3 +1,0 @@
-T 1335917313 19*	19Now talking on #doom
-T 1335917313 22*	irc.cccp-project.net sets mode +n #doom
-T 1335917313 22*	irc.cccp-project.net sets mode +t #doom

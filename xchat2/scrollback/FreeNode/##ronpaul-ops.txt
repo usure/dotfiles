@@ -1,3 +1,0 @@
-T 1333650369 19*	19Now talking on ##RonPaul-ops
-T 1333650370 29*	29Topic for ##RonPaul-ops 29is: Administration channel for #RonPaul.  Discussion of channel policies and bans belongs here.  Channel policy: http://www.billstclair.com/RonPaul/channel-policy.shtml | the freenode client is banned to here until freenode do what they said they do in banning mibbit
-T 1333650370 29*	29Topic for ##RonPaul-ops 29set by doc|home!~doc@gentoo/contributor/doc-007 29at Sun Feb 28 01:40:01 2010

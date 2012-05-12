@@ -1,3 +1,0 @@
-T 1334883424 19*	19Now talking on #Zoklet
-T 1334883424 22*	irc.sxci.net sets mode +n #Zoklet
-T 1334883424 22*	irc.sxci.net sets mode +t #Zoklet

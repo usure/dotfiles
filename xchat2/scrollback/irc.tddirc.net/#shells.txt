@@ -1,6 +1,0 @@
-T 1333158930 19*	19Now talking on #shells
-T 1333158930 29*	29Topic for #shells 29is: Shell Support Channel || Service status: http://heartbeat.insomnia247.nl || More info: http://wiki.insomnia247.nl/wiki/Shells
-T 1333158930 29*	29Topic for #shells 29set by Cool_Fire 29at Thu Mar  8 13:16:17 2012
-T 1333158931 28-29nanobot28-	Hello TheShadowFog, welcome to #shells for Insomnia 24/7 shell support.
-T 1333158931 18<mib_q2aqc6>	sorry, i am trying different options
-T 1333158931 28-29nanobot28-	If no one is here to help you, please stick around or email your questions to cool_fire_666@hotmail.com.

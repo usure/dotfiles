@@ -1,3 +1,0 @@
-T 1332544354 19*	19Now talking on #atheist
-T 1332544354 22*	irc.x1n.org sets mode +n #atheist
-T 1332544354 22*	irc.x1n.org sets mode +t #atheist

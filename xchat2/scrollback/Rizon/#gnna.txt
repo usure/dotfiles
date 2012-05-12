@@ -1,3 +1,0 @@
-T 1329004020 19*	19Now talking on #GNNA
-T 1329004020 22*	irc.digitalcore.org sets mode +n #GNNA
-T 1329004020 22*	irc.digitalcore.org sets mode +t #GNNA

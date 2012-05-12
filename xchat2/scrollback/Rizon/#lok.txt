@@ -1,3 +1,0 @@
-T 1332946845 19*	19Now talking on #lok
-T 1332946845 22*	irc.pantsuland.net sets mode +n #lok
-T 1332946845 22*	irc.pantsuland.net sets mode +t #lok
