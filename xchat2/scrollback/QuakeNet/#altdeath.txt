@@ -1,0 +1,489 @@
+T 1336490292 22*	26Q gives voice to26 TheShadowFog
+T 1336490292 28-29Q28-	[#altdeath] http://www.altdeath.com : "Multiplayer Doom Respawned"
+T 1336490378 31<TheShadowFog>30	Ello.
+T 1336490520 28-29Q28-	You are now logged in as TheShadowFog.
+T 1336490520 28-29Q28-	Remember: NO-ONE from QuakeNet will ever ask for your password.  NEVER send your password to ANYONE except Q@CServe.quakenet.org.
+T 1336490523 28-29Q28-	AUTH is not available once you have authed.
+T 1336599088 19*	19Now talking on #altdeath
+T 1336599088 29*	29Topic for #altdeath 29is: altdeath: multiplayer doom respawned || http://www.altdeath.com/fluxbb/ || <@HeX9109> I find the way you navigate doom builder to be very sexy
+T 1336599088 29*	29Topic for #altdeath 29set by AlexMax 29at Mon Apr 16 09:27:19 2012
+T 1336599088 22*	26Q gives voice to26 TheShadowFog
+T 1336599088 28-29Q28-	[#altdeath] http://www.altdeath.com : "Multiplayer Doom Respawned"
+T 1336599362 23*	23Decay` has quit (23Ping timeout23)
+T 1336599535 19*	19PUN1SH3R (~PUN1SH3R@c-174-59-165-241.hsd1.pa.comcast.net) has joined #altdeath
+T 1336599535 22*	26Q gives voice to26 PUN1SH3R
+T 1336599655 23*	23nabique has quit (23Quit: Leaving23)
+T 1336599956 19*	19SoulSucka (SoulSucka@SoulSucka.users.quakenet.org) has joined #altdeath
+T 1336599956 22*	26Q gives voice to26 SoulSucka
+T 1336600209 19*	19[6]gnd (GND@GND2.users.quakenet.org) has joined #altdeath
+T 1336600210 22*	26Q gives voice to26 [6]gnd
+T 1336600512 19*	19Killingblair (~Blair@pool-71-185-75-35.phlapa.fios.verizon.net) has joined #altdeath
+T 1336600512 22*	26Q gives voice to26 Killingblair
+T 1336600561 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336600561 22*	26Q gives voice to26 Decay`
+T 1336601577 23*	23Junior` has quit (23Read error: Connection reset by peer23)
+T 1336601822 23*	23Decay` has quit (23Ping timeout23)
+T 1336602803 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336602803 22*	26Q gives voice to26 Decay`
+T 1336603444 19*	19clondedpickal (~ClonedPic@cpe-72-224-75-67.maine.res.rr.com) has joined #altdeath
+T 1336603444 22*	26Q gives voice to26 clondedpickal
+T 1336603450 23*	23ClonedPickle has quit (23Ping timeout23)
+T 1336603517 22*	clondedpickal is now known as ClonedPickle
+T 1336603925 23*	23Ru5tK1ng has quit (23Read error: Connection reset by peer23)
+T 1336604021 19*	19Ru5tK1ng (~Ru5tK1ng@RustInPeace.users.quakenet.org) has joined #altdeath
+T 1336604021 22*	26Q gives voice to26 Ru5tK1ng
+T 1336604050 19*	19Slyfox (~your@75-141-115-5.dhcp.mtpk.ca.charter.com) has joined #altdeath
+T 1336604050 22*	26Q gives voice to26 Slyfox
+T 1336604402 19*	19ALMN_ (~ALMN@99-194-228-79.dyn.centurytel.net) has joined #altdeath
+T 1336604402 22*	26Q gives voice to26 ALMN_
+T 1336604671 23*	23ALMN__ has quit (23Ping timeout23)
+T 1336604762 19*	19ALMN__ (~ALMN@99-194-228-79.dyn.centurytel.net) has joined #altdeath
+T 1336604762 22*	26Q gives voice to26 ALMN__
+T 1336604767 18<Legion|altcomp>	alexmax: I have been as of lately
+T 1336604813 18<Legion|altcomp>	since ammar no longer studiously watches over it like a hawk
+T 1336604834 18<Legion|altcomp>	and even though soul still has rcon he doesn't really do anything with it
+T 1336604841 18<Legion|altcomp>	still, who the hell is shadowfog
+T 1336604895 18<SoulSucka>	What are you talking about
+T 1336604901 18<SoulSucka>	I'm at least the most active rcon user!
+T 1336604946 18<Legion|altcomp>	I'm not talking about direct rcon per se
+T 1336604954 18<Legion|altcomp>	more of the password permissions on the site
+T 1336604965 18<SoulSucka>	Oh
+T 1336604971 18<SoulSucka>	I don't have access to that anymore
+T 1336604989 18<Legion|altcomp>	yeah
+T 1336604999 21<Legion|altcomp>21	soulsucka do you know who "theshadowfog" is
+T 1336605003 18<SoulSucka>	Nope
+T 1336605031 23*	23ALMN_ has quit (23Ping timeout23)
+T 1336605049 18<Legion|altcomp>	he lists a fake email so I can't email him to pm me
+T 1336605050 18<Legion|altcomp>	oh well!
+T 1336605355 23*	23Decay` has quit (23Ping timeout23)
+T 1336605776 31<TheShadowFog>30	No I don't....
+T 1336605902 19*	19Soul` (SoulSucka@187.112.60.185) has joined #altdeath
+T 1336605902 22*	26Q gives voice to26 Soul`
+T 1336606083 23*	23SoulSucka has quit (23Ping timeout23)
+T 1336606283 22*	Soul` is now known as SoulSucka
+T 1336607370 19*	19Grymmoire (~Grymmoire@d192-24-10-5.try.wideopenwest.com) has joined #altdeath
+T 1336607370 22*	26Q gives voice to26 Grymmoire
+T 1336608376 19*	19Junior` (~Junior@pool-108-44-37-207.albyny.fios.verizon.net) has joined #altdeath
+T 1336608376 22*	26Q gives voice to26 Junior`
+T 1336609584 23*	23MoonStalkeR_ has quit (23Ping timeout23)
+T 1336609694 19*	19MoonStalkeR_ (~MoonStalk@ool-182c6ab8.dyn.optonline.net) has joined #altdeath
+T 1336609695 22*	26Q gives voice to26 MoonStalkeR_
+T 1336609718 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336609718 22*	26Q gives voice to26 Decay`
+T 1336609966 23*	23MoonStalkeR_ has quit (23Ping timeout23)
+T 1336610085 19*	19MoonStalkeR_ (~MoonStalk@ool-182c6ab8.dyn.optonline.net) has joined #altdeath
+T 1336610085 22*	26Q gives voice to26 MoonStalkeR_
+T 1336610956 19*	19Madgunner (Madgunner@c-67-191-144-144.hsd1.ga.comcast.net) has joined #altdeath
+T 1336610956 22*	26Q gives voice to26 Madgunner
+T 1336611246 23*	23MoonStalkeR_ has quit (23Ping timeout23)
+T 1336611315 19*	19MoonStalkeR_ (~MoonStalk@ool-182c6ab8.dyn.optonline.net) has joined #altdeath
+T 1336611315 22*	26Q gives voice to26 MoonStalkeR_
+T 1336611500 23*	23Ru5tK1ng has quit (23Read error: Connection reset by peer23)
+T 1336611593 19*	19Ru5tK1ng (~Ru5tK1ng@RustInPeace.users.quakenet.org) has joined #altdeath
+T 1336611593 22*	26Q gives voice to26 Ru5tK1ng
+T 1336611662 22*	You are now known as TSF
+T 1336611671 23*	23Slyfox has quit (23Quit23)
+T 1336611887 19*	19Zap610 (~Zap610@c-24-63-130-2.hsd1.ct.comcast.net) has joined #altdeath
+T 1336611887 22*	26Q gives voice to26 Zap610
+T 1336612078 23*	23infurnus has quit (23Ping timeout23)
+T 1336612322 23*	23Zap610 has quit (23Quit: Leaving23)
+T 1336612368 19*	19Legion (~Legion@pool-71-115-99-65.sangtx.dsl-w.verizon.net) has joined #altdeath
+T 1336612368 22*	26Q gives voice to26 Legion
+T 1336612677 19*	19infurnus (~hey@infurnus.users.quakenet.org) has joined #altdeath
+T 1336612677 22*	26Q gives voice to26 infurnus
+T 1336612987 23*	23HeavenWraith has quit (23Quit: Psycho Ball~~~23)
+T 1336613724 23*	23PepeRC2 has quit (23Ping timeout23)
+T 1336613750 19*	19MassVC (~Mass@97-92-40-97.dhcp.aldl.mi.charter.com) has joined #altdeath
+T 1336613750 22*	26Q gives voice to26 MassVC
+T 1336613808 19*	19Tai- (~Tai@c-98-216-91-67.hsd1.ct.comcast.net) has joined #altdeath
+T 1336613808 22*	26Q gives voice to26 Tai-
+T 1336614007 19*	19ALMN (~ALMN@99-194-228-79.dyn.centurytel.net) has joined #altdeath
+T 1336614007 22*	26Q gives voice to26 ALMN
+T 1336614281 23*	23ALMN__ has quit (23Ping timeout23)
+T 1336614398 23*	23MassVC has quit (23Quit: GO TOH ELL23)
+T 1336614995 19*	19ALMN_ (~scum@99-194-228-79.dyn.centurytel.net) has joined #altdeath
+T 1336614995 22*	26Q gives voice to26 ALMN_
+T 1336615025 23*	23capodecima has quit (23Quit: http://liquiddoom.net/eurothunder/23)
+T 1336615502 23*	23Jenova has quit (23Ping timeout23)
+T 1336615874 23*	23infurnus has quit (23Read error: Connection reset by peer23)
+T 1336615901 19*	19infurnus (~hey@infurnus.users.quakenet.org) has joined #altdeath
+T 1336615901 22*	26Q gives voice to26 infurnus
+T 1336615939 19*	19Zap610 (~Zap610@c-24-63-130-2.hsd1.ct.comcast.net) has joined #altdeath
+T 1336615939 22*	26Q gives voice to26 Zap610
+T 1336615995 19*	19Jenova (~Jenova@Jenova.users.quakenet.org) has joined #altdeath
+T 1336615995 22*	26Q gives voice to26 Jenova
+T 1336617782 23*	23ALMN has quit (23Ping timeout23)
+T 1336617913 23*	23Junior` has quit (23Quit: Quitting23)
+T 1336618207 23*	23Decay` has quit (23Quit: Skulltag rules!23)
+T 1336619079 23*	23SoulSucka has quit (23Ping timeout23)
+T 1336619736 19*	19SoulSucka (SoulSucka@SoulSucka.users.quakenet.org) has joined #altdeath
+T 1336619736 22*	26Q gives voice to26 SoulSucka
+T 1336620268 23*	23Zap610 has quit (23Quit: Leaving23)
+T 1336620875 23*	23SoulSucka has quit (23Quit: <Mobius`> HUUUAARRRHHHGGGG <Mobius`> IMMA DINOSAURE!23)
+T 1336620963 19*	19Forty-Two (~Forty-Two@c122-107-39-26.blktn5.nsw.optusnet.com.au) has joined #altdeath
+T 1336620963 22*	26Q gives voice to26 Forty-Two
+T 1336621479 23*	23MoonStalkeR_ has quit (23Ping timeout23)
+T 1336621784 23*	23Jenova has quit (23Read error: Operation timed out23)
+T 1336621807 19*	19Jenova` (~Jenova@dsl-173-206-84-255.tor.primus.ca) has joined #altdeath
+T 1336621807 22*	26Q gives voice to26 Jenova`
+T 1336622020 23*	23aarch has quit (23Ping timeout23)
+T 1336622054 22*	Disconnected (Remote host closed socket).
+T 1336622065 22*	TSF already in use. Retrying with TheShadowFog...
+T 1336622074 22*	TheShadowFog sets mode +i TheShadowFog
+T 1336622074 28-29Q28-	You didn't provide enough parameters for auth.
+T 1336622075 28-29Q28-	Usage: AUTH <username> <password>
+T 1336622075 28-29Q28-	For more information, type HELP auth.
+T 1336622077 19*	19Now talking on #altdeath
+T 1336622078 22*	26Q gives voice to26 TheShadowFog
+T 1336622078 28-29Q28-	[#altdeath] http://www.altdeath.com : "Multiplayer Doom Respawned"
+T 1336622155 23*	23aarch has quit (23Ping timeout23)
+T 1336622155 23*	23TSF has quit (23Ping timeout23)
+T 1336622157 23*	23Tibs has quit (23*.net *.split23)
+T 1336622386 19*	19Grymmoire|2 (~Grymmoire@d192-24-10-5.try.wideopenwest.com) has joined #altdeath
+T 1336622386 22*	26Q gives voice to26 Grymmoire|2
+T 1336622519 23*	23Grymmoire has quit (23Read error: Connection reset by peer23)
+T 1336622650 23*	23PUN1SH3R has quit (23Ping timeout23)
+T 1336622814 19*	19PUN1SH3R (~PUN1SH3R@174.59.165.241) has joined #altdeath
+T 1336622814 22*	26Q gives voice to26 PUN1SH3R
+T 1336622886 23*	23Forty-Two has quit (23Ping timeout23)
+T 1336622887 19*	19Forty-Three (~Forty-Two@c122-107-39-26.blktn5.nsw.optusnet.com.au) has joined #altdeath
+T 1336622887 22*	26Q gives voice to26 Forty-Three
+T 1336622945 19*	19Tibs (~none@110-175-111-43.static.tpgi.com.au) has joined #altdeath
+T 1336622945 22*	26*.quakenet.org gives voice to26 Tibs
+T 1336623699 19*	19Slyfox (~your@75-141-115-5.dhcp.mtpk.ca.charter.com) has joined #altdeath
+T 1336623699 22*	26Q gives voice to26 Slyfox
+T 1336623728 19*	19PepeRC2 (~pepe@adsl-75-14-1-202.dsl.hrlntx.sbcglobal.net) has joined #altdeath
+T 1336623728 22*	26Q gives voice to26 PepeRC2
+T 1336623965 22*	Jenova` is now known as Jenova
+T 1336624328 23*	23Minigunner has quit (23Ping timeout23)
+T 1336624627 23*	23PUN1SH3R has quit (23Quit: Skulltag rules!23)
+T 1336625166 23*	23Legion|altcomp has quit (23Read error: Connection reset by peer23)
+T 1336625181 19*	19Legion|altcomp_ (~chatzilla@pool-71-115-99-65.sangtx.dsl-w.verizon.net) has joined #altdeath
+T 1336625182 22*	26Q gives voice to26 Legion|altcomp_
+T 1336625184 22*	Legion|altcomp_ is now known as Legion|altcomp
+T 1336627431 23*	23Okami-AIK has quit (23Quit: It's not hack, It's... rage.23)
+T 1336628145 23*	23dewww has quit (23Ping timeout23)
+T 1336628401 23*	23Ru5tK1ng has quit (23Read error: Connection reset by peer23)
+T 1336628493 19*	19Ru5tK1ng (~Ru5tK1ng@RustInPeace.users.quakenet.org) has joined #altdeath
+T 1336628493 22*	26Q gives voice to26 Ru5tK1ng
+T 1336628783 23*	23Slyfox has quit (23Quit23)
+T 1336629992 18<tm512`>	AlexMax: Do you have any experience with Host Virtual (vr.org)?
+T 1336630019 18<tm512`>	I remember you using a provider that was different from Linode back a bit over a year ago
+T 1336630034 18<tm512`>	I forget what it was, but for some reason this name rings a bell
+T 1336630046 18<Jenova>	honelive?
+T 1336630081 18<tm512`>	and that one was crap, right?
+T 1336630103 18<Jenova>	not sure if we're talking about the same one
+T 1336630112 18<Jenova>	the one alex and I used to split a long time ago was honelive, which was pretty good
+T 1336630116 18<Jenova>	they don't do VPS though
+T 1336630178 18<tm512`>	I'm thinking of getting a VPS but Linode's lowest end offer is more than I am looking for and they want more than I want to pay monthly
+T 1336630206 18<tm512`>	I am weary of the super-cheap vps providers because of the problems they can provide
+T 1336630252 18<Jenova>	hm
+T 1336630256 18<AlexMax>	linode has been solid for me
+T 1336630268 18<tm512`>	Host Virtual has a $10/mo package with 256MB ram and 10GB disk space, which is plenty for what I intend on doing with it
+T 1336630278 18<AlexMax>	the host that honelive uses has some VPS's
+T 1336630286 18<AlexMax>	but they're some super shitty OpenVZ servers
+T 1336630294 18<Jenova>	really
+T 1336630295 18<tm512`>	HV is Xen
+T 1336630296 18<Jenova>	are they resellers
+T 1336630299 18<AlexMax>	Jenova: yes
+T 1336630302 18<Jenova>	from who
+T 1336630309 18<AlexMax>	inter....something i forget
+T 1336630320 23*	23Ru5tK1ng has quit (23Signed off23)
+T 1336630321 18<Jenova>	from what I read they weren't interserver resellers
+T 1336630323 18<AlexMax>	but their openvz servers are why my skulltag servers used to suck ass there for a while
+T 1336630337 18<AlexMax>	oh?
+T 1336630341 18<Jenova>	they own all of their shit
+T 1336630342 18<Jenova>	yep
+T 1336630351 18<Jenova>	AFAIK, they do not resell interserver, they have their own racks and gear.
+T 1336630351 18<AlexMax>	same hosting facility though i bet
+T 1336630351 18<Jenova>	Why is it down? Perhaps suspended for abuse or non-payment?
+T 1336630356 18<Jenova>	their reply: Correct, Anantha and team own all their gear.
+T 1336630411 18<tm512`>	I don't want to get screwed over on the first VPS that I buy
+T 1336630416 18<AlexMax>	linode
+T 1336630417 18<AlexMax>	linode
+T 1336630419 18<AlexMax>	linode
+T 1336630424 18<infurnus>	linode
+T 1336630426 18<Jenova>	256mb ram?
+T 1336630429 18<Jenova>	are you just hosting webservers
+T 1336630439 18<Jenova>	linode is $10 more
+T 1336630442 18<Jenova>	do you want me to spot you $10
+T 1336630468 18<tm512`>	I think I am just going to host nginx, inspircd, and some odamex servers
+T 1336630546 18<tm512`>	I can afford $20/mo, but at that point I start to really doubt whether it's worth it
+T 1336630579 18<tm512`>	not doubting the service, just doubting my need for a VPS
+T 1336630617 18<Jenova>	i can set up a vps on my server and let you use it if you want
+T 1336630628 18<Jenova>	idk if you want that though
+T 1336630699 18<tm512`>	I dunno
+T 1336630719 18<tm512`>	VH doesn't seem to come with cPanel or anything like that by default
+T 1336630744 18<tm512`>	*HV
+T 1336630766 18<Jenova>	thats because cpanel licenses are usually $10-15/mo
+T 1336630847 18<tm512`>	I assume they'll provide their own interface for reinstalling the OS and rebooting the server, etc, then?
+T 1336630881 18<Jenova>	that depends
+T 1336630885 18<Jenova>	you might have to open a ticket with them
+T 1336630893 18<Jenova>	linode and nfoservers does that though
+T 1336630901 18<Jenova>	i was with a company a while back and they had to do it manually
+T 1336630902 18<Jenova>	ubhosting
+T 1336630922 19*	19DocHolliday (~doc@108-217-220-250.lightspeed.chtnsc.sbcglobal.net) has joined #altdeath
+T 1336630922 22*	26Q gives voice to26 DocHolliday
+T 1336631124 18<tm512`>	host virtual has a server in Virginia that I ping well too and I assume that most odamex players will ping well to as well
+T 1336631142 18<tm512`>	I ping 80 to it and it's all the way across the country
+T 1336631297 19*	19ALMN (~ALMN@99-194-228-79.dyn.centurytel.net) has joined #altdeath
+T 1336631297 22*	26Q gives voice to26 ALMN
+T 1336631597 23*	23Legion|altcomp has quit (23Read error: Connection reset by peer23)
+T 1336631602 19*	19Legion|altcomp_ (~chatzilla@pool-71-115-99-65.sangtx.dsl-w.verizon.net) has joined #altdeath
+T 1336631602 22*	26Q gives voice to26 Legion|altcomp_
+T 1336631604 22*	Legion|altcomp_ is now known as Legion|altcomp
+T 1336631613 18<tm512`>	Someone has suggested ChunkHost as well but their minimal server is $19/mo and gives more bw/ram/cpu than I'll need
+T 1336632324 23*	23Legion has quit (23Quit: 2012-04-14 14:38:34 <AlexMax> I bulged that corner23)
+T 1336632739 19*	19Forty-Two (~Forty-Two@c122-107-39-26.blktn5.nsw.optusnet.com.au) has joined #altdeath
+T 1336632739 22*	26Q gives voice to26 Forty-Two
+T 1336632751 23*	23Forty-Three has quit (23Ping timeout23)
+T 1336632790 23*	23Forty-Two has quit (23Quit:  HydraIRC -> http://www.hydrairc.com <- Organize your IRC23)
+T 1336633151 19*	19ALMN__ (~ALMN@99-194-228-79.dyn.centurytel.net) has joined #altdeath
+T 1336633151 22*	26Q gives voice to26 ALMN__
+T 1336633263 23*	23Goliath has quit (23Quit23)
+T 1336633263 23*	23ALMN has quit (23Ping timeout23)
+T 1336633295 23*	23DocHolliday has quit (23Ping timeout23)
+T 1336633426 19*	19Takyon (~doc@108-217-220-250.lightspeed.chtnsc.sbcglobal.net) has joined #altdeath
+T 1336633426 22*	26Q gives voice to26 Takyon
+T 1336633493 19*	19bicep_job (RottKing@adsl-99-164-86-197.dsl.wlfrct.sbcglobal.net) has joined #altdeath
+T 1336633493 22*	26Q gives voice to26 bicep_job
+T 1336633622 19*	19ViciousPariah_ (~viciouspa@129.63.2.68) has joined #altdeath
+T 1336633622 22*	26Q gives voice to26 ViciousPariah_
+T 1336633683 23*	23Tibs has quit (23*.net *.split23)
+T 1336633683 23*	23RottKing has quit (23*.net *.split23)
+T 1336633683 23*	23PepeRC2 has quit (23*.net *.split23)
+T 1336633683 23*	23ViciousPariah has quit (23*.net *.split23)
+T 1336633709 19*	19Pepe (~pepe@adsl-75-14-1-202.dsl.hrlntx.sbcglobal.net) has joined #altdeath
+T 1336633709 22*	26Q gives voice to26 Pepe
+T 1336633732 23*	23Grymmoire|2 has quit (23Ping timeout23)
+T 1336634377 19*	19nabique (~nabique@nabique.users.quakenet.org) has joined #altdeath
+T 1336634377 22*	26Q gives voice to26 nabique
+T 1336634945 23*	23Pepe has quit (23Killed (*.quakenet.org (overruled by older nick))23)
+T 1336634946 19*	19Tibs (~none@110-175-111-43.static.tpgi.com.au) has joined #altdeath
+T 1336634946 22*	26*.quakenet.org gives voice to26 Tibs
+T 1336634958 19*	19PepeRC2 (~pepe@adsl-75-14-1-202.dsl.hrlntx.sbcglobal.net) has joined #altdeath
+T 1336634958 22*	26Q gives voice to26 PepeRC2
+T 1336635162 19*	19_rice_ (~rice@122-62-70-52.jetstream.xtra.co.nz) has joined #altdeath
+T 1336635162 22*	26Q gives voice to26 _rice_
+T 1336636332 23*	23Tai- has quit (23Quit: Quitting23)
+T 1336637767 19*	19[6]gndf (GND@68-187-247-122.dhcp.stls.mo.charter.com) has joined #altdeath
+T 1336637767 22*	26Q gives voice to26 [6]gndf
+T 1336637822 19*	19Zap610 (~Zap610@c-24-63-130-2.hsd1.ct.comcast.net) has joined #altdeath
+T 1336637822 22*	26Q gives voice to26 Zap610
+T 1336637831 23*	23[6]gnd has quit (23Ping timeout23)
+T 1336638300 23*	23Zap610 has quit (23Quit: Leaving23)
+T 1336638783 23*	23[6]gndf has quit (23Read error: EOF from client23)
+T 1336638896 19*	19destx (~destx@118-93-122-134.dsl.dyn.ihug.co.nz) has joined #altdeath
+T 1336638896 22*	26Q gives voice to26 destx
+T 1336639451 23*	23Blzut3 has quit (23Quit: Konversation terminated!23)
+T 1336641972 23*	23infurnus has quit (23Read error: Connection reset by peer23)
+T 1336642042 19*	19infurnus (~hey@infurnus.users.quakenet.org) has joined #altdeath
+T 1336642043 22*	26Q gives voice to26 infurnus
+T 1336642915 19*	19HeavenWraith (HeavenWrai@HeavenWraith.users.quakenet.org) has joined #altdeath
+T 1336642915 22*	26Q gives voice to26 HeavenWraith
+T 1336642997 23*	23_rice_ has quit (23Ping timeout23)
+T 1336643792 23*	23Legion|altcomp has quit (23Ping timeout23)
+T 1336649037 23*	23destx has quit (23Quit: X-Chat23)
+T 1336651733 23*	23Tibs has quit (23Quit: THIS IS NOT AN EXIT23)
+T 1336652516 19*	19_rice_ (~rice@122-62-70-52.jetstream.xtra.co.nz) has joined #altdeath
+T 1336652516 22*	26Q gives voice to26 _rice_
+T 1336655053 Python interface unloaded
+T 1336655054 Tcl interface unloaded
+T 1336657800 19*	19Now talking on #altdeath
+T 1336657800 22*	26Q gives voice to26 TheShadowFog
+T 1336657800 28-29Q28-	[#altdeath] http://www.altdeath.com : "Multiplayer Doom Respawned"
+T 1336659444 19*	19capodecima (~capodecim@194.228.150.205) has joined #altdeath
+T 1336659444 22*	26Q gives voice to26 capodecima
+T 1336660623 19*	19dewww (~dewww@dewww.users.quakenet.org) has joined #altdeath
+T 1336660623 22*	26Q gives voice to26 dewww
+T 1336662730 23*	23Decay` has quit (23Ping timeout23)
+T 1336662895 19*	19Junior` (~Junior@pool-108-44-37-207.albyny.fios.verizon.net) has joined #altdeath
+T 1336662895 22*	26Q gives voice to26 Junior`
+T 1336663097 19*	19SoulSucka (SoulSucka@SoulSucka.users.quakenet.org) has joined #altdeath
+T 1336663097 22*	26Q gives voice to26 SoulSucka
+T 1336663171 19*	19Ralphis` (~Ralph@64.141.192.13) has joined #altdeath
+T 1336663171 22*	26Q gives voice to26 Ralphis`
+T 1336663199 23*	23bicep_job has quit (23Ping timeout23)
+T 1336663350 19*	19Okami-AIK (~OkamiAIK@189.172.174.231) has joined #altdeath
+T 1336663350 22*	26Q gives voice to26 Okami-AIK
+T 1336663367 19*	19RottKing (RottKing@adsl-99-164-84-94.dsl.wlfrct.sbcglobal.net) has joined #altdeath
+T 1336663367 22*	26Q gives voice to26 RottKing
+T 1336667111 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336667111 22*	26Q gives voice to26 Decay`
+T 1336667930 19*	19Jroc (~Hypnotoad@137.205.131.57) has joined #altdeath
+T 1336667930 22*	26Q gives voice to26 Jroc
+T 1336668103 23*	23Jroc has quit (23Read error: Connection reset by peer23)
+T 1336668173 19*	19Jroc (~Hypnotoad@137.205.131.57) has joined #altdeath
+T 1336668173 22*	26Q gives voice to26 Jroc
+T 1336668305 23*	23SoulSucka has quit (23Quit: <Mobius`> HUUUAARRRHHHGGGG <Mobius`> IMMA DINOSAURE!23)
+T 1336668698 23*	23Goliath has quit (23Quit23)
+T 1336669303 23*	23Decay` has quit (23Ping timeout23)
+T 1336670261 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336670261 22*	26Q gives voice to26 Decay`
+T 1336670900 19*	19Ru5tK1ng (~Ru5tK1ng@RustInPeace.users.quakenet.org) has joined #altdeath
+T 1336670900 22*	26Q gives voice to26 Ru5tK1ng
+T 1336670956 23*	23Jroc has quit (23Read error: Connection reset by peer23)
+T 1336670987 19*	19Goliath (~Goliath@c-76-117-137-68.hsd1.pa.comcast.net) has joined #altdeath
+T 1336670987 22*	26Q gives voice to26 Goliath
+T 1336671000 23*	23Goliath has quit (23Read error: EOF from client23)
+T 1336671013 19*	19Goliath (~Goliath@c-76-117-137-68.hsd1.pa.comcast.net) has joined #altdeath
+T 1336671013 22*	26Q gives voice to26 Goliath
+T 1336671015 23*	23Goliath has quit (23Read error: EOF from client23)
+T 1336671021 19*	19Goliath (~Goliath@c-76-117-137-68.hsd1.pa.comcast.net) has joined #altdeath
+T 1336671021 22*	26Q gives voice to26 Goliath
+T 1336671549 19*	19Jroc (~Hypnotoad@137.205.131.57) has joined #altdeath
+T 1336671549 22*	26Q gives voice to26 Jroc
+T 1336672189 19*	19Blzut3 (~blzut3@dynamic-acs-24-239-43-208.zoominternet.net) has joined #altdeath
+T 1336672189 22*	26Q gives voice to26 Blzut3
+T 1336673254 23*	23Decay` has quit (23Ping timeout23)
+T 1336673952 19*	19Grymmoire (~Grymmoire@d192-24-10-5.try.wideopenwest.com) has joined #altdeath
+T 1336673952 22*	26Q gives voice to26 Grymmoire
+T 1336674380 19*	19MoonStalkeR_ (~MoonStalk@ool-182c6ab8.dyn.optonline.net) has joined #altdeath
+T 1336674380 22*	26Q gives voice to26 MoonStalkeR_
+T 1336675620 23*	23MoonStalkeR_ has quit (23Read error: Connection reset by peer23)
+T 1336675632 19*	19MoonStalkeR_ (~MoonStalk@ool-182c6ab8.dyn.optonline.net) has joined #altdeath
+T 1336675632 22*	26Q gives voice to26 MoonStalkeR_
+T 1336675684 23*	23MoonStalkeR_ has quit (23Read error: Connection reset by peer23)
+T 1336675881 19*	19MoonStalkeR_ (~MoonStalk@ool-182c6ab8.dyn.optonline.net) has joined #altdeath
+T 1336675881 22*	26Q gives voice to26 MoonStalkeR_
+T 1336676327 23*	23Madgunner has quit (23Quit: Quitting23)
+T 1336677254 19*	19Zap610 (~Zap610@c-24-63-130-2.hsd1.ct.comcast.net) has joined #altdeath
+T 1336677254 22*	26Q gives voice to26 Zap610
+T 1336677636 18<Jenova>	why does this idiot mute the channel
+T 1336677638 18<Jenova>	all the fucking time
+T 1336677653 18<blair-work>	For Your Safety
+T 1336677840 18<Zap610>	jen: so it was a troll thread?
+T 1336677848 18<Jenova>	what was
+T 1336677852 18<Zap610>	the teletha one
+T 1336677860 18<Jenova>	why would that be a troll thread
+T 1336677871 18<Zap610>	I was just asking
+T 1336677890 18<Zap610>	people were like OMG WARN JEN
+T 1336677907 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336677907 22*	26Q gives voice to26 Decay`
+T 1336677907 18<Jenova>	that's because anything I post is apparently trolling
+T 1336677913 18<Jenova>	st community 10/10
+T 1336677925 18<Jroc>	Jenova, to be fair its pretty hard to tell when youre being serious and when youre being sarcastic
+T 1336677927 18<Jenova>	I should probably just pull a carn and stop posting completely
+T 1336677932 18<Jenova>	unless it's just to advertise my game
+T 1336677934 18<Zap610>	Even if you were trolling (not that you were) it still isn't your fault that stupid people derailed it
+T 1336677935 18<Jroc>	and that OP reeked of sarcasm 
+T 1336677936 18<Jenova>	http://www.oblivionro.net/ sign up
+T 1336678060 19*	19nabbeth (~nabique@usr-81-201-17-78.telix.ru) has joined #altdeath
+T 1336678060 22*	26Q gives voice to26 nabbeth
+T 1336678324 23*	23nabique has quit (23Read error: Operation timed out23)
+T 1336680273 18<AlexMax>	Can Ghosts Teabag the Living?
+T 1336680280 18<AlexMax>	This is an urgent question, but not urgent enough to warrant the ATTENTION tag.
+T 1336680284 18<AlexMax>	Please answer, there's this weird feeling in my mouth, and I felt a draft.
+T 1336680287 18<AlexMax>	oh god
+T 1336680290 18<AlexMax>	oh god not again
+T 1336680341 23*	23ClonedPickle has quit (23Ping timeout23)
+T 1336680958 23*	23Goliath has quit (23Read error: EOF from client23)
+T 1336681007 19*	19Goliath (~Goliath@c-76-117-137-68.hsd1.pa.comcast.net) has joined #altdeath
+T 1336681007 22*	26Q gives voice to26 Goliath
+T 1336742164 19*	19Now talking on #altdeath
+T 1336742164 22*	26Q gives voice to26 TheShadowFog
+T 1336742164 28-29Q28-	[#altdeath] http://www.altdeath.com : "Multiplayer Doom Respawned"
+T 1336743091 19*	19Decay` (~Essaysold@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336743091 22*	26Q gives voice to26 Decay`
+T 1336744018 23*	23Decay` has quit (23Quit: Leaving23)
+T 1336745557 19*	19PUN1SH3R (~PUN1SH3R@c-174-59-165-241.hsd1.pa.comcast.net) has joined #altdeath
+T 1336745558 22*	26Q gives voice to26 PUN1SH3R
+T 1336747766 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336747766 22*	26Q gives voice to26 Decay`
+T 1336748422 19*	19SoulSucka (SoulSucka@SoulSucka.users.quakenet.org) has joined #altdeath
+T 1336748422 22*	26Q gives voice to26 SoulSucka
+T 1336749044 19*	19_rice_ (~rice@122-62-70-52.jetstream.xtra.co.nz) has joined #altdeath
+T 1336749044 22*	26Q gives voice to26 _rice_
+T 1336749049 19*	19dewww (~dewww@dewww.users.quakenet.org) has joined #altdeath
+T 1336749049 22*	26Q gives voice to26 dewww
+T 1336750454 23*	23Decay` has quit (23Ping timeout23)
+T 1336751211 23*	23_rice_ has quit (23Read error: Connection reset by peer23)
+T 1336751293 19*	19ALMN (~ALMN@99-194-228-79.dyn.centurytel.net) has joined #altdeath
+T 1336751293 22*	26Q gives voice to26 ALMN
+T 1336751866 19*	19Jroc (~Hypnotoad@137.205.131.57) has joined #altdeath
+T 1336751866 22*	26Q gives voice to26 Jroc
+T 1336752086 23*	23Jroc has quit (23Ping timeout23)
+T 1336752116 19*	19Jroc (~Hypnotoad@137.205.131.57) has joined #altdeath
+T 1336752116 22*	26Q gives voice to26 Jroc
+T 1336752515 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336752515 22*	26Q gives voice to26 Decay`
+T 1336753177 19*	19Jroc_ (~Hypnotoad@137.205.131.57) has joined #altdeath
+T 1336753177 22*	26Q gives voice to26 Jroc_
+T 1336753327 23*	23Jroc has quit (23Ping timeout23)
+T 1336753392 23*	23Madgunner has quit (23Ping timeout23)
+T 1336754820 23*	23SoulSucka has quit (23Read error: Connection reset by peer23)
+T 1336755512 19*	19Grymmoire (~Grymmoire@d14-69-54-31.try.wideopenwest.com) has joined #altdeath
+T 1336755512 22*	26Q gives voice to26 Grymmoire
+T 1336755702 23*	23Iced has quit (23Ping timeout23)
+T 1336758449 19*	19Ru5tK1ng (~Ru5tK1ng@RustInPeace.users.quakenet.org) has joined #altdeath
+T 1336758449 22*	26Q gives voice to26 Ru5tK1ng
+T 1336759050 19*	19Blzut3 (~blzut3@dynamic-acs-24-239-43-208.zoominternet.net) has joined #altdeath
+T 1336759050 22*	26Q gives voice to26 Blzut3
+T 1336760376 19*	19Madgunner (Madgunner@c-67-191-144-144.hsd1.ga.comcast.net) has joined #altdeath
+T 1336760376 22*	26Q gives voice to26 Madgunner
+T 1336760453 23*	23Ru5tK1ng has quit (23Read error: Connection reset by peer23)
+T 1336760549 19*	19Ru5tK1ng (~Ru5tK1ng@RustInPeace.users.quakenet.org) has joined #altdeath
+T 1336760549 22*	26Q gives voice to26 Ru5tK1ng
+T 1336761071 23*	23Minniguner has quit (23Ping timeout23)
+T 1336761322 23*	23ClonedPickle has quit (23Quit: [UD]ALMN: one time i was so blazed i couldn't keep it up23)
+T 1336761462 23*	23Jroc_ has quit (23Ping timeout23)
+T 1336761598 19*	19Jroc (~Hypnotoad@137.205.131.57) has joined #altdeath
+T 1336761598 22*	26Q gives voice to26 Jroc
+T 1336762439 19*	19MoonStalkeR_ (~MoonStalk@ool-182c6ab8.dyn.optonline.net) has joined #altdeath
+T 1336762439 22*	26Q gives voice to26 MoonStalkeR_
+T 1336763283 19*	19Ladna (~Ladna@38.109.187.5) has joined #altdeath
+T 1336763283 22*	26Q gives voice to26 Ladna
+T 1336764730 23*	23Grymmoire has quit (23Ping timeout23)
+T 1336765047 19*	19Minigunner (~Minigunne@76.9.85.250) has joined #altdeath
+T 1336765047 22*	26Q gives voice to26 Minigunner
+T 1336765661 18<Jroc>	http://dailypicksandflicks.com/2012/05/03/chinese-zoo-keeper-licks-monkey-butt-to-save-its-life/
+T 1336766393 18<Jenova>	rofl
+T 1336766693 23*	23Goliath has quit (23Quit23)
+T 1336767031 23*	23MoonStalkeR_ has quit (23Ping timeout23)
+T 1336767299 23*	23Decay` has quit (23Ping timeout23)
+T 1336768188 19*	19Tibs (~none@110-175-111-43.static.tpgi.com.au) has joined #altdeath
+T 1336768189 22*	26Q gives voice to26 Tibs
+T 1336768661 23*	23blair-work has quit (23Read error: Connection reset by peer23)
+T 1336769143 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336769143 22*	26Q gives voice to26 Decay`
+T 1336769198 23*	23Decay` has quit (23Quit: Skulltag rules!23)
+T 1336770314 23*	23Ru5tK1ng has quit (23Read error: Connection reset by peer23)
+T 1336770410 19*	19Ru5tK1ng (~Ru5tK1ng@RustInPeace.users.quakenet.org) has joined #altdeath
+T 1336770410 22*	26Q gives voice to26 Ru5tK1ng
+T 1336771195 19*	19Jroc_ (~Hypnotoad@137.205.131.57) has joined #altdeath
+T 1336771195 22*	26Q gives voice to26 Jroc_
+T 1336771256 19*	19Grymmoire (~Grymmoire@d14-69-54-31.try.wideopenwest.com) has joined #altdeath
+T 1336771256 22*	26Q gives voice to26 Grymmoire
+T 1336771264 23*	23Ladna has quit (23Quit: ChatZilla 0.9.88-rdmsoft [XULRunner 1.9.0.17/2009122204]23)
+T 1336771378 23*	23Jroc has quit (23Ping timeout23)
+T 1336771478 19*	19SoulSucka (SoulSucka@SoulSucka.users.quakenet.org) has joined #altdeath
+T 1336771478 22*	26Q gives voice to26 SoulSucka
+T 1336771622 19*	19Junior` (~Junior@pool-108-44-37-207.albyny.fios.verizon.net) has joined #altdeath
+T 1336771622 22*	26Q gives voice to26 Junior`
+T 1336771695 23*	23nabique has quit (23Quit: Leaving23)
+T 1336773471 19*	19Minniguner (~Minigunne@76-9-66-235-rt-broadband-00.broadband.oakhurst.sti.net) has joined #altdeath
+T 1336773471 22*	26Q gives voice to26 Minniguner
+T 1336773516 23*	23Minigunner has quit (23Ping timeout23)
+T 1336773519 23*	23Grymmoire has quit (23Quit: KVIrc 4.0.4 Insomnia http://www.kvirc.net/23)
+T 1336773654 19*	19Minigunner (~Minigunne@64-118-117-12-rt-broadband-00.broadband.oakhurst.sti.net) has joined #altdeath
+T 1336773654 22*	26Q gives voice to26 Minigunner
+T 1336773830 23*	23Minniguner has quit (23Ping timeout23)
+T 1336775852 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336775852 22*	26Q gives voice to26 Decay`
+T 1336776197 19*	19Iced2 (~Iced@johnson-atoll-57.dynamic.rpi.edu) has joined #altdeath
+T 1336776197 22*	26Q gives voice to26 Iced2
+T 1336776264 19*	19Wartorn (~Sakuya@cpe-76-183-193-171.tx.res.rr.com) has joined #altdeath
+T 1336776264 22*	26Q gives channel operator status to26 Wartorn
+T 1336776795 19*	19MoonStalkeR_ (~MoonStalk@ool-182c6ab8.dyn.optonline.net) has joined #altdeath
+T 1336776795 22*	26Q gives voice to26 MoonStalkeR_
+T 1336777060 19*	19ClonedPickle (~ClonedPic@cpe-72-224-94-182.maine.res.rr.com) has joined #altdeath
+T 1336777060 22*	26Q gives voice to26 ClonedPickle
+T 1336777112 23*	23Decay` has quit (23Ping timeout23)
+T 1336778312 19*	19_rice_ (~rice@122-62-70-52.jetstream.xtra.co.nz) has joined #altdeath
+T 1336778312 22*	26Q gives voice to26 _rice_
+T 1336778717 23*	23silvertea has quit (23Read error: EOF from client23)
+T 1336779305 19*	19Decay` (~Decay@CPE001a920bc8a2-CM00159a0752fa.cpe.net.cable.rogers.com) has joined #altdeath
+T 1336779305 22*	26Q gives voice to26 Decay`
+T 1336779498 23*	23capodecima has quit (23Quit: http://liquiddoom.net/eurothunder/23)
+T 1336779577 19*	19Forty-Two (~Forty-Two@c122-107-39-26.blktn5.nsw.optusnet.com.au) has joined #altdeath
+T 1336779577 22*	26Q gives voice to26 Forty-Two

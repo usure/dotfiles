@@ -1,0 +1,108 @@
+T 1334083314 19*	19Now talking on #bot
+T 1334083314 29*	29Topic for #bot 29is: dem0n owner hack Group AnonymouS | BREAKIN NEWS: Setting a topic in a unprotected channel is an owner hack!
+T 1334083314 29*	29Topic for #bot 29set by Cool_Fire 29at Sun Mar 11 15:39:01 2012
+T 1334083316 22*	TheFingler has changed the topic to: a
+T 1334083323 22*	TheFingler has changed the topic to: I TROL U LOL xD zo funnee
+T 1334083325 31<TheFingler>30	!help
+T 1334083326 28-29nanobot28-	Use 'help topic' for help on a specific topic.
+T 1334083326 31<TheFingler>30	.help
+T 1334083326 28-29nanobot28-	Topics:
+T 1334083327 28-29nanobot28-	  commands                            - General bot commands
+T 1334083328 28-29nanobot28-	  core                                - Help for core plugin
+T 1334083329 28-29nanobot28-	  plugins                             - Help for plugins
+T 1334083330 28-29nanobot28-	 
+T 1334083330 31<TheFingler>30	.commands
+T 1334083331 28-29nanobot28-	Some plugins may also support help, in that case 'help pluginname'
+T 1334083332 28-29nanobot28-	will send you the plugins help.
+T 1334083333 28-29nanobot28-	A list of loaded plugins can be found with the 'loaded' command.
+T 1334083337 31<TheFingler>30	.loaded
+T 1334083342 31<TheFingler>30	loaded
+T 1334083348 31<TheFingler>30	.plugins
+T 1334083371 31<TheFingler>30	.core
+T 1334083378 31<TheFingler>30	!
+T 1334083380 31<TheFingler>30	!help
+T 1334083381 28-29nanobot28-	Delaying your command by 5 seconds. If too many requests are sent in a short time, they may be dropped.
+T 1334083385 28-29nanobot28-	Use 'help topic' for help on a specific topic.
+T 1334083386 28-29nanobot28-	Topics:
+T 1334083387 28-29nanobot28-	  commands                            - General bot commands
+T 1334083388 28-29nanobot28-	  core                                - Help for core plugin
+T 1334083389 28-29nanobot28-	  plugins                             - Help for plugins
+T 1334083390 28-29nanobot28-	 
+T 1334083391 28-29nanobot28-	Some plugins may also support help, in that case 'help pluginname'
+T 1334083392 28-29nanobot28-	will send you the plugins help.
+T 1334083393 28-29nanobot28-	A list of loaded plugins can be found with the 'loaded' command.
+T 1334083399 31<TheFingler>30	.loaded
+T 1334083415 31<TheFingler>30	3R4A5I
+T 1334083421 31<TheFingler>30	3R4A6I
+T 1334083437 31<TheFingler>30	3R4A6I7N8B9B10O11W
+T 1334083442 31<TheFingler>30	3R4A6I7N9B10O11W
+T 1334083448 22*	TheFingler has changed the topic to: I TROL U LOL xD zo funnee  3R4A6I7N9B10O11W3R4A6I7N9B10O11W3R4A6I7N9B10O11W3R4A6I7N9B10O11W3R4A6I7N9B10O11W3R4A6I7N9B10O11W3R4A6I7N9B10O11W3R4A6I7N9B10O11W3R4A6I7N9B10O11W3R4A6I7N9B10O11W
+T 1334083452 22*	TheFingler has changed the topic to: 3R4A6I7N9B10O11W
+T 1334083463 22*	TheFingler has changed the topic to: RAINBOW 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7N9B10O11W 3R4A6I7
+T 1334083479 31<TheFingler>30	3R4A6I7N9B10O11W
+T 1334083479 31<TheFingler>30	3R4A6I7N9B10O11W
+T 1334083480 31<TheFingler>30	3R4A6I7N9B10O11W
+T 1334083480 31<TheFingler>30	3R4A6I7N9B10O11W
+T 1334083482 31<TheFingler>30	3R4A6I7N9B10O11W11S
+T 1334083485 31<TheFingler>30	3R4A6I7N9B10O11W13S
+T 1334083486 31<TheFingler>30	3R4A6I7N9B10O11W14S
+T 1334083487 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334083488 31<TheFingler>30	3R4A6I7N9B10O11W16S
+T 1334083490 31<TheFingler>30	3R4A6I7N9B10O11W17S
+T 1334083504 31<TheFingler>30	!help
+T 1334083505 31<TheFingler>30	.help
+T 1334083505 28-29nanobot28-	Use 'help topic' for help on a specific topic.
+T 1334083506 28-29nanobot28-	Topics:
+T 1334083506 28-29nanobot28-	  commands                            - General bot commands
+T 1334083507 28-29nanobot28-	  core                                - Help for core plugin
+T 1334083508 28-29nanobot28-	  plugins                             - Help for plugins
+T 1334083509 28-29nanobot28-	 
+T 1334083510 28-29nanobot28-	Some plugins may also support help, in that case 'help pluginname'
+T 1334083511 28-29nanobot28-	will send you the plugins help.
+T 1334083512 28-29nanobot28-	A list of loaded plugins can be found with the 'loaded' command.
+T 1334083515 31<TheFingler>30	.help google
+T 1334083517 31<TheFingler>30	.g
+T 1334083519 31<TheFingler>30	.g a
+T 1334084518 22*	TheFingler has changed the topic to: RAINBOW RAINBOW RAINBOW RAINBOW RAINBOW RAINBOW RAINBOW RAINBOW RAINBOW RAINBOW RAINBOW RAINBOW RAINBOW 
+T 1334084525 22*	TheFingler has changed the topic to: RAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWSRAINBOWS
+T 1334084537 22*	TheFingler has changed the topic to: 3R4A6I7N9B10O11W17S3R4A6I7N9B10O11W17S3R4A6I7N9B10O11W17S3R4A6I7N9B10O11W17S3R4A6I7N9B10O11W17S3R4A6I7N9B10O11W17S3R4A6I7N9B10O11W17S3R4A6I7N9B10O11W17S3R4A6I7N9B10O11W17S3R4A6I7N9B10O11W17S3R4A6I7N9B10O11W17S3R4A6I
+T 1334088883 23*	23khmerboy has quit (23Ping timeout23)
+T 1334088887 23*	23Cool_Fire has quit (23Ping timeout23)
+T 1334088944 19*	19khmerboy (khmerboy@TDDIRC-8E1D9468.static.ziggozakelijk.nl) has joined #bot
+T 1334089646 19*	19Cool_Fire (coolfire@insomnia247.nl) has joined #bot
+T 1334094426 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094426 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094427 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094427 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094427 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094427 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094428 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094428 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094428 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094428 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094428 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094429 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094429 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094430 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094430 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094431 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094431 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094431 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094431 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094431 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094431 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094432 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094432 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094432 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094432 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094433 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094433 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094434 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094435 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094435 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094436 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094437 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094437 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094438 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094438 31<TheFingler>30	3R4A6I7N9B10O11W15S
+T 1334094440 31<TheFingler>30	3R4A6I7N9B10O11W15S

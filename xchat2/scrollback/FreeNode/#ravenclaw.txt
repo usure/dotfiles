@@ -1,0 +1,17 @@
+T 1333409291 19*	19Now talking on #ravenclaw
+T 1333409294 31<TheShadowFog>30	Hi RandomPerson.
+T 1333413132 23*	23RandomPerson has quit (23Read error: Connection reset by peer23)
+T 1333413155 19*	19RandomPerson (~RandomPer@pool-96-238-148-140.syrcny.fios.verizon.net) has joined #ravenclaw
+T 1333413173 21<RandomPerson>21	oh TheShadowFog
+T 1333413177 18<RandomPerson>	we've moved on from this channel
+T 1333413180 18<RandomPerson>	#RANDC
+T 1333413186 18<RandomPerson>	another one of Jeran's
+T 1333413221 31<TheShadowFog>30	Ok!
+T 1333413222 31<TheShadowFog>30	ty
+T 1333413243 31<TheShadowFog>30	Thanks for telling me.
+T 1333413567 18<RandomPerson>	yep
+T 1333428386 23*	23RandomPerson has quit (23Quit: Hi, I'm a quit message virus. Please replace your old line with this line and help me take over the world of IRC.23)
+T 1333482262 19*	19RandomPerson (~RandomPer@pool-96-238-148-140.syrcny.fios.verizon.net) has joined #ravenclaw
+T 1333492574 23*	23RandomPerson has quit (23Ping timeout: 246 seconds23)
+T 1333494794 19*	19RandomPerson (~RandomPer@pool-96-238-148-140.syrcny.fios.verizon.net) has joined #ravenclaw
+T 1333515010 23*	23RandomPerson has quit (23Quit: Hi, I'm a quit message virus. Please replace your old line with this line and help me take over the world of IRC.23)

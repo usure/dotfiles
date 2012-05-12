@@ -1,0 +1,10 @@
+T 1335917335 19*	19Now talking on #zdoom
+T 1335917336 22*	adams.freenode.net sets mode +n #zdoom
+T 1335917336 22*	adams.freenode.net sets mode +s #zdoom
+T 1335917336 22*	26services. removes channel operator status from26 TheShadowFog
+T 1335917336 22*	*** Notice -- TS for #zdoom changed from 1335916734 to 1264555823
+T 1335917336 22*	services. sets mode +t #zdoom
+T 1335917336 22*	services. sets mode -s #zdoom
+T 1335917336 19*	19ChanServ (ChanServ@services.) has joined #zdoom
+T 1335917336 22*	26services. gives channel operator status to26 ChanServ
+T 1335917336 23*	23ChanServ (23ChanServ@services.) has left #zdoom

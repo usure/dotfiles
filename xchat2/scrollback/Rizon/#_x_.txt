@@ -1,0 +1,258 @@
+T 1334192906 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1334192908 31<Annex>30	!hel
+T 1334192909 31<Annex>30	!help
+T 1334192911 31<Annex>30	.help
+T 1334192911 28-29Quotes28-	Quotes: .help quotes - for quote commands.
+T 1334192914 31<Annex>30	.help quotes
+T 1334192914 28-29Quotes28-	Quotes: .quote add <quote> - adds given quote to database, must have voice or higher on channel.
+T 1334192914 28-29Quotes28-	Quotes: .quote del <number> - removes quote number from database, must be channel founder.
+T 1334192914 28-29Quotes28-	Quotes: .quote search <word> - searches database for given word.
+T 1334192914 28-29Quotes28-	Quotes: .quote read <number> - messages quote matching given number.
+T 1334192914 28-29Quotes28-	Quotes: .quote random - messages a random quote.
+T 1334192914 28-29Quotes28-	Quotes: .quote total - messages number of quotes in database.
+T 1334192918 31<Annex>30	.help quote add a
+T 1334192923 31<Annex>30	.help quote add search a
+T 1334192926 31<Annex>30	Hi!
+T 1334195784 19*	19StateLottery (~StateLott@Rizon-C71CA8C1.hsd1.ma.comcast.net) has joined #/x/
+T 1334203833 23*	23StateLottery has quit (2323)
+T 1334209137 23*	23netsec2 has quit (23*.net *.split23)
+T 1334209137 23*	23Creepybot has quit (23*.net *.split23)
+T 1334209478 19*	19netsec2 (service@rizon.net) has joined #/x/
+T 1334209478 19*	19Creepybot (Creepy@I.Love.Esjay) has joined #/x/
+T 1334209478 22*	irc.sxci.net sets mode +a #/x/ Creepybot
+T 1334209478 22*	26irc.sxci.net gives channel operator status to26 Creepybot
+T 1334213105 23*	23Creepybot has quit (23*.net *.split23)
+T 1334213163 19*	19Creepybot (Creepy@I.Love.Esjay) has joined #/x/
+T 1334213163 22*	Creepybot sets mode +a #/x/ Creepybot
+T 1334213163 22*	26Creepybot gives channel operator status to26 Creepybot
+T 1334213270 23*	23Carbon has quit (23Quit: ZNC - http://znc.sourceforge.net23)
+T 1334213300 19*	19Carbon (~Carbon@I.Fucked.A.Guy.And.I.Liked.It-) has joined #/x/
+T 1334213300 22*	Creepybot sets mode +a #/x/ Carbon
+T 1334213300 22*	26Creepybot gives channel operator status to26 Carbon
+T 1334248579 23*	23foobar has quit (23Killed (irc.sxci.net joins/parts in #magix within 6 seconds.)23)
+T 1334248711 19*	19foobar (~limnoria@compilers.bot) has joined #/x/
+T 1334249339 23*	23foobar has quit (23Killed (irc.sxci.net joins/parts in #magix within 2 seconds.)23)
+T 1334249468 19*	19foobar (~limnoria@compilers.bot) has joined #/x/
+T 1334251370 23*	23foobar has quit (23Killed (irc.sxci.net joins/parts in #magix within 2 seconds.)23)
+T 1334251499 19*	19foobar (~limnoria@compilers.bot) has joined #/x/
+T 1334278981 19*	19Now talking on #/x/
+T 1334278981 29*	29Topic for #/x/ 29is: .
+T 1334278981 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1334279816 19*	19Gabriel (Puts@Schnookumz.cocaine.Serpentine.Cbbleh.frussif.woden.taxes.Zladko) has joined #/x/
+T 1334279819 23*	23Gabriel (23Puts@Schnookumz.cocaine.Serpentine.Cbbleh.frussif.woden.taxes.Zladko) has left #/x/
+T 1334290431 23*	23Carbon has quit (23Quit: ZNC - http://znc.sourceforge.net23)
+T 1334290503 19*	19Carbon (~Carbon@I.Fucked.A.Guy.And.I.Liked.It-) has joined #/x/
+T 1334290503 22*	Creepybot sets mode +a #/x/ Carbon
+T 1334290503 22*	26Creepybot gives channel operator status to26 Carbon
+T 1334326161 19*	19Now talking on #/x/
+T 1334326161 29*	29Topic for #/x/ 29is: .
+T 1334326161 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1334328565 22*	Disconnected (Remote host closed socket).
+T 1334328618 22*	Disconnected (Remote host closed socket).
+T 1334328671 22*	Disconnected (Remote host closed socket).
+T 1334328725 22*	Disconnected (Remote host closed socket).
+T 1334328778 22*	Disconnected (Remote host closed socket).
+T 1334328799 22*	Disconnected (Remote host closed socket).
+T 1334328853 22*	Disconnected (Remote host closed socket).
+T 1334328908 22*	Disconnected (Remote host closed socket).
+T 1334328961 22*	Disconnected (Remote host closed socket).
+T 1334329015 22*	Disconnected (Remote host closed socket).
+T 1334329068 22*	Disconnected (Remote host closed socket).
+T 1334329089 22*	Disconnected (Remote host closed socket).
+T 1334329110 22*	Disconnected (Remote host closed socket).
+T 1334329165 22*	Disconnected (Remote host closed socket).
+T 1334329218 22*	Disconnected (Remote host closed socket).
+T 1334329239 22*	Disconnected (Remote host closed socket).
+T 1334329290 22*	Disconnected (Remote host closed socket).
+T 1334329341 22*	Disconnected (Remote host closed socket).
+T 1334329395 22*	Disconnected (Remote host closed socket).
+T 1334329448 22*	Disconnected (Remote host closed socket).
+T 1334329503 22*	Disconnected (Remote host closed socket).
+T 1334329524 22*	Disconnected (Remote host closed socket).
+T 1334329578 22*	Disconnected (Remote host closed socket).
+T 1334329630 22*	Disconnected (Remote host closed socket).
+T 1334329685 22*	Disconnected (Remote host closed socket).
+T 1334329706 22*	Disconnected (Remote host closed socket).
+T 1334329760 22*	Disconnected (Remote host closed socket).
+T 1334329781 22*	Disconnected (Remote host closed socket).
+T 1334329833 22*	Disconnected (Remote host closed socket).
+T 1334329888 22*	Disconnected (Remote host closed socket).
+T 1334329941 22*	Disconnected (Remote host closed socket).
+T 1334329996 22*	Disconnected (Remote host closed socket).
+T 1334330050 22*	Disconnected (Remote host closed socket).
+T 1334330071 22*	Disconnected (Remote host closed socket).
+T 1334330126 22*	Disconnected (Remote host closed socket).
+T 1334330181 22*	Disconnected (Remote host closed socket).
+T 1334330235 22*	Disconnected (Remote host closed socket).
+T 1334330290 22*	Disconnected (Remote host closed socket).
+T 1334330311 22*	Disconnected (Remote host closed socket).
+T 1334330365 22*	Disconnected (Remote host closed socket).
+T 1334330390 19*	19Now talking on #/x/
+T 1334330390 29*	29Topic for #/x/ 29is: .
+T 1334330390 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1334363458 19*	19Now talking on #/x/
+T 1334363458 29*	29Topic for #/x/ 29is: .
+T 1334363458 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1334505103 19*	19Now talking on #/x/
+T 1334505103 29*	29Topic for #/x/ 29is: .
+T 1334505103 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1334507231 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1334521562 19*	19RainbowCrash (~sonic@rain.boom) has joined #/x/
+T 1334521822 19*	19TintenFisch (~Xenon@Rizon-A31A36B2.dsl.bell.ca) has joined #/x/
+T 1334521830 22*	TintenFisch is now known as Xenon
+T 1334521844 22*	Xenon is now known as Tintenfisch
+T 1334523394 23*	23Tintenfisch has quit (23Read error: Connection reset by peer23)
+T 1334529586 19*	19Benadryl (Benadryl@Rizon-9880C34E.nycmny.fios.verizon.net) has joined #/x/
+T 1334530178 23*	23RainbowCrash (23~sonic@rain.boom) has left #/x/
+T 1334532762 23*	23Benadryl (23Benadryl@Rizon-9880C34E.nycmny.fios.verizon.net) has left #/x/
+T 1334666311 19*	19Now talking on #/x/
+T 1334666311 29*	29Topic for #/x/ 29is: .
+T 1334666311 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1334696604 19*	19ryzorg_ (~Ryan@Rizon-A6C21CE2.maine.res.rr.com) has joined #/x/
+T 1334696608 18<ryzorg_>	O_O
+T 1334696620 18<ryzorg_>	guys, does anyone remember the albany police department files?
+T 1334696688 23*	23ryzorg_ (23~Ryan@Rizon-A6C21CE2.maine.res.rr.com) has left #/x/ (23Leaving23)
+T 1334711580 19*	19Now talking on #/x/
+T 1334711580 29*	29Topic for #/x/ 29is: .
+T 1334711580 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1334714924 23*	23Creepybot has quit (23*.net *.split23)
+T 1334714924 23*	23netsec2 has quit (23*.net *.split23)
+T 1334715071 19*	19Creepybot (Creepy@I.Love.Esjay) has joined #/x/
+T 1334715071 19*	19netsec2 (service@rizon.net) has joined #/x/
+T 1334715071 22*	irc.cccp-project.net sets mode +a #/x/ Creepybot
+T 1334715071 22*	26irc.cccp-project.net gives channel operator status to26 Creepybot
+T 1334715643 23*	23Creepybot has quit (23*.net *.split23)
+T 1334715644 23*	23netsec2 has quit (23*.net *.split23)
+T 1334716329 19*	19netsec2 (service@rizon.net) has joined #/x/
+T 1334716806 19*	19Creepybot (Creepy@I.Love.Esjay) has joined #/x/
+T 1334716806 22*	Creepybot sets mode +a #/x/ Creepybot
+T 1334716806 22*	26Creepybot gives channel operator status to26 Creepybot
+T 1334718030 23*	23netsec2 has quit (23*.net *.split23)
+T 1334718363 19*	19netsec2 (service@rizon.net) has joined #/x/
+T 1334718561 23*	23netsec2 has quit (23*.net *.split23)
+T 1334718768 19*	19netsec2 (service@rizon.net) has joined #/x/
+T 1334882596 19*	19Now talking on #/x/
+T 1334882596 29*	29Topic for #/x/ 29is: .
+T 1334882596 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1335047545 19*	19Now talking on #/x/
+T 1335047545 29*	29Topic for #/x/ 29is: .
+T 1335047545 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1335047598 22*	Cannot join26 #jbcs (You are banned).
+T 1335047600 31<Annex>30	#jbcs
+T 1335053591 19*	19Now talking on #/x/
+T 1335053591 29*	29Topic for #/x/ 29is: .
+T 1335053591 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1335104793 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #/x/
+T 1335109678 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335123222 19*	19Now talking on #/x/
+T 1335123222 29*	29Topic for #/x/ 29is: .
+T 1335123222 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1335142229 19*	19Now talking on #/x/
+T 1335142229 29*	29Topic for #/x/ 29is: .
+T 1335142229 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1335165550 23*	23Str0mer has quit (23Read error: Connection reset by peer23)
+T 1335165617 19*	19Stromer (~lolol@Rizon-9852E270.dsl.irvnca.sbcglobal.net) has joined #/x/
+T 1335169572 19*	19Str0mer (~lolol@Rizon-90284C20.dsl.irvnca.sbcglobal.net) has joined #/x/
+T 1335169710 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1335218210 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #/x/
+T 1335221087 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335227781 19*	19Kibou (~Kibou@Rizon-A9A5783A.tampfl.fios.verizon.net) has joined #/x/
+T 1335227815 23*	23Kibou (23~Kibou@Rizon-A9A5783A.tampfl.fios.verizon.net) has left #/x/ (23FUCK U TROLLS IM LEAVIN23)
+T 1335229925 19*	19DeadlyBrad (~chatzilla@Rizon-A3810FE7.neo.res.rr.com) has joined #/x/
+T 1335229973 23*	23DeadlyBrad has quit (2323)
+T 1335232774 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #/x/
+T 1335232834 22*	Airskadt is now known as Airskadt|zzz
+T 1335267374 22*	Airskadt|zzz is now known as Airskadt
+T 1335269777 19*	19DeadlyBrad (~Moose@Rizon-A3810FE7.neo.res.rr.com) has joined #/x/
+T 1335269785 23*	23DeadlyBrad (23~Moose@Rizon-A3810FE7.neo.res.rr.com) has left #/x/
+T 1335274997 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335319738 19*	19Now talking on #/x/
+T 1335319738 29*	29Topic for #/x/ 29is: .
+T 1335319738 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1335357407 19*	19Now talking on #/x/
+T 1335357407 29*	29Topic for #/x/ 29is: .
+T 1335357407 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1335484758 19*	19Now talking on #/x/
+T 1335484758 29*	29Topic for #/x/ 29is: .
+T 1335484758 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1335499763 23*	23foobar has quit (23Connection closed23)
+T 1335501790 19*	19foobar (~limnoria@compilers.bot) has joined #/x/
+T 1335659183 19*	19Now talking on #/x/
+T 1335659183 29*	29Topic for #/x/ 29is: .
+T 1335659183 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1335659309 31<Annex>30	.help
+T 1335659311 31<Annex>30	!help
+T 1335659311 28-29Quotes28-	Quotes: .help quotes - for quote commands.
+T 1335659316 31<Annex>30	.help quotes
+T 1335659317 28-29Quotes28-	Quotes: .quote add <quote> - adds given quote to database, must have voice or higher on channel.
+T 1335659317 28-29Quotes28-	Quotes: .quote del <number> - removes quote number from database, must be channel founder.
+T 1335659317 28-29Quotes28-	Quotes: .quote search <word> - searches database for given word.
+T 1335659317 28-29Quotes28-	Quotes: .quote read <number> - messages quote matching given number.
+T 1335659317 28-29Quotes28-	Quotes: .quote random - messages a random quote.
+T 1335659317 28-29Quotes28-	Quotes: .quote total - messages number of quotes in database.
+T 1335659320 31<Annex>30	.help quotes add lol
+T 1335659325 31<Annex>30	.help quote add lol
+T 1335659330 31<Annex>30	.quote add lol
+T 1335659331 28-29Quotes28-	You must have a voice or higher on the channel to add quotes.
+T 1335856909 19*	19Now talking on #/x/
+T 1335856909 29*	29Topic for #/x/ 29is: .
+T 1335856909 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1335873100 23*	23netsec2 has quit (23*.net *.split23)
+T 1335874329 19*	19netsec2 (service@rizon.net) has joined #/x/
+T 1335876292 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #/x/
+T 1335886456 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335910166 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #/x/
+T 1335913955 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335924467 23*	23netsec2 has quit (23*.net *.split23)
+T 1335924484 19*	19netsec2 (service@rizon.net) has joined #/x/
+T 1336084143 19*	19Now talking on #/x/
+T 1336084143 29*	29Topic for #/x/ 29is: .
+T 1336084143 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1336244021 19*	19Now talking on #/x/
+T 1336244021 29*	29Topic for #/x/ 29is: .
+T 1336244021 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1336280945 23*	23Carbon has quit (23Quit: ZNC - http://znc.sourceforge.net23)
+T 1336281100 19*	19Carbon (~Carbon@I.Fucked.A.Guy.And.I.Liked.It-) has joined #/x/
+T 1336281100 22*	Creepybot sets mode +a #/x/ Carbon
+T 1336281100 22*	26Creepybot gives channel operator status to26 Carbon
+T 1336291060 23*	23Carbon has quit (23Ping timeout: 240 seconds23)
+T 1336291545 19*	19Carbon (~Carbon@I.Fucked.A.Guy.And.I.Liked.It-) has joined #/x/
+T 1336291545 22*	Creepybot sets mode +a #/x/ Carbon
+T 1336291545 22*	26Creepybot gives channel operator status to26 Carbon
+T 1336340276 19*	19Now talking on #/x/
+T 1336340276 29*	29Topic for #/x/ 29is: .
+T 1336340276 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1336490146 19*	19Now talking on #/x/
+T 1336490146 29*	29Topic for #/x/ 29is: .
+T 1336490146 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1336599091 19*	19Now talking on #/x/
+T 1336599091 29*	29Topic for #/x/ 29is: .
+T 1336599091 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1336604621 23*	23netsec2 has quit (23*.net *.split23)
+T 1336604622 23*	23Carbon has quit (23*.net *.split23)
+T 1336604777 19*	19Carbon (~Carbon@I.Fucked.A.Guy.And.I.Liked.It-) has joined #/x/
+T 1336604777 22*	irc.x1n.org sets mode +a #/x/ Carbon
+T 1336604777 22*	26irc.x1n.org gives channel operator status to26 Carbon
+T 1336604842 19*	19netsec2 (service@rizon.net) has joined #/x/
+T 1336606531 22*	Disconnected (Connection reset by peer).
+T 1336606576 19*	19Now talking on #/x/
+T 1336606576 29*	29Topic for #/x/ 29is: .
+T 1336606576 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1336618588 18<brrr>	lol
+T 1336657613 19*	19Now talking on #/x/
+T 1336657613 29*	29Topic for #/x/ 29is: .
+T 1336657613 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1336661928 23*	23Carbon has quit (23Ping timeout: 240 seconds23)
+T 1336665506 19*	19Carbon (~Carbon@I.Fucked.A.Guy.And.I.Liked.It-) has joined #/x/
+T 1336665506 22*	Creepybot sets mode +a #/x/ Carbon
+T 1336665506 22*	26Creepybot gives channel operator status to26 Carbon
+T 1336699673 19*	19Now talking on #/x/
+T 1336699673 29*	29Topic for #/x/ 29is: .
+T 1336699673 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011
+T 1336716308 19*	19Str0mer (~lolol@Rizon-9AB03D27.dsl.irvnca.sbcglobal.net) has joined #/x/
+T 1336716471 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1336716662 19*	19Stromer (~lolol@Rizon-A81E64A.dsl.irvnca.sbcglobal.net) has joined #/x/
+T 1336716831 23*	23Str0mer has quit (23Ping timeout: 240 seconds23)
+T 1336742167 19*	19Now talking on #/x/
+T 1336742167 29*	29Topic for #/x/ 29is: .
+T 1336742167 29*	29Topic for #/x/ 29set by Takeru 29at Sat Nov 19 06:34:29 2011

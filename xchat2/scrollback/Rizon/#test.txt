@@ -1,0 +1,9 @@
+T 1330730679 19*	19Now talking on #test
+T 1330730679 29*	29Topic for #test 29is: testing testing... don't break it.
+T 1330730679 29*	29Topic for #test 29set by mink!mink@administrator.rizon 29at Fri Oct 29 13:12:54 2010
+T 1332855230 19*	19Now talking on #test
+T 1332855230 29*	29Topic for #test 29is: testing testing... don't break it.
+T 1332855230 29*	29Topic for #test 29set by mink!mink@administrator.rizon 29at Fri Oct 29 13:12:54 2010
+T 1332964550 19*	19Now talking on #test
+T 1332964550 29*	29Topic for #test 29is: testing testing... don't break it.
+T 1332964550 29*	29Topic for #test 29set by mink!mink@administrator.rizon 29at Fri Oct 29 13:12:54 2010

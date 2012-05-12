@@ -1,0 +1,502 @@
+T 1332967680 22*	Disconnected (Remote host closed socket).
+T 1332967701 22*	Disconnected (Remote host closed socket).
+T 1332967722 22*	Disconnected (Remote host closed socket).
+T 1332967743 22*	Disconnected (Remote host closed socket).
+T 1332967764 22*	Disconnected (Remote host closed socket).
+T 1332967785 22*	Disconnected (Remote host closed socket).
+T 1332967806 22*	Disconnected (Remote host closed socket).
+T 1332967827 22*	Disconnected (Remote host closed socket).
+T 1332967879 22*	Disconnected (Remote host closed socket).
+T 1332967934 22*	Disconnected (Remote host closed socket).
+T 1332967955 22*	Disconnected (Remote host closed socket).
+T 1332968009 22*	Disconnected (Remote host closed socket).
+T 1332968064 22*	Disconnected (Remote host closed socket).
+T 1332968085 22*	Disconnected (Remote host closed socket).
+T 1332968139 22*	Disconnected (Remote host closed socket).
+T 1332968194 22*	Disconnected (Remote host closed socket).
+T 1332968215 22*	Disconnected (Remote host closed socket).
+T 1332968236 22*	Disconnected (Remote host closed socket).
+T 1332968257 22*	Disconnected (Remote host closed socket).
+T 1332968278 22*	Disconnected (Remote host closed socket).
+T 1332968299 22*	Disconnected (Remote host closed socket).
+T 1332968354 22*	Disconnected (Remote host closed socket).
+T 1332968375 22*	Disconnected (Remote host closed socket).
+T 1332968396 22*	Disconnected (Remote host closed socket).
+T 1332968417 22*	Disconnected (Remote host closed socket).
+T 1332968438 22*	Disconnected (Remote host closed socket).
+T 1332968459 22*	Disconnected (Remote host closed socket).
+T 1332968480 22*	Disconnected (Remote host closed socket).
+T 1332968501 22*	Disconnected (Remote host closed socket).
+T 1332968522 22*	Disconnected (Remote host closed socket).
+T 1332968543 22*	Disconnected (Remote host closed socket).
+T 1332968564 22*	Disconnected (Remote host closed socket).
+T 1332968585 22*	Disconnected (Remote host closed socket).
+T 1332968606 22*	Disconnected (Remote host closed socket).
+T 1332968627 22*	Disconnected (Remote host closed socket).
+T 1332968648 22*	Disconnected (Remote host closed socket).
+T 1332968669 22*	Disconnected (Remote host closed socket).
+T 1332968690 22*	Disconnected (Remote host closed socket).
+T 1332968711 22*	Disconnected (Remote host closed socket).
+T 1332968732 22*	Disconnected (Remote host closed socket).
+T 1332968784 22*	Disconnected (Remote host closed socket).
+T 1332968805 22*	Disconnected (Remote host closed socket).
+T 1332968826 22*	Disconnected (Remote host closed socket).
+T 1332968847 22*	Disconnected (Remote host closed socket).
+T 1332968868 22*	Disconnected (Remote host closed socket).
+T 1332968889 22*	Disconnected (Remote host closed socket).
+T 1332968910 22*	Disconnected (Remote host closed socket).
+T 1332968931 22*	Disconnected (Remote host closed socket).
+T 1332968952 22*	Disconnected (Remote host closed socket).
+T 1332969004 22*	Disconnected (Remote host closed socket).
+T 1332969025 22*	Disconnected (Remote host closed socket).
+T 1332969079 22*	Disconnected (Remote host closed socket).
+T 1332969100 22*	Disconnected (Remote host closed socket).
+T 1332969121 22*	Disconnected (Remote host closed socket).
+T 1332969142 22*	Disconnected (Remote host closed socket).
+T 1332969167 19*	19Now talking on #47chan
+T 1332969167 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1332969167 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1333022193 19*	19Now talking on #47chan
+T 1333022193 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1333022193 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1333054393 23*	23NeoTheOne has quit (23Quit: leaving23)
+T 1333054816 19*	19NeoTheOne (~NeoTheOne@Rizon-E2C7BCDA.ias.bredband.telia.com) has joined #47chan
+T 1333054816 22*	26BillGates gives voice to26 NeoTheOne
+T 1333055327 23*	23NeoTheOne has quit (2323)
+T 1333055602 19*	19NeoTheOne (~NeoTheOne@Rizon-F557E3D0.ias.bredband.telia.com) has joined #47chan
+T 1333055603 22*	26BillGates gives voice to26 NeoTheOne
+T 1333084210 23*	23frank_usrs has quit (23Ping timeout: 240 seconds23)
+T 1333090793 19*	19frank_usrs (~fr@Rizon-3E30CFB6.customer.cdi.no) has joined #47chan
+T 1333090793 22*	BillGates sets mode +q #47chan frank_usrs
+T 1333090793 22*	26BillGates gives channel operator status to26 frank_usrs
+T 1333141295 19*	19Now talking on #47chan
+T 1333141295 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1333141295 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1333194076 19*	19Now talking on #47chan
+T 1333194076 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1333194076 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1333197769 23*	23borispetrov has quit (23Ping timeout: 240 seconds23)
+T 1333205369 23*	23herpaderp has quit (23Read error: Operation timed out23)
+T 1333236513 19*	19borispetrov (~boris@Rizon-2DB96CF4.slkc.qwest.net) has joined #47chan
+T 1333236513 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1333242723 19*	19borispetrov- (~boris@Rizon-1FD784F5.slkc.qwest.net) has joined #47chan
+T 1333242821 23*	23borispetrov has quit (23Ping timeout: 240 seconds23)
+T 1333251173 22*	borispetrov- is now known as borispetrov
+T 1333251182 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1333300657 22*	Disconnected (Connection timed out).
+T 1333300696 19*	19Now talking on #47chan
+T 1333300696 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1333300696 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1333309125 23*	23borispetrov has quit (23Ping timeout: 240 seconds23)
+T 1333333010 19*	19borispetrov (~boris@Rizon-1FD784F5.slkc.qwest.net) has joined #47chan
+T 1333333010 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1333348238 23*	23frank_usrs has quit (23Ping timeout: 240 seconds23)
+T 1333348944 23*	23Stromer has quit (23Read error: Connection reset by peer23)
+T 1333349037 19*	19Stromer (~lolol@Rizon-425FFA04.dsl.irvnca.sbcglobal.net) has joined #47chan
+T 1333350742 19*	19frank_usrs (~fr@Rizon-3E30CFB6.customer.cdi.no) has joined #47chan
+T 1333350743 22*	BillGates sets mode +q #47chan frank_usrs
+T 1333350743 22*	26BillGates gives channel operator status to26 frank_usrs
+T 1333363423 23*	23borispetrov has quit (23Ping timeout: 240 seconds23)
+T 1333380864 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1333380873 19*	19Str0mer (~lolol@Rizon-6266E62C.dsl.irvnca.sbcglobal.net) has joined #47chan
+T 1333389718 19*	19borispetrov (~boris@Rizon-1FD784F5.slkc.qwest.net) has joined #47chan
+T 1333389718 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1333397214 23*	23borispetrov has quit (23Read error: Connection reset by peer23)
+T 1333398307 19*	19borispetrov (~boris@Rizon-1FD784F5.slkc.qwest.net) has joined #47chan
+T 1333398307 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1333412245 19*	19borispetrov- (~boris@Rizon-47B678B0.slkc.qwest.net) has joined #47chan
+T 1333412371 23*	23borispetrov has quit (23Ping timeout: 240 seconds23)
+T 1333419921 23*	23borispetrov- has quit (23Ping timeout: 240 seconds23)
+T 1333420968 19*	19borispetrov (~boris@Rizon-47B678B0.slkc.qwest.net) has joined #47chan
+T 1333420968 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1333437067 23*	23borispetrov has quit (23Ping timeout: 240 seconds23)
+T 1333461026 23*	23frank_usrs has quit (23Quit: leaving23)
+T 1333461398 19*	19frank_usrs (~fr@nk.usrs) has joined #47chan
+T 1333461398 18<BillGates>	[frank_usrs] Why do you bully loli?
+T 1333461398 22*	BillGates sets mode +q #47chan frank_usrs
+T 1333461398 22*	26BillGates gives channel operator status to26 frank_usrs
+T 1333507594 31<Annex>30	Hi frank_usrs.
+T 1333507904 18<frank_usrs>	hey
+T 1333508036 21<frank_usrs>21	Annex: what's up?
+T 1333508051 31<Annex>30	Not much.
+T 1333508052 31<Annex>30	You?
+T 1333508065 18<frank_usrs>	just watched animu
+T 1333508084 31<Annex>30	What did you watch?
+T 1333508090 18<frank_usrs>	Guilty Crown
+T 1333508222 31<Annex>30	I'm on the d33p w3b lulz i iz l33t hax0rz
+T 1333508226 31<Annex>30	l33gun
+T 1333508232 31<Annex>30	 /s
+T 1333508233 18<frank_usrs>	wow
+T 1333508244 18<frank_usrs>	i am l33jun 2
+T 1333508259 18<frank_usrs>	lets hax the fbis anus xDD
+T 1333508274 31<Annex>30	:3
+T 1333508350 18<frank_usrs>	i rly n33d 2 p00p
+T 1333508629 31<Annex>30	3w
+T 1333508637 31<Annex>30	3ww
+T 1333508638 31<Annex>30	3wwwwww
+T 1333508642 31<Annex>30	333wwwwww
+T 1333509222 18<frank_usrs>	nite!!
+T 1333514916 22*	Disconnected (Connection timed out).
+T 1333514937 22*	Annex sets mode +i Annex
+T 1333514937 22*	Annex sets mode +x Annex
+T 1333514937 22*	Received a CTCP VERSION from py-ctcp
+T 1333514937 28-29Global28-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+T 1333514937 28-29Global28-	[Logon News - May 21 2011] Rizon is looking for python coders to assist with funserv like bots for all channels to enjoy. If you are interested in helping out and joining Rizon's dev team, see #dev.
+T 1333514937 28-29Global28-	[Logon News - Feb 07 2012] We now have a Channel Takeover Policy for the channels with founder being gone for over a certain period of time. Please read http://forum.rizon.net/showthread.php?3850 for details
+T 1333514937 28-29Global28-	[Random News - Dec 21 2006] Did you know? Rizon now offers SSL IRC connections! All servers support SSL on ports 6697 and 9999. Questions on SSL? Need help setting it up? Join #SSL
+T 1333514937 28-29NickServ28-	This nickname is registered and protected. If it is your
+T 1333514937 28-29NickServ28-	nick, type /msg NickServ IDENTIFY password. Otherwise,
+T 1333514937 28-29NickServ28-	please choose a different nick.
+T 1333514937 28-29py-bopm28-	Pursuant to United States Code (USC), Title 18, Part 1, Section 2701 Part (c),
+T 1333514937 28-29py-bopm28-	Rizon will do a passive scan of your IP address to check for open proxies.
+T 1333514937 28-29py-bopm28-	If you do not consent to this scan, disconnect now. These scans are harmless and
+T 1333514937 28-29py-bopm28-	will originate from proxyscan.rizon.net (173.248.152.20). For more information see #help.
+T 1333514937 22*	Annex sets mode +r Annex
+T 1333514937 28-29NickServ28-	Password accepted - you are now recognized.
+T 1333514952 19*	19Now talking on #47chan
+T 1333514952 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1333514952 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1333516222 19*	19borispetrov (~boris@Rizon-47B678B0.slkc.qwest.net) has joined #47chan
+T 1333516222 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1333544482 23*	23borispetrov has quit (23Ping timeout: 240 seconds23)
+T 1333546681 19*	19Now talking on #47chan
+T 1333546681 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1333546681 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1333556465 19*	19borispetrov (~boris@Rizon-47B678B0.slkc.qwest.net) has joined #47chan
+T 1333556465 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1333559215 23*	23borispetrov has quit (23Ping timeout: 240 seconds23)
+T 1333566628 19*	19NeoTheOn1 (~NeoTheOne@Rizon-F557E3D0.ias.bredband.telia.com) has joined #47chan
+T 1333566632 23*	23NeoTheOn1 has quit (2323)
+T 1333566649 23*	23NeoTheOne has quit (23Quit: leaving23)
+T 1333566655 19*	19NeoTheOne (~NeoTheOne@Rizon-F557E3D0.ias.bredband.telia.com) has joined #47chan
+T 1333566655 22*	26BillGates gives voice to26 NeoTheOne
+T 1333689885 19*	19eight (~Boris@Rizon-CE8EA8B7.hsd1.ut.comcast.net) has joined #47chan
+T 1333689885 22*	26BillGates gives channel half-operator status to26 eight
+T 1333692959 23*	23eight has quit (23Read error: Connection reset by peer23)
+T 1333802002 19*	19Now talking on #47chan
+T 1333802002 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1333802002 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1333808047 22*	Disconnected (Connection timed out).
+T 1333808091 19*	19Now talking on #47chan
+T 1333808091 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1333808091 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1333833436 19*	19Now talking on #47chan
+T 1333833436 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1333833436 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1333870542 23*	23AGaW has quit (23Read error: Connection reset by peer23)
+T 1333897840 31<Annex>30	HAPPY EASTER EVERYONE! ^_^
+T 1333899562 18<frank_usrs>	^___________________________^
+T 1333901771 31<Annex>30	xDx10
+T 1333901776 31<Annex>30	3>tfw catholic
+T 1333906618 19*	19AGaW (~lol@Rizon-1142259.tampfl.fios.verizon.net) has joined #47chan
+T 1333989269 19*	19borispetrov (~boris@Rizon-CE8EA8B7.hsd1.ut.comcast.net) has joined #47chan
+T 1333989270 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1334004095 22*	You are now known as TheShadowFog
+T 1334005855 22*	You are now known as Annex
+T 1334014162 23*	23borispetrov has quit (23Ping timeout: 240 seconds23)
+T 1334014551 19*	19borispetrov (~boris@Rizon-CE8EA8B7.hsd1.ut.comcast.net) has joined #47chan
+T 1334014551 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1334016276 22*	You are now known as TheShadowFog
+T 1334018147 23*	23borispetrov has quit (23Read error: Connection reset by peer23)
+T 1334023583 19*	19borispetrov (~boris@Rizon-DCBD3109.slkc.qwest.net) has joined #47chan
+T 1334023583 22*	26BillGates gives channel half-operator status to26 borispetrov
+T 1334146064 19*	19Now talking on #47chan
+T 1334146064 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1334146064 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1334161713 19*	19Now talking on #47chan
+T 1334161713 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1334161713 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1334168492 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1334168492 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1334170781 23*	23mayushii has quit (23Quit: Leaving23)
+T 1334175569 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1334175569 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1334186406 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1334195540 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1334195540 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1334209137 23*	23BillGates has quit (23*.net *.split23)
+T 1334209516 19*	19BillGates (Bill@Microsoft.com) has joined #47chan
+T 1334209516 22*	BillGates sets mode +a #47chan BillGates
+T 1334209516 22*	26BillGates gives channel operator status to26 BillGates
+T 1334213105 23*	23BillGates has quit (23*.net *.split23)
+T 1334213171 19*	19BillGates (Bill@Microsoft.com) has joined #47chan
+T 1334213171 22*	BillGates sets mode +a #47chan BillGates
+T 1334213171 22*	26BillGates gives channel operator status to26 BillGates
+T 1334215960 23*	23AGaW has quit (23Quit: pineapples23)
+T 1334231302 19*	19AGaW (~lol@Rizon-1142259.tampfl.fios.verizon.net) has joined #47chan
+T 1334259779 23*	23mayushii has quit (23Read error: Connection reset by peer23)
+T 1334259803 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1334259803 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1334269793 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1334278981 19*	19Now talking on #47chan
+T 1334278981 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1334278981 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1334326161 19*	19Now talking on #47chan
+T 1334326161 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1334326161 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1334328565 22*	Disconnected (Remote host closed socket).
+T 1334328618 22*	Disconnected (Remote host closed socket).
+T 1334328671 22*	Disconnected (Remote host closed socket).
+T 1334328725 22*	Disconnected (Remote host closed socket).
+T 1334328778 22*	Disconnected (Remote host closed socket).
+T 1334328799 22*	Disconnected (Remote host closed socket).
+T 1334328853 22*	Disconnected (Remote host closed socket).
+T 1334328908 22*	Disconnected (Remote host closed socket).
+T 1334328961 22*	Disconnected (Remote host closed socket).
+T 1334329015 22*	Disconnected (Remote host closed socket).
+T 1334329068 22*	Disconnected (Remote host closed socket).
+T 1334329089 22*	Disconnected (Remote host closed socket).
+T 1334329110 22*	Disconnected (Remote host closed socket).
+T 1334329165 22*	Disconnected (Remote host closed socket).
+T 1334329218 22*	Disconnected (Remote host closed socket).
+T 1334329239 22*	Disconnected (Remote host closed socket).
+T 1334329290 22*	Disconnected (Remote host closed socket).
+T 1334329341 22*	Disconnected (Remote host closed socket).
+T 1334329395 22*	Disconnected (Remote host closed socket).
+T 1334329448 22*	Disconnected (Remote host closed socket).
+T 1334329503 22*	Disconnected (Remote host closed socket).
+T 1334329524 22*	Disconnected (Remote host closed socket).
+T 1334329578 22*	Disconnected (Remote host closed socket).
+T 1334329630 22*	Disconnected (Remote host closed socket).
+T 1334329685 22*	Disconnected (Remote host closed socket).
+T 1334329706 22*	Disconnected (Remote host closed socket).
+T 1334329760 22*	Disconnected (Remote host closed socket).
+T 1334329781 22*	Disconnected (Remote host closed socket).
+T 1334329833 22*	Disconnected (Remote host closed socket).
+T 1334329888 22*	Disconnected (Remote host closed socket).
+T 1334329941 22*	Disconnected (Remote host closed socket).
+T 1334329996 22*	Disconnected (Remote host closed socket).
+T 1334330050 22*	Disconnected (Remote host closed socket).
+T 1334330071 22*	Disconnected (Remote host closed socket).
+T 1334330126 22*	Disconnected (Remote host closed socket).
+T 1334330181 22*	Disconnected (Remote host closed socket).
+T 1334330235 22*	Disconnected (Remote host closed socket).
+T 1334330290 22*	Disconnected (Remote host closed socket).
+T 1334330311 22*	Disconnected (Remote host closed socket).
+T 1334330365 22*	Disconnected (Remote host closed socket).
+T 1334330390 19*	19Now talking on #47chan
+T 1334330390 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1334330390 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1334363458 19*	19Now talking on #47chan
+T 1334363458 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1334363458 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1334505103 19*	19Now talking on #47chan
+T 1334505103 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1334505103 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1334531990 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1334531990 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1334549668 23*	23AGaW has quit (23Ping timeout: 240 seconds23)
+T 1334551864 19*	19AGaW (~lol@Rizon-35B02733.tampfl.fios.verizon.net) has joined #47chan
+T 1334576093 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1334666311 19*	19Now talking on #47chan
+T 1334666311 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1334666311 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1334680142 19*	19bob (qwebirc@5BD4D896.6593A2AA.4C1637A5.IP) has joined #47chan
+T 1334682113 23*	23bob has quit (23Quit: Rizon webchat: http://qchat.rizon.net/23)
+T 1334686653 19*	19Chatter_929 (qwebirc@Rizon-A0D4849D.stanwood.wednet.edu) has joined #47chan
+T 1334686660 23*	23Chatter_929 has quit (2323)
+T 1334686698 19*	19fdhuasi (qwebirc@Rizon-A0D4849D.stanwood.wednet.edu) has joined #47chan
+T 1334686940 23*	23fdhuasi has quit (23Ping timeout: 240 seconds23)
+T 1334711580 19*	19Now talking on #47chan
+T 1334711580 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1334711580 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1334714923 23*	23BillGates has quit (23*.net *.split23)
+T 1334716794 19*	19BillGates (Bill@Microsoft.com) has joined #47chan
+T 1334716795 22*	BillGates sets mode +a #47chan BillGates
+T 1334716795 22*	26BillGates gives channel operator status to26 BillGates
+T 1334732755 19*	19EGaW (~lol@3F1EE39D.188EAB2E.2A2651A8.IP) has joined #47chan
+T 1334732829 23*	23AGaW has quit (23Read error: Connection reset by peer23)
+T 1334733796 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1334882596 19*	19Now talking on #47chan
+T 1334882596 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1334882596 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1334882995 19*	19Chatter_632 (qwebirc@5BD4D896.6593A2AA.4C1637A5.IP) has joined #47chan
+T 1335047545 19*	19Now talking on #47chan
+T 1335047545 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1335047545 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1335049176 23*	23AGaW has quit (23Ping timeout: 240 seconds23)
+T 1335050299 19*	19AGaW (~lol@Rizon-35B02733.tampfl.fios.verizon.net) has joined #47chan
+T 1335053591 19*	19Now talking on #47chan
+T 1335053591 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1335053591 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1335055961 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1335055961 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1335065617 19*	19lucym (~lucy@Rizon-84E435D.slkc.qwest.net) has joined #47chan
+T 1335065734 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1335066920 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1335066920 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1335067052 23*	23lucym has quit (23Ping timeout: 240 seconds23)
+T 1335074213 19*	19EGaW (~lol@Rizon-35B02733.tampfl.fios.verizon.net) has joined #47chan
+T 1335074418 23*	23AGaW has quit (23Read error: Operation timed out23)
+T 1335105828 23*	23NeoTheOn1 has quit (23Quit: leaving23)
+T 1335105833 19*	19NeoTheOne (~NeoTheOne@Rizon-F557E3D0.ias.bredband.telia.com) has joined #47chan
+T 1335105833 22*	26BillGates gives voice to26 NeoTheOne
+T 1335114336 19*	19blaq (qwebirc@Rizon-20CD147B.phlapa.east.verizon.net) has joined #47chan
+T 1335114578 23*	23blaq has quit (23Ping timeout: 240 seconds23)
+T 1335123222 19*	19Now talking on #47chan
+T 1335123222 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1335123222 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1335125960 19*	19Anarchon (~fa8h9fad8@Rizon-E51B197.wavecable.com) has joined #47chan
+T 1335142229 19*	19Now talking on #47chan
+T 1335142229 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1335142229 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1335152179 19*	19Anarchon (~fa8h9fad8@Rizon-E51B197.wavecable.com) has joined #47chan
+T 1335152415 23*	23frank_usrs has quit (23Quit: leaving23)
+T 1335165550 23*	23Str0mer has quit (23Read error: Connection reset by peer23)
+T 1335165617 19*	19Stromer (~lolol@Rizon-9852E270.dsl.irvnca.sbcglobal.net) has joined #47chan
+T 1335169572 19*	19Str0mer (~lolol@Rizon-90284C20.dsl.irvnca.sbcglobal.net) has joined #47chan
+T 1335169710 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1335218142 23*	23EGaW has quit (23Ping timeout: 240 seconds23)
+T 1335222907 19*	19AGaW (~lol@Rizon-35B02733.tampfl.fios.verizon.net) has joined #47chan
+T 1335242357 19*	19amphibulus (cgiirc@F384B5FB.8670B1F9.F099EDCA.IP) has joined #47chan
+T 1335242382 18<amphibulus>	hello
+T 1335244447 23*	23amphibulus has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1335246274 18<mayushii>	hiii
+T 1335254691 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1335255865 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1335255865 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1335263642 23*	23mayushii has quit (23Quit: Leaving23)
+T 1335263716 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1335263716 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1335269660 19*	19frank_usrs (~fr@nk.usrs) has joined #47chan
+T 1335269660 18<BillGates>	[frank_usrs] Why do you bully loli?
+T 1335269660 22*	BillGates sets mode +q #47chan frank_usrs
+T 1335269660 22*	26BillGates gives channel operator status to26 frank_usrs
+T 1335319738 19*	19Now talking on #47chan
+T 1335319738 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1335319738 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1335322131 23*	23Anarchon has quit (23Ping timeout: 240 seconds23)
+T 1335346930 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1335347395 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1335347395 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1335357407 19*	19Now talking on #47chan
+T 1335357407 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1335357407 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1335484758 19*	19Now talking on #47chan
+T 1335484758 29*	29Topic for #47chan 29is: DING DONG THE WITCH IS DE... HAHAHA DISREGARD THAT I SUCK COCKS! | <Circlepuller__> mods are gods <Circlepuller__> im atheist
+T 1335484758 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Sun Jan 22 16:46:27 2012
+T 1335493300 18<frank_usrs>	nice
+T 1335493304 18<frank_usrs>	so we've been ToS'd
+T 1335493312 18<frank_usrs>	by cloudflare
+T 1335493340 18<frank_usrs>	From: Monika Kontrasova <monikakontrasova@gmail.com>
+T 1335493340 18<frank_usrs>	Subject: help with stolen identity
+T 1335493340 18<frank_usrs>	Dear Sir or Madame,
+T 1335493340 18<frank_usrs>	on your hostname is registrated domain
+T 1335493340 18<frank_usrs>	http://nayuki.47chan.net/pr0n/res/6599.html
+T 1335493342 18<frank_usrs>	 
+T 1335493342 18<frank_usrs>	, which contains application
+T 1335493344 18<frank_usrs>	for photo upload. One of the published photography was acquired illegally
+T 1335493344 18<frank_usrs>	and published without permission from the owner of the photography. This
+T 1335493346 18<frank_usrs>	photo belong to me and it was stolen to me illegally. This picture has
+T 1335493346 18<frank_usrs>	a description, which is insulting and violates personal data protection. It
+T 1335493348 18<frank_usrs>	is going about picture
+T 1335493348 18<frank_usrs>	http://nayuki.47chan.net/pr0n/src/1326625101629.jpg.I
+T 1335493350 18<frank_usrs>	 
+T 1335493350 18<frank_usrs>	require from you
+T 1335493352 18<frank_usrs>	to delete this picture. I would like to please you to
+T 1335493352 18<frank_usrs>	make information about uploader who published this photo accessible.
+T 1335493354 18<frank_usrs>	Thank you for dealing with this case.
+T 1335494650 22*	frank_usrs has changed the topic to: Status: ToS'd by Monika Somethingsomething
+T 1335498642 18<Circlepuller>	congrats
+T 1335498653 18<Circlepuller>	you managed to butthurt a woman
+T 1335498886 18<frank_usrs>	ty
+T 1335529449 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1335659183 19*	19Now talking on #47chan
+T 1335659183 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1335659183 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012
+T 1335710354 23*	23frank_usrs has quit (23Ping timeout: 240 seconds23)
+T 1335710355 19*	19frank_usrs (~fr@242DA564.4A47403F.B987F727.IP) has joined #47chan
+T 1335710355 22*	BillGates sets mode +q #47chan frank_usrs
+T 1335710355 22*	26BillGates gives channel operator status to26 frank_usrs
+T 1335725094 19*	19herpaderp (~herpaderp@Rizon-10A2DDBE.dsl.bell.ca) has joined #47chan
+T 1335725266 23*	23herpaderp has quit (2323)
+T 1335817814 23*	23AGaW has quit (23Read error: Connection reset by peer23)
+T 1335831310 23*	23Str0mer has quit (23Ping timeout: 240 seconds23)
+T 1335831625 19*	19Stromer (~lolol@Rizon-EFD7CDF8.dsl.irvnca.sbcglobal.net) has joined #47chan
+T 1335835196 19*	19AGaW (~lol@Rizon-35B02733.tampfl.fios.verizon.net) has joined #47chan
+T 1335835786 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1335835983 19*	19Stromer (~lolol@Rizon-460AC55E.dsl.irvnca.sbcglobal.net) has joined #47chan
+T 1335855094 22*	Disconnected (Connection timed out).
+T 1335856909 19*	19Now talking on #47chan
+T 1335856909 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1335856909 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012
+T 1335930934 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1335930934 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1335943717 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1335948011 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1335948011 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1335950731 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1336084143 19*	19Now talking on #47chan
+T 1336084143 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1336084143 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012
+T 1336103626 23*	23Circlepuller has quit (23Excess Flood23)
+T 1336103630 19*	19Circlepuller (Circlepull@Rizon-F806F0F0.rizonbnc.us.rizon.net) has joined #47chan
+T 1336162890 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1336244021 19*	19Now talking on #47chan
+T 1336244021 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1336244021 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012
+T 1336249260 19*	19mib_264kib (cgiirc@F384B5FB.8670B1F9.F099EDCA.IP) has joined #47chan
+T 1336249266 18<mib_264kib>	hello
+T 1336249912 18<mib_264kib>	hello
+T 1336250699 18<frank_usrs>	h
+T 1336250800 18<mib_264kib>	is the radion on
+T 1336250853 18<frank_usrs>	nope
+T 1336250923 18<mib_264kib>	why not
+T 1336250946 18<frank_usrs>	the server which streams music to the frontend is down
+T 1336250973 18<mib_264kib>	wht caused it to go down
+T 1336250987 18<frank_usrs>	i reformatted it
+T 1336251000 18<frank_usrs>	haven't bothered putting it back up, because my upload is so shit
+T 1336251015 18<frank_usrs>	the plan is to eventually upload the music onto another server and stream from there
+T 1336252948 18<mib_264kib>	k
+T 1336261878 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1336261878 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1336270601 23*	23mib_264kib has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1336276265 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1336325611 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1336325611 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1336340276 19*	19Now talking on #47chan
+T 1336340277 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1336340277 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012
+T 1336359282 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1336376431 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1336376431 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1336490146 19*	19Now talking on #47chan
+T 1336490146 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1336490146 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012
+T 1336491956 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1336599091 19*	19Now talking on #47chan
+T 1336599091 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1336599091 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012
+T 1336604622 23*	23AGaW has quit (23*.net *.split23)
+T 1336604779 19*	19AGaW (~lol@Rizon-35B02733.tampfl.fios.verizon.net) has joined #47chan
+T 1336606531 22*	Disconnected (Connection reset by peer).
+T 1336606574 19*	19Now talking on #47chan
+T 1336606574 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1336606574 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012
+T 1336607377 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1336607377 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1336618582 18<brrr>	lol
+T 1336631131 18<mayushii>	hi fgt
+T 1336642461 23*	23mayushii has quit (23Read error: Connection reset by peer23)
+T 1336657613 19*	19Now talking on #47chan
+T 1336657613 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1336657613 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012
+T 1336659011 19*	19mayushii (~lucy@tu.tu.ruuu) has joined #47chan
+T 1336659011 22*	26BillGates gives channel half-operator status to26 mayushii
+T 1336699673 19*	19Now talking on #47chan
+T 1336699673 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1336699673 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012
+T 1336702220 23*	23mayushii has quit (23Ping timeout: 240 seconds23)
+T 1336706019 18<Circlepuller>	welp
+T 1336706023 18<Circlepuller>	i made one myself
+T 1336706035 18<Circlepuller>	holy fuck that was a pain in the ass
+T 1336706104 18<frank_usrs>	can i see
+T 1336706131 18<Circlepuller>	but that'd mean its open sores
+T 1336706135 18<frank_usrs>	i've made an IRC->HTML converter in both PHP and Perl
+T 1336716356 19*	19Str0mer (~lolol@Rizon-9AB03D27.dsl.irvnca.sbcglobal.net) has joined #47chan
+T 1336716471 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1336716662 19*	19Stromer (~lolol@Rizon-A81E64A.dsl.irvnca.sbcglobal.net) has joined #47chan
+T 1336716831 23*	23Str0mer has quit (23Ping timeout: 240 seconds23)
+T 1336742167 19*	19Now talking on #47chan
+T 1336742167 29*	29Topic for #47chan 29is: Status: ToS'd by Monika Somethingsomething
+T 1336742167 29*	29Topic for #47chan 29set by frank_usrs!~fr@nk.usrs 29at Thu Apr 26 22:34:45 2012

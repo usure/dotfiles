@@ -1,0 +1,523 @@
+T 1335243756 18<prurigro>	you gotta pick and choose those carefully
+T 1335243779 18<prurigro>	users are a different story
+T 1335243786 18<derp>	Well, heres the thing. I dont have an issue (even though Im not a mod, Im sayin as a member) with other groups soliciting donations or w.e. its there call, if people feel the need they will donate. I just dont want people doing it on behalf of our project (misrepresentin' or what have you)
+T 1335243798 18<Dan>	Well, this is the problem with having Project Meshnet at the top of the subreddit
+T 1335243804 18<Dan>	as the name
+T 1335243812 18<derp>	Why is that ?
+T 1335243826 18<derp>	I thought i removed that when I left ( i changed it back to r/darknetplan)
+T 1335243840 18<prurigro>	if you have links to corporations and facilitate donations to them
+T 1335243844 18<derp>	that is irrelevant though really. you can call it r/circlejerk
+T 1335243845 18<Dan>	Because every group that posts & is looking for donations appears to ba supported by Project meshnet
+T 1335243846 18<prurigro>	then you are now accountable for those donations
+T 1335243884 18<prurigro>	if you don't particularly care about those companies receiving donations, why risk the credibility?
+T 1335243900 18<derp>	prurigro, thats why I removed the projectmeshnet stuff from that sub-reddit. The whole point of /r/darknetplan is to faciliate the discusions of meshnets and darknets 
+T 1335243914 18<Dan>	look at r/darknetplan
+T 1335243949 18<Dan>	it still says project meshnet at the top since we reapplied the style sheet & never changed the name
+T 1335243991 18<derp>	oooh
+T 1335243991 18<derp>	I forgot that the settings are only for the page <title?
+T 1335243991 18<derp>	Change it, (edit stylesheet.css in community settings)
+T 1335244010 18<prurigro>	there's a term in marketing called co-branding
+T 1335244098 18<Dan>	yep
+T 1335244108 18<prurigro>	and it goes along the lines of saying (theoretically) that a movie having apple computers in it is advertising for apple, but the movie is also using apple's name to increase its own legitimacy too
+T 1335244109 18<prurigro>	anyway
+T 1335244169 18<derp>	well, dan. Its up to you. If you like keep it, add the wiki and stuff to the sidebar. Thats your call
+T 1335244178 18<prurigro>	separate entities supporting eachother makes a community, and the community is as attractive as the average of all the entities
+T 1335244181 18<prurigro>	what companies are getting donations anyway?
+T 1335244258 18<derp>	You know what would be cool? A bot posting build updates to /r/cjdns
+T 1335244286 18<derp>	Mikey, Jercos, Prurigro... this is your domain. Could this be done?
+T 1335244293 18<jercos>	mhm.
+T 1335244299 18<jercos>	pretty easily, in fact.
+T 1335244309 18<prurigro>	yea, reddit's api is open
+T 1335244312 18<prurigro>	so why not eh
+T 1335244320 18<derp>	Because, they kinda get lost in the #cjdns chan
+T 1335244327 18<jercos>	All we'd need is a tiny hack duct-taped on the existing build-bot
+T 1335244337 18<jercos>	it could post to reddit *and* IRC :p
+T 1335244347 18<jercos>	there are reddit modules for like every programming language
+T 1335244381 18<prurigro>	what content would be posted?
+T 1335244429 18<jercos>	CJDNS updates, as a selfpost with the changelog, or as a linkpost linking to the github commit
+T 1335244491 18<derp>	Selfpost with changelog and github commit link would be epic
+T 1335244537 18<derp>	we could even restrict /r/cjdns to the buildbot posts
+T 1335244599 18<prurigro>	I think things like the launch of hyperboria forums
+T 1335244601 18<prurigro>	for example
+T 1335244606 18<prurigro>	make sense to go there too
+T 1335319724 19*	19Now talking on #outreach
+T 1335319724 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1335319724 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1335320177 18<Dan>	hia derp
+T 1335320350 18<derp>	Hello
+T 1335320374 18<Dan>	hey, I was out for a few hours as you saw
+T 1335322765 23*	23Dan has quit (23Ping timeout23)
+T 1335322788 19*	19Dan (Dan@A6E88DA4.3CBCE158.A69A7BEF.IP) has joined #outreach
+T 1335323734 19*	19imw (Mibbit@EA8E4913.614C19B5.8AAD8415.IP) has joined #outreach
+T 1335323765 23*	23imw has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1335323771 19*	19imw (Mibbit@EA8E4913.614C19B5.8AAD8415.IP) has joined #outreach
+T 1335323813 18<imw>	Anyone actually here?
+T 1335323911 18<Dan>	yep
+T 1335324043 18<imw>	hello!
+T 1335324049 18<imw>	My name is Isaac
+T 1335324083 18<Dan>	Hey, I'm Dan. I think I've seen you on irc before
+T 1335324117 18<imw>	I am wondering why you would want to use cjd over, say, a modular stack with separate parts for routing, serving, and tunnelling
+T 1335324144 18<imw>	for instance, a freedombox running babeld attached to a couple of tplink radios with directionals
+T 1335324162 18<imw>	I want to understand why folks are so excited about cjdns
+T 1335324164 18<imw>	I just don't get it
+T 1335324172 18<imw>	I don't mean to be a naysayer
+T 1335324209 18<Dan>	Eh, its simpler to have one small package doing all the routing, tunneling & eventually dns functions than seperate modules for each
+T 1335324210 18<imw>	I've dedicated my whole life to decentralized networks, I just don't see why we would choose cjd over actual, mature routing protocols
+T 1335324262 18<imw>	hmm
+T 1335324297 18<imw>	it seems like it works alright in a virtual network
+T 1335324323 18<imw>	but there's no loop avoidance or convergence properties to assure performance in lossy environments
+T 1335324345 18<imw>	so I fear that it won't scale well in terms of actual physical networks.
+T 1335324372 18<Dan>	Cjdns is still in alpha, atm the Seattle branch of project meshnet is using the BATMAN routing protocol then layering cjdns on top
+T 1335324391 18<imw>	so, again, why use cjd?
+T 1335324399 18<imw>	I don't understand why it's necessary
+T 1335324414 18<imw>	we use BATMAN or Babel in our meshes
+T 1335324419 18<imw>	have used OLSR, too
+T 1335324441 18<imw>	it just seems like such a waste of time and energy to have all these folks that want to build mesh networks, and to put all their energy into this pet project
+T 1335324462 18<imw>	again, I don't mean to be too harsh, but it seems like emperor has no clothes
+T 1335324474 18<Dan>	cjdns has issues and the ones you mentioned above are one of many. Over time they'll get fixed, but cjdns is suppoed to eventually take over most everything in a nice clean package.
+T 1335324503 18<imw>	okay, but there are already things that do most of this stuff, and do it well
+T 1335324511 18<imw>	why not just integrate the existing tools?
+T 1335324518 18<imw>	why start from scratch?
+T 1335324519 18<Dan>	THe software devs are focusing on cjdns, while everyone else focuses on the physical aspect
+T 1335324533 18<Dan>	brb
+T 1335324553 18<imw>	the intense focus on cjd as the answer is turning serious mesh networking experts away
+T 1335324556 18<imw>	I'm just saying
+T 1335324595 18<imw>	all of that software development energy would be better spent working on freedombox
+T 1335324612 18<imw>	which has the support of the debian community, and can leverage the GPG strong set to actually launch a trust network
+T 1335324617 18<Dan>	yep, it is an issue that Project Meshnet needs to work on,  derp & others essentially bet the project on cjdns
+T 1335324639 18<imw>	I've reached out before, and I really want to work with you all
+T 1335324647 18<imw>	I'm Isaac from the Free Network Foundation
+T 1335324651 18<Dan>	Who are you with again?
+T 1335324658 18<imw>	www.thefnf.org
+T 1335324666 18<Dan>	Oh, I remember
+T 1335324678 18<Dan>	Yep, we've traded emails
+T 1335324687 18<imw>	cool!
+T 1335324695 18<imw>	what's your email?
+T 1335324706 18<Dan>	Project Meshnet is overly focused on cjdns btw
+T 1335324714 18<Dan>	adn5412@gmail.com
+T 1335324760 18<imw>	well, I can't find our conversation in my inbox, but I wonder what I can do to help
+T 1335324769 18<imw>	we've got a software stack that's actually ready to deploy
+T 1335324816 18<imw>	I'm not trying to convince people not to work on projects that they're passionate about, but it's very frustrating to see people headed in what I think is the wrong direction
+T 1335324825 18<Dan>	Really? Well I think we discussed a common platform & kits of hardware for rapid mesh deployment
+T 1335324858 18<imw>	the email even looks familiar
+T 1335324863 18<imw>	not sure why i'm not finding it
+T 1335324870 18<Dan>	let me cc you our emails then
+T 1335324889 18<imw>	yes, please do
+T 1335324985 18<Dan>	Actually, Upon reviewing my emails, I've sent emails back & forth with charles n wyble & sam
+T 1335324996 18<imw>	sure. cool.
+T 1335325000 18<imw>	charles is my partner
+T 1335325006 18<imw>	sam?
+T 1335325010 18<imw>	what's his last name?
+T 1335325029 18<derp>	imw: you need to join #cjdns on efnet
+T 1335325045 18<imw>	okay.
+T 1335325053 18<Dan>	Also, could you link to the software stack, I'm curious as to what you have built
+T 1335325067 18<Mikey>	lolwut
+T 1335325068 18<Dan>	sam's email was 	 sam@samj.me
+T 1335325070 18<Mikey>	yes im already here
+T 1335325093 18<imw>	hmm, I'm not sure i recognize that email
+T 1335325106 18<imw>	dass cool, do
+T 1335325109 18<Dan>	nm, wrong email
+T 1335325126 18<imw>	derp, mikey, I will join cjdns in just a minute
+T 1335325129 18<Mikey>	why use anything?  why ask questions like "why do you use this free software that all the source code is published for?" etc
+T 1335325147 18<imw>	well, I've looked at the source
+T 1335325150 18<Mikey>	because cjdns has a distinctive flavor and settles my stomach
+T 1335325165 18<imw>	fair enough
+T 1335325175 18<Dan>	that is pretty much why it has become a key element
+T 1335325190 18<imw>	like I said, I'm not trying to discourage people from working on things they're passionate about
+T 1335325195 18<Mikey>	thanks for looking at the source, do you have any comments re: it?
+T 1335325196 18<imw>	that's the only way that things get done
+T 1335325199 18<Mikey>	cos i have an interest in making it better
+T 1335325204 18<Mikey>	thats right.
+T 1335325210 18<Mikey>	i mean.. look at facebook
+T 1335325217 18<imw>	what about facebook?
+T 1335325240 18<Mikey>	some nerd rewrote friendster in php.  what a stupid thing that was to do
+T 1335325249 18<Mikey>	i mean we already had myspace
+T 1335325261 18<imw>	(what's the fqdn for efnet?)
+T 1335325268 18<derp>	lol. 
+T 1335325269 18<Mikey>	irc.efnet.org is a hub that will dispatch you
+T 1335325288 18<Mikey>	if you have ident installed
+T 1335325291 18<Mikey>	irc.wh.verio.net is one of my fav's
+T 1335325340 18<imw>	when I look at the cjd source, all I see are platologic tricks for looking through a phone book
+T 1335325347 18<imw>	you basically have to have a complete routing table to send packets
+T 1335325352 18<Mikey>	mhm.
+T 1335325353 18<imw>	but, maybe I've misunderstood
+T 1335325355 18<Mikey>	you do.
+T 1335325370 18<imw>	so, that's not a routing protocol, really
+T 1335325374 18<imw>	it's a lookup mechanism
+T 1335325376 18<Mikey>	ram is cheap
+T 1335325382 18<Mikey>	hugs are cheap
+T 1335325386 18<Mikey>	come, join us.
+T 1335325391 18<Dan>	like $36 for 8gb cheap
+T 1335325395 18<Mikey>	we'll talk this over.  we have 500 nodes up.
+T 1335325402 18<Mikey>	i think our routing table uses like 8mb of ram sometimes
+T 1335325405 18<Mikey>	so we're really concerned
+T 1335325419 18<imw>	how many hosts on the global Internet?
+T 1335325425 18<Mikey>	a lot.
+T 1335325435 18<Mikey>	good thing we don't have to worry about that yet!
+T 1335325435 18<Dan>	Its at 500 nodes already? I'm out of the loop...
+T 1335325446 18<Mikey>	no it's like at 40.  but still.  500 KNOWN
+T 1335325448 18<Mikey>	according to nodeinfo
+T 1335325455 18<derp>	thats known nodes, not live nodes
+T 1335325471 18<imw>	okay, but don't you want to engineer for a scenario in which you're successful?
+T 1335325474 18<Mikey>	i promise when zuck sat down to write "the facebook" he wasn't going "how am i going to scale this to 500M users"
+T 1335325489 18<Dan>	well, the 40 figure is reachable in one or two hops, 500 is the total
+T 1335325496 18<Mikey>	besides, the internet of the future needs to scale UP and DOWN
+T 1335325504 18<derp>	and around
+T 1335325505 18<Mikey>	do we always need all the nodes connected to all the nodes?
+T 1335325507 18<imw>	okay, but that guys a douchebag, and facebook is a shitty piece of software, so I'm not going to follow his lead
+T 1335325528 18<imw>	just saying
+T 1335325533 18<Mikey>	in time there are two kinds of innovators
+T 1335325538 18<imw>	as far as role models go.... zuckerburg?
+T 1335325540 18<Mikey>	those who plod ahead dealing with problems one at a time
+T 1335325549 18<Mikey>	and those who try and drag their imagination into reality
+T 1335325552 18<Mikey>	one succeeds
+T 1335325555 18<Mikey>	one becomes insane
+T 1335325565 18<imw>	hey, listen, I don't disagree
+T 1335325581 18<Mikey>	and i don't disagree, either.
+T 1335325599 18<imw>	we've been making releases
+T 1335325605 18<derp>	imw: how come you joined #outreach to discuss cjdns? (just curious)
+T 1335325609 18<Dan>	ilink for the lazy!
+T 1335325614 18<imw>	yup
+T 1335325614 18<Dan>	*link
+T 1335325615 18<Mikey>	we have smart people working on the problems.  and we love collaborators.
+T 1335325636 18<imw>	if I come there, I'm going to be mobbed by die-hards
+T 1335325640 18<Mikey>	no way.
+T 1335325641 18<Dan>	I'm not even on efnet derp
+T 1335325644 18<Mikey>	i'm the worst of them.
+T 1335325648 18<Mikey>	and you've already met me
+T 1335325652 18<Dan>	but thats out of laziness
+T 1335325653 18<imw>	:-)
+T 1335325661 18<derp>	>.<
+T 1335325666 18<Dan>	lol
+T 1335325685 18<Mikey>	besides
+T 1335325694 18<Mikey>	we can all meet in the IP stack of whatever os we get installed on
+T 1335325702 18<Mikey>	at the end of the day we're just a tun <=> udp bridge
+T 1335325723 18<Mikey>	forgive my lack of network vocab i'm a uh.. developer
+T 1335325724 18<Mikey>	or osmething
+T 1335325735 18<Mikey>	bridge might not have been the right word
+T 1335325739 18<Mikey>	that actually means something special
+T 1335325752 18<imw>	sure, I got your point
+T 1335325775 18<Mikey>	you seem like someone we could learn from
+T 1335325776 18<Mikey>	just sayin
+T 1335325790 18<imw>	irssi isn't letting me connect
+T 1335325792 18<imw>	not sure why
+T 1335325798 18<Dan>	it happens
+T 1335325801 18<Mikey>	/server irc.efnet.org
+T 1335325810 18<Mikey>	irssi -c irc.efnet.org
+T 1335325817 18<derp>	http://chat.efnet.org:9090/?channels=%23cjdns&Login=Login
+T 1335325825 18<Mikey>	oh shit it's chat.efnet.org
+T 1335325827 18<Mikey>	whatever. fml/.
+T 1335325832 18<derp>	thats webchat
+T 1335325860 18<imw>	just gonna use the webchat
+T 1335325862 18<Mikey>	Trying 193.163.220.3...
+T 1335325862 18<Mikey>	Connected to irc.efnet.org.
+T 1335325862 18<Mikey>	Escape character is '^]'.
+T 1335325862 18<Mikey>	NOTICE AUTH :*** Processing connection to irc.inet.tele.dk
+T 1335325862 18<Mikey>	NOTICE AUTH :*** Looking up your hostname...
+T 1335325864 18<derp>	irc.paraphysics.net <<<
+T 1335325865 18<Mikey>	NOTICE AUTH :*** Checking Ident
+T 1335325867 18<Mikey>	NOTICE AUTH :*** Got Ident response
+T 1335325869 18<imw>	i get connected, connection dropped
+T 1335325869 18<Mikey>	NOTICE AUTH :*** Found your hostname
+T 1335325888 18<Mikey>	see?  we can't even conneyct to ipv4 assets on the regular internet
+T 1335325894 18<Mikey>	damn you vint cerf
+T 1335325899 18<imw>	haha
+T 1335325905 18<imw>	(omg that guy is a douche)
+T 1335325913 18<imw>	we got in a fight over g+
+T 1335325920 18<imw>	and then his beard caught on fire
+T 1335325924 18<Mikey>	it takes all types
+T 1335325928 18<Mikey>	you could have been arguing with djb
+T 1335325931 18<Mikey>	lol
+T 1335328196 23*	23bourbeau has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1335329472 23*	23imw has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1335331377 19*	19mib_zgfben (Mibbit@hide-7AC22777.neo.res.rr.com) has joined #outreach
+T 1335331396 23*	23mib_zgfben has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1335339460 23*	23Exavion has quit (23Ping timeout23)
+T 1335357393 19*	19Now talking on #outreach
+T 1335357393 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1335357393 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1335359496 23*	23Mikey has quit (23Ping timeout23)
+T 1335484746 19*	19Now talking on #outreach
+T 1335484746 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1335484746 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1335484813 19*	19derp (derp@hide-49BC4A7C.abhsia.telus.net) has joined #outreach
+T 1335484825 18<derp>	yo jercos, did ya figure it out?
+T 1335484921 18<derp>	rainfly_x: ctdns looks very promising! +1
+T 1335484948 18<derp>	How is Ctree coming along?
+T 1335485123 19*	19derp_ (derp@CDEE44CA:7B63B486:DEF416E3:IP) has joined #outreach
+T 1335485142 18<derp>	jercos: doh'. problem was on my end
+T 1335485165 23*	23derp has quit (23Client exited23)
+T 1335485199 22*	derp_ is now known as derp
+T 1335485223 22*	ChanServ sets mode +q #outreach derp
+T 1335485223 22*	26ChanServ gives channel operator status to26 derp
+T 1335490632 18<jercos>	derp: yep, figured it out :p
+T 1335490650 18<jercos>	I did set up another subluminal node on babbage, but babbage doesn't run an IRCd
+T 1335490654 18<jercos>	Just webchat :3
+T 1335490689 18<jercos>	So if you like web-based IRC access on cjdns for some reason, http://[fc98:d143:144c:da5d:3206:4813:979a:360f]/
+T 1335491738 18<derp>	heh, well actually i migrated to a bouncer/client. no more webchat! but the buffer history is pathetic. PRURIGRO how do I change that shit?
+T 1335492202 18<Dan>	what did you use as a bouncer? znc?
+T 1335492403 18<Dan>	derp
+T 1335493185 18<Dan>	jercos, you around
+T 1335493209 18<Dan>	http://www.downforeveryoneorjustme.com/subluminal.net
+T 1335493516 18<derp>	dan: thats a port 80 scanner (for websites)
+T 1335493528 18<derp>	dna yeah I use znc
+T 1335493548 18<Dan>	subluminal.net appears to be down
+T 1335493591 18<Dan>	dero: did you enable the webconfig portion of it? it enables itself by default
+T 1335493595 18<Dan>	derp
+T 1335493625 18<derp>	http://www.downforeveryoneorjustme.com/abacus.subluminal.net
+T 1335493713 18<jercos>	Dan: yep, i guess that must have been pointed at napier not mindjail :-\
+T 1335493719 18<jercos>	not that there was anything there
+T 1335493720 18<jercos>	shame
+T 1335493722 18<jercos>	:-\
+T 1335493747 18<Dan>	basically, where is subluminals webchat applet?
+T 1335495036 18<jercos>	Dan: if you refresh http://subluminal.net it's now linked to.
+T 1335495048 18<jercos>	(and the server is running again)
+T 1335495070 18<Dan>	thanks!
+T 1335499358 18<derp>	http://projectmeshnet.org + https://github.com/dansup/projectmeshnet
+T 1335499435 18<Dan>	watching
+T 1335502072 18<rainfly_x>	derp: Thanks! I was kind of at a dead end with CTree a little bit because I wasn't using it for anything. One real day of designing with ctdns in mind, and I have multiple new features and minor refactors in the pipeline.
+T 1335523142 19*	19qwebirc7936 (webchat@5CF41470:650AAB9B:1494838F:IP) has joined #outreach
+T 1335523157 23*	23qwebirc7936 (23webchat@5CF41470:650AAB9B:1494838F:IP) has left #outreach
+T 1335659170 19*	19Now talking on #outreach
+T 1335659170 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1335659170 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1335668892 18<derp>	Hello
+T 1335668904 18<derp>	dan, thefinn93 you guys around?
+T 1335669463 19*	19ArcanisLupus (ArcanisLup@hide-BEA3A484.lns7.ken.bigpond.net.au) has joined #outreach
+T 1335672374 23*	23ArcanisLupus has quit (23Quit: ArcanisLupus23)
+T 1335672619 19*	19ArcanisLupus (ArcanisLup@hide-BEA3A484.lns7.ken.bigpond.net.au) has joined #outreach
+T 1335673968 18<derp>	Hello ArcanisLupus !
+T 1335673986 18<ArcanisLupus>	heythere derp
+T 1335674326 18<derp>	Have you had a chance to read the whitepaper?
+T 1335674402 18<ArcanisLupus>	im afraid not
+T 1335674422 18<derp>	https://github.com/cjdelisle/cjdns/blob/master/rfcs/Whitepaper.md
+T 1335674516 18<ArcanisLupus>	wow thats a lot to go through.
+T 1335674640 18<derp>	well if you want a summary, visit http://cjdns.info
+T 1335674683 18<ArcanisLupus>	also good. ill give them both a good read over
+T 1335674811 18<derp>	We have 59 articles in the wiki now, I noticed you're linking to an outdated gist that rainfly_x authored back in january I belive. Its missing a few things, best link to the cjdns repo's readme or https://wiki.projectmeshnet.org/Getting_started#Install_it
+T 1335674851 18<ArcanisLupus>	ah ok excellent ill make that amendment. thanks
+T 1335674910 18<derp>	And, if you're up to it. Add the script to thefinn93's etherpad. Its available on Hyperboria... (i started a doc already) https://pad.thefinn93.com/p/projectmeshnet_animation
+T 1335675026 18<thefinn93>	BTW that pad and the one on cjdns.thefinn93.com are different...
+T 1335675110 18<ArcanisLupus>	wow thanks very much. Ill keep that updated along with my local documants
+T 1335678097 23*	23thefinn93 has quit (23Ping timeout23)
+T 1335678373 19*	19thefinn93 (Finn@hide-59CD9FD0.com) has joined #outreach
+T 1335679924 18<Dan>	hey
+T 1335681903 23*	23Dan has quit (23Ping timeout23)
+T 1335712483 23*	23ArcanisLupus (23ArcanisLup@hide-BEA3A484.lns7.ken.bigpond.net.au) has left #outreach
+T 1335717904 18<derp>	good morning
+T 1335718335 22*	derp is now known as derp_
+T 1335718506 19*	19bourbeau (Mibbit@hide-6DCD99E9.nyc.res.rr.com) has joined #outreach
+T 1335727463 22*	derp_ is now known as derp
+T 1335736689 23*	23bourbeau has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1335752542 23*	23Omelette has quit (23Input/output error23)
+T 1335753257 19*	19bob_twinkles (Mibbit@hide-7D60F372.washdc.fios.verizon.net) has joined #outreach
+T 1335753476 19*	19bob_ (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #outreach
+T 1335753487 23*	23bob_twinkles has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1335753520 23*	23bob_ (23bob@hide-7D60F372.washdc.fios.verizon.net) has left #outreach (23Leaving23)
+T 1335753539 19*	19bob_ (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #outreach
+T 1335756999 23*	23bob_ has quit (23Ping timeout23)
+T 1335812488 19*	19Dan (Dan@hide-83FB26D1.me) has joined #outreach
+T 1335837420 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #outreach
+T 1335849560 18<Dan>	derp, ya there
+T 1335849580 18<Dan>	how goes r/internetevolved
+T 1335855116 22*	Disconnected (Connection timed out).
+T 1335856895 22*	TheShadowFog sets mode +i TheShadowFog
+T 1335856895 22*	TheShadowFog sets mode +w TheShadowFog
+T 1335856895 22*	TheShadowFog sets mode +x TheShadowFog
+T 1335856895 28-29InfoServ28-	*** Message(s) of the Day ***
+T 1335856895 28-29InfoServ28-	[Server Down] Notice from nameless, posted 02:03 on 03/19/2012:
+T 1335856895 28-29InfoServ28-	Due to getmyvps shutting down, napier.subluminal.net has been removed from the dns round robin and the IRC server has been shut down. Saddly, this drops us down to just one cjdns node at abacus.subluminal.net.
+T 1335856895 28-29InfoServ28-	*** End of Message(s) of the Day ***
+T 1335856896 19*	19Now talking on #outreach
+T 1335856896 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1335856896 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1335865002 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #outreach
+T 1335865055 23*	23Omelette has quit (23Ping timeout23)
+T 1335907146 19*	19bob_ (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #outreach
+T 1335912946 18<Dan>	derp
+T 1335923179 23*	23bob_ has quit (23Quit: Leaving23)
+T 1335923321 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #outreach
+T 1335923574 23*	23Dan (23Dan@hide-83FB26D1.me) has left #outreach (23Leaving23)
+T 1335928430 23*	23bob_twinkles has quit (23Quit: Leaving23)
+T 1336084126 19*	19Now talking on #outreach
+T 1336084126 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1336084126 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1336090738 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #outreach
+T 1336103310 22*	Omelette_ is now known as Omelette
+T 1336105915 19*	19derp_ (subway@hide-6718B3B7.static.cloud-ips.com) has joined #outreach
+T 1336106612 23*	23bob_twinkles has quit (23Quit: Leaving23)
+T 1336108349 19*	19adminsystem (webchat@hide-14B116AF.hsd1.wa.comcast.net) has joined #outreach
+T 1336108359 18<adminsystem>	It's just dan testing
+T 1336108408 18<Dan>	yep, confirmed
+T 1336108505 23*	23adminsystem has quit (23Quit: Page closed23)
+T 1336109124 19*	19ds500ss (anonbox@BD081D0A.BC68312.5BE0659C.IP) has joined #outreach
+T 1336109424 23*	23thefinn93 has quit (23Client exited23)
+T 1336109985 19*	19thefinn93 (Finn@hide-59CD9FD0.com) has joined #outreach
+T 1336136637 19*	19adminsystem (webchat@8D7AFD6F.3DB6A357.4446CC7D.IP) has joined #outreach
+T 1336137191 18<adminsystem>	hellos
+T 1336141324 18<TrueShiftBlue>	Hello
+T 1336144293 18<adminsystem>	where you from TrueShiftBlue and why are you moving towards me?
+T 1336144511 18<TrueShiftBlue>	Sorry?
+T 1336145508 18<adminsystem>	blueshift = moving towards you
+T 1336145512 18<adminsystem>	red shift = moving away from you
+T 1336145532 18<adminsystem>	it's a terrible physics joke
+T 1336153554 23*	23Omelette has quit (23Connection reset by peer23)
+T 1336155816 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #outreach
+T 1336156183 18<Dan>	hi adminsystem
+T 1336156200 18<adminsystem>	hello Dan
+T 1336156218 18<adminsystem>	or is it Dapper Dan?
+T 1336156245 18<Dan>	Nah, I ain't dapper
+T 1336156249 18<Dan>	lol
+T 1336156267 18<Dan>	I assume you followed the link in the pm
+T 1336156272 18<adminsystem>	yup
+T 1336156304 18<Dan>	well, I know that most everyone else is at work or school
+T 1336156321 18<adminsystem>	I'm typing this at work
+T 1336156329 18<Dan>	I just got in from Seattle Central Community College myself
+T 1336156350 18<adminsystem>	SCCC
+T 1336156356 18<adminsystem>	too many C's
+T 1336156366 18<Dan>	No, just enough
+T 1336156387 18<adminsystem>	what are you taking at SCCC?
+T 1336156399 18<Dan>	not to be confused with Sufolk Central Community College
+T 1336156457 18<Dan>	I'm taking Art history 105, Business Diversity 202 & US History 138
+T 1336156496 18<adminsystem>	cool
+T 1336156515 18<Dan>	But moving on, I'd love to know why in the world you chose 3.65ghz UBNT wireless gear, you live in a 3.65ghz quiet zone
+T 1336156623 18<Dan>	I've looked into coordinating with the grandfathered satellite to earth stations, and it is a bear to do.
+T 1336156662 18<adminsystem>	I'm not an expert in radio transmission, i've used 900mhz and 2.4ghz
+T 1336156702 18<adminsystem>	ubuiquiti has some radios that operate on different frequencies
+T 1336156725 18<adminsystem>	what frequency do you recommend?
+T 1336156733 18<Dan>	Erm, well I really don't want to be mean,, but your proposal needs some work & I'd like to help you with it.you can do this a fair bit cheaper & get more nodes up
+T 1336156747 18<adminsystem>	the more nodes the better
+T 1336156751 18<adminsystem>	so i'm all ears
+T 1336156759 18<adminsystem>	my background is in networking not radio
+T 1336156766 18<adminsystem>	so i know i'm weak in that area
+T 1336156774 18<Dan>	I'd recommend Nanostation M5 & M2 radios, they are $85 a pop new
+T 1336156797 18<Dan>	versus $150 a pop for Nanostation M365
+T 1336156824 18<Dan>	Also, POE adapters are included when you buy UBNT hardware new
+T 1336156835 18<Dan>	UBNT=Ubiquiti
+T 1336156837 18<adminsystem>	ooohhh
+T 1336156841 18<Dan>	yeah
+T 1336156844 18<adminsystem>	i didn't know it came w/ poe
+T 1336156854 18<Dan>	well, it works out of the box
+T 1336156857 18<adminsystem>	everytime i buy poe equipment i either have to get a poe switch or a brick
+T 1336156863 18<Dan>	yep
+T 1336156866 18<adminsystem>	ok i'll change the faq
+T 1336156870 18<Dan>	kk
+T 1336156871 18<adminsystem>	phase 2 will have nanostation m5s
+T 1336156882 18<adminsystem>	what's the diff between m5 and m2?
+T 1336156929 18<Dan>	the M5 operates at 5ghz, which is fairly clean in every major city, but one or two trees in a links path will take it down
+T 1336156982 18<adminsystem>	what about going through walls or fog?
+T 1336157000 18<Dan>	the M2 operates at 2.4ghz, which is a hot mess, it can penetrate 4 or 5 trees to make a link, but you'll br competeing with other band users
+T 1336157030 18<Dan>	Fog isn't a big deal, it won't hurt a link too terribly
+T 1336157032 18<adminsystem>	yeah in my block alone i pickup about 40 wifi stations just sitting at home
+T 1336157055 18<Dan>	You should ideally put these in windows or on roofs
+T 1336157076 18<Dan>	yeah, 2.4ghz=shitty
+T 1336157076 18<adminsystem>	that was my intention
+T 1336157081 18<adminsystem>	as close to line of sight as possible
+T 1336157081 18<Dan>	yep
+T 1336157101 18<adminsystem>	ok so how about just M5s then?
+T 1336157125 18<Dan>	It'll work a fair distance with Near line of sight
+T 1336157149 18<Dan>	with LoS you can gt 15km out of them
+T 1336157150 18<adminsystem>	is it possible to do a dual link node? m5 and m2
+T 1336157156 18<Dan>	yep
+T 1336157163 18<adminsystem>	interesting
+T 1336157165 18<Dan>	you can do failover too
+T 1336157172 18<Dan>	or bond them
+T 1336157206 18<adminsystem>	can you do bond with failover?  e.g. if one goes down the networking still works?
+T 1336157218 18<Dan>	Also, why are you planning to put a shuttle pc at each node? each nanostation can run openwrt+cjdns
+T 1336157235 18<adminsystem>	for hosting a server
+T 1336157251 18<Dan>	eh, whahtever, it seems way overkill
+T 1336157265 18<adminsystem>	building a network without content seems silly
+T 1336157271 18<Dan>	also, assume you'll need 2 nanostations per link
+T 1336157275 18<adminsystem>	but yeah it might be overkill for the start
+T 1336157289 18<Dan>	I'd just use a $50 p4 at each site
+T 1336157299 18<Dan>	its cheaper
+T 1336157311 18<adminsystem>	well what i can do 
+T 1336157315 18<adminsystem>	just to get the ball rolling
+T 1336157318 18<Dan>	failover & bonding can be done
+T 1336157323 18<adminsystem>	and make things as cheap as possible
+T 1336157325 18<adminsystem>	is change Phase 1
+T 1336157331 18<Dan>	yep
+T 1336157333 18<Dan>	I gtg
+T 1336157341 18<Dan>	be back in an hour
+T 1336157341 18<adminsystem>	to get funding just just the nano running openwrt
+T 1336157343 18<adminsystem>	ok
+T 1336157345 18<adminsystem>	talk later
+T 1336157863 23*	23adminsystem has quit (23Ping timeout23)
+T 1336244007 19*	19Now talking on #outreach
+T 1336244007 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1336244007 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1336259319 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #outreach
+T 1336259361 23*	23Omelette has quit (23Ping timeout23)
+T 1336262576 22*	Omelette_ is now known as Omelette
+T 1336273953 23*	23bob_twinkles has quit (23Ping timeout23)
+T 1336276921 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #outreach
+T 1336277036 23*	23Omelette has quit (23Ping timeout23)
+T 1336277123 22*	Omelette_ is now known as Omelette
+T 1336290016 23*	23Omelette has quit (23Ping timeout23)
+T 1336290184 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #outreach
+T 1336292533 19*	19ds500ss (anonbox@hide-A375B163.adsl2.static.versatel.nl) has joined #outreach
+T 1336322786 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #outreach
+T 1336323881 19*	19derp (derp@hide-49BC4A7C.abhsia.telus.net) has joined #outreach
+T 1336323921 23*	23derp (23derp@hide-49BC4A7C.abhsia.telus.net) has left #outreach
+T 1336340261 19*	19Now talking on #outreach
+T 1336340261 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1336340261 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1336345811 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #outreach
+T 1336356098 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #outreach
+T 1336356107 23*	23Omelette has quit (23Ping timeout23)
+T 1336359492 22*	Omelette_ is now known as Omelette
+T 1336359740 23*	23Omelette has quit (23Ping timeout23)
+T 1336359740 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #outreach
+T 1336368078 19*	19ds500ss (anonbox@BD081D0A.BC68312.5BE0659C.IP) has joined #outreach
+T 1336373793 23*	23derp has quit (23Ping timeout23)
+T 1336389471 23*	23dub has quit (23Ping timeout23)
+T 1336389486 19*	19dub (dub@hide-63CF24BD.dw6.org) has joined #outreach
+T 1336490121 19*	19Now talking on #outreach
+T 1336490121 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1336490121 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1336599076 19*	19Now talking on #outreach
+T 1336599076 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1336599076 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1336603373 22*	jercos is now known as Saddestjercos
+T 1336603653 22*	Saddestjercos is now known as jercos
+T 1336608724 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #outreach
+T 1336622623 23*	23bob_twinkles has quit (23Client exited23)
+T 1336627234 19*	19ds500ss (anonbox@hide-A375B163.adsl2.static.versatel.nl) has joined #outreach
+T 1336628358 23*	23dub has quit (23Ping timeout23)
+T 1336628386 19*	19dub (dub@AC538D7A:14240AFB:47B137A5:IP) has joined #outreach
+T 1336657599 19*	19Now talking on #outreach
+T 1336657599 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1336657599 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1336677129 23*	23ds500ss (23anonbox@hide-A375B163.adsl2.static.versatel.nl) has left #outreach
+T 1336699658 19*	19Now talking on #outreach
+T 1336699658 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1336699658 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1336713395 18<derp>	thefinn93: I believe I solved the issue of spammer accounts on the wiki. I changed the captcha from simple to Asirra which requires you to select certain animals from group of images. Mediawiki states thats the most secure captcha
+T 1336713520 18<derp>	The reason they haven't been able to actually post anything is because of the verify email before edit requirement
+T 1336713704 23*	23derp (23derp@hide-49BC4A7C.abhsia.telus.net) has left #outreach
+T 1336713806 18<Dan>	derp: hopefully your fix will help
+T 1336721928 23*	23Exavion has quit (23Connection reset by peer23)
+T 1336742154 19*	19Now talking on #outreach
+T 1336742154 29*	29Topic for #outreach 29is: Welcome to #outreach | Goals : Maintain website, promote project, co-ordinate teams
+T 1336742154 29*	29Topic for #outreach 29set by derp 29at Sun Jan 22 16:04:09 2012
+T 1336752730 19*	19Smooke (Smooke@hide-876F6647.epm.net.co) has joined #outreach
+T 1336753171 23*	23Smooke has quit (23Ping timeout23)
+T 1336753489 19*	19Smooke (Smooke@hide-876F6647.epm.net.co) has joined #outreach
+T 1336753732 23*	23Smooke has quit (23Quit: 23)
+T 1336755961 18<Dan>	omelette: you on hypeirc yet?
+T 1336757658 18<Omelette>	Get someone to make a cjdns windows client and maybe I would be
+T 1336757703 18<Omelette>	I'm fustrated that no one has been working on one, since hyperboria is totally useless to me until there is a client
+T 1336757804 18<Omelette>	In fact, I'm probably not going to be able to get a local mesh going in eburg or yakima
+T 1336757819 18<Omelette>	I got a bunch of people interested, but still, not all of them use linux
+T 1336757841 18<Omelette>	since they can't use it, it's not exactly something they are interested in
+T 1336757895 18<Omelette>	once the wireless mesh it up I guess they could, but their itnerests was waining
+T 1336758184 18<Dan>	cjd & trueshiftblue are both working on borts to windows at,
+T 1336758219 18<Dan>	cjd is attempting to get a beta copy workin as we speak actually
+T 1336758231 18<Dan>	or alpha actually
+T 1336758310 18<Omelette>	yay
+T 1336758351 18<Omelette>	It wouldn't really be a problem if I could just connect to hypberboria through an ssh tunnel
+T 1336758369 18<Omelette>	but no hypberboria addresses are accessible when I tunnel for some reason
+T 1336759046 18<Dan>	that is odd
+T 1336763253 19*	19Exavion (aloven@hide-4BB44113.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined #outreach
+T 1336767300 23*	23Omelette has quit (23Connection reset by peer23)
+T 1336767301 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #outreach

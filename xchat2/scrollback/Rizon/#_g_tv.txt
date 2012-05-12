@@ -1,0 +1,585 @@
+T 1336742167 22*	Cannot join26 #/lounge/ (Channel is invite only).
+T 1336742228 23*	23DEAFTONEGOES has quit (23Ping timeout: 240 seconds23)
+T 1336742233 19*	19cervix (~alice@Rizon-73AB9CE5.b2b2c.ca) has joined #/g/tv
+T 1336742520 19*	19Ultimation (~ultimatio@what.is.irc) has joined #/g/tv
+T 1336742520 22*	26ChanServ gives channel operator status to26 Ultimation
+T 1336742523 18<bmo>	skinnycatullus: Ficoce: Synthetic Credit. Can someone explain that in layman's terms?
+T 1336742526 18<bmo>	Synthetic credit is nothing more than a bet. It is synthetic because neither the bank nor the client directly owns the product they are betting on.
+T 1336742529 18<bmo>	I don't know enough to offer a simple example, though... maybe it is like you and I betting on what the price of Ford shares will be. Neither of us owns shares in Ford, but it is beneficial to both of us to make this bet, because it allows us to hide some of our risk from our balance sheets.
+T 1336742534 18<bmo>	Hopefully someone can help with a better example.
+T 1336742537 18<bmo>	To me, it sounds like my neighbour borrowing money from Big Vinny, and using it to take out a 2 billion dollar life insurance policy on her husband. She may, or may not, be able to pay Vinny back, but either way, it's going to end badly for the husband.
+T 1336743714 18<GEEGEEGEE>	Ultimation, FUCKING CUUUUUUNNNNNNNNNNTTTTTTTTTTTTTT
+T 1336743832 18<Ultimation>	GEEGEEGEE, u mad
+T 1336743845 18<GEEGEEGEE>	XD
+T 1336743846 18<GEEGEEGEE>	so med
+T 1336743854 18<GEEGEEGEE>	just handed in some more unfinished work
+T 1336743874 18<Gaanzi>	help me revise my discrete maths plz
+T 1336743951 18<GEEGEEGEE>	>being descrete about maths
+T 1336743952 18<GEEGEEGEE>	XDDDDDDDDDDDD
+T 1336743953 18<GEEGEEGEE>	SO DUM
+T 1336743972 18<Gaanzi>	wat
+T 1336743989 18<GEEGEEGEE>	>being descrete about maths
+T 1336743995 18<GEEGEEGEE>	XDDDDDDDDDDDD
+T 1336743997 18<GEEGEEGEE>	SO DUM
+T 1336744180 18<okand>	http://a6.sphotos.ak.fbcdn.net/hphotos-ak-snc7/412339_10150925366849595_71728584594_11642637_2111355244_o.jpg
+T 1336744188 18<okand>	These need to be activated online, right?
+T 1336744296 18*	neko-nyan just found steam zen
+T 1336744360 18<GEEGEEGEE>	no okand 
+T 1336744365 18<GEEGEEGEE>	you just wave it infront of your pc
+T 1336744368 18<GEEGEEGEE>	and it activates
+T 1336744371 19*	19Sandy (~Sandy@1B22M4K.resnet.harvard.edu) has joined #/g/tv
+T 1336744375 18<okand>	I see.
+T 1336744384 18<GEEGEEGEE>	YOU STUPID CUNT
+T 1336744412 19*	19SHAMBLER (Jurgen@Rizon-E663E09F.dhcp.ftwo.tx.charter.com) has joined #/g/tv
+T 1336744535 18<Ultimation>	GEEGEEGEE, mad that i got 100% on programming assignment?
+T 1336744563 18<GEEGEEGEE>	I got 83 percent on a module that i only turned up to 4 lectures for
+T 1336744565 18<GEEGEEGEE>	u jelly
+T 1336744585 18<Ultimation>	not rly
+T 1336744587 18<Ultimation>	you're still gunna fail
+T 1336744590 18<GEEGEEGEE>	im not
+T 1336744590 18<Macbot>	im up for anything
+T 1336744604 19*	19string (~lelwot@i.can.feel.it.down.in.my.plums) has joined #/g/tv
+T 1336744610 18<Ultimation>	shut up you snake breeder
+T 1336744614 18<Ultimation>	you mad that i banned you last night
+T 1336744633 19*	19sht (~shyt@Rizon-B5EACA5B.vf.shawcable.net) has joined #/g/tv
+T 1336744641 18<GEEGEEGEE>	 i didnt even notice
+T 1336744642 18<GEEGEEGEE>	lel
+T 1336744647 18<Ultimation>	it was after you left
+T 1336744650 18<GEEGEEGEE>	oh
+T 1336744651 18<Ultimation>	GEEGEEGEE Left (gay)
+T 1336744655 18<Ultimation>	ultimation put ban on geegeegee
+T 1336744684 18<GEEGEEGEE>	fucking housemates want me to go out with them tonight
+T 1336744690 18<Ultimation>	im going out
+T 1336744691 18<GEEGEEGEE>	fucking hate going clubs
+T 1336744692 18<Ultimation>	come out wiht me
+T 1336744694 18<Ultimation>	i'll get you drunk
+T 1336744697 18<Ultimation>	and rape you
+T 1336744699 18<GEEGEEGEE>	lel
+T 1336744699 18<Ultimation>	on the internet
+T 1336744702 18<Ultimation>	for all of /g/ to see
+T 1336744711 18<GEEGEEGEE>	what is the appeal of them tho
+T 1336744717 18<GEEGEEGEE>	cant speak to anyone since the music is too loud
+T 1336744717 18<Ultimation>	sluts
+T 1336744724 18<GEEGEEGEE>	drinks are tripple the price of pubs
+T 1336744726 18<Ultimation>	sluts
+T 1336744749 18<GEEGEEGEE>	cheaper & less effort to get a prostitute tho
+T 1336744756 18<Ultimation>	...
+T 1336744761 18<Ultimation>	you've obv never had a whore
+T 1336744764 18<Ultimation>	isnt cheaper bro
+T 1336744765 18<Ultimation>	isnt cheaper.
+T 1336744775 18<GEEGEEGEE>	i dont even think its possible to cost more
+T 1336744795 18<GEEGEEGEE>	>£15 - 20 on taxis
+T 1336744803 18<GEEGEEGEE>	>£40 on drinks
+T 1336744816 18<GEEGEEGEE>	its just pointless
+T 1336744904 22*	GEEGEEGEE has changed the topic to: http://www.dailymail.co.uk/news/article-2142557/Double-agent-helped-CIA-foil-new-Al-Qaeda-underpants-bomb-plot-British-national.html DEEL. WITH. IT.     ||     www.dailymail.co.uk/news/article-2142456/German-dropped-Mayan-skull-owned-Himmler-blame-world-ends-21-12-12.html
+T 1336744907 18<GEEGEEGEE>	www.dailymail.co.uk/news/article-2142456/German-dropped-Mayan-skull-owned-Himmler-blame-world-ends-21-12-12.html
+T 1336744911 18<GEEGEEGEE>	>breaking news like that on the bbc
+T 1336744918 18<GEEGEEGEE>	never going to happeno
+T 1336744974 22*	Ultimation sets ban on *!*GEEGEEGEE@*.M
+T 1336744974 21*	21Ultimation has kicked GEEGEEGEE from #/g/tv (retard21)
+T 1336745032 19*	19GEEGEEGEE (~GEEGEEGEE@sucks-dicks-every-day.in) has joined #/g/tv
+T 1336745032 22*	26ChanServ gives channel half-operator status to26 GEEGEEGEE
+T 1336745041 22*	GEEGEEGEE removes ban on *!*GEEGEEGEE@*.M
+T 1336745044 18<GEEGEEGEE>	wat Ultimation 
+T 1336745052 22*	26Ultimation removes channel half-operator status from26 GEEGEEGEE
+T 1336745090 22*	Ultimation sets ban on *!*GEEGEEGEE@*.in
+T 1336745090 21*	21Ultimation has kicked GEEGEEGEE from #/g/tv (GEEGEEGEE21)
+T 1336745104 22*	Ultimation sets ban on *!*@*.in
+T 1336745110 22*	Ultimation sets ban on geegeegee!*@*
+T 1336745115 23*	23Ultimation has quit (23Read error: Connection reset by peer23)
+T 1336745273 19*	19SHAMBLER_ (Jurgen@Rizon-E663E09F.dhcp.ftwo.tx.charter.com) has joined #/g/tv
+T 1336745288 23*	23SHAMBLER has quit (23Ping timeout: 240 seconds23)
+T 1336745291 22*	SHAMBLER_ is now known as SHAMBLER
+T 1336745459 18<vekin>	macbot: http://youtu.be/aptd6UJM1N0
+T 1336745459 18<Macbot>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn.
+T 1336745459 18<rms>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn. 3 views since 2012-04-22. 0 comments. n/a (0 ratings) - http://youtu.be/aptd6UJM1N0 - Cached from 2012-05-11 08:41:43
+T 1336745459 18<Macbot>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn.
+T 1336745462 18<rms>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn. 3 views since 2012-04-22. 0 comments. n/a (0 ratings) - http://youtu.be/aptd6UJM1N0 - Cached from 2012-05-11 08:41:43
+T 1336745462 18<Macbot>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn.
+T 1336745466 18<rms>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn. 3 views since 2012-04-22. 0 comments. n/a (0 ratings) - http://youtu.be/aptd6UJM1N0 - Cached from 2012-05-11 08:41:43
+T 1336745466 21*	21Macbot has kicked rms from #/g/tv (Stop abusing me!21)
+T 1336745466 18<Macbot>	Stop abusing me!
+T 1336745466 19*	19rms (~rms@G.N.U) has joined #/g/tv
+T 1336745474 18<rms>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn. 3 views since 2012-04-22. 0 comments. n/a (0 ratings) - http://youtu.be/aptd6UJM1N0 - Cached from 2012-05-11 08:41:43
+T 1336745474 18<Macbot>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn.
+T 1336745477 18<rms>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn. 3 views since 2012-04-22. 0 comments. n/a (0 ratings) - http://youtu.be/aptd6UJM1N0 - Cached from 2012-05-11 08:41:43
+T 1336745477 18<Macbot>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn.
+T 1336745481 18<rms>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn. 3 views since 2012-04-22. 0 comments. n/a (0 ratings) - http://youtu.be/aptd6UJM1N0 - Cached from 2012-05-11 08:41:43
+T 1336745481 18<Macbot>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: greasedupdeafguy1
+T 1336745484 18<rms>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn. 3 views since 2012-04-22. 0 comments. n/a (0 ratings) - http://youtu.be/aptd6UJM1N0 - Cached from 2012-05-11 08:41:43
+T 1336745484 18<Macbot>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn.
+T 1336745486 18<rms>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn. 3 views since 2012-04-22. 0 comments. n/a (0 ratings) - http://youtu.be/aptd6UJM1N0 - Cached from 2012-05-11 08:41:43
+T 1336745486 18<Macbot>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn.
+T 1336745489 18<rms>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn. 3 views since 2012-04-22. 0 comments. n/a (0 ratings) - http://youtu.be/aptd6UJM1N0 - Cached from 2012-05-11 08:41:43
+T 1336745489 18<Macbot>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn.
+T 1336745492 18<rms>	01,00You00,04Tube "macbot: http://youtu.be/aptd6UJM1N0" (00:04) By: vekinn. 3 views since 2012-04-22. 0 comments. n/a (0 ratings) - http://youtu.be/aptd6UJM1N0 - Cached from 2012-05-11 08:41:43
+T 1336745493 21*	21Macbot has kicked rms from #/g/tv (Stop abusing me!21)
+T 1336745493 18<Macbot>	Stop abusing me!
+T 1336745494 19*	19rms (~rms@G.N.U) has joined #/g/tv
+T 1336745977 23*	23dre has quit (23Quit: leaving23)
+T 1336747497 23*	23Jkid has quit (23Ping timeout: 240 seconds23)
+T 1336747860 19*	19Code-Zombie (~IBMT21@Good.Job.Jeremy) has joined #/g/tv
+T 1336747860 18<shadertest>	13CO4DE8-Z9OM11BI12E 13SU4CK8S 9DI11CK12S
+T 1336747860 18<AnalogKid>	5C5O4D4E7-7Z8O8M9B9I3E3 10S10U11C11K12S12 2D2I6C6K13S
+T 1336747860 18<chown>	13CO4DE8-Z9OM11BI12E 13SU4CK8S 9DI11CK12S
+T 1336747861 18<Macbot>	5C5O4D4E7-7Z8O8M9B9I3E3 10S10U11C11K12S12 2D2I6C6K13S
+T 1336747864 18<Code-Zombie>	holy
+T 1336747865 18<Code-Zombie>	fuck
+T 1336747866 18<Code-Zombie>	yes
+T 1336747868 18<Code-Zombie>	http://www.gimp.org/release-notes/gimp-2.8.html
+T 1336747870 18<Code-Zombie>	them new features
+T 1336747876 18<Code-Zombie>	brb not changing to cs6
+T 1336747879 18<Code-Zombie>	staying with gimp
+T 1336747909 19*	19Noxialis (~nokshalee@tired.of.mere.fantasy) has joined #/g/tv
+T 1336747909 22*	26ChanServ gives channel half-operator status to26 Noxialis
+T 1336748090 23*	23Code-Zombie has quit (2323)
+T 1336748156 23*	23Noxialis has quit (23Read error: Connection reset by peer23)
+T 1336748332 19*	19Noxialis (~nokshalee@tired.of.mere.fantasy) has joined #/g/tv
+T 1336748332 22*	26ChanServ gives channel half-operator status to26 Noxialis
+T 1336748344 18<vekin>	SPOILERS
+T 1336748350 18<vekin>	ELANE GOT TURNED INTO A VAMPIRE
+T 1336748354 18<vekin>	OH LAAWWDYYYYYY
+T 1336748356 18<vekin>	( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
+T 1336748482 19*	19Nillixia (~Nillixia@my.other.car.is.a.cdr) has joined #/g/tv
+T 1336748543 18<Sawako>	http://30.media.tumblr.com/tumblr_m2ti2oXqqi1qbh3k2o1_1280.jpg
+T 1336749060 19*	19Kurtov_ (~Kurtov__@Rizon-EB929B7D.eburwd4.vic.optusnet.com.au) has joined #/g/tv
+T 1336749073 18<s3krit>	so like, is stallman still alive?
+T 1336749078 23*	23Kurtov_ has quit (2323)
+T 1336749081 23*	23Kurtov has quit (23Quit: Leaving23)
+T 1336749101 19*	19Kurtov (~Kurtov__@Rizon-EB929B7D.eburwd4.vic.optusnet.com.au) has joined #/g/tv
+T 1336749193 23*	23Sudos|PBG4 has quit (23Quit: MacIrssi running on OSX 10.4.11 on an original, ancient 2001 Ti Powerbook G4 500MHz.23)
+T 1336749655 19*	19i5 (~Kirisame@dont.call.me.gaga) has joined #/g/tv
+T 1336749730 19*	19Siouxsie (~FISH_CAT@all.these.moments.will.be.lost.in.time.like.tears.in.rain) has joined #/g/tv
+T 1336749787 23*	23Marisa has quit (23Ping timeout: 240 seconds23)
+T 1336750105 18<AnalogKid>	www.darkartzentertainment.com/about/
+T 1336750111 18<AnalogKid>	MY SIDES
+T 1336750182 23*	23Siouxsie has quit (2323)
+T 1336750304 23*	23i5 has quit (23Ping timeout: 240 seconds23)
+T 1336750332 23*	23Kurtov has quit (23Read error: Connection reset by peer23)
+T 1336750390 23*	23AnalogKid has quit (23Quit: Leaving23)
+T 1336750901 18<Gaanzi>	whois orb
+T 1336750905 18<Gaanzi>	lel
+T 1336750907 23*	23SHAMBLER has quit (23Remote host closed the connection23)
+T 1336751076 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/tv
+T 1336751293 23*	23Noxialis has quit (23Ping timeout: 240 seconds23)
+T 1336751346 19*	19Noxialis (~nokshalee@tired.of.mere.fantasy) has joined #/g/tv
+T 1336751346 22*	26ChanServ gives channel half-operator status to26 Noxialis
+T 1336751383 23*	23Noxialis has quit (23Read error: Connection reset by peer23)
+T 1336751618 19*	19Noxialis (~nokshalee@tired.of.mere.fantasy) has joined #/g/tv
+T 1336751618 22*	26ChanServ gives channel half-operator status to26 Noxialis
+T 1336751816 18<cervix>	Are there any tablet pcs like ipad or playbook that can use pens with pressure sensitivity and accuracy, like wacom tablets?
+T 1336751905 23*	23Noxialis has quit (23Read error: Connection reset by peer23)
+T 1336751966 18<Gaanzi>	x220
+T 1336752744 19*	19Ultimation (~ultimatio@what.is.irc) has joined #/g/tv
+T 1336752744 22*	26ChanServ gives channel operator status to26 Ultimation
+T 1336752762 23*	23Sandy has quit (23Read error: Connection reset by peer23)
+T 1336752889 22*	Ultimation removes ban on geegeegee!*@*
+T 1336752899 22*	Ultimation removes ban on *!*@*.in
+T 1336752909 22*	Ultimation removes ban on *!*GEEGEEGEE@*.in
+T 1336752918 19*	19GEEGEEGEE (~GEEGEEGEE@WMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWWM.M) has joined #/g/tv
+T 1336752918 22*	26ChanServ gives channel half-operator status to26 GEEGEEGEE
+T 1336752925 18<Ultimation>	GEEGEEGEE, mad
+T 1336752932 18<GEEGEEGEE>	nigger
+T 1336752946 18<GEEGEEGEE>	trying to get some sleep before going out tonight
+T 1336752950 18<GEEGEEGEE>	it isnt working though
+T 1336752956 18<GEEGEEGEE>	so fucking tired
+T 1336752958 18<GEEGEEGEE>	yet cant sleep
+T 1336752958 18<Macbot>	not yet received the final count from Bridgeport, with nickserv?
+T 1336753081 18<GEEGEEGEE>	Ultimation, what ssd u got?
+T 1336753089 18<Ultimation>	vertex 2 120gb iirc
+T 1336753103 18<GEEGEEGEE>	got 300 glorious pounds to spend
+T 1336753154 18<Ultimation>	Get a pci one
+T 1336753207 18<Ultimation>	the one which is like
+T 1336753208 18<Ultimation>	1000mbs
+T 1336753230 19*	19Noxialis (~nokshalee@tired.of.mere.fantasy) has joined #/g/tv
+T 1336753230 22*	26ChanServ gives channel half-operator status to26 Noxialis
+T 1336753232 18<GEEGEEGEE>	dunno weather to get a new graphics card isntead tho
+T 1336753237 18<GEEGEEGEE>	since my crossfire stoped working
+T 1336753243 18<Gaanzi>	>ati
+T 1336753243 18<Ultimation>	get a gtx690
+T 1336753252 18<GEEGEEGEE>	how much are they
+T 1336753252 18<Gaanzi>	get a 670
+T 1336753265 18<Ultimation>	about 800 quid
+T 1336753267 18<GEEGEEGEE>	>1000 usd
+T 1336753268 18<GEEGEEGEE>	lel
+T 1336753272 18<GEEGEEGEE>	FUQ
+T 1336753272 18<GEEGEEGEE>	DAT
+T 1336753343 18<Gaanzi>	hey GEEGEEGEE http://lindsaylohanthony.tumblr.com/post/19356553804/dont-watch-this-unless-you-wanna-see-me-bounce
+T 1336753352 18<GEEGEEGEE>	i dont wanna c u bounce bro
+T 1336753356 18<Gaanzi>	do it
+T 1336753364 18<GEEGEEGEE>	need to find remote
+T 1336753367 18<GEEGEEGEE>	for speakers
+T 1336753386 22*	GEEGEEGEE has changed the topic to: <Gaanzi> hi, my names anthony, i love pizza, and britney spears. 8 here.
+T 1336753396 18<Gaanzi>	xD
+T 1336753412 18<GEEGEEGEE>	is he gay or something
+T 1336753420 18<Gaanzi>	dunno
+T 1336753426 18<GEEGEEGEE>	looks pretty gay
+T 1336753427 18<Gaanzi>	he reads the bible he can't be gay
+T 1336753438 18<GEEGEEGEE>	OH GOD
+T 1336753439 18<GEEGEEGEE>	THE
+T 1336753440 18<GEEGEEGEE>	FUCKM
+T 1336753452 18<GEEGEEGEE>	hes going to suck dicks for a living
+T 1336753454 18<GEEGEEGEE>	i can tell
+T 1336753482 18<GEEGEEGEE>	i hope someone finds this when hes like 20 and looking for ajob
+T 1336753579 23*	23jebus has quit (23Ping timeout: 240 seconds23)
+T 1336753589 19*	19jebus (~n@Rizon-4F47080B.telefonia.intercable.net) has joined #/g/tv
+T 1336753645 23*	23string has quit (23Quit: Leaving23)
+T 1336753718 18<Ultimation>	GEEGEEGEE, http://fap.to/images/full/43/396/396520937.jpg
+T 1336753726 18<GEEGEEGEE>	the fuck
+T 1336753771 18<Ultimation>	http://fap.to/images/full/43/115/115219471.jpg
+T 1336753797 18<Ultimation>	http://www.imagefap.com/pictures/2153115/Arm-wrestling-at-the-CBT-club there you go
+T 1336753834 22*	Ultimation has changed the topic to: <Gaanzi> hi, my names anthony, i love pizza, and britney spears. 8 here. | GEEGEEGEEs dick http://fap.to/images/full/39/193/1930962235.jpg
+T 1336753858 18<GEEGEEGEE>	why the fuck would u do that to your own dick
+T 1336753861 18<GEEGEEGEE>	so fucking strange
+T 1336753866 18<Ultimation>	girl does it bro
+T 1336753878 18<Gaanzi>	http://www.youtube.com/watch?v=M0obV1rvEQI
+T 1336753880 18<Gaanzi>	HOLY FUK
+T 1336753880 18<rms>	01,00You00,04Tube "KT롤스터 이영호 스타2 연습 장면 (KT Flash's SC2 play)" (06:51) By: esportschosun. 260 views since 2012-05-11. 2 comments. 5.0/5 (11 ratings) - http://youtu.be/M0obV1rvEQI
+T 1336753881 18<Macbot>	5.0/5 (11 ratings) - http://youtu.be/yiLrJBHiSzM
+T 1336753882 18<Ultimation>	well some to themselves
+T 1336753884 18<rms>	01,00You00,04Tube "You Dropped A Bomb On Me - The Gap Band" (04:01) By: discolarry124. 1,263 views since 2011-10-28. 5 comments. 5.0/5 (11 ratings) - http://youtu.be/yiLrJBHiSzM - Cached from 2012-05-11 01:44:57
+T 1336753966 18<Gaanzi>	>mfw flash has the same hotkeys as me
+T 1336754020 18<GEEGEEGEE>	flash chobo
+T 1336754026 18<GEEGEEGEE>	i destroy him regularly on ladder
+T 1336754082 18<SeventyTwo>	oh
+T 1336754083 18<SeventyTwo>	you got
+T 1336754084 18<SeventyTwo>	unbanned
+T 1336754139 18<Gaanzi>	I can't believe flash is actually playing sc2 now
+T 1336754158 18<GEEGEEGEE>	isnt there more money in sc2 than sc1
+T 1336754167 18<Gaanzi>	yeah that and bw is dead now
+T 1336754167 18<Macbot>	you wouldnt see me dead in 8 inch heels sis
+T 1336754178 18<GEEGEEGEE>	ikr Macbot 
+T 1336754178 18<Macbot>	.u ikr
+T 1336754196 18<Gaanzi>	since proleague is over forever
+T 1336754350 23*	23SeventyTwo has quit (23Ping timeout: 240 seconds23)
+T 1336754536 23*	23asdfman has quit (2323)
+T 1336754551 18<GEEGEEGEE>	just ordered 2 24 inch monitors Ultimation 
+T 1336754555 18<GEEGEEGEE>	cba buying hardware
+T 1336754557 18<Ultimation>	GEEGEEGEE, why
+T 1336754561 18<GEEGEEGEE>	hardly every play games anyway
+T 1336754562 18<Ultimation>	>implying they're not hardware
+T 1336754568 18<GEEGEEGEE>	but
+T 1336754573 18<GEEGEEGEE>	monitors last longer than graphics cards
+T 1336754629 19*	19asdfman (~as@df.man) has joined #/g/tv
+T 1336754787 19*	19SeventyTwo (~SeventyTw@fuk.u.up.tho.lol.waste.gash) has joined #/g/tv
+T 1336755069 23*	23BEARHELLO has quit (23Ping timeout: 240 seconds23)
+T 1336755299 18<GEEGEEGEE>	nerrrrrrrrddddddddsssssss
+T 1336755354 18<fryingpants>	[9:36:23 AM] GEEGEEGEE: U FUCKING
+T 1336755354 18<fryingpants>	[9:36:23 AM] GEEGEEGEE: CUNT
+T 1336755354 18<fryingpants>	[9:36:37 AM] GEEGEEGEE: >open laptop during demonstration for lecturer
+T 1336755354 18<fryingpants>	[9:36:40 AM] GEEGEEGEE: >SEIG
+T 1336755354 18<fryingpants>	[9:36:41 AM] GEEGEEGEE: >HEIL
+T 1336755355 18<fryingpants>	[9:36:45 AM] GEEGEEGEE: pops up in corner
+T 1336755358 18<fryingpants>	hahhaa
+T 1336755365 18<GEEGEEGEE>	yeh 
+T 1336755369 18<GEEGEEGEE>	cunt
+T 1336755410 18<fryingpants>	did u tell everyone to vote bnp
+T 1336755422 18<GEEGEEGEE>	lol
+T 1336756166 23*	23netwoodle has quit (23Connection closed23)
+T 1336756371 19*	19Sandy (~Sandy@1B22M4K.resnet.harvard.edu) has joined #/g/tv
+T 1336756386 19*	19Erotica (~Erotica@Rizon-4B664E90.static.exetel.com.au) has joined #/g/tv
+T 1336756404 19*	19cocaine (~cocaine@chug.chug.chug.chug) has joined #/g/tv
+T 1336757578 19*	19Cheeseum (~cheddar@aged.for.fifteen.to.nineteen.months) has joined #/g/tv
+T 1336757578 22*	26ChanServ gives channel half-operator status to26 Cheeseum
+T 1336757682 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/g/tv
+T 1336757821 18<neko-nyan>	does anyoen know if bare durids are good right now?
+T 1336757831 18<fryingpants>	* netwoodle has quit (Connection closed)
+T 1336757885 23*	23Sandy has quit (23Read error: Connection reset by peer23)
+T 1336757997 18<[BR]Smurph>	GEEGEEGEE: what
+T 1336757999 18<[BR]Smurph>	explain this
+T 1336758028 18<[BR]Smurph>	did you have IRC open
+T 1336758037 18<[BR]Smurph>	and somebody did figlet
+T 1336758080 22*	wutno`dead is now known as wutno
+T 1336758174 19*	19netwoodle (~noodle@noodle.noodle.noodle) has joined #/g/tv
+T 1336758460 22*	wutno is now known as wutno`dead
+T 1336759542 18<GEEGEEGEE>	[BR]Smurph, on skype
+T 1336759546 18<GEEGEEGEE>	i dont have my laptop turned on normaly
+T 1336759553 18<GEEGEEGEE>	and it popoped up when skype started
+T 1336759625 18<[BR]Smurph>	wat
+T 1336759774 18<SeventyTwo>	http://www.evga.com/forums/tm.aspx?m=1590564
+T 1336759781 18<SeventyTwo>	THE RICE GODS SHINE ON US THIS DAY
+T 1336759878 19*	19KingSage (~KingSage@alcohol.and.narcotics) has joined #/g/tv
+T 1336759944 18<GEEGEEGEE>	lel
+T 1336759947 18<GEEGEEGEE>	leeeeel
+T 1336759948 18<GEEGEEGEE>	oh god
+T 1336759953 18<GEEGEEGEE>	imagine the /g/ threads
+T 1336759986 18<SeventyTwo>	make one.
+T 1336759989 23*	23Erotica has quit (23Read error: Connection reset by peer23)
+T 1336759998 18<GEEGEEGEE>	kk nigga
+T 1336760012 19*	19Erotica (~Erotica@y.u.no.vhost) has joined #/g/tv
+T 1336760203 18<GEEGEEGEE>	FLOOD DETECTED LEL
+T 1336760204 18<fryingpants>	http://www.youtube.com/watch?feature=endscreen&NR=1&v=zoezd1_q_zI
+T 1336760209 18<rms>	01,00You00,04Tube "Act Of Violence - Veritas - When Germany Goes Down" (04:42) By: odinskrieg. 424 views since 2010-11-01. 0 comments. 5.0/5 (3 ratings) - http://youtu.be/zoezd1_q_zI
+T 1336760214 18<fryingpants>	GEEGEEGEE, 
+T 1336760216 18<fryingpants>	what did people say
+T 1336760227 18<GEEGEEGEE>	nothing but they all looked
+T 1336760251 18<fryingpants>	lol
+T 1336760269 18<GEEGEEGEE>	Error: Flood detected.
+T 1336760270 18<GEEGEEGEE>	FUCK OFF
+T 1336760321 18<GEEGEEGEE>	what the fuck is this flood thing
+T 1336760341 18<ScottSteiner>	http://thenextweb.com/mobile/2012/05/11/apples-siri-the-best-smartphone-ever-is-the-nokia-lumia-900-wait-what/
+T 1336760443 18<fryingpants>	GEEGEEGEE,  flood on where
+T 1336760448 18<GEEGEEGEE>	/g/
+T 1336760449 18<fryingpants>	o
+T 1336760455 18<fryingpants>	do u use 4chan x
+T 1336760460 18<fryingpants>	there is a 30 second limit per post
+T 1336760466 18<GEEGEEGEE>	no
+T 1336760471 18<GEEGEEGEE>	go on 4chan about once a month
+T 1336760473 18<fryingpants>	4chan x does the count down for u
+T 1336760477 18<fryingpants>	its v. convenient
+T 1336760747 18<Vanquish>	hey
+T 1336760753 18<Vanquish>	is there a way to see private fb albums
+T 1336760930 18<SeventyTwo>	No
+T 1336760932 18<Politik>	yes
+T 1336760934 18<Politik>	probably
+T 1336760937 18<fryingpants>	ya
+T 1336760944 18<fryingpants>	but they dont advertise how to do it
+T 1336760949 18<fryingpants>	cuz otherwise it would be fixed
+T 1336761917 18<Vanquish>	fryingpants do you know how then
+T 1336761924 18<Vanquish>	I wont tell anyone
+T 1336761931 18<Vanquish>	im just bored and stuff
+T 1336761934 18<Vanquish>	and theres this girl
+T 1336761963 18<jebus>	gonna need them rose dickpix
+T 1336761969 18<Vanquish>	lol
+T 1336762073 18<Politik>	gotta see if that girl is really a girl
+T 1336762077 18<Politik>	eh
+T 1336762137 19*	19Jkid (~Jkid@no.social.life.king) has joined #/g/tv
+T 1336762157 23*	23Garfunkel has quit (23Quit: Leaving23)
+T 1336762168 18<Vanquish>	wat
+T 1336762275 23*	23cocaine has quit (23Remote host closed the connection23)
+T 1336762345 23*	23jebus has quit (2323)
+T 1336762598 18<GEEGEEGEE>	i know how Vanquish 
+T 1336762611 18<Vanquish>	do you now
+T 1336762622 18<GEEGEEGEE>	REPOOST DIS AND PREZZ F6 AND HER NAME WULL APPEER ON SCREEN
+T 1336762633 18<Vanquish>	really
+T 1336762633 18<Vanquish>	oh
+T 1336763052 18<neko-nyan>	http://images.4chan.org/hm/src/1336762201264.gif
+T 1336763204 22*	GEEGEEGEE has changed the topic to: http://www.reddit.com/r/circlejerk/comments/ticgi/piracy_cures_cancer_and_is_good_for_the_economy/
+T 1336763335 19*	19Sandy (~Sandy@1B22M4K.resnet.harvard.edu) has joined #/g/tv
+T 1336763433 18<fryingpants>	Vanquish,  no i dont kno how
+T 1336763433 18<Macbot>	No i dont want fun..
+T 1336763435 18<fryingpants>	im not a hacker
+T 1336763475 18<Vanquish>	well
+T 1336763477 18<Vanquish>	there is no way
+T 1336763530 22*	GEEGEEGEE has changed the topic to: http://www.reddit.com/r/circlejerk/comments/ticgi/piracy_cures_cancer_and_is_good_for_the_economy/     ||          http://i.dailymail.co.uk/i/pix/2012/05/11/article-2143134-130BE54F000005DC-883_634x845_popup.jpg
+T 1336763564 18<Vanquish>	wow
+T 1336763625 18<GEEGEEGEE>	yeh
+T 1336763626 18<GEEGEEGEE>	deal
+T 1336763627 18<GEEGEEGEE>	with
+T 1336763628 18<GEEGEEGEE>	i
+T 1336763628 18<GEEGEEGEE>	t
+T 1336763638 18<GEEGEEGEE>	you will never live in a country with a dutchess this good looking
+T 1336763661 19*	19Xylitol (~Xylitol@Rizon-1F7F8D30.net-81-220-251.rev.numericable.fr) has joined #/g/tv
+T 1336763666 18<Vanquish>	http://arstechnica.com/tech-policy/2012/05/netherlands-becomes-worlds-second-net-neutrality-country/
+T 1336763669 18<Vanquish>	get on our level GEEGEEGEE 
+T 1336763824 18<MoistGorilla>	old news
+T 1336763843 18<MoistGorilla>	pedophilia legal in New York goml
+T 1336763891 19*	19MikuBot (shadertest@Rizon-9744EACD.shadertest.ca) has joined #/g/tv
+T 1336763972 19*	19crunchyroll (~crunchyro@being.a.geek.is.like.being.the.new.rockstars) has joined #/g/tv
+T 1336764250 18<crunchyroll>	http://behindthewall.msnbc.msn.com/_news/2012/05/07/11580943-chinese-students-use-iv-drips-while-test-cramming
+T 1336764251 18<MikuBot>	curl returned 18 (Transferred a partial file)
+T 1336764259 18<crunchyroll>	lol
+T 1336764266 18<crunchyroll>	this is the stupidest thing i've ever seen
+T 1336764321 18<crunchyroll>	http://offbeatchina.com/eye-opening-senior-high-school-classroom-full-of-iv-drip-bottles-in-china
+T 1336764325 18<MikuBot>	[3URI] Eye Opening : Senior High School Classroom Full of IV Drip Bottles in China | Offbeat China
+T 1336764334 18<MoistGorilla>	That's brilliant
+T 1336764352 18<MoistGorilla>	Talk about efficiency
+T 1336764489 18<GEEGEEGEE>	OLD crunchyroll 
+T 1336764520 18<Erotica>	3>china
+T 1336764526 18<crunchyroll>	GEEGEEGEE: ur old
+T 1336764545 18<crunchyroll>	nird
+T 1336764558 22*	wutno`dead is now known as wutno
+T 1336764626 19*	19Gublet (~Gublet@Rizon-CDAC167B.dhcp.insightbb.com) has joined #/g/tv
+T 1336764693 18<Aenigma>	do you fags have something to do with the tea party thing
+T 1336764759 23*	23cervix has quit (23Ping timeout: 240 seconds23)
+T 1336764825 19*	19cervix (~alice@Rizon-73AB9CE5.b2b2c.ca) has joined #/g/tv
+T 1336764838 18<cervix>	damn those nargles
+T 1336764851 18<cervix>	i had to buy new pairs of socks
+T 1336765062 18<GEEGEEGEE>	got to stay awake for another  6 hours
+T 1336765076 18<GEEGEEGEE>	been up for 17 hours now
+T 1336765150 18<crunchyroll>	go to sleep GEEGEEGEE 
+T 1336765153 18<crunchyroll>	ur tired
+T 1336765158 18<GEEGEEGEE>	getting drunk tho crunchyroll 
+T 1336765160 18<crunchyroll>	u want to be in bed right now
+T 1336765249 18<wutno>	crunchyroll: L4D?
+T 1336765276 23*	23MoistGorilla has quit (23Remote host closed the connection23)
+T 1336765371 19*	19MoistGorilla (~victor@Rizon-4722332F.mia.bellsouth.net) has joined #/g/tv
+T 1336765954 23*	23cervix has quit (23Ping timeout: 240 seconds23)
+T 1336765968 19*	19cervix (~alice@Rizon-73AB9CE5.b2b2c.ca) has joined #/g/tv
+T 1336765976 18<wutno>	Would you ever use this mobo? https://images.4chan.org/g/src/1336765320298.jpg
+T 1336765976 18<MikuBot>	[3URI] 'image/jpeg' 219.94 KiB
+T 1336766050 18<cervix>	how do you install a heat sink for the cpu?
+T 1336766061 18<cervix>	it seems the socket is missing something
+T 1336766116 18<fryingpants>	do u not see the two holes
+T 1336766144 18<fryingpants>	thats where the heatsink attachs
+T 1336766153 18<cervix>	I thought AM2+ sockets were different
+T 1336766163 18<cervix>	that's an AM2+ right?
+T 1336766168 18<fryingpants>	i dnno
+T 1336766170 18<Gublet>	is that integrated graphics?
+T 1336766173 18<Gublet>	fucking plebmobo
+T 1336766205 19*	19RocketLauncher (~Steve@shelf.is.my.friend) has joined #/g/tv
+T 1336766205 22*	26ChanServ gives voice to26 RocketLauncher
+T 1336766220 18<cervix>	Also it's too big for so few connectors and slots, should be microATX
+T 1336766278 18<fryingpants>	better to be big
+T 1336766289 18<cervix>	meh
+T 1336766315 18<cervix>	also the DC-DC converter for the cpu looks cheap. probably no more than 75W cpu supported or something
+T 1336766405 18<cervix>	the buck converter has a heat sink for the mosfets, which is good, but still it's only 4 phases and the capacitors look cheap
+T 1336766529 18<RocketLauncher>	i should open up my window and toss those nigra kids playing basketball a piece of fried chicken
+T 1336766542 23*	23crunchyroll has quit (23Ping timeout: 240 seconds23)
+T 1336766621 18<cervix>	i wonder
+T 1336766633 18*	Ultimation bashes his penis against cervix 
+T 1336766724 18*	cervix knows the pleasure of being cummed inside
+T 1336766787 22*	wutno is now known as wutno`dead
+T 1336766806 22*	Kagami is now known as RJ45_
+T 1336766809 19*	19BEARHELLO (~BEARHELLO@Rizon-8A12A5EA.hsd1.va.comcast.net) has joined #/g/tv
+T 1336767179 18<RocketLauncher>	BEARS DONT SAY HELLO
+T 1336767254 23*	23Gublet has quit (23Read error: Connection reset by peer23)
+T 1336767340 19*	19crunchyroll (~crunchyro@being.a.geek.is.like.being.the.new.rockstars) has joined #/g/tv
+T 1336767354 18<crunchyroll>	GEEGEEGEE: listen to sum one direction bro
+T 1336767358 18<crunchyroll>	it's good shit
+T 1336767363 18<crunchyroll>	will expand ur mind
+T 1336767389 18<fryingpants>	sum 41
+T 1336767390 18<fryingpants>	?
+T 1336767484 18<Ultimation>	fryingpants, whats wrong with sum 41
+T 1336767488 18<yaiu>	12N2o2r6t6h13 13K5o5r4e4a7 7N8S8A9 9S3A3F10E10 11A11l12 12A2m2n6 6a13l13-5A5s4k4a7r7i8 8N9o9r3i3e10g10a11 11E12u12r2o2p6o6l13 
+T 1336767661 18<Ultimation>	PUNK IN YO FACE WHORE
+T 1336767675 18<yaiu>	r u 14?
+T 1336767680 18<Ultimation>	no, fuck you
+T 1336767691 18<Ultimation>	im older than you yaiu we have discussed this already
+T 1336767699 18<yaiu>	o ok
+T 1336767705 18<Ultimation>	how old are you again?
+T 1336767710 18<yaiu>	12/f/japan
+T 1336767717 22*	26Ultimation removes channel operator status from26 yaiu
+T 1336767717 22*	Ultimation sets ban on *!*@*.you.a.wizard
+T 1336767717 21*	21Ultimation has kicked yaiu from #/g/tv (yaiu21)
+T 1336767731 22*	Ultimation removes ban on *!*@*.you.a.wizard
+T 1336767735 19*	19yaiu (~yaiu@are.you.a.wizard) has joined #/g/tv
+T 1336767735 22*	26ChanServ gives channel operator status to26 yaiu
+T 1336767745 22*	Ultimation sets exempt on ultimation!*@*
+T 1336767745 22*	flaarg removes exempt on ultimation!*@*
+T 1336767745 18<yaiu>	problem?
+T 1336767749 18<Ultimation>	nah
+T 1336767754 22*	26Ultimation removes channel half-operator status from26 flaarg
+T 1336767761 22*	Ultimation sets exempt on ultimation!*@*
+T 1336767770 22*	Ultimation sets exempt on *!*@*is.irc*
+T 1336767777 22*	26Ultimation gives channel half-operator status to26 flaarg
+T 1336767901 18<Ultimation>	yaiu, dance for me pretty girl
+T 1336768086 18<yaiu>	ヽ(´ー`)人(´∇｀)人(`Д´)ノ
+T 1336768097 18*	Jan grope yaiu 
+T 1336768099 18*	Ultimation dances with yaiu 
+T 1336768103 18*	Ultimation steps on yaius toe
+T 1336768112 18<yaiu>	＼| ￣ヘ￣|／＿＿＿＿＿＿＿θ☆( *o*)/
+T 1336768132 18<Jan>	^yaiu                          ^Ultimation
+T 1336768187 18<Ultimation>	that didnt hilight
+T 1336768187 18<Ultimation>	weird
+T 1336768245 18<Jan>	because alsdfjlkasjfUltiomation is not
+T 1336768250 18<Jan>	               Ultimation 
+T 1336768271 18<Ultimation>	that did
+T 1336768333 18<Jan>	only the second one
+T 1336768339 18<Ultimation>	yes
+T 1336768873 22*	Sawako is now known as Sawako_
+T 1336768891 22*	Sawako_ is now known as Sawako
+T 1336768989 23*	23crunchyroll has quit (23Ping timeout: 240 seconds23)
+T 1336769190 23*	23Ultimation has quit (23Read error: Connection reset by peer23)
+T 1336769250 23*	23fryingpants has quit (23Ping timeout: 240 seconds23)
+T 1336769901 18<tab>	No, I don't. I actually respect the characters and see them as my friends so fapping to them is out of the question, especially when there's no reason to see them that way in the first place considering that there's zero fanservice or sexualizing within the anime. It's on par with masturbating to the Hidamari girls or Yotsuba. 
+T 1336769902 18<tab>	It's kind of sad that this is what K-ON threads have turned into now. No discussion, all the real fans are gone. Just fakers pretending to be fans so that they can annoy everybody who cares. Get the fuck out.
+T 1336770018 18<Anyamaru>	Hyouka has jam-toast references.
+T 1336770030 23*	23Gaanzi has quit (2323)
+T 1336770205 23*	23Sandy has quit (23Read error: Connection reset by peer23)
+T 1336770346 19*	19lux (~lux@Rizon-380A6F5F.bb.sky.com) has joined #/g/tv
+T 1336770669 23*	23tarabluh has quit (23Ping timeout: 240 seconds23)
+T 1336770716 19*	19crunchyroll (~crunchyro@being.a.geek.is.like.being.the.new.rockstars) has joined #/g/tv
+T 1336771447 19*	19Marisa (~Kirisame@Forest.of.Magic) has joined #/g/tv
+T 1336771549 19*	19string (~lelwot@i.can.feel.it.down.in.my.plums) has joined #/g/tv
+T 1336771733 23*	23lux has quit (23Ping timeout: 240 seconds23)
+T 1336771880 19*	19i5 (~Kirisame@dont.call.me.gaga) has joined #/g/tv
+T 1336771933 19*	19theminimalist (~theminima@DA67B2A6.13AB4A9E.3D9B4F4F.IP) has joined #/g/tv
+T 1336771983 23*	23Marisa has quit (23Ping timeout: 240 seconds23)
+T 1336771987 18<netwoodle>	If I gave somebody my address, would they "raid" me and send me a pizza?
+T 1336772028 18<vekin>	no they will just come hide little bowls of antifreeze around your house to kill your pets
+T 1336772032 18<netwoodle>	and dragon dildos
+T 1336772041 18<netwoodle>	oh,
+T 1336772041 18<netwoodle>	okay
+T 1336772042 23*	23BEARHELLO has quit (23Ping timeout: 240 seconds23)
+T 1336772057 18<vekin>	or just like
+T 1336772069 18<vekin>	pour finely ground glass around  your door frame
+T 1336772073 18<vekin>	so you inhale it when you leave
+T 1336772088 18<vekin>	would feel like a minor cough for the first minute or so
+T 1336772099 18<vekin>	then your lungs would fill with fluid and you would drown
+T 1336772122 18<theminimalist>	sounds like a badass way to die
+T 1336772133 18<netwoodle>	That..
+T 1336772134 18<netwoodle>	hmm
+T 1336772214 18<netwoodle>	Possibly
+T 1336772227 18<vekin>	or they could always just stalk you till you are in a crowd
+T 1336772233 18<vekin>	and slip an iron wire into your kidney
+T 1336772262 19*	19Marisa (~Kirisame@Forest.of.Magic) has joined #/g/tv
+T 1336772269 18<vekin>	the kind that are losely bound
+T 1336772274 18<vekin>	so that as it goes in it spreads
+T 1336772285 18<vekin>	ruptures the shit out of your kidney
+T 1336772285 18<Macbot>	shot the shit out of your drunken state
+T 1336772375 23*	23i5 has quit (23Ping timeout: 240 seconds23)
+T 1336772456 18<tab>	twisted & edgy xD did i freak you out guise
+T 1336772539 19*	19Jedi-Mocro (~Jedi-Mocr@jedi.mocro.ninja) has joined #/g/tv
+T 1336772619 23*	23theminimalist has quit (23Quit: WeeChat 0.3.723)
+T 1336772959 19*	19strung (~lelwot@Rizon-8E7435E6.cust-11682.ip.static.uno.uk.net) has joined #/g/tv
+T 1336772985 19*	19i5 (~Kirisame@B77EF40E.C074E9A3.3368CC3F.IP) has joined #/g/tv
+T 1336773052 23*	23Jedi-Mocro has quit (2323)
+T 1336773070 19*	19Jedi-Mocro (~Jedi-Mocr@jedi.mocro.ninja) has joined #/g/tv
+T 1336773098 19*	19Rainbow_Dash (~milkshake@is.homosexual) has joined #/g/tv
+T 1336773118 23*	23Marisa has quit (23Ping timeout: 240 seconds23)
+T 1336773123 23*	23string has quit (23Ping timeout: 240 seconds23)
+T 1336773123 23*	23Kazisho has quit (23Ping timeout: 240 seconds23)
+T 1336773141 22*	Rainbow_Dash is now known as Kazisho
+T 1336773347 23*	23i5 has quit (2323)
+T 1336774325 23*	23Macbot has quit (23Quit: bus error23)
+T 1336774592 18<Jan>	code-zombie
+T 1336774593 18<Jan>	code-zombie
+T 1336774594 18<Jan>	http://images.4chan.org/g/src/1336769545985.png
+T 1336774594 18<MikuBot>	[3URI] 'image/png' 279.53 KiB
+T 1336774629 23*	23crunchyroll has quit (23Ping timeout: 240 seconds23)
+T 1336774723 19*	19Macbot (~Macbot@i.just.work) has joined #/g/tv
+T 1336774723 22*	ChanServ sets mode +a #/g/tv Macbot
+T 1336774723 22*	26ChanServ gives channel operator status to26 Macbot
+T 1336774768 23*	23RJ45_ has quit (23Quit: ;_;23)
+T 1336774823 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/tv
+T 1336774886 18<WizardFait>	Chinese and a movie, ftw.
+T 1336774968 18<Jan>	chinese girl?
+T 1336774989 18<WizardFait>	No
+T 1336774990 18<WizardFait>	Food
+T 1336774998 18<Jan>	oh
+T 1336774998 18<Macbot>	"oh damn someone's calling me weird is like
+T 1336774999 18<Jan>	:(
+T 1336774999 18<WizardFait>	Fuck 'dem chinks.
+T 1336775000 18<WizardFait>	Lol
+T 1336775322 19*	19Gublet (~Gublet@Rizon-CDAC167B.dhcp.insightbb.com) has joined #/g/tv
+T 1336775753 19*	19Siouxsie (~FISH_CAT@all.these.moments.will.be.lost.in.time.like.tears.in.rain) has joined #/g/tv
+T 1336776130 19*	19yaiu_ (~yaiu@are.you.a.wizard) has joined #/g/tv
+T 1336776130 22*	26ChanServ gives channel operator status to26 yaiu_
+T 1336776290 23*	23yaiu has quit (23Ping timeout: 240 seconds23)
+T 1336776312 18<SeventyTwo>	So #/g/tv
+T 1336776319 18<SeventyTwo>	Why are you not out on this fine Friday night?
+T 1336776509 23*	23Siouxsie has quit (23Killed (NickServ (GHOST command used by KurtCobain))23)
+T 1336776511 19*	19KurtCobain (~FISH_CAT@Rizon-11DAE54F.threembb.co.uk) has joined #/g/tv
+T 1336776586 18<MoistGorilla>	:(
+T 1336776592 18<MoistGorilla>	why did you remind me
+T 1336776603 23*	23Jkid (23~Jkid@no.social.life.king) has left #/g/tv
+T 1336776816 23*	23Jedi-Mocro has quit (23Quit: Jedi-Mocro23)
+T 1336776900 19*	19Siouxsie (~FISH_CAT@Rizon-A3DF646B.threembb.co.uk) has joined #/g/tv
+T 1336777001 23*	23KurtCobain has quit (23Ping timeout: 240 seconds23)
+T 1336777412 23*	23Kagami has quit (23Quit: ;_;23)
+T 1336777620 19*	19KurtCobain (~FISH_CAT@Rizon-ECE809A4.threembb.co.uk) has joined #/g/tv
+T 1336777620 23*	23Siouxsie has quit (23Killed (NickServ (GHOST command used by KurtCobain))23)
+T 1336777769 19*	19Gaanzi (~ari@Rizon-A7A132AF.zone11.bethere.co.uk) has joined #/g/tv
+T 1336777904 19*	19Resfirestar (sam@81ED8682.31EFB694.D5B17D05.IP) has joined #/g/tv
+T 1336777961 19*	19theminimalist (~theminima@DA67B2A6.13AB4A9E.3D9B4F4F.IP) has joined #/g/tv
+T 1336778244 23*	23theminimalist has quit (2323)
+T 1336778364 18<Gaanzi>	anyone got a link for that twerking shit 
+T 1336778581 23*	23Gublet has quit (23Read error: Connection reset by peer23)
+T 1336778859 23*	23Nillixia has quit (23Quit: And... she's gone...23)
+T 1336778880 19*	19BEARHELLO (~BEARHELLO@Rizon-8A12A5EA.hsd1.va.comcast.net) has joined #/g/tv
+T 1336779310 18<neko-nyan>	http://images.4chan.org/b/src/1336778644665.jpg
+T 1336779310 18<shadertest>	3>/b/
+T 1336779310 18<MikuBot>	[3URI] 'image/jpeg' 145.17 KiB
+T 1336779412 19*	19cocaine (coco@chug.chug.chug.chug) has joined #/g/tv
+T 1336779504 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/g/tv

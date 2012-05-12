@@ -1,0 +1,554 @@
+T 1336760338 18<Skaperen>	WhiteWolf1776: I take it you didn't understand what I said
+T 1336760349 18<JackTarClay>	brb
+T 1336760350 18<WhiteWolf1776>	I understand fine Skaperen , just don't agree
+T 1336760350 23*	23JackTarClay has quit (23Quit: Later23)
+T 1336760369 18<Skaperen>	WhiteWolf1776: well, you are describing things that are not the same as what I said
+T 1336760377 18<WhiteWolf1776>	if you think so
+T 1336760401 18<Skaperen>	WhiteWolf1776: I'll just let you go on with this erroneous understanding
+T 1336760408 18<WhiteWolf1776>	please do
+T 1336760429 18<Skaperen>	WhiteWolf1776: the idea I came up with is substantially because of Ubuntu being poorly done, and to improve on it
+T 1336760445 18<Skaperen>	WhiteWolf1776: equating it to Ubuntu means a lack of understanding of one or the other
+T 1336760489 18<WhiteWolf1776>	please stop Skaperen ... I don't require an explanation
+T 1336760505 18<wizbit>	im shattered, 3.7 mile walk to work and back for 4 days
+T 1336760513 18<Sandman1>	:D
+T 1336760514 18<Skaperen>	WhiteWolf1776: no ... you just don't want an explanation
+T 1336760517 18<Sandman1>	nice walk wizbit
+T 1336760524 18<wizbit>	its time to relax with some git
+T 1336760536 18<thrice`>	does git mean booze?
+T 1336760542 18<WhiteWolf1776>	Skaperen, your idea, is one of the dumbest one's I have heard in quite a while... if you want to explain it to someone... please do it to someone else
+T 1336760568 18<Skaperen>	WhiteWolf1776: well please don't lie and say it is the same as Ubuntu because it is not
+T 1336760586 18<Skaperen>	WhiteWolf1776: if you don't like it, fine ... but don't tell others an untruth
+T 1336760609 18<Sandman1>	git - the stupid content tracker
+T 1336760621 18<Sandman1>	man git thrice` ;)
+T 1336760681 18<WhiteWolf1776>	Skaperen, it's like all the other crap distro's where you get a booting system then have to add on everything to make it a real linux system.  There are plenty out there, thank Bob that slackware isn't one of them.  Linux without the ability to build software is useless to me and those like me.
+T 1336760681 18<thrice`>	yeah, I know :>
+T 1336760692 18<thrice`>	oh, didn't know that was the actual description :p
+T 1336760706 18<rob0>	ubuntruth
+T 1336760709 18<Sandman1>	Yeah I did not either
+T 1336760714 18<Sandman1>	until I "man git"
+T 1336760755 19*	19Mephisto__ (~Mephisto@41.226.181.21) has joined ##slackware
+T 1336760795 23*	23timahvo1 has quit (23Ping timeout: 252 seconds23)
+T 1336760816 18<Skaperen>	WhiteWolf1776: nothing I said contradicting building software ... my idea was exactly a fit-media and multi-media scheme ... of course you have to add on if the media you have can't hold all you want, but with my idea that's still done as a unified install ... and you still can choose to leave things out and add them later if you prefer
+T 1336760845 18<Skaperen>	WhiteWolf1776: Ubuntu doesn't do this ... Ubuntu is a finite small install and you add packages later
+T 1336760854 18<Sandman1>	Ubuntu is more of a pain in the ass
+T 1336760862 18<Sandman1>	I cannto get the hang of it because I am too "advanced"
+T 1336760863 18*	WhiteWolf1776 searches the change log for Skaperen ... "whew, he's not there... so I don't have to worry about it"
+T 1336760864 18<Skaperen>	Sandman1: yes, it is
+T 1336760889 18<Sandman1>	I have been using Slackware a long time and I love it, only thing I want now is PAM
+T 1336760911 18<Skaperen>	WhiteWolf1776: Slackware is already a lot closer to what I suggested than Ubuntu is
+T 1336760926 18*	Skaperen wants to not have PAN
+T 1336760934 18<Skaperen>	PAM
+T 1336760939 18*	WhiteWolf1776 passes Skaperen  a quarter "please call someone who cares"
+T 1336760964 23*	23sencha has quit (23Remote host closed the connection23)
+T 1336760971 18<Skaperen>	WhiteWolf1776: ah, you are one of those who don't care about how things are installed ... well, yeah, I already figured that out, anyway
+T 1336760990 18<WhiteWolf1776>	no Skaperen ... I just don't care about your ideas
+T 1336760997 18<WhiteWolf1776>	please get that through your head and talk to someone else
+T 1336761005 23*	23aborazmeh has quit (23Ping timeout: 244 seconds23)
+T 1336761022 18<Skaperen>	WhiteWolf1776: well, that's fine, too ... but that fits you into the general don't care about anything category because of closed mindedness
+T 1336761039 18<Sandman1>	Skaperen: he is not care, quit bothering him for the benefit of the channel
+T 1336761042 18<Sandman1>	does*
+T 1336761048 18<Mephisto__>	hello! I wanted to "eliminate" wicd and install networkmanagement, disabled /etc/rc.d/rc.wicd  from rc.M now networkmanager seems to reconnect every 1 second
+T 1336761066 18<Sandman1>	Are you on a stable connection atm? is it wired or wireless?
+T 1336761069 18<rob0>	Sandman1, you no make hand party with Miss Pamela!
+T 1336761078 18<Mephisto__>	thought that it had something to do with inet1 and 2 enabling or disabling them didn't change
+T 1336761085 18<Mephisto__>	yes I'm on another OS
+T 1336761106 19*	19aborazmeh (~aborazmeh@31.9.33.47) has joined ##slackware
+T 1336761109 18<Cultist>	Mephisto__: on -current?
+T 1336761127 18<Mephisto__>	yes!
+T 1336761141 19*	19macavity (~macavity@2804ds1-abc.0.fullrate.dk) has joined ##slackware
+T 1336761184 18<Sandman1>	Ah I am on 13.37 so I do not know if it is a current problem or something else
+T 1336761214 18<Mephisto__>	well I think I messed up something (as always)
+T 1336761222 19*	19sencha (~brad@h66.141.216.66.static.ip.windstream.net) has joined ##slackware
+T 1336761231 18<Mephisto__>	if I'm on networkmanager, should I disable inet1 and inet2 ?
+T 1336761251 18<Skaperen>	shouldn't need to
+T 1336761268 18<thrice`>	I'd disable all interfaces in rc.inet1.conf
+T 1336761270 23*	23xtd8 has quit (23Quit: leaving23)
+T 1336761303 18<Mephisto__>	thrice`, that's interesting!
+T 1336761348 18<nathanbw>	I'm trying to create a partition 3TB in size. Using cfdisk, I can write a partition table that appears to have the correct size, but after running partx to discover the newly-created partition, the size is only 800GB
+T 1336761384 18<jg71>	can partx handle partitions of such magnitude?
+T 1336761413 18<Skywise>	i'll give you 2 guesses and the first one doesn't count
+T 1336761430 18<Sandman1>	does fdisk -l see it right
+T 1336761454 19*	19rennj (~rennj@99-10-206-110.lightspeed.wepbfl.sbcglobal.net) has joined ##slackware
+T 1336761461 23*	23homie has quit (23Read error: Connection reset by peer23)
+T 1336761491 18<Skywise>	beyond 2tb you need updated tools for partitioning
+T 1336761497 19*	19timahvo1 (~rogue@197.178.136.80) has joined ##slackware
+T 1336761502 18<nathanbw>	jg71, I guess not? I'm running partx to avoid having to reboot the box just to re-read the partition table. Sandman1, after partx, cfdisk reports the partition size as 805 GB
+T 1336761530 18<jg71>	keyword is updated tools. check changelogs.
+T 1336761538 18<nathanbw>	Skywise, are the tools just later versions of cfdisk/partx? Or different tools altogether? Do you know if they're in the default 13.37 install?
+T 1336761552 18<Skywise>	some are upgraded, some have a name change
+T 1336761552 18<Sandman1>	i had no problem using fdisk with my 1.5
+T 1336761553 18<nathanbw>	jg71, Skywise: I'll check the changelogs
+T 1336761553 18<nathanbw>	thanks
+T 1336761565 19*	19homie (~levgue@xdsl-78-35-178-143.netcologne.de) has joined ##slackware
+T 1336761584 18<Skywise>	you can try gparted as well
+T 1336761590 23*	23Cultist has quit (23Remote host closed the connection23)
+T 1336761612 23*	23slysir has quit (23Remote host closed the connection23)
+T 1336761650 18<Urchlay>	AFAIK, the limit for regular partitions using the standard PC-style MBR is 2 terabytes. You have to use GPT (a completely different partition table scheme) to have a 3T partition
+T 1336761664 18<Sandman1>	OOO i never thought of that
+T 1336761670 18<Skywise>	i did
+T 1336761674 18<Sandman1>	I see this
+T 1336761717 18<macavity>	or set it up as an LVM
+T 1336761732 18<Sandman1>	Still need GPt do you not?
+T 1336761733 18<jg71>	GPT is such an unlucky acronym. in my mind it translates to something not funny.
+T 1336761742 18<Sandman1>	hm
+T 1336761748 18*	Sandman1 thinks of what it could translate to
+T 1336761762 18<jg71>	think GPF
+T 1336761778 18<macavity>	gooy pony tail?
+T 1336761781 18<pink_mist>	Great Party Fireworks
+T 1336761791 18<jg71>	general protection fault. you nerds.
+T 1336761801 18<Sandman1>	ah
+T 1336761816 18<jg71>	the T stands for turd, obviously
+T 1336761822 23*	23Mephisto__ has quit (23Quit: Leaving23)
+T 1336761832 23*	23sencha has quit (23Remote host closed the connection23)
+T 1336761874 18<jg71>	i think i need to talk to macavity about tails ;)
+T 1336761887 18<macavity>	duhur hur hur :P
+T 1336761921 19*	19Peterjs (~PeterJoha@2804ds1-abc.0.fullrate.dk) has joined ##slackware
+T 1336761929 18<macavity>	o/ Peterjs
+T 1336761942 18<jg71>	well, speaking of tails, they do exist https://tails.boum.org/
+T 1336762048 19*	19sencha (~brad@h66.141.216.66.static.ip.windstream.net) has joined ##slackware
+T 1336762214 18<Urchlay>	the thing I'm not too clear on about GPT: can you boot from a GPT-partitioned disk with a regular BIOS? Or do you need EFI?
+T 1336762233 18<Urchlay>	(or do modern BIOSes quietly include EFI?)
+T 1336762250 19*	19Cultist (~matthew@62.150.121.10) has joined ##slackware
+T 1336762337 19*	19kosty (~Adium@c-67-191-211-23.hsd1.ga.comcast.net) has joined ##slackware
+T 1336762539 23*	23tr-808 has quit (23Remote host closed the connection23)
+T 1336762541 23*	23Cultist has quit (23Remote host closed the connection23)
+T 1336762544 18<jg71>	i think you need efi
+T 1336762567 18<jg71>	"all i ever did was using 2 tb disks, your honor!"
+T 1336762596 19*	19ttyandroid (~tty665@177.106.211.32) has joined ##slackware
+T 1336762637 19*	19tr-808 (brambles@unaffiliated/contempt) has joined ##slackware
+T 1336762703 18<haqking>	Urchlay, EFI sits on top of BIOS, EFI does not deal with post so BIOS is still needed, so it is not one or the other, most modern motherboards will be EFI enabled
+T 1336762742 18<jg71>	but what about booting from a GPT, haqking ?
+T 1336762761 23*	23sencha has quit (23Quit: Leaving23)
+T 1336762775 18<haqking>	jg71, http://www.rodsbooks.com/gdisk/booting.html
+T 1336762777 23*	23enzolovesbacon has quit (23Quit: off23)
+T 1336762849 18<jg71>	nathanbw: ^
+T 1336762949 18<nathanbw>	jg71, thanks. Luckily, I'm just using these 3TB volumes for backups; data only
+T 1336763040 23*	23PaulB0 has quit (23Remote host closed the connection23)
+T 1336763055 19*	19tribeca (~naitso@adsl-156-231.37-151.net24.it) has joined ##slackware
+T 1336763063 18<tribeca>	hi
+T 1336763216 23*	23klickback has quit (23Ping timeout: 252 seconds23)
+T 1336763309 23*	23karswell has quit (23Read error: Connection reset by peer23)
+T 1336763416 19*	19sencha (~brad@h66.141.216.66.static.ip.windstream.net) has joined ##slackware
+T 1336763695 23*	23kuwrefem has quit (23Quit: Leaving23)
+T 1336763699 19*	19NyteOwl (~sysop@unaffiliated/nyteowl) has joined ##slackware
+T 1336763923 19*	19karswell (~coat@93-97-29-243.zone5.bethere.co.uk) has joined ##slackware
+T 1336764061 23*	23ttyandroid has quit (23Quit: Bye!23)
+T 1336764553 23*	23WhiteWolf1776 has quit (23Quit: Leaving23)
+T 1336764667 18<Skaperen>	I have been booting from GPT with BIOS with no problems using GRUB, LILO, and Syslinux
+T 1336764733 18<Skaperen>	this works because there is still a bootSTRAP installed in the MBR first 440 bytes
+T 1336764800 18<Skaperen>	the only OS known to have a requirement for UEFI for GPT is one you have to pay money for to use it legally
+T 1336764818 18<haqking>	indeed ^
+T 1336764905 18<Skaperen>	technically, BIOS thinks it's MBR and the loaded bootloader understands GPT or (as in the case of LILO) has a list of sectors and ignores GPT
+T 1336764959 18<Skaperen>	GPT was designed to avoid sector zero to allow this compatibility ... something perhaps that payware OS programmers didn't grok
+T 1336764961 19*	19Jennifur (~lol@cpe-74-70-57-209.nycap.res.rr.com) has joined ##slackware
+T 1336765020 18<Skaperen>	if I were trying to sell a proprietary OS, I'd want it to run on more hardware ... no idea what their motive for not doing that is
+T 1336765056 19*	19libertas (~libertas@89.152.244.108) has joined ##slackware
+T 1336765060 19*	19TommyC (~TommyC@unaffiliated/sepulchralbloom) has joined ##slackware
+T 1336765164 19*	19Timslin (~Slacker@unaffiliated/timslin) has joined ##slackware
+T 1336765192 23*	23Timslin (23~Slacker@unaffiliated/timslin) has left ##slackware
+T 1336765395 19*	19NetRexx (~chatzilla@66-87-7-155.pools.spcsdns.net) has joined ##slackware
+T 1336765485 18<wizbit>	could somebody give me a example of a URI and a URL
+T 1336765506 23*	23shakamca has quit (23Quit: Leaving23)
+T 1336765530 18<wizbit>	URL: http://foo.org
+T 1336765538 18<wizbit>	URI: http://foo.org/blah.txt
+T 1336765578 18<thrice`>	 /msg wizbit URL: http://jeevs_mom_does_it_all.com
+T 1336765581 18<haqking>	URI is a specifice resrouce
+T 1336765585 19*	19zenwalkuser2 (~zenwalkus@ip-62-143-229-160.unitymediagroup.de) has joined ##slackware
+T 1336765627 18<haqking>	URL is a type of URI
+T 1336765650 18<zenwalkuser2>	hi
+T 1336765658 19*	19zenwalkuser (~seb@ip-62-143-229-160.unitymediagroup.de) has joined ##slackware
+T 1336765664 18<zenwalkuser>	hi
+T 1336765664 18<macavity>	hello
+T 1336765666 23*	23timahvo1 has quit (23Ping timeout: 252 seconds23)
+T 1336765675 18<thrice`>	hi
+T 1336765689 18<wizbit>	a specific resource of what
+T 1336765695 18<macavity>	please observe the we-are-asshats-to-diriative-distro-users rule
+T 1336765714 23*	23zenwalkuser2 has quit (23Client Quit23)
+T 1336765719 18<haqking>	sorry i meant URL in the first one, all URL's are URI's
+T 1336765726 18<kikulli>	gtmanfred: that command does not work in zathura: :tabnew /path/to/document.pdf
+T 1336765735 18<NyteOwl>	wizbit: anything
+T 1336765745 18<wizbit>	so a URI and a URL are the same thing
+T 1336765761 18<haqking>	no a URL is a URI, URI is not a URL
+T 1336765779 18<haqking>	URl says how to get to the resource
+T 1336765782 18*	wizbit rubs chin
+T 1336765806 18<NyteOwl>	same way html is a subset of SGML :)
+T 1336765860 18<NaCl>	XML
+T 1336765888 18<NaCl>	too
+T 1336765892 18<haqking>	wizbit, http://damnhandy.com/2007/11/19/uri-vs-url-whats-the-difference/
+T 1336765915 23*	23zenwalkuser (23~seb@ip-62-143-229-160.unitymediagroup.de) has left ##slackware
+T 1336765916 18<Skaperen>	there's also a URN
+T 1336765916 18<NetRexx>	NaCl: iirc, xml is a superset of sgml
+T 1336765927 18<haqking>	and a URC ;)
+T 1336765951 19*	19zenwalkuser2 (~zenwalkus@ip-62-143-229-160.unitymediagroup.de) has joined ##slackware
+T 1336765952 18<NyteOwl>	https://en.wikipedia.org/wiki/Uniform_resource_identifier
+T 1336765958 18<NyteOwl>	http://www.w3.org/TR/uri-clarification/
+T 1336765966 18<NyteOwl>	neypond that you're on your won :)
+T 1336765966 18<Skaperen>	yeah, wiki describes
+T 1336765977 23*	23zenwalkuser2 has quit (23Client Quit23)
+T 1336766051 18<wizbit>	git config deploy.<remote>.uri <uri>
+T 1336766059 18<wizbit>	so that would be
+T 1336766071 18<wizbit>	git config deploy./home/user/project.git.uri <uri>
+T 1336766122 18<haqking>	URI = Burger King URL = The burger king at x,y,z
+T 1336766137 18<haqking>	only cos ^ there is no burge king where i am and i miss it ;)
+T 1336766137 18<wizbit>	git config deploy./home/user/project.git <uri>   <-- like this
+T 1336766142 18<mancha>	whopper.com
+T 1336766153 18<haqking>	mmm double whopper, i would kill for one
+T 1336766264 23*	23libertas has quit (23Ping timeout: 265 seconds23)
+T 1336766564 19*	19hoonforever (~hoonforev@CPE-124-183-9-78.lnse1.ken.bigpond.net.au) has joined ##slackware
+T 1336766584 19*	19zenwalkuser (~zenwalkus@ip-62-143-229-160.unitymediagroup.de) has joined ##slackware
+T 1336766595 18<macavity>	haqking: consider the advantages of the DIY solution ;-)
+T 1336766642 18<haqking>	macavity, there are no advantages, ive tried many a time, only BK can do it right
+T 1336766649 23*	23zenwalkuser has quit (23Client Quit23)
+T 1336766655 18<thrice`>	you poor soul
+T 1336766680 18*	macavity pads haqking on the shoulder
+T 1336766691 18<macavity>	i didnt realize you were spechul.. sorry man :P
+T 1336766691 18*	TommyC says a prayer for haqking 
+T 1336766713 18*	haqking is okay as there is a KFC in close range
+T 1336766733 18<thrice`>	no!  I meant 'poor' if you think BK does burgers OK :p
+T 1336766749 18<haqking>	ok well i prefer others, but i still love BK
+T 1336766814 18<haqking>	ruby tuesday prime, johnny rockets, sonic, wendys etc etc all great burgers
+T 1336766857 19*	19hitest (~hitest@69.176.189.210) has joined ##slackware
+T 1336767070 23*	23shonudo has quit (23Read error: Operation timed out23)
+T 1336767109 23*	23aborazmeh has quit (23Ping timeout: 240 seconds23)
+T 1336767218 19*	19aborazmeh (~aborazmeh@31.9.70.202) has joined ##slackware
+T 1336767446 18<mancha>	i like pizza, has all 5 food groups
+T 1336767526 18<rob0>	Not all 5. The beer is separate.
+T 1336767542 18<mancha>	i didn't even fathom a world where pizza doesn't come with beer!
+T 1336767568 18<rob0>	heh, try living in a dry county :(
+T 1336767584 23*	23bitlord has quit (23Quit: bitlord23)
+T 1336767600 23*	23aborazmeh has quit (23Ping timeout: 250 seconds23)
+T 1336767634 18*	thrice` haz 8 microbrews within 8 miles of his home
+T 1336767653 19*	19len (~quassel@75-161-173-217.mpls.qwest.net) has joined ##slackware
+T 1336767663 23*	23len has quit (23Read error: Connection reset by peer23)
+T 1336767672 19*	19Guest28608 (~quassel@75-161-173-217.mpls.qwest.net) has joined ##slackware
+T 1336767716 19*	19aborazmeh (~aborazmeh@31.9.141.157) has joined ##slackware
+T 1336767722 18<rob0>	nearest beer/liquor store to me: 14 miles (and they're lousy for price/selection)
+T 1336767892 18<NyteOwl>	a nice wine is good with pizza too
+T 1336767940 18<Sandman1>	Indeed
+T 1336768053 19*	19drc (~drc@unaffiliated/drc) has joined ##slackware
+T 1336768139 18<mancha>	sometimes you can just skip the pizza altogether
+T 1336768155 23*	23drc has quit (23Client Quit23)
+T 1336768177 18<mancha>	between the grapes and the barley we've got to be covering 3, maybe 4 of the 5 food groups
+T 1336768184 18<homie>	waahahahaha http://securimetric.net/lost/
+T 1336768205 23*	23kosty has quit (23Quit: Leaving.23)
+T 1336768253 23*	23homie has quit (23Read error: Connection reset by peer23)
+T 1336768357 19*	19homie (~levgue@xdsl-78-35-178-143.netcologne.de) has joined ##slackware
+T 1336768690 23*	23InspectorCluseau has quit (23Quit: InspectorCluseau23)
+T 1336769033 23*	23sencha has quit (23Remote host closed the connection23)
+T 1336769062 23*	23kikulli has quit (23Ping timeout: 260 seconds23)
+T 1336769109 18<NyteOwl>	you guys are makingme hungry :)
+T 1336769274 18*	NyteOwl goes to order pizza
+T 1336769293 18<Skywise>	i just finished one
+T 1336769301 18<Skywise>	it had pepperoni and sausage
+T 1336769303 18<haqking>	i just ordered one
+T 1336769368 19*	19_0bitcount (~ulises11@82.158.2.221.dyn.user.ono.com) has joined ##slackware
+T 1336769405 19*	19fnord0 (~fnord0@unaffiliated/fnord0) has joined ##slackware
+T 1336769409 23*	23spiraliz has quit (23Ping timeout: 245 seconds23)
+T 1336769703 23*	23ICEBreakPoint has quit (23Quit: Leaving23)
+T 1336769726 23*	23fcoambrozio has quit (23Quit: :wq23)
+T 1336769783 19*	19spiraliz (spiraliz@2001:470:1f0b:b::10) has joined ##slackware
+T 1336769825 18<wizbit>	i can place ssh_authorized keys on any box i want to allow access
+T 1336769839 18<wizbit>	however, am i right in thinking that a ssh public key will need to be created for each host
+T 1336769865 18<adaptr>	no
+T 1336769866 18<wizbit>	i cannot simply copy id_rsa on different hosts
+T 1336769872 18<adaptr>	that is the PRIVATE key
+T 1336769883 18<wizbit>	ohh sorry
+T 1336769885 18<wizbit>	of course
+T 1336769887 18<adaptr>	authorized_keys contains public keys
+T 1336769890 18<wizbit>	yep
+T 1336769898 18<adaptr>	and you can copy that to any user on any machine
+T 1336769906 18<wizbit>	yep
+T 1336769918 18<wizbit>	but a private key will need to be created for each host
+T 1336769924 18<adaptr>	....why
+T 1336769932 18<wizbit>	oh good!
+T 1336769949 18<wizbit>	so i can keep the same set of public and private keys for any box i fancy
+T 1336769964 18<adaptr>	the private key is not used on the same box as the public key
+T 1336769968 18<adaptr>	that makes no sense
+T 1336769973 18<wizbit>	yep
+T 1336769975 18<wizbit>	imagine this
+T 1336769977 18<adaptr>	you use the PRIVATE KEY to authenticate.
+T 1336769993 18<adaptr>	it authenticates to the PUBLIC key, which you can put on any host you want to log in to
+T 1336770012 18<wizbit>	excellent
+T 1336770013 18<adaptr>	you never, ever move or share the PRIVATE key
+T 1336770031 18<wizbit>	i can copy the private key on other boxes on my network?
+T 1336770036 18<adaptr>	WHY ?
+T 1336770039 18<adaptr>	fuck ME
+T 1336770043 18<adaptr>	are you that dumb ?
+T 1336770053 18<wizbit>	so those boxe can access the same server?
+T 1336770062 18<adaptr>	I JUST SAID YOU NEVER EVER FUCKING TOUCH THE PRIVAT KEY
+T 1336770066 18<wizbit>	:-S
+T 1336770067 18<wizbit>	ok
+T 1336770074 18<adaptr>	jeez
+T 1336770079 18<adaptr>	go read shit
+T 1336770083 18<adaptr>	I'm too short
+T 1336770103 18*	wizbit quickly rm id_rsa 
+T 1336770119 18<slack_user>	adaptr: Go get a drink or something... you are starting to sound like you might need one ;)
+T 1336770140 18<wizbit>	ssh keys can get confusing, im going to write my own simple howto
+T 1336770164 23*	23rkfb has quit (23Quit: Lost terminal23)
+T 1336770194 18<slack_user>	wizbit: Sounds great. I would be interested in taking a look over it
+T 1336770213 18<adaptr>	slack_user: you don't want to know about my week!
+T 1336770258 18<wizbit>	adaptr: have you had to deal with people like me :-S
+T 1336770285 18<adaptr>	wizbit: half a dozen or so, yeah!
+T 1336770291 18<adaptr>	and those were the good days
+T 1336770302 18<slack_user>	adaptr: Positive note... its Friday!
+T 1336770384 18<adaptr>	it WAS friday
+T 1336770397 18<slack_user>	meh... whatever
+T 1336770404 18<slack_user>	Its only 2PM here....
+T 1336770412 23*	23kgs has quit (23Ping timeout: 252 seconds23)
+T 1336770490 18<wizbit>	i think its nearly impossible to remember what every tool does, its time to write some mini howtos
+T 1336770549 18<wizbit>	rsa v dsa
+T 1336770551 18<adaptr>	wizbit: you learn and remember when yo uuse them
+T 1336770551 18*	wizbit googles
+T 1336770562 18<adaptr>	you use them for 10 years or so, then you remember
+T 1336770588 18<wizbit>	10 years :-S
+T 1336770602 18<Skywise>	i think its more productive to learn how to find the tools you  need
+T 1336770617 18<macavity>	i concur
+T 1336770633 18<wizbit>	'RSA is generally preferred (now that the patent issue is over with) because it can go up to 4096 bits, where DSA has to be exactly 1024 bits (in the opinion of ssh-keygen). 2'
+T 1336770645 18<slack_user>	Yeah... 10 years sounds about right ;)
+T 1336770675 23*	23tribeca has quit (23Quit: leaving23)
+T 1336770682 23*	23Stoo has quit (23Quit: Lost terminal23)
+T 1336770708 23*	23s0d0 has quit (23Quit: Leaving23)
+T 1336770734 23*	23aborazmeh has quit (23Ping timeout: 256 seconds23)
+T 1336770735 19*	19rkfb (~rkfb@cpc12-glfd6-2-0-cust208.6-2.cable.virginmedia.com) has joined ##slackware
+T 1336770777 19*	19aborazmeh (~aborazmeh@31.9.199.107) has joined ##slackware
+T 1336770878 19*	19tribeca (~naitso@adsl-209-24.37-151.net24.it) has joined ##slackware
+T 1336770919 18<slack_user>	wizbit: I remember quite a while ago when I had a webpage full of random tidbits... everything from my modified sendmail configurations to where to put mouse themes for xfce ;)
+T 1336770927 18<slack_user>	I should see if I can find that :D
+T 1336771034 23*	23nachox has quit (23Ping timeout: 255 seconds23)
+T 1336771038 19*	19tuxdev_ (~tim@unaffiliated/tuxdev) has joined ##slackware
+T 1336771111 18<wizbit>	slack_user: good idea :D
+T 1336771201 19*	19kgs (~kgs@unaffiliated/kgs) has joined ##slackware
+T 1336771301 19*	19bttf (~nnscript@c-75-74-205-104.hsd1.fl.comcast.net) has joined ##slackware
+T 1336771390 23*	23snL20 has quit (23Quit: The Net interprets censorship as damage and routes around it.23)
+T 1336771403 19*	19lnxslck (~lnxslck@bl20-133-102.dsl.telepac.pt) has joined ##slackware
+T 1336771415 19*	19snL20 (~sx2@138.199.65.32) has joined ##slackware
+T 1336771503 19*	19proper (~proper@unaffiliated/prpcl) has joined ##slackware
+T 1336771527 22*	proper is now known as prpcl
+T 1336771741 19*	19alphad (~alphad@41.66.6.93) has joined ##slackware
+T 1336771927 23*	23erikkugel (23~ekugel@216.183.91.254) has left ##slackware
+T 1336772109 19*	19lynxr (~john@ppp91-78-130-171.pppoe.mtu-net.ru) has joined ##slackware
+T 1336772122 23*	23lynxr (23~john@ppp91-78-130-171.pppoe.mtu-net.ru) has left ##slackware
+T 1336772142 19*	19vdv (1000@e09R011.mensa-wohnheim.uni-bremen.de) has joined ##slackware
+T 1336772936 23*	23_0bitcount has quit (23Quit: Leaving23)
+T 1336772999 19*	19shonudo (~user@c-68-35-148-242.hsd1.nm.comcast.net) has joined ##slackware
+T 1336773000 23*	23shonudo has quit (23Changing host23)
+T 1336773000 19*	19shonudo (~user@unaffiliated/shonudo) has joined ##slackware
+T 1336773025 23*	23asido has quit (23Quit: WeeChat 0.3.723)
+T 1336773139 23*	23Akuma has quit (23Quit: So long sukkas!23)
+T 1336773141 19*	19kosty (~Adium@c-67-191-211-23.hsd1.ga.comcast.net) has joined ##slackware
+T 1336773152 23*	23hitest has quit (23Quit: WeeChat 0.3.723)
+T 1336773195 19*	19Akuma (~Akuma@modemcable033.43-202-24.mc.videotron.ca) has joined ##slackware
+T 1336773850 19*	19greaver (~jo@41.138.11.188) has joined ##slackware
+T 1336773935 18<wizbit>	LOL
+T 1336773938 18<wizbit>	read torvalds comments
+T 1336773940 18<wizbit>	https://github.com/torvalds/linux/pull/17
+T 1336773954 18<wizbit>	LOL
+T 1336774063 23*	23rkfb has quit (23Quit: Lost terminal23)
+T 1336774073 18<slack_user>	wizbit: nice...
+T 1336774087 18<slack_user>	i gotta go. talk to you guys later
+T 1336774096 23*	23slack_user has quit (23Quit: leaving23)
+T 1336774184 23*	23Agiofws has quit (23Quit: Terminated with extreme prejudice - dircproxy 1.2.023)
+T 1336774503 23*	23izy has quit (23Ping timeout: 260 seconds23)
+T 1336774789 23*	23shonudo has quit (23Ping timeout: 255 seconds23)
+T 1336774822 23*	23fb0x has quit (23Quit: fb0x23)
+T 1336774847 19*	19fb0x (~fb0x@unaffiliated/fb0x) has joined ##slackware
+T 1336774889 23*	23nannes (23~nannes@unaffiliated/nannes) has left ##slackware
+T 1336775010 19*	19libertas (~libertas@89.152.244.108) has joined ##slackware
+T 1336775020 19*	19xdoctor (~avs@177.54.104.194) has joined ##slackware
+T 1336775024 23*	23xdoctor has quit (23Read error: Connection reset by peer23)
+T 1336775029 18<macavity>	how do i see which eth device is which physical device?
+T 1336775069 23*	23Jennifur has quit (23Quit: Leaving23)
+T 1336775084 19*	19Jennifur (~lol@cpe-74-70-57-209.nycap.res.rr.com) has joined ##slackware
+T 1336775129 23*	23kermit has quit (23Quit: Leaving.23)
+T 1336775145 19*	19xdoctor (~avs@177.54.104.194) has joined ##slackware
+T 1336775155 18<adamk>	macavity: 'dmesg | grep eth' might show you what driver is attached to what eth device.  Of course if you have two eth devices driven by the same driver... Well then my advice is worthless :-)
+T 1336775172 23*	23xdoctor has quit (23Read error: Connection reset by peer23)
+T 1336775177 18<macavity>	adamk: dooh, thanks :-)
+T 1336775195 19*	19kermit (unknown@pdpc/supporter/bronze/kermit) has joined ##slackware
+T 1336775231 23*	23Jennifur has quit (23Client Quit23)
+T 1336775235 19*	19xdoctor (~avs@177.54.104.194) has joined ##slackware
+T 1336775239 23*	23xdoctor has quit (23Read error: Connection reset by peer23)
+T 1336775285 23*	23tribeca has quit (23Quit: leaving23)
+T 1336775552 23*	23fb0x has quit (23Quit: leaving23)
+T 1336775564 19*	19hitest (~hitest@69.176.189.210) has joined ##slackware
+T 1336775602 19*	19izy (~bash@175.137.156.41) has joined ##slackware
+T 1336775611 23*	23spiraliz has quit (23Ping timeout: 245 seconds23)
+T 1336775633 19*	19sencha (~sencha@173-145-186-180.pools.spcsdns.net) has joined ##slackware
+T 1336775657 19*	19spiraliz (~spiraliz@147.81-166-237.customer.lyse.net) has joined ##slackware
+T 1336775663 23*	23snL20 has quit (23Ping timeout: 265 seconds23)
+T 1336775702 23*	23rnsanchez has quit (23Quit: Exit 123)
+T 1336775759 19*	19snL20 (~sx2@138.199.64.253) has joined ##slackware
+T 1336775824 19*	19kuwrefem (~toddy@cpe-72-227-111-183.maine.res.rr.com) has joined ##slackware
+T 1336776041 23*	23doug713705 has quit (23Remote host closed the connection23)
+T 1336776186 23*	23izy has quit (23Ping timeout: 245 seconds23)
+T 1336776242 19*	19doug713705 (~doug71370@host-203-147-86-212.h39.canl.nc) has joined ##slackware
+T 1336776255 23*	23Haldrik has quit (23Quit: Haldrik23)
+T 1336776316 23*	23karswell has quit (23Remote host closed the connection23)
+T 1336776337 23*	23sungem has quit (23Quit: Lost terminal23)
+T 1336776460 23*	23kuwrefem has quit (23Remote host closed the connection23)
+T 1336776464 23*	23adrenaline has quit (23Ping timeout: 255 seconds23)
+T 1336776504 23*	23cuba33ci has quit (23Ping timeout: 265 seconds23)
+T 1336776931 19*	19karswell (~coat@93-97-29-243.zone5.bethere.co.uk) has joined ##slackware
+T 1336776954 18<wizbit>	ive got git working :D
+T 1336776974 18<thumbs>	wizbit: do you git it now?
+T 1336776980 18<wizbit>	/home/user/livesite <--- live site
+T 1336776981 18<thumbs>	it's gitting good.
+T 1336776992 18<wizbit>	/home/user/livesite.git <--- repo for live site
+T 1336777004 18<wizbit>	on my remote devbox
+T 1336777006 18<wizbit>	git clone
+T 1336777007 18<thumbs>	git out!
+T 1336777018 18<wizbit>	/home/user/livesite <--- clone of my site
+T 1336777030 18<wizbit>	i can then make changes to the clone site
+T 1336777034 18<wizbit>	git add .
+T 1336777042 18<wizbit>	git commit -m"blah"
+T 1336777045 18<wizbit>	git push
+T 1336777051 18*	thumbs doesn't git that no one is commenting on his puns
+T 1336777073 18<wizbit>	what wil then push the changes to the livesite.git repo what then executes a hook and makes changes to the livesite
+T 1336777106 18<NyteOwl>	thumbs: that's becasue you've committed and pulled too many liek that ebfore.
+T 1336777112 18<wizbit>	thats about as good as it gits for me so far :D
+T 1336777116 18<thumbs>	NyteOwl: hah
+T 1336777147 19*	19Wharncliffe (~glen@unaffiliated/ridout) has joined ##slackware
+T 1336777148 18<wizbit>	gits, hookers, pushing and pulling
+T 1336777167 19*	19darwin (~d@dynamic-66-243-234-155.ellensburg.fairpoint.net) has joined ##slackware
+T 1336777194 18*	wizbit feels like a pretend dev
+T 1336777250 18<darwin>	i am running Slackware 13.37 on a computer that is about less than a month old, and I installed 32 Gb RAM in it. However, when I type 'free -m,' it says I have about 24 Gb... is there a command I can use to test RAM?
+T 1336777305 18<wizbit>	:-S
+T 1336777309 18<wizbit>	32Gb of ram?
+T 1336777314 18<wharfrat>	that is a lot
+T 1336777320 18<darwin>	yes
+T 1336777325 18<wizbit>	free -m
+T 1336777348 18<wharfrat>	double check that it is all seated correctly?
+T 1336777353 18<jtsn>	cat /proc/meminfo
+T 1336777354 18<wizbit>	look at the last row, SWAP 3rd along
+T 1336777383 18<jtsn>	dmidecode
+T 1336777387 18<pink_mist>	32-24=8, sounds like an 8GB stick isn't seated correctly, or is defective
+T 1336777397 18<Wharncliffe>	Did the BIOS report 32 GiB?
+T 1336777429 18<darwin>	i think the BIOS reported it the first day I set up the computer at a computer shop and had some help
+T 1336777432 23*	23Bry8Star has quit (23Remote host closed the connection23)
+T 1336777457 18<pink_mist>	I'm hoping you're on slackware64, not slackware 32bit
+T 1336777464 18<wizbit>	darwin: why on earth do you need so much ram? virtual machines?
+T 1336777470 18<darwin>	yes, it did... but if one entered the BIOS too fast, it did not finish counting all the ram and then did not report 32 Gb. Of course I am using Slackware 64
+T 1336777486 18<darwin>	i use my computer to run BOINC and other things
+T 1336777489 18<darwin>	and I do graphics
+T 1336777517 18<NyteOwl>	the count is just when it is doing a ram check. Only tiem I elt that finish is if I'm diagnosing a problem heh
+T 1336777549 18<darwin>	cat /proc/meminfo also reported 24 Gb
+T 1336777562 18<pink_mist>	darwin: as both me and wharfrat said, first thing you should do is check that the ram sticks are seated correctly
+T 1336777571 18<NyteOwl>	does sound like a poorly seated dimm, or a bad socket
+T 1336777571 18<jtsn>	darwin: Nopaste the output of dmidecode
+T 1336777657 19*	19adrenaline (~repsol@ip68-226-127-96.ph.ph.cox.net) has joined ##slackware
+T 1336777684 18<darwin>	what is 'Nopaste?' Ok I will check if it is seated in a minute? Is it ok to do it while this is on?
+T 1336777720 18<pink_mist>	nopaste is a website, where you paste the output, and it gives you a page that you can link to in here, so that you won't be spamming the channel with the output
+T 1336777728 18<pink_mist>	wth, NO
+T 1336777735 18<jtsn>	darwin: http://nopaste.info/
+T 1336777736 18<pink_mist>	don't touch the ramsticks while it's on
+T 1336777736 18<NyteOwl>	darwin - I wouldn't advise it
+T 1336777767 18<jtsn>	darwin: Paste the output of dmidecode there, then return here with the link.
+T 1336777852 18<darwin>	ok. I just heard that you can take some things in and out of a computer when it is on, like PCI cards on certain systems
+T 1336777862 18<darwin>	http://nopaste.info/c0eee9209d.html
+T 1336777866 18<pink_mist>	never RAM, darwin
+T 1336777869 18<pink_mist>	never
+T 1336777870 18<thumbs>	darwin: it's called "hot swappable"
+T 1336777882 23*	23vdv has quit (23Quit: Leaving23)
+T 1336777882 18<pink_mist>	or well, yeah .. hot swappable ram does exist
+T 1336777896 18<pink_mist>	but unlikely unless you spent way too much on it
+T 1336777898 19*	19henrob (~ricky@pool-71-99-53-167.tampfl.fios.verizon.net) has joined ##slackware
+T 1336777944 19*	19izy (~bash@175.137.156.41) has joined ##slackware
+T 1336777944 23*	23rodrigo_golive has quit (23Quit: http://quassel-irc.org - Chat comfortably. Anywhere.23)
+T 1336778014 19*	19Bry8Star (~Bry8Star@gateway/tor-sasl/bry8star) has joined ##slackware
+T 1336778024 23*	23Wharncliffe has quit (23Quit: Lost terminal23)
+T 1336778036 23*	23macavity has quit (23Quit: Lost terminal23)
+T 1336778293 18<jtsn>	darwin: It has detected all four 8GB DIMMs.
+T 1336778310 23*	23kosty has quit (23Quit: Leaving.23)
+T 1336778370 18<darwin>	that is strange free -m is saying 24 Gb then
+T 1336778388 18<justin`>	whats top show
+T 1336778396 18<jtsn>	But DMI Type 19 only reports 25584 MB.
+T 1336778413 18<thumbs>	free -k then?
+T 1336778422 18<jtsn>	darwin: So you get to ASUS and request a BIOS fix.
+T 1336778424 18<wharfrat>	perhaps a limitation of the motherboard?
+T 1336778424 18<rennj>	cat /proc/meminfo might be worth looking at
+T 1336778442 18<thumbs>	free -b too!
+T 1336778463 18<justin`>	suck it up, 24gb will be fine
+T 1336778466 18<darwin>	ok, jtsn
+T 1336778472 18<wharfrat>	lol
+T 1336778487 18<wharfrat>	I thought I was doing well with 8gb
+T 1336778594 18<jtsn>	Nobody tests the maximum memory configuration. :-)
+T 1336778608 18<darwin>	free -k also shows about 24 Gb
+T 1336778625 18<thumbs>	darwin: then you need to flash your BIOS
+T 1336778626 18<jtsn>	So you start with 8 G, upgrade later to 32 G and boom! ;-)
+T 1336778634 18<wharfrat>	darwin: have you checked if a bios update exists for your motherboard yet?
+T 1336778636 19*	19NitroGL (~NitroGL@gateway/tor-sasl/nitrogl) has joined ##slackware
+T 1336778656 18<darwin>	there have been some BIOS updates since the manufacture date of my system board
+T 1336778684 23*	23NitroGL has quit (23Client Quit23)
+T 1336778698 18<jtsn>	darwin: There is not the most recent BIOS installed.
+T 1336778728 18<thumbs>	darwin: install the latest bios update regardless
+T 1336778751 18<darwin>	ok; thanks for the help, jtsn and everyone else
+T 1336778826 18<jtsn>	The funny thing is: There a no 8 GB DIMMs in ASUS' QVL at all! :D
+T 1336778837 18<darwin>	'QVL?'
+T 1336778851 18<NyteOwl>	qualified vendros list
+T 1336778859 18<NyteOwl>	s/venrdos/vendors/
+T 1336778869 18<wharfrat>	yeah that sucks, they are usually lacking in choices in those lists
+T 1336778879 18<darwin>	well, the manual that came with my system board said it can use up to 32 GB
+T 1336778883 18<NyteOwl>	those are just the companies and models tey test. doesn't eman otehrs won't work
+T 1336778917 18<jtsn>	They should test it, if they claim to support it.
+T 1336778933 18<wharfrat>	hopefully a flash will solve it
+T 1336778943 18<jtsn>	The maximum they tested is 16 GB (4 x 4 GB).
+T 1336778990 18<wharfrat>	they probably thought "nobody will ever use more that 16GB in this thing"
+T 1336779005 18<keepishop>	hahahaha
+T 1336779016 18<keepishop>	i remember that for 16mb..
+T 1336779021 18<wharfrat>	hehe
+T 1336779026 18<jtsn>	Okay, so it doesn't support 32 GB, but you can use your mouse in the BIOS Setup! ;-)
+T 1336779033 18<jtsn>	Isn't that great?
+T 1336779037 18<keepishop>	so... efi?
+T 1336779042 18<darwin>	'nobody will ever use more than 640 Kb!'
+T 1336779057 23*	23RDustinB has quit (23Quit: Computer has gone to sleep23)
+T 1336779059 18<jtsn>	Enough for everyone!
+T 1336779068 18<NyteOwl>	I've often wondered if I could put 32GB on this board. When it was new it was only rated for 8 (but the only 8GB dimms at that tiem cost over a thousand each)
+T 1336779117 18<NyteOwl>	not that I *need* 32GB. Just curiousity
+T 1336779127 18<jeev>	i've got 32 in mine..
+T 1336779133 18<jtsn>	My Board supports "up to 16 GB", but it uses DDR2.
+T 1336779141 18<jeev>	i only do it cause i've stocked up on over 150gb of ddr3, hoarding so i can sell it later when it's expensive.
+T 1336779153 18<keepishop>	wow
+T 1336779157 18<jtsn>	jeev: lol
+T 1336779159 18<keepishop>	that works?
+T 1336779163 18<jeev>	what works
+T 1336779173 18<jtsn>	Reminds me of my 30 TB stock of hard disks. ;-)
+T 1336779189 18<jeev>	dood i had like 30 3tb drives, then the prices sky rocketed.. but i left them in africa
+T 1336779195 18<NyteOwl>	this one sues DDR3
+T 1336779196 18<keepishop>	i mean, 512 of pc133 is $30 now, but i dont think it was ever that cheap new.
+T 1336779197 18<jeev>	i could have flown there, brought them back and doubled my money
+T 1336779198 18<NyteOwl>	er uses
+T 1336779198 23*	23libertas has quit (23Quit: Lost terminal23)
+T 1336779210 18<wharfrat>	I've got a nice stock of sdram collecting dust
+T 1336779210 18<keepishop>	jeev, hell yeah
+T 1336779211 18<jeev>	who's talking pc133
+T 1336779217 18<keepishop>	me....
+T 1336779219 18<jeev>	ddr2 is expensive right now i think compared to dddr3
+T 1336779221 18<jeev>	ddr3
+T 1336779240 18<keepishop>	2gb ddr2 is more expensive than 2gb ddr3
+T 1336779263 18<keepishop>	but its less common.
+T 1336779286 18<jtsn>	I have only two PCs, that support DDR2 and both are at maximum.
+T 1336779309 19*	19Agiofws (~Agiofws@athedsl-420262.home.otenet.gr) has joined ##slackware
+T 1336779339 23*	23sencha has quit (23Remote host closed the connection23)
+T 1336779344 18<keepishop>	ive got pc100, pc133, ddr, and ddr2.
+T 1336779349 19*	19unthdarr (~unthdarr@unaffiliated/unthdarr) has joined ##slackware
+T 1336779350 18<jtsn>	But I'm not a DRAM speculator.
+T 1336779356 18<jeev>	lol
+T 1336779357 18<jeev>	i am
+T 1336779360 18<wharfrat>	lol
+T 1336779365 18<keepishop>	sounds like a good gig
+T 1336779374 18<jeev>	i've got like 10 ssd's laying around.. i buy them, with rebate.. and then sell them when i have a build
+T 1336779383 18<jeev>	it's not bad, make an extra 100 bux or two here.. that's just bare stuff i do
+T 1336779397 18<keepishop>	i need to start doing that again
+T 1336779401 18<wharfrat>	got to make that money
+T 1336779414 18<jeev>	that's basic stuffs, i mostly do datacenter stuf
+T 1336779414 18<keepishop>	oi, whats a 2ghz core2duo machine with 2gb ram worth now?
+T 1336779426 18<jtsn>	nothing?
+T 1336779440 18<keepishop>	$100?
+T 1336779452 18<keepishop>	i put $30 into it
+T 1336779467 18<NyteOwl>	depedns on the shystem. Betwen $2 and $350
+T 1336779476 18<jtsn>	I even have 4 GB DDR3 installed my Atom machine.
+T 1336779525 18<keepishop>	its an itx board in a antec case
+T 1336779590 18<keepishop>	ms980 i think
+T 1336779618 18<keepishop>	need to dowsize :/
+T 1336779633 18<Skaperen>	jeev: you build and sell computers?  then you're just being a smart business person
+T 1336779647 18<jeev>	Skaperen, sometimes

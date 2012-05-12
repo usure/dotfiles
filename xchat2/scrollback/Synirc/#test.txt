@@ -1,0 +1,15 @@
+T 1332948860 19*	19Now talking on #test
+T 1332948862 31<TheShadowFog>30	1,4o
+T 1332948864 31<TheShadowFog>30	1,3o
+T 1332948866 31<TheShadowFog>30	1,6o
+T 1332948867 31<TheShadowFog>30	1,7o
+T 1332948868 31<TheShadowFog>30	1,8o
+T 1332948870 31<TheShadowFog>30	1,9o
+T 1332951091 22*	Disconnected (Connection timed out).
+T 1332951108 19*	19Now talking on #test
+T 1332963117 31<TheShadowFog>30	1,9o
+T 1334179115 19*	19Now talking on #test
+T 1334179115 19*	19dcpubot (~dcpubot@synIRC-83C350C.dyn.optonline.net) has joined #test
+T 1334179117 31<TheShadowFog>30	 dcpubot: set a, 0xbeef / set b, 0xabcd / set c, 0xdeed
+T 1334179120 31<TheShadowFog>30	dcpubot: set a, 0xbeef / set b, 0xabcd / set c, 0xdeed
+T 1334179121 21<dcpubot>21	TheShadowFog: 7c01 beef 7c11 abcd 7c21 deed -> A: beef C: deed B: abcd PC: 0007 (6)

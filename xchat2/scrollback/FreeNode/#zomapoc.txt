@@ -1,0 +1,3 @@
+T 1328906802 19*	19Now talking on #ZomApoc
+T 1328906802 22*	asimov.freenode.net sets mode +n #ZomApoc
+T 1328906802 22*	asimov.freenode.net sets mode +s #ZomApoc

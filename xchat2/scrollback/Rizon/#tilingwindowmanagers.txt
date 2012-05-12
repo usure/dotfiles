@@ -1,0 +1,505 @@
+T 1332871283 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about TWMs. Feel free to create a TWM thread on /g/ and announce it here. | Goodies: http://www.open-video.org/details.php?videoid=8038 http://storage3.static.itmages.ru/i/12/0301/h_1330553208_4515864_1a1b05e0d9.png | Todo: decide which TWM to recommend to people unfamiliar with them.
+T 1332871283 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Wed Feb 29 17:07:55 2012
+T 1332875033 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1332876949 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1332877186 18<antithesis>	Hello Junebouvier, how did you find us?
+T 1332877195 18<antithesis>	Feel free to introduce yourself
+T 1332877195 18<Junebouvier>	antithesis: im david
+T 1332877282 18<antithesis>	Oh hello
+T 1332877291 18<antithesis>	Your name is stupid
+T 1332877352 22*	26ChanServ gives channel operator status to26 antithesis
+T 1332877397 18<Junebouvier>	antithesis: my name is awesome
+T 1332877417 22*	antithesis has changed the topic to: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1332877505 18<antithesis>	It's French, therefore it's lame.
+T 1332877868 18<Junebouvier>	ww
+T 1332877885 18<Junebouvier>	03:48 < Junebouvier> So, I was thinking about which TWM to recommend to a beginner, as the topic states. I was thinking that dwm would be good for this. It's easy to  customise (although it does require that you edit its source, this can help Unix newbies get used to fucking about with files and using make).  Pre-compiled packages are fine, too, as dwm has sane default settings.
+T 1332877885 18<Junebouvier>	03:48 < Junebouvier> I don't think awesome would be good for a beginner, as it's a pain in the ass to customise without any Lua knowledge (unless you're just copying  and pasting from tutorials/wikis) and is a lot more complicated than dwm.
+T 1332877885 18<Junebouvier>	03:49 < Junebouvier> What do you guys think?
+T 1332877891 18<Junebouvier>	antithesis: ↑
+T 1332878098 18<antithesis>	I differ. The whole editing the source is way to discouraging for newbies, it shouldn't be a necessity. And you can do loads with Awesome by copy-pasting from wikis and by applying logic.
+T 1332883492 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1332885660 23*	23Kagami has quit (23Quit: ;_;23)
+T 1332897028 19*	19Now talking on #TilingWindowManagers
+T 1332897028 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1332897028 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1332932772 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1332947510 22*	Disconnected (Remote host closed socket).
+T 1332947532 22*	Disconnected (Remote host closed socket).
+T 1332947554 22*	Disconnected (Remote host closed socket).
+T 1332947575 22*	Disconnected (Remote host closed socket).
+T 1332947596 22*	Disconnected (Remote host closed socket).
+T 1332947618 22*	Disconnected (Remote host closed socket).
+T 1332947640 22*	Disconnected (Remote host closed socket).
+T 1332947662 22*	Disconnected (Remote host closed socket).
+T 1332947684 22*	Disconnected (Remote host closed socket).
+T 1332947706 22*	Disconnected (Remote host closed socket).
+T 1332947728 22*	Disconnected (Remote host closed socket).
+T 1332947750 22*	Disconnected (Remote host closed socket).
+T 1332947771 22*	Disconnected (Remote host closed socket).
+T 1332947792 22*	Disconnected (Remote host closed socket).
+T 1332947814 22*	Disconnected (Remote host closed socket).
+T 1332947868 22*	Disconnected (Remote host closed socket).
+T 1332947889 22*	Disconnected (Remote host closed socket).
+T 1332947915 22*	Disconnected (Remote host closed socket).
+T 1332947936 22*	Disconnected (Remote host closed socket).
+T 1332947957 22*	Disconnected (Remote host closed socket).
+T 1332947978 22*	Disconnected (Remote host closed socket).
+T 1332947999 22*	Disconnected (Remote host closed socket).
+T 1332948053 22*	Disconnected (Remote host closed socket).
+T 1332948074 22*	Disconnected (Remote host closed socket).
+T 1332948095 22*	Disconnected (Remote host closed socket).
+T 1332948116 22*	Disconnected (Remote host closed socket).
+T 1332948137 22*	Disconnected (Remote host closed socket).
+T 1332948158 22*	Disconnected (Remote host closed socket).
+T 1332948213 22*	Disconnected (Remote host closed socket).
+T 1332948234 22*	Disconnected (Remote host closed socket).
+T 1332948255 22*	Disconnected (Remote host closed socket).
+T 1332948308 22*	Disconnected (Remote host closed socket).
+T 1332948329 22*	Disconnected (Remote host closed socket).
+T 1332948351 22*	Disconnected (Remote host closed socket).
+T 1332948372 22*	Disconnected (Remote host closed socket).
+T 1332948394 22*	Disconnected (Remote host closed socket).
+T 1332948448 22*	Disconnected (Remote host closed socket).
+T 1332948469 22*	Disconnected (Remote host closed socket).
+T 1332948523 22*	Disconnected (Remote host closed socket).
+T 1332948578 22*	Disconnected (Remote host closed socket).
+T 1332948600 22*	Disconnected (Remote host closed socket).
+T 1332948622 22*	Disconnected (Remote host closed socket).
+T 1332948644 22*	Disconnected (Remote host closed socket).
+T 1332948665 22*	Disconnected (Remote host closed socket).
+T 1332948718 22*	Disconnected (Remote host closed socket).
+T 1332948739 22*	Disconnected (Remote host closed socket).
+T 1332948760 22*	Disconnected (Remote host closed socket).
+T 1332948813 22*	Disconnected (Remote host closed socket).
+T 1332948834 22*	Disconnected (Remote host closed socket).
+T 1332948855 22*	Disconnected (Remote host closed socket).
+T 1332948908 22*	Disconnected (Remote host closed socket).
+T 1332948929 22*	Disconnected (Remote host closed socket).
+T 1332948983 22*	Disconnected (Remote host closed socket).
+T 1332949038 22*	Disconnected (Remote host closed socket).
+T 1332949093 22*	Disconnected (Remote host closed socket).
+T 1332949114 22*	Disconnected (Remote host closed socket).
+T 1332949135 22*	Disconnected (Remote host closed socket).
+T 1332949156 22*	Disconnected (Remote host closed socket).
+T 1332949208 22*	Disconnected (Remote host closed socket).
+T 1332949229 22*	Disconnected (Remote host closed socket).
+T 1332949250 22*	Disconnected (Remote host closed socket).
+T 1332949303 22*	Disconnected (Remote host closed socket).
+T 1332949324 22*	Disconnected (Remote host closed socket).
+T 1332949345 22*	Disconnected (Remote host closed socket).
+T 1332949366 22*	Disconnected (Remote host closed socket).
+T 1332949391 19*	19Now talking on #TilingWindowManagers
+T 1332949391 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1332949391 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1332951115 22*	Disconnected (Connection timed out).
+T 1332951151 19*	19Now talking on #TilingWindowManagers
+T 1332951151 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1332951151 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1332953909 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1332953923 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1332961754 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1332967344 22*	Disconnected (Remote host closed socket).
+T 1332967365 22*	Disconnected (Remote host closed socket).
+T 1332967386 22*	Disconnected (Remote host closed socket).
+T 1332967439 22*	Disconnected (Remote host closed socket).
+T 1332967460 22*	Disconnected (Remote host closed socket).
+T 1332967481 22*	Disconnected (Remote host closed socket).
+T 1332967502 22*	Disconnected (Remote host closed socket).
+T 1332967523 22*	Disconnected (Remote host closed socket).
+T 1332967544 22*	Disconnected (Remote host closed socket).
+T 1332967565 22*	Disconnected (Remote host closed socket).
+T 1332967586 22*	Disconnected (Remote host closed socket).
+T 1332967607 22*	Disconnected (Remote host closed socket).
+T 1332967659 22*	Disconnected (Remote host closed socket).
+T 1332967680 22*	Disconnected (Remote host closed socket).
+T 1332967701 22*	Disconnected (Remote host closed socket).
+T 1332967722 22*	Disconnected (Remote host closed socket).
+T 1332967743 22*	Disconnected (Remote host closed socket).
+T 1332967764 22*	Disconnected (Remote host closed socket).
+T 1332967785 22*	Disconnected (Remote host closed socket).
+T 1332967806 22*	Disconnected (Remote host closed socket).
+T 1332967827 22*	Disconnected (Remote host closed socket).
+T 1332967879 22*	Disconnected (Remote host closed socket).
+T 1332967934 22*	Disconnected (Remote host closed socket).
+T 1332967955 22*	Disconnected (Remote host closed socket).
+T 1332968009 22*	Disconnected (Remote host closed socket).
+T 1332968064 22*	Disconnected (Remote host closed socket).
+T 1332968085 22*	Disconnected (Remote host closed socket).
+T 1332968139 22*	Disconnected (Remote host closed socket).
+T 1332968194 22*	Disconnected (Remote host closed socket).
+T 1332968215 22*	Disconnected (Remote host closed socket).
+T 1332968236 22*	Disconnected (Remote host closed socket).
+T 1332968257 22*	Disconnected (Remote host closed socket).
+T 1332968278 22*	Disconnected (Remote host closed socket).
+T 1332968299 22*	Disconnected (Remote host closed socket).
+T 1332968354 22*	Disconnected (Remote host closed socket).
+T 1332968375 22*	Disconnected (Remote host closed socket).
+T 1332968396 22*	Disconnected (Remote host closed socket).
+T 1332968417 22*	Disconnected (Remote host closed socket).
+T 1332968438 22*	Disconnected (Remote host closed socket).
+T 1332968459 22*	Disconnected (Remote host closed socket).
+T 1332968480 22*	Disconnected (Remote host closed socket).
+T 1332968501 22*	Disconnected (Remote host closed socket).
+T 1332968522 22*	Disconnected (Remote host closed socket).
+T 1332968543 22*	Disconnected (Remote host closed socket).
+T 1332968564 22*	Disconnected (Remote host closed socket).
+T 1332968585 22*	Disconnected (Remote host closed socket).
+T 1332968606 22*	Disconnected (Remote host closed socket).
+T 1332968627 22*	Disconnected (Remote host closed socket).
+T 1332968648 22*	Disconnected (Remote host closed socket).
+T 1332968669 22*	Disconnected (Remote host closed socket).
+T 1332968690 22*	Disconnected (Remote host closed socket).
+T 1332968711 22*	Disconnected (Remote host closed socket).
+T 1332968732 22*	Disconnected (Remote host closed socket).
+T 1332968784 22*	Disconnected (Remote host closed socket).
+T 1332968805 22*	Disconnected (Remote host closed socket).
+T 1332968826 22*	Disconnected (Remote host closed socket).
+T 1332968847 22*	Disconnected (Remote host closed socket).
+T 1332968868 22*	Disconnected (Remote host closed socket).
+T 1332968889 22*	Disconnected (Remote host closed socket).
+T 1332968910 22*	Disconnected (Remote host closed socket).
+T 1332968931 22*	Disconnected (Remote host closed socket).
+T 1332968952 22*	Disconnected (Remote host closed socket).
+T 1332969004 22*	Disconnected (Remote host closed socket).
+T 1332969025 22*	Disconnected (Remote host closed socket).
+T 1332969079 22*	Disconnected (Remote host closed socket).
+T 1332969100 22*	Disconnected (Remote host closed socket).
+T 1332969121 22*	Disconnected (Remote host closed socket).
+T 1332969142 22*	Disconnected (Remote host closed socket).
+T 1332969167 19*	19Now talking on #TilingWindowManagers
+T 1332969167 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1332969167 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1332969456 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1332971230 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333022194 19*	19Now talking on #TilingWindowManagers
+T 1333022194 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1333022194 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1333031256 23*	23Junebouvier has quit (23Quit: leaving23)
+T 1333041432 19*	19Junebouvier (david@david.david) has joined #TilingWindowManagers
+T 1333043723 23*	23Junebouvier (23david@david.david) has left #TilingWindowManagers
+T 1333053935 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1333054841 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1333057272 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333065046 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333141295 19*	19Now talking on #TilingWindowManagers
+T 1333141295 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1333141295 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1333142299 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333146737 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333152139 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333194076 19*	19Now talking on #TilingWindowManagers
+T 1333194076 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1333194076 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1333217466 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333237308 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333300657 22*	Disconnected (Connection timed out).
+T 1333300692 19*	19Now talking on #TilingWindowManagers
+T 1333300692 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1333300692 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1333370893 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333373519 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333396709 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333406400 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333442389 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1333447236 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1333449257 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1333465025 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1333465042 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1333467175 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333485722 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1333493746 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333495311 19*	19misterhh (~misterhh@Rizon-62BA334E.hsd1.or.comcast.net) has joined #TilingWindowManagers
+T 1333495338 23*	23misterhh (23~misterhh@Rizon-62BA334E.hsd1.or.comcast.net) has left #TilingWindowManagers
+T 1333514916 22*	Disconnected (Connection timed out).
+T 1333514948 19*	19Now talking on #TilingWindowManagers
+T 1333514948 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1333514948 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1333525086 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1333529142 19*	19misterhh (~misterhh@Rizon-62BA334E.hsd1.or.comcast.net) has joined #TilingWindowManagers
+T 1333529189 23*	23misterhh has quit (2323)
+T 1333530411 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1333537527 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1333546681 19*	19Now talking on #TilingWindowManagers
+T 1333546681 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1333546681 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1333562858 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333576159 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1333583505 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333606826 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1333607465 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1333635628 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333647368 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1333647484 19*	19impossibru (impossibru@make.the.impossibru.possibru) has joined #TilingWindowManagers
+T 1333647494 23*	23impossibru (23impossibru@make.the.impossibru.possibru) has left #TilingWindowManagers
+T 1333658354 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1333659424 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333718327 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333724783 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333731558 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1333802002 19*	19Now talking on #TilingWindowManagers
+T 1333802002 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1333802002 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1333808047 22*	Disconnected (Connection timed out).
+T 1333808091 19*	19Now talking on #TilingWindowManagers
+T 1333808091 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1333808091 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1333818809 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333833436 19*	19Now talking on #TilingWindowManagers
+T 1333833436 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1333833436 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1333838226 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333877294 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1333878174 19*	19Kodiak (~kodiak@internet.is.tuuubes) has joined #TilingWindowManagers
+T 1333878194 23*	23Kodiak (23~kodiak@internet.is.tuuubes) has left #TilingWindowManagers (23WeeChat 0.3.223)
+T 1333879237 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1333884743 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1333895286 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333916101 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1333924495 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333958315 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1333960906 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1333960984 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1333962324 22*	antithesis is now known as herbst
+T 1333962379 18<herbst>	Fuck, #/g/clean is gone
+T 1333962395 21<herbst>21	Do you know anything about them Annex ?
+T 1333962882 23*	23herbst has quit (23Quit: yes leaving23)
+T 1333983562 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1333987614 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1333987941 23*	23Kagami has quit (2323)
+T 1333990139 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1334004095 22*	You are now known as TheShadowFog
+T 1334005855 22*	You are now known as Annex
+T 1334006702 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1334009685 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334016276 22*	You are now known as TheShadowFog
+T 1334035775 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1334058540 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1334060571 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1334072738 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1334099015 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334146064 19*	19Now talking on #TilingWindowManagers
+T 1334146064 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1334146064 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1334161713 19*	19Now talking on #TilingWindowManagers
+T 1334161713 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1334161713 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1334169511 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1334175198 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1334176667 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1334185263 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334185582 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1334237242 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1334247628 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1334254728 19*	19antithesis_ (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1334254743 23*	23antithesis_ has quit (2323)
+T 1334267921 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1334268364 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334278981 19*	19Now talking on #TilingWindowManagers
+T 1334278981 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1334278981 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1334294695 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1334298808 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1334326161 19*	19Now talking on #TilingWindowManagers
+T 1334326161 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1334326161 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1334328565 22*	Disconnected (Remote host closed socket).
+T 1334328618 22*	Disconnected (Remote host closed socket).
+T 1334328671 22*	Disconnected (Remote host closed socket).
+T 1334328725 22*	Disconnected (Remote host closed socket).
+T 1334328778 22*	Disconnected (Remote host closed socket).
+T 1334328799 22*	Disconnected (Remote host closed socket).
+T 1334328853 22*	Disconnected (Remote host closed socket).
+T 1334328908 22*	Disconnected (Remote host closed socket).
+T 1334328961 22*	Disconnected (Remote host closed socket).
+T 1334329015 22*	Disconnected (Remote host closed socket).
+T 1334329068 22*	Disconnected (Remote host closed socket).
+T 1334329089 22*	Disconnected (Remote host closed socket).
+T 1334329110 22*	Disconnected (Remote host closed socket).
+T 1334329165 22*	Disconnected (Remote host closed socket).
+T 1334329218 22*	Disconnected (Remote host closed socket).
+T 1334329239 22*	Disconnected (Remote host closed socket).
+T 1334329290 22*	Disconnected (Remote host closed socket).
+T 1334329341 22*	Disconnected (Remote host closed socket).
+T 1334329395 22*	Disconnected (Remote host closed socket).
+T 1334329448 22*	Disconnected (Remote host closed socket).
+T 1334329503 22*	Disconnected (Remote host closed socket).
+T 1334329524 22*	Disconnected (Remote host closed socket).
+T 1334329578 22*	Disconnected (Remote host closed socket).
+T 1334329630 22*	Disconnected (Remote host closed socket).
+T 1334329685 22*	Disconnected (Remote host closed socket).
+T 1334329706 22*	Disconnected (Remote host closed socket).
+T 1334329760 22*	Disconnected (Remote host closed socket).
+T 1334329781 22*	Disconnected (Remote host closed socket).
+T 1334329833 22*	Disconnected (Remote host closed socket).
+T 1334329888 22*	Disconnected (Remote host closed socket).
+T 1334329941 22*	Disconnected (Remote host closed socket).
+T 1334329996 22*	Disconnected (Remote host closed socket).
+T 1334330050 22*	Disconnected (Remote host closed socket).
+T 1334330071 22*	Disconnected (Remote host closed socket).
+T 1334330126 22*	Disconnected (Remote host closed socket).
+T 1334330181 22*	Disconnected (Remote host closed socket).
+T 1334330235 22*	Disconnected (Remote host closed socket).
+T 1334330290 22*	Disconnected (Remote host closed socket).
+T 1334330311 22*	Disconnected (Remote host closed socket).
+T 1334330365 22*	Disconnected (Remote host closed socket).
+T 1334330390 19*	19Now talking on #TilingWindowManagers
+T 1334330390 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1334330390 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1334335055 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1334344740 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334347878 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1334353890 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1334363458 19*	19Now talking on #TilingWindowManagers
+T 1334363458 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1334363458 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1334505103 19*	19Now talking on #TilingWindowManagers
+T 1334505103 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1334505103 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1334505304 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1334512179 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1334512400 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1334513990 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1334515783 19*	19antithesis (~antithesi@27501D26.626FCAFC.A3B967D0.IP) has joined #TilingWindowManagers
+T 1334522551 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1334525946 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1334529630 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334666311 19*	19Now talking on #TilingWindowManagers
+T 1334666311 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1334666311 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1334675340 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1334681814 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1334689864 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1334698749 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334711581 19*	19Now talking on #TilingWindowManagers
+T 1334711581 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1334711581 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1334740563 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1334751611 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1334753027 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1334882596 19*	19Now talking on #TilingWindowManagers
+T 1334882596 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1334882596 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1335047545 19*	19Now talking on #TilingWindowManagers
+T 1335047545 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1335047545 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1335053591 19*	19Now talking on #TilingWindowManagers
+T 1335053591 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1335053591 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1335099818 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335104013 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1335104302 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335107672 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1335111096 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335115863 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1335117690 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335123222 19*	19Now talking on #TilingWindowManagers
+T 1335123222 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1335123222 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1335142229 19*	19Now talking on #TilingWindowManagers
+T 1335142229 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1335142229 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1335196417 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1335197869 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335202701 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1335203957 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335206676 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1335209611 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335209640 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1335218632 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335248258 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335248430 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1335248508 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335248580 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1335248656 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335248718 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1335248796 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335249694 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1335249773 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335250018 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1335250092 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335250433 23*	23antithesis has quit (23Read error: Connection reset by peer23)
+T 1335250469 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335250652 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1335319738 19*	19Now talking on #TilingWindowManagers
+T 1335319738 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1335319738 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1335341548 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335357407 19*	19Now talking on #TilingWindowManagers
+T 1335357407 29*	29Topic for #TilingWindowManagers 29is: For all questions / discussions about tiling WMs. Feel free to create a tiling WM thread on /g/ and announce it here. | http://www.open-video.org/details.php?videoid=8038
+T 1335357407 29*	29Topic for #TilingWindowManagers 29set by antithesis!~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl 29at Tue Mar 27 15:37:24 2012
+T 1335363602 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1335484758 19*	19Now talking on #TilingWindowManagers
+T 1335484758 22*	irc2.x1n.org sets mode +n #TilingWindowManagers
+T 1335484758 22*	irc2.x1n.org sets mode +t #TilingWindowManagers
+T 1335659183 19*	19Now talking on #TilingWindowManagers
+T 1335663188 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1335687441 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335692844 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1335692944 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335701576 19*	19seaweed (seaweed@install.microsoft.windows.nt.7.0) has joined #TilingWindowManagers
+T 1335701579 23*	23seaweed (23seaweed@install.microsoft.windows.nt.7.0) has left #TilingWindowManagers (23Leaving23)
+T 1335701919 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1335724739 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335730454 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1335733025 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335757234 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1335774097 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335775761 23*	23antithesis has quit (23Ping timeout: 240 seconds23)
+T 1335775798 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335784631 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1335784733 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335802562 23*	23antithesis has quit (23*.net *.split23)
+T 1335802683 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335809922 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1335822308 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335855094 22*	Disconnected (Connection timed out).
+T 1335856909 19*	19Now talking on #TilingWindowManagers
+T 1335871856 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1335899705 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1335910206 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335911065 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335925716 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1335948433 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1335966418 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1336084144 19*	19Now talking on #TilingWindowManagers
+T 1336084144 22*	irc.cccp-project.net sets mode +n #TilingWindowManagers
+T 1336084144 22*	irc.cccp-project.net sets mode +t #TilingWindowManagers
+T 1336151017 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1336154788 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1336154822 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1336154847 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1336154926 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1336158454 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1336244021 19*	19Now talking on #TilingWindowManagers
+T 1336244199 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1336286430 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1336322068 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1336340277 19*	19Now talking on #TilingWindowManagers
+T 1336345248 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1336345963 23*	23Kagami has quit (23Quit: ;_;23)
+T 1336382617 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1336387899 23*	23antithesis has quit (23Remote host closed the connection23)
+T 1336389579 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1336394500 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1336490147 19*	19Now talking on #TilingWindowManagers
+T 1336490147 22*	irc.broke-it.com sets mode +n #TilingWindowManagers
+T 1336490147 22*	irc.broke-it.com sets mode +t #TilingWindowManagers
+T 1336599091 19*	19Now talking on #TilingWindowManagers
+T 1336605230 23*	23antithesis has quit (23Quit: yes leaving23)
+T 1336606531 22*	Disconnected (Connection reset by peer).
+T 1336606570 19*	19Now talking on #TilingWindowManagers
+T 1336606570 22*	irc.cccp-project.net sets mode +n #TilingWindowManagers
+T 1336606570 22*	irc.cccp-project.net sets mode +t #TilingWindowManagers
+T 1336639615 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1336657613 19*	19Now talking on #TilingWindowManagers
+T 1336675461 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1336699674 19*	19Now talking on #TilingWindowManagers
+T 1336699674 22*	irc.broke-it.com sets mode +n #TilingWindowManagers
+T 1336699674 22*	irc.broke-it.com sets mode +t #TilingWindowManagers
+T 1336730949 19*	19antithesis (~antithesi@Rizon-378E0EDF.adsl.wanadoo.nl) has joined #TilingWindowManagers
+T 1336742167 19*	19Now talking on #TilingWindowManagers
+T 1336751076 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1336766806 22*	Kagami is now known as RJ45_
+T 1336774768 23*	23RJ45_ has quit (23Quit: ;_;23)
+T 1336774823 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #TilingWindowManagers
+T 1336777412 23*	23Kagami has quit (23Quit: ;_;23)

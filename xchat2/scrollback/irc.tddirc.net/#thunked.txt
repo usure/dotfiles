@@ -1,0 +1,564 @@
+T 1335907167 18<jmp>	and gehts... lol
+T 1335907219 18<jmp>	only interest in learning german was to read engineering books
+T 1335907222 18<jmp>	i'm sure they would be good =)
+T 1335907266 18<Cool_Fire>	lol
+T 1335907289 18<jmp>	is anyone here from america?
+T 1335907299 18<Cool_Fire>	I am
+T 1335907302 18<Cool_Fire>	Wait, no I'm not
+T 1335907350 18<jmp>	lol
+T 1335907965 18<PowerWing>	I'm from Mars does that count?
+T 1335908013 18<Cool_Fire>	If it's Mars, Texas.
+T 1335908132 18<PowerWing>	Nope
+T 1335908139 18<PowerWing>	Mars, Outer Space
+T 1335908297 18<Cool_Fire>	Bah, GTA Vice City lied to me, there's no Mars, Texas. There's a Mars, Pennsylvania though
+T 1335909021 23*	23guy_ has quit (23Ping timeout23)
+T 1335911720 23*	23BattousaiX has quit (23Quit: Leaving23)
+T 1335912289 19*	19Proview (Matt@TDDIRC-ADAE9A37.hsd1.nj.comcast.net) has joined #thunked
+T 1335912779 23*	23horze has quit (23Quit: another time...23)
+T 1335914159 18<Apo123>	Cool_Fire: Mars, Alabama?
+T 1335914172 18<Apo123>	I founded 3 colleges there
+T 1335914267 23*	23Proview has quit (23Quit: leaving23)
+T 1335914301 18<chromedru>	clueless: I had it mostly working
+T 1335914310 18<chromedru>	js irc client that is
+T 1335914336 18<chromedru>	backend opened connection, joined channel, listened for messages from user
+T 1335914345 18<chromedru>	you submit what you say by form, which was json'd to the backend
+T 1335914354 18<chromedru>	and I just looped on a page that got new lines said
+T 1335915562 18<jmp>	o.o i think we were talking about using js only, no middle man service to rely the messages
+T 1335915592 18<Apo123>	yup
+T 1335915618 18<chromedru>	just use node?
+T 1335915640 18<Apo123>	as stated earlier, if ajax and shit weren't restricted to connecting to the same domain only, it'd be trivial
+T 1335915664 18<chromedru>	jsonp can make calls between domains
+T 1335916136 18<jmp>	hm...mabey i should get some more memory
+T 1335916157 18<jmp>	only got a gig :| lol
+T 1335916478 19*	19Matt (Matt@TDDIRC-460C6B85.plus.com) has joined #thunked
+T 1335916502 23*	23MatteWan has quit (23Ping timeout23)
+T 1335917173 23*	23Xires has quit (23Ping timeout23)
+T 1335917903 19*	19Xires (xires@TDDIRC-EA559B7E.feedthetrolls.net) has joined #thunked
+T 1335919228 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1335924357 23*	23chromedru has quit (23Quit: Lost terminal23)
+T 1335927834 23*	23Apo123 has quit (23Ping timeout23)
+T 1335940282 19*	19PowerWing (PowerWing@TDDIRC-FDD728FB.upc-h.chello.nl) has joined #thunked
+T 1335943520 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1335947381 19*	19gagan662 (gagan662@TDDIRC-8E1D9468.static.ziggozakelijk.nl) has joined #thunked
+T 1335947555 18<clueless>	gagan662: sup dru
+T 1335947591 18<clueless>	or maybe not
+T 1335947601 18<clueless>	Cool_Fire: why is your ip's reverse dns lame now
+T 1335947685 18<Cool_Fire>	It was before too
+T 1335948307 18<clueless>	a while ago it didnt show up at all
+T 1335948311 18<clueless>	it was just an ip
+T 1335948390 18<Cool_Fire>	meh, idk wtf anything is anymore
+T 1335950832 19*	19PowerWing (PowerWing@TDDIRC-3FC1D7E8.adsl.xs4all.nl) has joined #thunked
+T 1335952456 18<clueless>	PowerWing: sup brah
+T 1335953600 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1335954157 19*	19PowerWing (PowerWing@TDDIRC-3FC1D7E8.adsl.xs4all.nl) has joined #thunked
+T 1335954853 18<PowerWing>	Hey clueless :)
+T 1335954865 18<PowerWing>	All is fine
+T 1335954867 18<PowerWing>	youj?
+T 1335954870 18<PowerWing>	-j
+T 1335956662 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1335956749 23*	23Cool_Fire has quit (23Operation timed out23)
+T 1335958310 19*	19Cool_Fire (coolfire@insomnia247.nl) has joined #thunked
+T 1335961711 19*	19PowerWing (PowerWing@TDDIRC-FDD728FB.upc-h.chello.nl) has joined #thunked
+T 1335963424 18<clueless>	rundata: you
+T 1335963437 18<clueless>	rundata: you like HACKING the planet right
+T 1335963507 18<clueless>	PowerWing: how about you? do you like HACKING the planet?
+T 1335963836 18<PowerWing>	I'm more into hacking people
+T 1335963850 18<PowerWing>	And cooking the leftover parts into a nice stew.
+T 1335963859 18<PowerWing>	And then inviting the neighbors in :)
+T 1335964072 18<clueless>	nice
+T 1335964082 18<clueless>	I'm hacking on thunked challenge again
+T 1335964094 18<clueless>	hopefully I'll be able to finish it in one session now
+T 1335964104 18<clueless>	that is, without 3 month wow breaks in between
+T 1335965454 19*	19horze (horze@TDDIRC-B1AF972.cust.bredbandsbolaget.se) has joined #thunked
+T 1335965876 18<gift__>	clueless: you around?
+T 1335965883 18<gift__>	gift with a question
+T 1335966278 18<clueless>	gift__: sup
+T 1336084127 19*	19Now talking on #thunked
+T 1336084127 29*	29Topic for #thunked 29is: It's been a nice ride guys, I'll miss you all. http://www.techdirt.com/articles/20120501/18265418734/do-we-really-want-intellectual-ventures-disney-governing-internet.shtml
+T 1336084127 29*	29Topic for #thunked 29set by clueless 29at Thu May  3 12:32:25 2012
+T 1336084127 28-29ChanServ28-	[#thunked] Welcome to #thunked - don't forget to visit https://thunked.org
+T 1336084396 18<jmp>	sup shadow
+T 1336088404 19*	19getli (ytytfyu@F82A8A27.544CB663.23982F57.IP) has joined #thunked
+T 1336088705 23*	23BattousaiX has quit (23Quit: Leaving23)
+T 1336088971 23*	23getli has quit (23Quit: 23)
+T 1336088975 19*	19getli (ytytfyu@F82A8A27.544CB663.23982F57.IP) has joined #thunked
+T 1336089170 18<jmp>	hm...how many seconds are there on feburary 29th (when a leap year occurs)
+T 1336089179 18<jmp>	i'm trying to figure out how linux's date command handles it
+T 1336089634 19*	19Michels1 (michels@TDDIRC-ADAE9A37.hsd1.nj.comcast.net) has joined #thunked
+T 1336089781 22*	Michels1 is now known as Proview
+T 1336089792 22*	Proview is now known as Broview
+T 1336089957 18<Cool_Fire>	http://www.youtube.com/watch?v=tLbl-rUshRI
+T 1336089960 18<Cool_Fire>	quality shit that is
+T 1336090073 18<jmp>	lol
+T 1336090565 23*	23Broview has quit (23Quit: Colloquy for iPhone - http://colloquy.mobi23)
+T 1336091786 23*	23getli has quit (23Quit: 23)
+T 1336093866 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1336113768 23*	23gift_ has quit (23hub.tddirc.net ddg.us.tddirc.net23)
+T 1336113768 23*	23clueless has quit (23hub.tddirc.net ddg.us.tddirc.net23)
+T 1336113768 23*	23gift has quit (23hub.tddirc.net ddg.us.tddirc.net23)
+T 1336113768 23*	23anarch has quit (23hub.tddirc.net ddg.us.tddirc.net23)
+T 1336113797 19*	19gift_ (gift@TDDIRC-E1D92EA4.pm-ib.de) has joined #thunked
+T 1336113840 19*	19gift (gift@TDDIRC-C5D548CD.a189.priv.bahnhof.se) has joined #thunked
+T 1336114204 19*	19anarch (arch@TDDIRC-475A6A34.nycap.res.rr.com) has joined #thunked
+T 1336116405 19*	19Brittany (Britt__@TDDIRC-417C5169.lsanca.fios.verizon.net) has joined #thunked
+T 1336117507 18<jmp>	yo clueless you around?
+T 1336117718 18<jmp>	and anyone here know of a javascript library that does addition of numbers w/ decimals?
+T 1336117959 18<jmp>	meh, looks like i gotta write a function to handle it, no biggy
+T 1336118339 19*	19clueless (clueless@google.gov) has joined #thunked
+T 1336118340 22*	ChanServ sets mode +q #thunked clueless
+T 1336118340 22*	26ChanServ gives channel operator status to26 clueless
+T 1336122851 18<jmp>	o.o can it be? I only heard stories of the one with a tilde infront of his name
+T 1336123660 22*	clueless sets mode -q #thunked clueless
+T 1336123670 18<clueless>	mere rumours young one
+T 1336123678 18<clueless>	thunked need not be moderated
+T 1336123682 18<clueless>	because everyone here is awesome
+T 1336123685 22*	26clueless removes channel operator status from26 clueless
+T 1336123720 18<jmp>	=O
+T 1336126662 18<narada>	what a rebel
+T 1336130328 19*	19PowerWing (PowerWing@TDDIRC-FDD728FB.upc-h.chello.nl) has joined #thunked
+T 1336130329 22*	ChanServ sets mode +q #thunked clueless
+T 1336130329 22*	26ChanServ gives channel operator status to26 clueless
+T 1336130330 19*	19clueless_ (clueless@TDDIRC-7C72B6E6.access.telenet.be) has joined #thunked
+T 1336132204 18<gift>	WFH today
+T 1336132207 18<gift>	chyea
+T 1336132354 23*	23gift has quit (23Quit: it puts the packet in the socket or else it gets the close() again23)
+T 1336132553 18<clueless>	gift_: http://facebook.com/?-s
+T 1336132596 22*	clueless sets mode -q #thunked clueless
+T 1336132596 22*	26clueless removes channel operator status from26 clueless
+T 1336133008 23*	23gift_ has quit (23Input/output error23)
+T 1336133022 19*	19gift (gift@TDDIRC-26B772D4.is.a.tor.exit.server.torland.me) has joined #thunked
+T 1336133790 18<gift>	clueless: whats on your agenda
+T 1336133929 19*	19guy_ (guy@TDDIRC-E8B5ED66.red.bezeqint.net) has joined #thunked
+T 1336133941 18<gift>	hi guy.
+T 1336133957 18<guy_>	hi gift
+T 1336134105 18<gift>	Todd?
+T 1336134119 18<guy_>	todd?
+T 1336134159 18<guy_>	gift, if you're asking whoami I found the forum by wandering around the 0x41414141 challenge, I keep following it from time to time and decided to join the irc
+T 1336134302 18<gift>	BRANDON?
+T 1336134303 18<narada>	clueless: he heard about that one awesome place, thunked.org
+T 1336134386 18<guy_>	brandon ?
+T 1336134388 18<guy_>	:/
+T 1336134429 18<gift>	what are you doing today guy_?
+T 1336134452 18<guy_>	gift, right now ? fra-challenge
+T 1336134462 18<gift>	what is fra-challenge
+T 1336134471 18<guy_>	http://www.fra.se/jobbahososs/frachallenge2012.176.html
+T 1336134484 18<guy_>	I'm not .se, I just found it nice
+T 1336134544 18<gift>	i trust youve played smashthestack then
+T 1336134556 18<guy_>	in 2k6
+T 1336134566 18<guy_>	when dusty only opened it (:
+T 1336134580 18<gift>	neat
+T 1336134704 18<guy_>	yea it was nice
+T 1336135155 18<narada>	know nnp?
+T 1336135166 18<guy_>	i remember his nickname but I don't know him personally
+T 1336135171 18<narada>	fair enough
+T 1336135301 18<guy_>	i saw skier_ idling here, he's a cool friend (:
+T 1336135586 18<gift>	hey neat, ive known him for quite a while too
+T 1336135656 18<gift>	guy_: did you used to irc anywhere else then?
+T 1336135687 18<guy_>	gift, fnode
+T 1336135694 18<guy_>	sometimes efnet, bindshell
+T 1336136052 18<gift>	what freenode channels?
+T 1336136059 18<gift>	i dont mean to play 20 questions
+T 1336136063 18<gift>	im just not ready to start working yet
+T 1336136069 18<narada>	haven't hit 20 yet
+T 1336136074 18<guy_>	huh?
+T 1336136084 18<guy_>	gift, is this some sort of private/invite only channel/network ?
+T 1336136095 18<narada>	nope
+T 1336136098 18<gift>	no
+T 1336136136 18<guy_>	then why all the investigation ? I find the forum neat to follow, decided to join on IRC to see if it's cool also :/
+T 1336136181 18<gift>	08:43:58      gift | i dont mean to play 20 questions                                             │ gift       
+T 1336136182 18<gift>	08:44:02      gift | im just not ready to start working yet
+T 1336136192 18<guy_>	working?
+T 1336136205 18<gift>	why so sensitive/paranoid
+T 1336136240 18<guy_>	I'm not paranoid, I just find it a bit weird, nothing more
+T 1336136259 18<gift>	im sorry i thought this was a chatroom
+T 1336136261 18<gift>	where the fuck are the chat rooms
+T 1336136270 18<narada>	on aol
+T 1336136277 18<gift>	oh
+T 1336136288 18<guy_>	gift, try ##re, #metasm,#radare on fnode
+T 1336136299 18<gift>	ah
+T 1336136339 18<gift>	you can find me in ##freebsd, ##pf, #perl, and so on
+T 1336136363 18<guy_>	packetfilter?
+T 1336136370 18<gift>	i always wanted to be better with asm, i cant pull apart helloworld.exe
+T 1336136415 18<guy_>	i'm not a netfilter/iptables on the same area, however I like reversing
+T 1336136427 18<guy_>	+wizard
+T 1336136541 18<gift>	also what is your street address
+T 1336136548 18<gift>	;p
+T 1336136577 18<gift>	see you guys later this evening
+T 1336136603 18<narada>	off work, later turds
+T 1336136732 18<guy_>	._.
+T 1336138623 18<gift>	im not strong enough to ignore irc
+T 1336138731 18<guy_>	gift, are you at work now ?
+T 1336138741 18<gift>	im working from home today
+T 1336141238 18<gift>	clueless: you there?
+T 1336142142 19*	19BattousaiX (kenpachi@TDDIRC-7F8B649C.lightspeed.livnmi.sbcglobal.net) has joined #thunked
+T 1336145295 23*	23guy_ has quit (23Ping timeout23)
+T 1336145940 19*	19guy_ (guy@AB18C563.18EA4D44.290B09CA.IP) has joined #thunked
+T 1336146780 23*	23guy_ has quit (23Ping timeout23)
+T 1336148660 18<gift>	clueless: facebook.com/?-s <- lol
+T 1336149563 19*	19guy_ (guy@TDDIRC-E8B5ED66.red.bezeqint.net) has joined #thunked
+T 1336150034 19*	19fsck (fsck@your.moms) has joined #thunked
+T 1336150962 18*	fsck blinks
+T 1336160404 19*	19Apo123 (apo123@BBDF32AB.258051DC.BB4C6A55.IP) has joined #thunked
+T 1336162490 23*	23fsck has quit (23Quit: leaving23)
+T 1336244007 19*	19Now talking on #thunked
+T 1336244007 29*	29Topic for #thunked 29is: It's been a nice ride guys, I'll miss you all. http://www.techdirt.com/articles/20120501/18265418734/do-we-really-want-intellectual-ventures-disney-governing-internet.shtml
+T 1336244007 29*	29Topic for #thunked 29set by clueless 29at Thu May  3 12:32:25 2012
+T 1336244007 28-29Global28-	[Logon News - Mar 12 2012] irc.tddirc.net now uses geo-ip data to automatically redirect you to a closer server. If you are not happy with the server you're connected to, simply type "/map" to see the list of available servers.
+T 1336244007 28-29ChanServ28-	[#thunked] Welcome to #thunked - don't forget to visit https://thunked.org
+T 1336249533 18<jmp>	Good day my friends!
+T 1336249645 18<narada>	hola
+T 1336249955 18<Apo123>	hello
+T 1336250148 23*	23BattousaiX has quit (23Client exited23)
+T 1336251577 18<jmp>	hmmm a lot of people are using texture gradients in web design, must be the new fad
+T 1336251710 22*	Xires is now known as ^Xires
+T 1336255997 23*	23MatteWan has quit (23Ping timeout23)
+T 1336256073 19*	19MatteWan (Matt@TDDIRC-460C6B85.plus.com) has joined #thunked
+T 1336257165 18<r-A>	The less the better
+T 1336259303 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1336260593 19*	19gift__ (gift@TDDIRC-4965C7CA.torservers.net) has joined #thunked
+T 1336266185 18<gift_>	!seen clueless
+T 1336266186 18<nanobot>	7 hours, 52 minutes and 35 seconds ago:
+T 1336266187 18<nanobot>	clueless on #hackerthreads: lol blueice
+T 1336266187 18<nanobot>	7 hours, 52 minutes and 32 seconds ago:
+T 1336266188 18<nanobot>	clueless on #hackerthreads: that sounds dirty
+T 1336271403 18<jmp>	!seen nanobot
+T 1336271406 18<nanobot>	4 weeks, 6 days, 16 hours, 44 minutes and 57 seconds ago:
+T 1336271407 18<nanobot>	nanobot on nanobot: Error: No result.
+T 1336271408 18<nanobot>	1 week, 5 days, 6 hours, 52 minutes and 39 seconds ago:
+T 1336271409 18<nanobot>	nanobot was kicked from #c0de by horm (horm).
+T 1336271412 18<jmp>	lol
+T 1336274991 23*	23Cool_Fire has quit (23Ping timeout23)
+T 1336275783 19*	19Cool_Fire (coolfire@insomnia247.nl) has joined #thunked
+T 1336279768 23*	23Brittany has quit (23Quit: See ya23)
+T 1336281115 23*	23Apo123 has quit (23Input/output error23)
+T 1336284253 23*	23horze has quit (23Ping timeout23)
+T 1336291211 19*	19PowerWing (PowerWing@TDDIRC-FDD728FB.upc-h.chello.nl) has joined #thunked
+T 1336294101 19*	19horze (horze@TDDIRC-C2BAEFC1.cust.bredbandsbolaget.se) has joined #thunked
+T 1336313529 19*	19visionvirus (visionviru@TDDIRC-8E1D9468.static.ziggozakelijk.nl) has joined #thunked
+T 1336317105 23*	23MatteWan has quit (23Quit: Leaving23)
+T 1336320265 23*	23gift_ has quit (23Quit: it puts the packet in the socket or else it gets the close() again23)
+T 1336320401 23*	23gift__ has quit (23Input/output error23)
+T 1336320402 23*	23gift has quit (23Input/output error23)
+T 1336320417 19*	19gift (gift@TDDIRC-FAC047E1.torservers.net) has joined #thunked
+T 1336340261 19*	19Now talking on #thunked
+T 1336340261 29*	29Topic for #thunked 29is: It's been a nice ride guys, I'll miss you all. http://www.techdirt.com/articles/20120501/18265418734/do-we-really-want-intellectual-ventures-disney-governing-internet.shtml
+T 1336340261 29*	29Topic for #thunked 29set by clueless 29at Thu May  3 12:32:25 2012
+T 1336340261 28-29ChanServ28-	[#thunked] Welcome to #thunked - don't forget to visit https://thunked.org
+T 1336342041 23*	23gift has quit (23Ping timeout23)
+T 1336342095 19*	19gift (gift@TDDIRC-4183889C.tor.uwaterloo.ca) has joined #thunked
+T 1336348780 23*	23gift has quit (23Quit: it puts the packet in the socket or else it gets the close() again23)
+T 1336348854 19*	19gift (gift@TDDIRC-13272643.a185.priv.bahnhof.se) has joined #thunked
+T 1336354882 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1336360330 18<jmp>	went in the apple store today o.o
+T 1336360390 18<jmp>	tagged along with my buddy... the guy that we talked to actually was pretty cool
+T 1336360401 18<jmp>	super good service heh
+T 1336360413 18<Apo123>	uh oh
+T 1336360418 18<Apo123>	you didn't buy anything, did you?
+T 1336360423 18<jmp>	naw of course not lol
+T 1336360427 18<Apo123>	also you didn't carry a mac in there, did you?
+T 1336360434 18<Apo123>	cause if you did you probably got flashback :D
+T 1336360435 18<jmp>	im not a fan of there products, there a piece of shit XD
+T 1336360439 18<Apo123>	lol
+T 1336360510 18<jmp>	well i took in my buddys mac because the lcd was going bad ..they said they were offering a free replacement but eneded last year :| so i'm going to bitch a bit and see if i can get it anyway
+T 1336360549 18<jmp>	my buddy brought in a ipad to back shit off of and they did it for him 
+T 1336360624 18<jmp>	it's stupid, you had to go to some weird place in itunes to back up the device
+T 1336360648 18<jmp>	(sync is not same as backup <_<)
+T 1336360661 18<jmp>	didn't want to do it myself cause i don't know shit about macs and i don't care about macs lol
+T 1336360667 18<jmp>	*apple products
+T 1336360687 18<jmp>	all there stuff is waaaay overpriced
+T 1336360694 18<jmp>	they wanted fucking 600 bucks to replace the lcd screen!
+T 1336360701 18<jmp>	it's like are you serious? lol
+T 1336360705 18<Apo123>	only $600?
+T 1336360707 18<Apo123>	they're slipping
+T 1336360727 18<jmp>	a new mac  is like $1,200 or some shit...which is still fucking rediclious
+T 1336360915 18<jmp>	i probably can fix it myself, just never took a mac apart
+T 1336360927 18<jmp>	probably just a simple flex cable or something
+T 1336360954 18<Apo123>	a $500 cable at the Apple store!
+T 1336360971 18<Apo123>	unless you also want to upgrade it
+T 1336360981 18<Apo123>	to make it shinier
+T 1336360985 18<Apo123>	which is another $300
+T 1336360995 18<jmp>	lol
+T 1336361264 18<jmp>	idk if apple products where actually good? Seemed like people had strong preferences back in the day when it came between c64, amiga, and apple II
+T 1336361323 18<jmp>	well i guess back then hardware was a lot different haha
+T 1336365195 18<jmp>	stupid armen van buren getting me addicted to songs :|
+T 1336366003 23*	23Apo123 has quit (23Quit: 23)
+T 1336375818 23*	23kharis has quit (23Ping timeout23)
+T 1336380183 19*	19PowerWing (PowerWing@TDDIRC-FDD728FB.upc-h.chello.nl) has joined #thunked
+T 1336380762 19*	19kharis (kharis@E74289FD.57218935.D54DD7A5.IP) has joined #thunked
+T 1336388503 18<anarch>	yawn
+T 1336388742 23*	23jmp has quit (23Quit: 23)
+T 1336391165 23*	23horze has quit (23Connection reset by peer23)
+T 1336391176 19*	19horze (horze@TDDIRC-C2BAEFC1.cust.bredbandsbolaget.se) has joined #thunked
+T 1336394846 19*	19gift_ (gift@TDDIRC-2D1E2BE9.ipredator.se) has joined #thunked
+T 1336490121 19*	19Now talking on #thunked
+T 1336490121 29*	29Topic for #thunked 29is: It's been a nice ride guys, I'll miss you all. http://www.techdirt.com/articles/20120501/18265418734/do-we-really-want-intellectual-ventures-disney-governing-internet.shtml
+T 1336490121 29*	29Topic for #thunked 29set by clueless 29at Thu May  3 12:32:25 2012
+T 1336490121 28-29ChanServ28-	[#thunked] Welcome to #thunked - don't forget to visit https://thunked.org
+T 1336491636 18<gift_>	nice find clueless 
+T 1336491721 18<gift_>	im gonna throw it on my laptop i think
+T 1336492161 18<clueless>	I've actually been keeping track of their efforts for a while now
+T 1336492173 18<clueless>	but it seems the OS is 'ready' to be tested now
+T 1336492303 18<clueless>	gift_: lemme know how it goes if you do test it
+T 1336599077 19*	19Now talking on #thunked
+T 1336599077 29*	29Topic for #thunked 29is: It's been a nice ride guys, I'll miss you all. http://www.techdirt.com/articles/20120501/18265418734/do-we-really-want-intellectual-ventures-disney-governing-internet.shtml
+T 1336599077 29*	29Topic for #thunked 29set by clueless 29at Thu May  3 12:32:25 2012
+T 1336599077 28-29Global28-	[Logon News - Mar 12 2012] irc.tddirc.net now uses geo-ip data to automatically redirect you to a closer server. If you are not happy with the server you're connected to, simply type "/map" to see the list of available servers.
+T 1336599077 28-29ChanServ28-	[#thunked] Welcome to #thunked - don't forget to visit https://thunked.org
+T 1336599385 18<clueless>	gift_: herbstluftwm
+T 1336601793 23*	23Apo123 has quit (23Input/output error23)
+T 1336607912 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1336613269 19*	19Proview (Matt@TDDIRC-BDF23ED.hsd1.de.comcast.net) has joined #thunked
+T 1336616262 19*	19Apo123 (apo123@TDDIRC-4F61132F.hsd1.va.comcast.net) has joined #thunked
+T 1336617230 23*	23gagan662 has quit (23Quit: leaving23)
+T 1336617338 19*	19gagan662 (gagan662@TDDIRC-8E1D9468.static.ziggozakelijk.nl) has joined #thunked
+T 1336618449 23*	23Proview has quit (23Ping timeout23)
+T 1336622142 19*	19Apo123_ (apo123@TDDIRC-7A70410E.vpn.ipredator.se) has joined #thunked
+T 1336622211 23*	23Apo123 has quit (23Ping timeout23)
+T 1336623489 23*	23Apo123_ has quit (23Broken pipe23)
+T 1336628601 19*	19PowerWing (PowerWing@TDDIRC-FDD728FB.upc-h.chello.nl) has joined #thunked
+T 1336632550 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1336639007 19*	19PowerWing (PowerWing@TDDIRC-EE854418.wireless.uva.nl) has joined #thunked
+T 1336642207 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1336642253 19*	19ultra_laser (arch@TDDIRC-475A6A34.nycap.res.rr.com) has joined #thunked
+T 1336642838 19*	19PowerWing (PowerWing@TDDIRC-EE854418.wireless.uva.nl) has joined #thunked
+T 1336644110 23*	23PowerWing has quit (23Quit: This computer has gone to sleep23)
+T 1336645208 19*	19PowerWing (PowerWing@TDDIRC-EE854418.wireless.uva.nl) has joined #thunked
+T 1336646476 18<clueless>	PowerWing: you there?
+T 1336646483 18<PowerWing>	Nope
+T 1336646486 18<PowerWing>	Well maybe
+T 1336646489 18<PowerWing>	Let me check
+T 1336646489 18<clueless>	meh that sucks
+T 1336646492 18<clueless>	I'll try again later then :(
+T 1336646504 18<PowerWing>	Yep I'm here
+T 1336646508 18<clueless>	oh nice
+T 1336646512 18<PowerWing>	or so the mirror tells me ;)
+T 1336646545 18<clueless>	are you sure the mirror is real?
+T 1336646550 18<clueless>	I've seen a lot of fake mirrors
+T 1336646560 18<PowerWing>	It's a real trick mirror :)
+T 1336646577 18<clueless>	hold up your right hand, if the mirror images holds up the hand on the left side then it's clearly broken and fake
+T 1336646586 18<PowerWing>	Whatcha need me for?
+T 1336646618 18<clueless>	some insights in a SQL/php problem
+T 1336646628 18<PowerWing>	sure hit me
+T 1336646671 18<clueless>	I have a set of challenges that all have tags
+T 1336646687 18<clueless>	each challenge has an id
+T 1336646689 18<clueless>	each tag has an id
+T 1336646696 18<clueless>	then theres a table to link challenge ids to multiple tag ids
+T 1336646715 18<clueless>	so selecting all challenges with a certain tag goes like this
+T 1336646735 18<clueless>	SELECT * FROM challengetag WHERE tid = $yourtagofchoice
+T 1336646778 18<clueless>	now... I would also like it if the user can select multiple tags
+T 1336646783 18<clueless>	but I'm not sure how to do it
+T 1336646821 18<clueless>	I guess I would have to create a temporary table with solutions from each tag SELECT and then somehow select all the challenges that are represented in all temporary tables
+T 1336646824 18<clueless>	or something
+T 1336646837 18<clueless>	lemme link you to some relevant code
+T 1336646905 18<PowerWing>	SELECT * FROM challengetag WHERE tid IN $[array of tags] ?? or did I miss the problem?
+T 1336646935 18<clueless>	I want to select challenges that have BOTH tags
+T 1336646939 18<clueless>	not challenges with either one
+T 1336646981 18<clueless>	https://gitorious.org/thunked-org/challenge/blobs/master/dblayout.sql
+T 1336646999 18<clueless>	https://gitorious.org/thunked-org/challenge/blobs/master/htdocs/model/listmodel.php
+T 1336647005 18<clueless>	those links should work unless I typod
+T 1336647165 18<PowerWing>	Let me think a bit
+T 1336647182 18<clueless>	basically if you have 2 challenges and 3 tag links entries
+T 1336647187 18<clueless>	c1 t1
+T 1336647190 18<clueless>	c1 t2
+T 1336647194 18<clueless>	c2 t1
+T 1336647204 18<clueless>	then I want to select all challenges with t1 and t2
+T 1336647233 18<PowerWing>	then c1 has to be anser but not c2
+T 1336647238 18<clueless>	yep
+T 1336647267 18<clueless>	this is on the `challengetag` table in the dblayout file
+T 1336647272 18<clueless>	fairly simple table
+T 1336647281 18<PowerWing>	I saw :P
+T 1336647322 18<clueless>	I don't mind limiting the # of tags to a reasonable ammount like 3 or 5 or something
+T 1336647331 18<clueless>	that the user is allowed to seach for
+T 1336647506 18<clueless>	btw did you guys see adobe's latest security move?
+T 1336647528 18<clueless>	photoshop CS5.5 had serious security isues in the way it opens files (presumable projects, dnno)
+T 1336647536 18<clueless>	so they released Photoshop CS6 to fix it
+T 1336647540 18<clueless>	except... it's a paid upgrade
+T 1336647551 18<clueless>	and their advisory actually says "if you can't upgrade don't open files"
+T 1336647595 18<PowerWing>	Well easiest solution Dont delegate it all the mysql(is possible but I don't remember how the query should go..) and select all tags, group by cid, and check in PHP real quick.
+T 1336647606 18<PowerWing>	And then build the final list of CID's to get
+T 1336647616 18<PowerWing>	Yep..
+T 1336647619 18<PowerWing>	Adobe sucks Xd
+T 1336647624 18<PowerWing>	But we already knew that.
+T 1336647878 18<clueless>	true
+T 1336647883 18<clueless>	but this is beyond sucking
+T 1336653875 19*	19fsck (fsck@your.moms) has joined #thunked
+T 1336654851 18<clueless>	sup fsck 
+T 1336654888 18<clueless>	fsck: read about adobes latest move?
+T 1336654942 18<clueless>	in case you haven't: they released a security advisory urging users to do a paid upgrade to Adobe Photoshop CS6 in order to fix a critical code execution vulnerability
+T 1336657600 19*	19Now talking on #thunked
+T 1336657600 29*	29Topic for #thunked 29is: It's been a nice ride guys, I'll miss you all. http://www.techdirt.com/articles/20120501/18265418734/do-we-really-want-intellectual-ventures-disney-governing-internet.shtml
+T 1336657600 29*	29Topic for #thunked 29set by clueless 29at Thu May  3 12:32:25 2012
+T 1336657600 28-29ChanServ28-	[#thunked] Welcome to #thunked - don't forget to visit https://thunked.org
+T 1336657761 23*	23ultra_laser has quit (23Ping timeout23)
+T 1336657940 19*	19ultra_laser (arch@TDDIRC-475A6A34.nycap.res.rr.com) has joined #thunked
+T 1336662630 22*	RED is now known as gagan662
+T 1336664418 23*	23ultra_laser has quit (23Ping timeout23)
+T 1336664595 19*	19ultra_laser (arch@TDDIRC-475A6A34.nycap.res.rr.com) has joined #thunked
+T 1336667124 23*	23narada has quit (23Ping timeout23)
+T 1336667277 19*	19narada (narada@TDDIRC-51EBF146.darchoods.net) has joined #thunked
+T 1336667678 22*	fsck is now known as brostock
+T 1336667718 22*	clueless is now known as broless
+T 1336668141 19*	19PowerWing (PowerWing@TDDIRC-FDD728FB.upc-h.chello.nl) has joined #thunked
+T 1336668685 22*	gagan662 is now known as ^_^
+T 1336669545 23*	23ultra_laser has quit (23Ping timeout23)
+T 1336669723 19*	19ultra_laser (arch@TDDIRC-475A6A34.nycap.res.rr.com) has joined #thunked
+T 1336670201 22*	^_^ is now known as gagan662
+T 1336671928 23*	23gift_ has quit (23Input/output error23)
+T 1336671952 19*	19gift_ (gift@TDDIRC-DD19D75A.noisetor.net) has joined #thunked
+T 1336675416 22*	narada is now known as broada
+T 1336675690 19*	19MatteWan (Matt@TDDIRC-460C6B85.plus.com) has joined #thunked
+T 1336675693 18<broless>	hey MatteWan 
+T 1336675709 18<MatteWan>	hey
+T 1336675739 18<MatteWan>	hows it going?
+T 1336675925 22*	gagan662 is now known as broGagan
+T 1336675966 22*	broGagan is now known as brogan
+T 1336676391 18<broless>	pretty good
+T 1336676399 18<broless>	I quit being a wow addict and started working on thunked code again
+T 1336676403 18<broless>	or did I already tell you that
+T 1336676477 18<MatteWan>	yeah you did
+T 1336676482 18<MatteWan>	I said I was proud
+T 1336676549 18<brostock>	he moved from one addiction to another
+T 1336676913 18<MatteWan>	heh
+T 1336676944 18<brostock>	wait, I know what happened
+T 1336676959 18<brostock>	he got a job at McDonalds and only worked the first day where you watch training videos
+T 1336676961 18<brostock>	then quit
+T 1336676972 18<brostock>	which only gave him enough money for two months of WoW subscription
+T 1336676981 18<brostock>	money ran out, subscription ended, now he's back
+T 1336677284 23*	23brostock has quit (23Quit: leaving23)
+T 1336677989 19*	19Apo123 (apo123@TDDIRC-4F61132F.hsd1.va.comcast.net) has joined #thunked
+T 1336678941 18<broless>	gift_: hows herbstluftwm treating you?
+T 1336679214 18<gift_>	i lack the theme-ing to make it worthwhile
+T 1336680419 23*	23Apo123 has quit (23Input/output error23)
+T 1336680610 18<broless>	gift_: what do you mean?
+T 1336680652 18<gift_>	i guess all i meant was the neat task bar
+T 1336680677 18<gift_>	i dont want to use tint2
+T 1336680724 18<gift_>	also i 
+T 1336680735 18<gift_>	i would honestly rather just click and drag a window to where i want it
+T 1336680746 18<gift_>	i have more screen realestate than i know what to do with
+T 1336680955 18<broless>	are there tiling wms that allow that?
+T 1336681061 18<gift_>	i dont know, i just mean that id rather dragndrop on a non-tiling 
+T 1336681080 18<broless>	fair enough
+T 1336681112 18<broless>	tiling wms are totally different from stacking wms (or whatever they are called) and I guess you just have to get used to it or enjoy the way they work
+T 1336681115 18<broless>	suppose it's not for everyone
+T 1336681123 18<gift_>	im sure i could get over it but for me its too tedious plus i dont want to learn a new thing
+T 1336681138 18<broless>	I think the learning gap is the problem for most people
+T 1336681142 18<broless>	btw about learning new things
+T 1336681147 18<broless>	I saw you defend dvorak earlier
+T 1336681150 18<broless>	do you use dvorak?
+T 1336681162 18<gift_>	i ~can~ish~
+T 1336681182 18<gift_>	i moved the keys on my keyboard in lieu of an keyboard-cover 
+T 1336681193 18<broless>	yeah so do I lol
+T 1336681195 18<gift_>	and went through a tutorial from the debian repos
+T 1336681206 18<gift_>	some years ago 
+T 1336681211 18<broless>	do you use actual classic dvorak or some other one?
+T 1336681219 18<gift_>	classic i guess
+T 1336681233 18<broless>	classic is basically qwerty with keys re-ordered
+T 1336681242 18<broless>	all special characters etc share the same keys as qwerty
+T 1336681249 18<broless>	on different locations
+T 1336681249 18<gift_>	right
+T 1336681276 18<broless>	you should take a look at www.kaufmann.no/roland/dvorak
+T 1336681311 18<gift_>	when i learned it i wasnt coding all the time
+T 1336681320 18<broless>	lol I learned it playing wow
+T 1336681322 18<gift_>	just typing unpunctuated lines into irc so it worked fine
+T 1336681340 18<broless>	because people on wow are retarded anyway so I didn't mind that I couldn't articulate my thoughts at the normal speed
+T 1336681340 18<gift_>	but now i might go back and get a hang of that one
+T 1336681351 18<gift_>	heh
+T 1336681381 18<broless>	if you already know dvorak I guess switching to dvp isnt as hard
+T 1336681409 18<broless>	the most annoying thing for me learning dvorak was not being able to say what you wanted to say in online discussions or conversations
+T 1336681451 18<gift_>	well i dont know it anymore i cant even type how now brown cow
+T 1336681461 18<gift_>	i could pick it up quick if i went back to it though i think
+T 1336681462 18<broless>	oh
+T 1336681470 18<broless>	probably 
+T 1336681496 18<broless>	I honestly think it's awesome being able to reach the symbols easily like that
+T 1336681517 18<broless>	the way the numbers are ordered is very odd at first but I have no problems with it anymore 
+T 1336681928 18<gift_>	i thoguht it made sense since you showed me years ago
+T 1336681942 18<gift_>	except 
+T 1336681953 18<gift_>	75319
+T 1336681958 18<gift_>	why not 97531
+T 1336699658 19*	19Now talking on #thunked
+T 1336699658 29*	29Topic for #thunked 29is: It's been a nice ride guys, I'll miss you all. http://www.techdirt.com/articles/20120501/18265418734/do-we-really-want-intellectual-ventures-disney-governing-internet.shtml
+T 1336699658 29*	29Topic for #thunked 29set by clueless 29at Thu May  3 12:32:25 2012
+T 1336699658 28-29ChanServ28-	[#thunked] Welcome to #thunked - don't forget to visit https://thunked.org
+T 1336720913 18<broless>	why is that problematic lol
+T 1336720929 18<broless>	it's copyright infringement and a violation of trade secrets not theft
+T 1336721322 18<broless>	jmp: all those things you mention are trade secrets
+T 1336721330 18<broless>	and yes there are laws against stealing them
+T 1336721344 18<broless>	or rather against 'leaking' them
+T 1336721593 18<broless>	A trade secret is a formula, practice, process, design, instrument, pattern, or compilation of information which is not generally known or reasonably ascertainable, by which a business can obtain an economic advantage over competitors or customers.
+T 1336721609 18<broless>	https://en.wikipedia.org/wiki/Trade_secret
+T 1336721671 18<broless>	the trade secret almost certainly applies to a high speed trading algorithm
+T 1336721680 18<broless>	and the source code is also copyright protected
+T 1336721691 18<broless>	they just have to do a civil suit instead of a criminal one
+T 1336722451 19*	19PowerWing (PowerWing@TDDIRC-FDD728FB.upc-h.chello.nl) has joined #thunked
+T 1336724910 19*	19Chythia (cinta@928E7F60.9D02DC5F.D6878261.IP) has joined #thunked
+T 1336733006 23*	23Chythia has quit (23Quit: Bengkel@net Buka 25 jam.2000/jam23)
+T 1336735421 23*	23ultra_laser has quit (23hub.tddirc.net i247-1.us.tddirc.net23)
+T 1336735421 23*	23Cool_Fire has quit (23hub.tddirc.net i247-1.us.tddirc.net23)
+T 1336735673 19*	19ultra_laser (arch@TDDIRC-475A6A34.nycap.res.rr.com) has joined #thunked
+T 1336736393 19*	19Cool_Fire (coolfire@insomnia247.nl) has joined #thunked
+T 1336740744 22*	ultra_laser is now known as anarchii
+T 1336742153 19*	19Now talking on #thunked
+T 1336742153 29*	29Topic for #thunked 29is: It's been a nice ride guys, I'll miss you all. http://www.techdirt.com/articles/20120501/18265418734/do-we-really-want-intellectual-ventures-disney-governing-internet.shtml
+T 1336742153 29*	29Topic for #thunked 29set by clueless 29at Thu May  3 12:32:25 2012
+T 1336742153 28-29ChanServ28-	[#thunked] Welcome to #thunked - don't forget to visit https://thunked.org
+T 1336742716 19*	19fsck (fsck@your.moms) has joined #thunked
+T 1336743452 18<gift_>	broless: did you read the source code stealing thing
+T 1336743458 18<gift_>	(brb cophee)
+T 1336743472 18<broless>	yes
+T 1336743480 18<broless>	scroll up about 6 hours
+T 1336743481 18<broless>	for my reply
+T 1336743488 18<broless>	should be on your current screen tbmh
+T 1336743903 23*	23fsck has quit (23Quit: buy a parraot and emotionally scar it by having RMS over for a visit23)
+T 1336744069 18<gift_>	yeah
+T 1336744416 18<broless>	no comments on it?
+T 1336745757 18<gift_>	not now
+T 1336746936 22*	anarchii is now known as broarch
+T 1336746953 18<broarch>	:D
+T 1336747249 19*	19WebChat_136527 (WebChat_13@TDDIRC-E7BF23AC.nowhere-else.org) has joined #thunked
+T 1336747314 23*	23WebChat_136527 has quit (23Client exited23)
+T 1336748161 23*	23NoShells has quit (23Quit: ZNC - http://znc.in23)
+T 1336751439 19*	19fsck (fsck@your.moms) has joined #thunked
+T 1336754361 18<broless>	fsck: been updating gentoo on my desktop that I hadnt used in a while
+T 1336754364 18<broless>	went surprisingly easy
+T 1336754372 18<broless>	and everything works awesomely with the new kernel
+T 1336754388 18<fsck>	cool
+T 1336754396 18<fsck>	I use debian so I never have to worry about new kernels
+T 1336754400 18<fsck>	new..haha
+T 1336754420 18<broless>	my older kernel had some problems
+T 1336754429 18<broless>	couldnt get the firmware of my video card to work properly 
+T 1336754451 18<broless>	I think the bleeding edge is an advantage if you have time for it
+T 1336754452 18<broless>	even on servers
+T 1336755983 18<fsck>	if you have time for it, sure
+T 1336755995 18<fsck>	but on servers, "having time for it" isn't the only factor
+T 1336756007 18<fsck>	its if you can get it updated, fixed, and working in a limited downtime window
+T 1336756027 18<fsck>	your time isn't the only factor here, and its why I would prefer stability to bleeding edge on a server
+T 1336757086 18<r-A>	What kind of advantage would bleeding edge be really?
+T 1336757126 18<r-A>	To my understading in majority of cases all you need is stability, stability and stability. Not really new features or bugfixes.
+T 1336757138 18<r-A>	So if it works, don't risk breaking it, don't update :p
+T 1336757232 18<fsck>	aye
+T 1336757247 18<fsck>	99.99% of server applications do not need bleeding edge
+T 1336757252 18<fsck>	but tbh neither do desktop applications
+T 1336757278 18<fsck>	bleeding edge is more of a psycological thing, "ooo I want teh new shiny"
+T 1336757311 18<fsck>	also, in my experience, users resist change like the plague
+T 1336757324 18<fsck>	so if you do any major server upgrades, they will bitch and complain for weeks
+T 1336757343 18<fsck>	if you do constand major upgrades, like a rolling release distro would cause, you end up with a rolling release of bitching and complaining
+T 1336757352 18<fsck>	I'll stick to stability and minimal bitching kthx
+T 1336757628 22*	fsck is now known as antiroach
+T 1336757655 22*	antiroach is now known as brostfu
+T 1336757717 22*	brostfu is now known as google
+T 1336757767 22*	google is now known as brostock
+T 1336757789 22*	brostock is now known as fondlingducks
+T 1336757828 22*	fondlingducks is now known as fsck
+T 1336757830 18<broless>	fondlingbros
+T 1336757844 18<fsck>	that smells like a trap
+T 1336758092 23*	23fsck has quit (23Quit: buy RMS a parraot that uses proprietary software: the universe will divide by zero and reset; omg the mayans were right?23)
+T 1336764748 18<broless>	gift_: you use duckduckgo?
+T 1336764784 23*	23gift_ has quit (23Ping timeout23)
+T 1336764862 19*	19gift_ (gift@TDDIRC-66303C88.torservers.net) has joined #thunked
+T 1336767424 18<PowerWing>	duckduckgo wasn't that ssl google or something?
+T 1336768481 18<broless>	no
+T 1336768486 18<broless>	https://duckduckgo.com
+T 1336768493 18<broless>	it's my main search engine pretty much
+T 1336768501 18<broless>	I only use google when ddg fails me
+T 1336771912 19*	19Apo123 (apo123@hercules.nsa.gov) has joined #thunked
+T 1336771952 22*	Apo123 is now known as bropo123

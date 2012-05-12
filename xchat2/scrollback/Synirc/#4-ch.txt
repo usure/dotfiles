@@ -1,0 +1,518 @@
+T 1335248255 23*	23pachuri has quit (23Connection reset by peer23)
+T 1335253434 19*	19Gilliam (~Gilliam@synIRC-A6332EF3.lightspeed.frokca.sbcglobal.net) has joined #4-ch
+T 1335253579 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335265815 19*	19fso (~fso@synIRC-92D64526.cust.telenor.se) has joined #4-ch
+T 1335266731 23*	23Gilliam (23~Gilliam@synIRC-A6332EF3.lightspeed.frokca.sbcglobal.net) has left #4-ch
+T 1335267364 22*	Airskadt|zzz is now known as Airskadt
+T 1335272415 19*	19Airskadt_ (~Airskadt@8D4414.63C04A4C.D551B5F2.IP) has joined #4-ch
+T 1335272502 23*	23Airskadt has quit (23Ping timeout23)
+T 1335273330 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335274997 23*	23Airskadt_ has quit (23Quit: Airskadt_23)
+T 1335278518 23*	23Wik has quit (23Ping timeout23)
+T 1335319728 19*	19Now talking on #4-ch
+T 1335319728 29*	29Topic for #4-ch 29is: ( ¯◡◡¯) @ 4-ch | I caused the great synircpocalypse of 2011 | wow miku was really kinda fucking cute in the corolla commercials
+T 1335319728 29*	29Topic for #4-ch 29set by koshka 29at Wed Jan 25 07:23:40 2012
+T 1335319728 22*	Notify: Tokiko is online (Synirc).
+T 1335323408 19*	19tokoitoskue (~toko@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1335324896 23*	23tokoitoskue has quit (23Connection reset by peer23)
+T 1335328212 23*	23Wik has quit (23Ping timeout23)
+T 1335329083 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335329227 23*	23mr_vile has quit (23Ping timeout23)
+T 1335330757 23*	23Wik has quit (23Quit: Leaving23)
+T 1335331271 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335331529 23*	23mr_vile has quit (23Ping timeout23)
+T 1335332538 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335333235 23*	23mr_vile has quit (23Ping timeout23)
+T 1335333792 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335333854 19*	19synGuest373 (~cgiirc@E84E8211.CA7050F1.321E275.IP) has joined #4-ch
+T 1335333916 23*	23synGuest373 has quit (23Quit: CGI:IRC (EOF)23)
+T 1335334205 23*	23mr_vile has quit (23Ping timeout23)
+T 1335334443 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335335122 23*	23mr_vile has quit (23Ping timeout23)
+T 1335335209 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335337061 23*	23mr_vile has quit (23Ping timeout23)
+T 1335337403 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335337857 18<Tokiko>	oh wow
+T 1335337863 18<Tokiko>	did espeon get banned or something?
+T 1335337868 18<Tokiko>	he vanished from /dqn/
+T 1335338045 23*	23mr_vile has quit (23Ping timeout23)
+T 1335338309 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335338512 23*	23mr_vile has quit (23Ping timeout23)
+T 1335338759 23*	23ticks has quit (23Quit: 23)
+T 1335339023 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335339287 19*	19ticks (emily@pomf.pomf.pomf) has joined #4-ch
+T 1335339471 22*	Diab is now known as Diocletian
+T 1335340558 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335341588 18<squeeks>	nobody has been banned in a while.
+T 1335341627 18<Diocletian>	Q(ºwºQ)
+T 1335341796 23*	23mr_vile has quit (23Ping timeout23)
+T 1335343489 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335343740 23*	23mr_vile has quit (23Ping timeout23)
+T 1335344239 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335344500 23*	23mr_vile has quit (23Ping timeout23)
+T 1335344927 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335347371 19*	19iccanobif (iccanobif@synIRC-D8170281.retail.telecomitalia.it) has joined #4-ch
+T 1335348661 23*	23mr_vile has quit (23Ping timeout23)
+T 1335348681 23*	23iccanobif has quit (23Ping timeout23)
+T 1335348688 19*	19iccanobif (iccanobif@synIRC-D8170281.retail.telecomitalia.it) has joined #4-ch
+T 1335349402 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335350638 23*	23mr_vile has quit (23Ping timeout23)
+T 1335351481 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335352126 19*	19fso (~fso@synIRC-47866863.cust.telenor.se) has joined #4-ch
+T 1335357398 19*	19Now talking on #4-ch
+T 1335357398 29*	29Topic for #4-ch 29is: ( ¯◡◡¯) @ 4-ch | I caused the great synircpocalypse of 2011 | wow miku was really kinda fucking cute in the corolla commercials
+T 1335357398 29*	29Topic for #4-ch 29set by koshka 29at Wed Jan 25 07:23:40 2012
+T 1335357398 22*	Notify: Tokiko is online (Synirc).
+T 1335357834 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335358338 23*	23mr_vile has quit (23Ping timeout23)
+T 1335358674 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335358864 23*	23fso has quit (23Quit: Leaving...23)
+T 1335359287 23*	23mr_vile has quit (23Ping timeout23)
+T 1335359777 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335361280 23*	23Malachite_ has quit (23Connection reset by peer23)
+T 1335361344 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335364569 23*	23mr_vile has quit (23Ping timeout23)
+T 1335366410 23*	23pachuri has quit (23Connection reset by peer23)
+T 1335366433 23*	23drwho has quit (23temporal.hub.us.synirc.net avarice.az.us.synirc.net23)
+T 1335366447 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335367556 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335368931 23*	23Malachite has quit (23Connection reset by peer23)
+T 1335368996 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335369390 19*	19pachuri (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1335370596 22*	Disconnected ().
+T 1335370600 22*	Disconnected ().
+T 1335484750 19*	19Now talking on #4-ch
+T 1335484750 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1335484750 29*	29Topic for #4-ch 29set by Tokiko 29at Wed Apr 25 18:52:07 2012
+T 1335484750 22*	Notify: Tokiko is online (Synirc).
+T 1335485060 23*	23drwho has quit (23Broken pipe23)
+T 1335485245 19*	19tokoitoskue (~toko@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1335486482 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335494966 23*	23fso has quit (23Quit: Leaving...23)
+T 1335497884 23*	23ticks has quit (23Connection reset by peer23)
+T 1335498228 19*	19ticks (emily@pomf.pomf.pomf) has joined #4-ch
+T 1335498826 23*	23ticks has quit (23Quit: 23)
+T 1335498850 19*	19ticks (~emily@pomf.pomf.pomf) has joined #4-ch
+T 1335499393 19*	19pachee (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1335499566 23*	23pachuri has quit (23Ping timeout23)
+T 1335499916 23*	23tokoitoskue has quit (23Connection reset by peer23)
+T 1335507075 23*	23ticks has quit (23NickServ (GHOST command used by emily-)23)
+T 1335507091 19*	19ticks (~emily@pomf.pomf.pomf) has joined #4-ch
+T 1335516496 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335516617 23*	23Malachite_ has quit (23Ping timeout23)
+T 1335525862 19*	19Malachite_ (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335525978 23*	23Malachite has quit (23Ping timeout23)
+T 1335526698 19*	19fso (~fso@synIRC-220B8FDE.cust.telenor.se) has joined #4-ch
+T 1335659174 19*	19Now talking on #4-ch
+T 1335659174 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1335659174 29*	29Topic for #4-ch 29set by Tokiko 29at Wed Apr 25 18:52:07 2012
+T 1335663134 19*	19v (~4-ch@synIRC-A31F4125.phnx.qwest.net) has joined #4-ch
+T 1335663526 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335663955 23*	23Klang has quit (23Ping timeout23)
+T 1335670221 23*	23v has quit (23Ping timeout23)
+T 1335680529 23*	23Wik has quit (23Connection reset by peer23)
+T 1335681757 23*	23tokoitoskue has quit (23Ping timeout23)
+T 1335684910 19*	19fso (~fso@synIRC-87BCC9A8.cust.telenor.se) has joined #4-ch
+T 1335685690 23*	23Ottre has quit (23Connection reset by peer23)
+T 1335685705 19*	19Ottre (znc@anon.y.mous) has joined #4-ch
+T 1335689189 19*	19iccanobif (iccanobif@synIRC-E75785CE.retail.telecomitalia.it) has joined #4-ch
+T 1335699371 23*	23iccanobif has quit (23Ping timeout23)
+T 1335703048 23*	23Jedi_Vader20 has quit (23Quit: Outta here like a cat on fire.23)
+T 1335703219 19*	19Jedi_Vader20 (jedivader2@synIRC-736063A6.static.tpgi.com.au) has joined #4-ch
+T 1335706015 19*	19synGuest674 (~cgiirc@synIRC-51D52AE9.cable.virginmedia.com) has joined #4-ch
+T 1335706100 23*	23synGuest674 has quit (23Quit: CGI:IRC23)
+T 1335706115 19*	19synGuest674 (~cgiirc@synIRC-51D52AE9.cable.virginmedia.com) has joined #4-ch
+T 1335706118 19*	19iccanobif (iccanobif@synIRC-A934F4D5.retail.telecomitalia.it) has joined #4-ch
+T 1335706380 23*	23synGuest674 has quit (23Quit: CGI:IRC23)
+T 1335708719 23*	23drwho has quit (23Quit: changing display23)
+T 1335709353 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335711001 23*	23fso has quit (23Quit: Leaving...23)
+T 1335711473 23*	23drwho has quit (23Quit: reboot23)
+T 1335711660 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335712281 23*	23mr_vile has quit (23Ping timeout23)
+T 1335712467 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335712687 23*	23drwho has quit (23Broken pipe23)
+T 1335712765 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335713211 23*	23drwho has quit (23Connection reset by peer23)
+T 1335715631 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1335715862 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335715979 19*	19fso (~fso@synIRC-C7B0CA41.cust.telenor.se) has joined #4-ch
+T 1335718832 23*	23iccanobif has quit (23Quit: 23)
+T 1335719049 23*	23tokoitoskue has quit (23Broken pipe23)
+T 1335720297 19*	19pachuri (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1335720466 23*	23pachee has quit (23Ping timeout23)
+T 1335728201 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335733470 23*	23fso has quit (23Quit: Leaving...23)
+T 1335734042 19*	19fso (~fso@synIRC-1EF30B5D.cust.telenor.se) has joined #4-ch
+T 1335735965 19*	19pachee (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1335736077 23*	23pachuri has quit (23Ping timeout23)
+T 1335740056 19*	19Slereah (x@synIRC-290FA4F4.w90-49.abo.wanadoo.fr) has joined #4-ch
+T 1335740642 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1335741666 19*	19Tokiko (~t@ki.ko) has joined #4-ch
+T 1335741675 18<Tokiko>	hi Tokiko 
+T 1335741679 18<Tokiko>	hi tokoitoskue 
+T 1335741876 23*	23fso has quit (23Quit: Leaving...23)
+T 1335742054 18<tokoitoskue>	Hi Tokiko
+T 1335742755 18<Tokiko>	tokoitoskue: let's hang out
+T 1335742889 18<tokoitoskue>	that's too normal for me
+T 1335743230 18<Tokiko>	how can you nonironically talk about normals
+T 1335743235 18<Tokiko>	that all started out as a joke, man
+T 1335743406 18<tokoitoskue>	just like waifus, right?
+T 1335743428 18<Tokiko>	yeah
+T 1335743466 18<Tokiko>	i dunno tokoitoskue 
+T 1335743469 18<Tokiko>	do you have a waifu?
+T 1335743474 18<Tokiko>	how would you describe your relationship?
+T 1335743571 18<tokoitoskue>	i don't
+T 1335743781 18<Tokiko>	you don't have a waifu?
+T 1335744671 18<tokoitoskue>	no
+T 1335744699 18<Tokiko>	why is that
+T 1335744863 18<tokoitoskue>	i don't know
+T 1335744873 18<tokoitoskue>	i have not found one
+T 1335745473 18<Tokiko>	http://pastebin.com/TamKKr5a
+T 1335745477 18<Tokiko>	haha 
+T 1335745496 18<Tokiko>	tokoitoskue: i'm bad i cheated on my waifu
+T 1335745849 19*	19pachuri (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1335746027 23*	23pachee has quit (23Ping timeout23)
+T 1335746068 19*	19pachee (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1335746109 23*	23pachuri has quit (23Ping timeout23)
+T 1335751500 23*	23mr_vile has quit (23Ping timeout23)
+T 1335751508 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1335752260 23*	23Wik has quit (23Connection reset by peer23)
+T 1335752666 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335756817 23*	23tokoitoskue has quit (23Broken pipe23)
+T 1335757096 19*	19Wikkie (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335757245 23*	23Wik has quit (23Ping timeout23)
+T 1335770442 23*	23Wikkie has quit (23Quit: Leaving23)
+T 1335770760 19*	19pachuri (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1335770862 23*	23pachee has quit (23Ping timeout23)
+T 1335774673 23*	23Malachite has quit (23Connection reset by peer23)
+T 1335774737 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335785835 19*	19fso (~fso@synIRC-212AFFC8.cust.telenor.se) has joined #4-ch
+T 1335790323 23*	23fso has quit (23Quit: Leaving...23)
+T 1335791217 19*	19fso (~fso@synIRC-3BAE921B.cust.telenor.se) has joined #4-ch
+T 1335797293 19*	19Malachite_ (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335797474 23*	23Malachite has quit (23Ping timeout23)
+T 1335797873 19*	19Airskadt (~Airskadt@spqr.su) has joined #4-ch
+T 1335804775 19*	19iccanobif (iccanobif@synIRC-A2767BF2.retail.telecomitalia.it) has joined #4-ch
+T 1335805335 23*	23drwho has quit (23Quit: bbl23)
+T 1335809488 23*	23iccanobif has quit (23Quit: 23)
+T 1335811675 23*	23Slereah has quit (23Ping timeout23)
+T 1335811788 19*	19Slereah (x@synIRC-CFECA7D5.w83-195.abo.wanadoo.fr) has joined #4-ch
+T 1335813698 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335813821 23*	23Malachite_ has quit (23Ping timeout23)
+T 1335815335 18<Tokiko>	do you think that /dqn/ were better if it were forced anon Malachite 
+T 1335816951 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1335818644 18<Malachite>	I've always found the concept of forced anon to be kind of silly
+T 1335818755 18<Tokiko>	but some people respond so childishly to idiotic tripcode users
+T 1335820660 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335823065 23*	23tokoitoskue has quit (23Broken pipe23)
+T 1335823337 22*	Tokiko is now known as Det_yes
+T 1335825905 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335826074 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1335828866 23*	23Wik has quit (23Ping timeout23)
+T 1335829423 22*	Det_yes is now known as Tokiko
+T 1335829541 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335832972 23*	23tokoitoskue has quit (23Quit: tokoitoskue23)
+T 1335832987 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1335833299 19*	19pachee (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1335833387 23*	23pachuri has quit (23Ping timeout23)
+T 1335835052 23*	23Wik has quit (23Ping timeout23)
+T 1335835761 23*	23fso has quit (23Quit: Leaving...23)
+T 1335837991 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335839887 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335840414 19*	19Wikkie (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335840585 23*	23Wik has quit (23Ping timeout23)
+T 1335843387 23*	23Jedi_Vader20 has quit (23NickServ (GHOST command used by Jedi_V20)23)
+T 1335843389 19*	19Jedi_V20 (jedivader2@synIRC-736063A6.static.tpgi.com.au) has joined #4-ch
+T 1335843405 19*	19Jedi_Vader20 (~jedivader@synIRC-736063A6.static.tpgi.com.au) has joined #4-ch
+T 1335843579 23*	23Jedi_V20 has quit (23Ping timeout23)
+T 1335843916 23*	23tokoitoskue has quit (23Connection reset by peer23)
+T 1335845035 19*	19z411 (~denpa@synIRC-3C753C03.baf.movistar.cl) has joined #4-ch
+T 1335845134 23*	23Wikkie has quit (23Connection reset by peer23)
+T 1335845153 19*	19Wikkie (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335846806 23*	23z411 has quit (23Client exited23)
+T 1335848784 23*	23Wikkie has quit (23Ping timeout23)
+T 1335850248 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335853139 23*	23Wik has quit (23Connection reset by peer23)
+T 1335855042 22*	Disconnected (Network is unreachable).
+T 1335856900 19*	19Now talking on #4-ch
+T 1335856900 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1335856900 29*	29Topic for #4-ch 29set by Tokiko!~t@ki.ko 29at Wed Apr 25 18:52:07 2012
+T 1335860515 19*	19iccanobif (iccanobif@synIRC-F9DAC1A7.retail.telecomitalia.it) has joined #4-ch
+T 1335860945 23*	23drwho has quit (23Quit: leaving23)
+T 1335861541 23*	23iccanobif has quit (23Quit: 23)
+T 1335863253 19*	19iccanobif (iccanobif@synIRC-F9DAC1A7.retail.telecomitalia.it) has joined #4-ch
+T 1335867154 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335871283 19*	19Malachite_ (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335871403 23*	23Malachite has quit (23Ping timeout23)
+T 1335872626 19*	19fso (~fso@synIRC-3CA84257.cust.telenor.se) has joined #4-ch
+T 1335874658 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1335874710 23*	23tokoitoskue has quit (23Connection reset by peer23)
+T 1335876239 19*	19Airskadt (~Airskadt@spqr.su) has joined #4-ch
+T 1335881784 23*	23fso has quit (23Broken pipe23)
+T 1335881810 19*	19fso (~fso@synIRC-3CA84257.cust.telenor.se) has joined #4-ch
+T 1335884957 19*	19fso_ (~fso@synIRC-267D4620.cust.telenor.se) has joined #4-ch
+T 1335885006 23*	23fso has quit (23Ping timeout23)
+T 1335886456 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335888135 23*	23Malachite_ has quit (23Connection reset by peer23)
+T 1335888183 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335893169 23*	23iccanobif has quit (23Quit: 23)
+T 1335904634 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1335906906 23*	23drwho has quit (23Quit: leaving23)
+T 1335910162 19*	19Airskadt (~Airskadt@spqr.su) has joined #4-ch
+T 1335912058 19*	19tokoitoskue- (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1335912132 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1335912253 23*	23tokoitoskue has quit (23temporal.hub.us.synirc.net downtown.tx.us.synirc.net23)
+T 1335912444 23*	23Jedi_Vader20 has quit (23NickServ (GHOST command used by Jedi_V20)23)
+T 1335912448 19*	19Jedi_V20 (jedivader2@synIRC-736063A6.static.tpgi.com.au) has joined #4-ch
+T 1335912707 23*	23halcy has quit (23nexus.hub.us.synirc.net dissonance.nl.eu.synirc.net23)
+T 1335912707 23*	23|N_X|4_cG_4iH4xW\Nkx1z2GXL0u has quit (23nexus.hub.us.synirc.net dissonance.nl.eu.synirc.net23)
+T 1335913442 19*	19halcy (halcyon@synIRC-EE85BBC2.hsi2.kabelbw.de) has joined #4-ch
+T 1335913442 19*	19|N_X|4_cG_4iH4xW\Nkx1z2GXL0u (~rep@synIRC-5B29413D.mu.org) has joined #4-ch
+T 1335913955 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335914140 23*	23Wik has quit (23Ping timeout23)
+T 1335919189 23*	23fso_ has quit (23Quit: Leaving...23)
+T 1335930682 23*	23tokoitoskue- has quit (23Connection reset by peer23)
+T 1335939268 19*	19iccanobif (iccanobif@synIRC-6EF0A09B.retail.telecomitalia.it) has joined #4-ch
+T 1335941597 23*	23Ottre has quit (23Ping timeout23)
+T 1335941755 23*	23iccanobif has quit (23Quit: 23)
+T 1335942378 19*	19Ottre (znc@anon.y.mous) has joined #4-ch
+T 1335942564 23*	23Ottre has quit (23Ping timeout23)
+T 1335942674 19*	19Ottre (znc@669FFDF1.2814DC5B.9E85BBF1.IP) has joined #4-ch
+T 1335942868 23*	23Ottre has quit (23Ping timeout23)
+T 1335943321 19*	19Ottre (znc@anon.y.mous) has joined #4-ch
+T 1335945934 18<Malachite>	"Huh, "( ˃ ヮ˂) " posts a lot doesnt he!"
+T 1335945941 18<Malachite>	literally the cutest thing anyone has ever said
+T 1335947151 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1335955535 19*	19Malachite_ (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335955659 23*	23Malachite has quit (23Ping timeout23)
+T 1335960086 23*	23drwho has quit (23Quit: leaving23)
+T 1335964917 23*	23Malachite_ has quit (23Broken pipe23)
+T 1335964962 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335965847 23*	23Malachite has quit (23Broken pipe23)
+T 1335965911 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1335966526 23*	23WAHa_06x36 has quit (23Client exited23)
+T 1336084132 19*	19Now talking on #4-ch
+T 1336084132 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1336084132 29*	29Topic for #4-ch 29set by Tokiko 29at Wed Apr 25 18:52:07 2012
+T 1336084132 22*	Notify: Tokiko is online (Synirc).
+T 1336084901 19*	19Slereah_ (x@synIRC-9C407B81.w83-195.abo.wanadoo.fr) has joined #4-ch
+T 1336084951 23*	23Slereah has quit (23Ping timeout23)
+T 1336089743 19*	19pachee (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1336089914 23*	23pachuri has quit (23Ping timeout23)
+T 1336090810 19*	19z411 (~denpa@synIRC-44D90255.baf.movistar.cl) has joined #4-ch
+T 1336092074 23*	23tokoitoskue has quit (23Connection reset by peer23)
+T 1336094057 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1336095529 23*	23fso has quit (23Quit: Leaving...23)
+T 1336096198 19*	19feor (~feor@synIRC-699D99F0.fbx.proxad.net) has joined #4-ch
+T 1336096235 23*	23feor has quit (23Quit: feor23)
+T 1336097675 23*	23z411 has quit (23Client exited23)
+T 1336098756 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1336099570 23*	23drwho has quit (23Ping timeout23)
+T 1336100409 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1336102191 23*	23tokoitoskue has quit (23Connection reset by peer23)
+T 1336103800 23*	23Wik has quit (23Ping timeout23)
+T 1336104429 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336105249 23*	23drwho has quit (23Ping timeout23)
+T 1336112452 19*	19z411 (~denpa@synIRC-44D90255.baf.movistar.cl) has joined #4-ch
+T 1336112671 19*	19iccanobif (iccanobif@synIRC-574DF3D9.retail.telecomitalia.it) has joined #4-ch
+T 1336113176 19*	19Wikkie (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336113258 19*	19Yossarian (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336113347 23*	23Wik has quit (23Ping timeout23)
+T 1336113366 23*	23Wikkie has quit (23Ping timeout23)
+T 1336113577 23*	23Yossarian has quit (23Ping timeout23)
+T 1336114755 23*	23iccanobif has quit (23Quit: 23)
+T 1336115688 19*	19pachuri (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1336115770 23*	23pachee has quit (23nexus.hub.us.synirc.net avarice.az.us.synirc.net23)
+T 1336118097 23*	23z411 has quit (23Ping timeout23)
+T 1336118124 19*	19z411 (~denpa@synIRC-779961CB.baf.movistar.cl) has joined #4-ch
+T 1336118298 23*	23z411 has quit (23Client exited23)
+T 1336130283 19*	19fso (~fso@synIRC-B3F8DA92.cust.telenor.se) has joined #4-ch
+T 1336136488 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1336145249 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336148074 23*	23Malachite has quit (23Connection reset by peer23)
+T 1336148152 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1336149466 23*	23Wik has quit (23Ping timeout23)
+T 1336160555 23*	23tsr has quit (23Ping timeout23)
+T 1336162080 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1336165309 23*	23fso has quit (23Broken pipe23)
+T 1336165350 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336244012 19*	19Now talking on #4-ch
+T 1336244012 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1336244012 29*	29Topic for #4-ch 29set by Tokiko 29at Wed Apr 25 18:52:07 2012
+T 1336244012 22*	Notify: Tokiko is online (Synirc).
+T 1336244730 23*	23Wik has quit (23Ping timeout23)
+T 1336245527 23*	23fso has quit (23Quit: Leaving...23)
+T 1336246054 19*	19fso (~fso@synIRC-8CCB2CD6.cust.tele2.se) has joined #4-ch
+T 1336247004 23*	23tsr has quit (23Ping timeout23)
+T 1336254036 19*	19tsr (~tsr@synIRC-CD05B32E.pool.mediaways.net) has joined #4-ch
+T 1336257948 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336260142 23*	23Wik has quit (23Connection reset by peer23)
+T 1336260161 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336261275 19*	19pachee (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1336261399 23*	23pachuri has quit (23Ping timeout23)
+T 1336266141 23*	23iccanobif has quit (23Quit: 23)
+T 1336267370 23*	23fso has quit (23Quit: Leaving...23)
+T 1336269064 23*	23Wik has quit (23Ping timeout23)
+T 1336269998 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336270761 23*	23Diocletian has quit (23Ping timeout23)
+T 1336270911 19*	19Diocletian (~x@synIRC-62B81F91.irclabs.com) has joined #4-ch
+T 1336279300 19*	19Wikkie (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336279406 23*	23Wik has quit (23Ping timeout23)
+T 1336282041 22*	Tokiko is now known as rood_pog
+T 1336282247 22*	rood_pog is now known as doom_fog
+T 1336282955 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336283133 23*	23Wikkie has quit (23Ping timeout23)
+T 1336283456 23*	23tokoitoskue has quit (23Broken pipe23)
+T 1336283879 22*	doom_fog is now known as Tokiko
+T 1336285857 23*	23Wik has quit (23Connection reset by peer23)
+T 1336285877 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336286061 19*	19Wikkie (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336286073 23*	23Wikkie has quit (23Quit: Wikkie23)
+T 1336286229 23*	23Wik has quit (23Ping timeout23)
+T 1336287981 19*	19Slereah (x@synIRC-62B3615A.w83-195.abo.wanadoo.fr) has joined #4-ch
+T 1336288033 23*	23Slereah_ has quit (23Ping timeout23)
+T 1336290712 19*	19Slereah_ (x@synIRC-62B3615A.w83-195.abo.wanadoo.fr) has joined #4-ch
+T 1336290733 23*	23Slereah has quit (23Ping timeout23)
+T 1336290740 19*	19pachuri (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1336290773 23*	23pachee has quit (23Ping timeout23)
+T 1336295520 23*	23Malachite has quit (23Connection reset by peer23)
+T 1336295536 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1336295544 19*	19iccanobif (iccanobif@synIRC-155E7814.retail.telecomitalia.it) has joined #4-ch
+T 1336299179 19*	19fso (~fso@synIRC-558CF3AB.cust.telenor.se) has joined #4-ch
+T 1336301836 23*	23fso has quit (23Quit: Leaving...23)
+T 1336302059 19*	19fso (~fso@synIRC-780F3272.cust.telenor.se) has joined #4-ch
+T 1336302747 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1336340265 19*	19Now talking on #4-ch
+T 1336340265 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1336340266 29*	29Topic for #4-ch 29set by Tokiko 29at Wed Apr 25 18:52:07 2012
+T 1336340266 22*	Notify: Tokiko is online (Synirc).
+T 1336340406 18<halcy>	bitcoins
+T 1336340409 18<halcy>	literally burning
+T 1336340437 19*	19tsr (~tsr@synIRC-66C6216C.pool.mediaways.net) has joined #4-ch
+T 1336340864 18<grey>	Bitcoins are doing badly?
+T 1336343279 23*	23Wik has quit (23Ping timeout23)
+T 1336343553 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1336344078 19*	19pachee (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1336344190 23*	23pachuri has quit (23Ping timeout23)
+T 1336345123 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336345540 18*	Tokiko whips out dick
+T 1336345544 18<Tokiko>	grey: send me $$$
+T 1336345655 18<grey>	Tokiko pls go
+T 1336346979 23*	23Tokiko has quit (23Quit: leaving23)
+T 1336348307 23*	23Wik has quit (23Ping timeout23)
+T 1336348527 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336350522 23*	23fso has quit (23Quit: Leaving...23)
+T 1336351494 23*	23drwho has quit (23Quit: leaving23)
+T 1336352093 18<grey>	h
+T 1336353067 19*	19pachuri (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1336353196 23*	23pachee has quit (23Ping timeout23)
+T 1336357326 23*	23Wik has quit (23Ping timeout23)
+T 1336359338 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336359997 23*	23Wik has quit (23Quit: Leaving23)
+T 1336361122 23*	23grey has quit (23Ping timeout23)
+T 1336365784 23*	23tokoitoskue has quit (23Ping timeout23)
+T 1336371951 19*	19iccanobif (iccanobif@synIRC-47C4AD97.retail.telecomitalia.it) has joined #4-ch
+T 1336374072 23*	23iccanobif has quit (23Quit: 23)
+T 1336386630 19*	19fso (~fso@synIRC-843E996E.cust.telenor.se) has joined #4-ch
+T 1336389536 23*	23Diocletian has quit (23Ping timeout23)
+T 1336389553 19*	19Diocletian (~x@synIRC-62B81F91.irclabs.com) has joined #4-ch
+T 1336490127 19*	19Now talking on #4-ch
+T 1336490127 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1336490127 29*	29Topic for #4-ch 29set by Tokiko 29at Wed Apr 25 18:52:07 2012
+T 1336599082 19*	19Now talking on #4-ch
+T 1336599082 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1336599082 29*	29Topic for #4-ch 29set by Tokiko 29at Wed Apr 25 18:52:07 2012
+T 1336599463 23*	23kawa has quit (23Ping timeout23)
+T 1336599740 23*	23iccanobif has quit (23Quit: 23)
+T 1336600618 19*	19kawa (~kawa@magical.rice) has joined #4-ch
+T 1336603466 23*	23mr_vile has quit (23Ping timeout23)
+T 1336603505 19*	19mr_vile (~carnage@synIRC-D10FCECF.in) has joined #4-ch
+T 1336604158 19*	19drwho (~drwho@synIRC-A3669AA7.gci.net) has joined #4-ch
+T 1336607904 19*	19tsr (~tsr@synIRC-4EC196F6.pool.mediaways.net) has joined #4-ch
+T 1336607937 23*	23Malachite_ has quit (23Connection reset by peer23)
+T 1336607953 19*	19Malachite_ (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1336608025 23*	23tsr_ has quit (23Ping timeout23)
+T 1336610604 23*	23fso has quit (23Quit: Leaving...23)
+T 1336613876 23*	23drwho has quit (23Ping timeout23)
+T 1336615149 23*	23tokoitoskue has quit (23Connection reset by peer23)
+T 1336629769 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336631358 19*	19iccanobif (iccanobif@synIRC-C411FD27.retail.telecomitalia.it) has joined #4-ch
+T 1336633317 23*	23iccanobif has quit (23Quit: 23)
+T 1336635680 23*	23Wik has quit (23Ping timeout23)
+T 1336637413 19*	19Wik (~Wik@synIRC-DCD795D1.client.mchsi.com) has joined #4-ch
+T 1336639365 23*	23Wik has quit (23Connection reset by peer23)
+T 1336641160 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1336641280 23*	23Malachite_ has quit (23Ping timeout23)
+T 1336645816 19*	19Malachite_ (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1336645998 23*	23Malachite has quit (23Ping timeout23)
+T 1336649009 19*	19fso (~fso@synIRC-39D0818D.cust.telenor.se) has joined #4-ch
+T 1336653567 19*	19Naoko_Thunder (~Naoko_Thu@synIRC-51D52AE9.cable.virginmedia.com) has joined #4-ch
+T 1336657606 19*	19Now talking on #4-ch
+T 1336657606 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1336657606 29*	29Topic for #4-ch 29set by Tokiko 29at Wed Apr 25 18:52:07 2012
+T 1336659857 23*	23fso has quit (23Quit: Leaving...23)
+T 1336663634 23*	23Malachite_ has quit (23Connection reset by peer23)
+T 1336663675 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1336671008 19*	19iccanobif (iccanobif@synIRC-A01481DA.retail.telecomitalia.it) has joined #4-ch
+T 1336678635 19*	19fso (~fso@synIRC-39D0818D.cust.telenor.se) has joined #4-ch
+T 1336681693 23*	23tsr has quit (23Ping timeout23)
+T 1336681922 23*	23iccanobif has quit (23Ping timeout23)
+T 1336682058 19*	19iccanobif (iccanobif@synIRC-5F73C0C3.retail.telecomitalia.it) has joined #4-ch
+T 1336699664 19*	19Now talking on #4-ch
+T 1336699664 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1336699664 29*	29Topic for #4-ch 29set by Tokiko 29at Wed Apr 25 18:52:07 2012
+T 1336704196 23*	23meltingwax has quit (23nexus.hub.us.synirc.net temporal.hub.us.synirc.net23)
+T 1336704196 23*	23Slereah has quit (23nexus.hub.us.synirc.net temporal.hub.us.synirc.net23)
+T 1336704196 23*	23Diocletian has quit (23nexus.hub.us.synirc.net temporal.hub.us.synirc.net23)
+T 1336704196 23*	23bps has quit (23nexus.hub.us.synirc.net temporal.hub.us.synirc.net23)
+T 1336704196 23*	23richardus has quit (23nexus.hub.us.synirc.net temporal.hub.us.synirc.net23)
+T 1336704366 19*	19meltingwax (~meltingwa@synIRC-F6D5E3E3.washdc.fios.verizon.net) has joined #4-ch
+T 1336704366 19*	19Slereah (x@synIRC-DD44E44A.w83-195.abo.wanadoo.fr) has joined #4-ch
+T 1336704366 19*	19Diocletian (~x@synIRC-62B81F91.irclabs.com) has joined #4-ch
+T 1336704366 19*	19bps (~bps@synIRC-46CA5381.aztw.cable.virginmedia.com) has joined #4-ch
+T 1336704366 19*	19richardus (~richardus@om.nom.cox.net) has joined #4-ch
+T 1336705410 19*	19z411 (~denpa@synIRC-B8A0E12D.baf.movistar.cl) has joined #4-ch
+T 1336705676 23*	23z411 has quit (23Ping timeout23)
+T 1336706378 19*	19z411 (~denpa@synIRC-ADFB70CD.baf.movistar.cl) has joined #4-ch
+T 1336708324 23*	23Naoko_Thunder has quit (23Quit: 23)
+T 1336712108 19*	19Slereah_ (x@synIRC-DD44E44A.w83-195.abo.wanadoo.fr) has joined #4-ch
+T 1336712130 23*	23Slereah has quit (23Ping timeout23)
+T 1336713365 23*	23Diocletian has quit (23Ping timeout23)
+T 1336714330 19*	19Diocletian (~x@synIRC-62B81F91.irclabs.com) has joined #4-ch
+T 1336714812 23*	23Diocletian has quit (23Ping timeout23)
+T 1336715861 19*	19Diocletian (~x@synIRC-62B81F91.irclabs.com) has joined #4-ch
+T 1336716593 23*	23z411 has quit (23Quit: Leaving23)
+T 1336718451 23*	23tsr has quit (23nexus.hub.us.synirc.net sky.hub.eu.synirc.net23)
+T 1336718451 23*	23WAHa_06x36 has quit (23nexus.hub.us.synirc.net sky.hub.eu.synirc.net23)
+T 1336718451 23*	23squeeks has quit (23nexus.hub.us.synirc.net sky.hub.eu.synirc.net23)
+T 1336718642 19*	19tsr (~tsr@synIRC-989914FF.pool.mediaways.net) has joined #4-ch
+T 1336718642 19*	19WAHa_06x36 (~dag@synIRC-3CCB43C4.cs.abo.fi) has joined #4-ch
+T 1336718642 19*	19squeeks (~no@6A5D8E9A:645698CB:60A8D2A:IP) has joined #4-ch
+T 1336718642 22*	nightmare.uk.eu.synirc.net sets mode +q #4-ch squeeks
+T 1336718642 22*	26nightmare.uk.eu.synirc.net gives channel operator status to26 squeeks
+T 1336722790 19*	19pachuri (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1336722885 23*	23pachee has quit (23Ping timeout23)
+T 1336726540 19*	19pachee (~splask@synIRC-F3879EEA.hsd1.mi.comcast.net) has joined #4-ch
+T 1336726658 23*	23pachuri has quit (23Ping timeout23)
+T 1336729649 23*	23pachee has quit (23Quit: throw ya hands in the ay'a in you's a tru playa23)
+T 1336738104 19*	19fso (~fso@synIRC-6BFB7171.cust.telenor.se) has joined #4-ch
+T 1336742158 19*	19Now talking on #4-ch
+T 1336742158 29*	29Topic for #4-ch 29is: -!- mr_vile [~carnage@synIRC-D10FCECF.in] has quit [Ping timeout]
+T 1336742158 29*	29Topic for #4-ch 29set by Tokiko 29at Wed Apr 25 18:52:07 2012
+T 1336746727 19*	19tokoitoskue (~tokoitosk@synIRC-E519D38D.dsl.bell.ca) has joined #4-ch
+T 1336748106 19*	19feor (~feor@synIRC-699D99F0.fbx.proxad.net) has joined #4-ch
+T 1336748144 23*	23feor (23~feor@synIRC-699D99F0.fbx.proxad.net) has left #4-ch
+T 1336748170 23*	23Malachite has quit (23Connection reset by peer23)
+T 1336748219 19*	19Malachite (~Malachite@synIRC-42B2DC1C.bethere.co.uk) has joined #4-ch
+T 1336753162 23*	23Jedi_Vader20 has quit (23Quit: Outta here like a cat on fire.23)
+T 1336753430 19*	19Naoko_Thunder (~Naoko_Thu@synIRC-51D52AE9.cable.virginmedia.com) has joined #4-ch
+T 1336753881 23*	23Slereah_ has quit (23Ping timeout23)
+T 1336753915 19*	19Slereah (x@synIRC-E23E0A2A.w83-195.abo.wanadoo.fr) has joined #4-ch
+T 1336754669 18<Diocletian>	h
+T 1336755492 22*	Diocletian has changed the topic to: #4-ch | WHY WERE THERE WORDS HERE
+T 1336760189 19*	19iccanobif (iccanobif@6A1DAC51.55C7A3EE.7CC21A46.IP) has joined #4-ch
+T 1336763887 23*	23tsr has quit (23Quit: .23)
+T 1336775970 23*	23fso has quit (23Connection reset by peer23)
+T 1336776169 19*	19fso (~fso@synIRC-4B13EEE6.cust.telenor.se) has joined #4-ch
+T 1336777444 23*	23iccanobif has quit (23Quit: 23)

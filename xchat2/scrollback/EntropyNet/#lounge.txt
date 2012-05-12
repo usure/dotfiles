@@ -1,0 +1,702 @@
+T 1336763874 18<fox>	thats like saying that Windows XP and Windows 98 have the same core
+T 1336763879 18<Kazen>	http://www.youtube.com/watch?v=uEN8p_FbNdc
+T 1336763880 18<EntropyBot>	Title: The Chemical Brothers - Dissolve - YouTube (at www.youtube.com)
+T 1336763893 18<cafejunkie>	Microsoft isn't even providing the build tools to compile arm code
+T 1336763897 23*	23` has quit (23Quit: no23)
+T 1336763905 23*	23Cicura has quit (23Connection closed23)
+T 1336763912 18<fox>	looks like ` finally remembered about his IRC connection
+T 1336763915 19*	19` (no@net-kfaqdr.on.onepointsix.eu) has joined #lounge
+T 1336763919 23*	23FloatingGoat has quit (23Read Error23)
+T 1336763921 18<jordanmkasla2009>	lol
+T 1336763921 18<Liquidex>	cafejunkie: you can still compile it though right, with existing compilers?
+T 1336763929 18<fox>	Liquidex: probably CLI only
+T 1336763931 18<fox>	so .Net
+T 1336763931 18<cafejunkie>	Liquidex: yeah, you could
+T 1336763942 18<jordanmkasla2009>	bbl
+T 1336763948 18<Liquidex>	later jordanmkasla2009 
+T 1336763950 18<cafejunkie>	Liquidex: but getting the valid Microsoft signatures to run is another thing (without an exploit that is)
+T 1336763988 18<Liquidex>	authenticode?
+T 1336763992 18<cafejunkie>	If you want code to run outside of WinRT (which would be required for malware to get very far), it has to be signed my Microsoft (this is for ARM only, x86 still works the same way)
+T 1336764000 18<zeknox>	cafejunkie: whats happenin!
+T 1336764003 18<cafejunkie>	zeknox: howdy
+T 1336764009 18<zeknox>	cafejunkie: what you workin on
+T 1336764037 18<cafejunkie>	Liquidex: i'm not sure if it uses authenticode or something
+T 1336764037 18<fox>	please keep in mind, WinRT is not really windows, people keep saying it is
+T 1336764039 18<fox>	but its not
+T 1336764052 18<Liquidex>	not the windows we're used to
+T 1336764053 18<fox>	its a tablet OS designed to look and function like windows 8
+T 1336764070 18<fox>	Liquidex: its probably closer to windows mobile/wince than it is to windows
+T 1336764070 18<cafejunkie>	zeknox: nothing atm, I'm on vacation lol
+T 1336764086 18<zeknox>	cafejunkie: nice nice, where you at?
+T 1336764089 18<cafejunkie>	WinRT is Microsoft's departure away from Win32 and tbh I think they are trying to phase out win32
+T 1336764097 18<cafejunkie>	zeknox: at home, just taking the days off
+T 1336764106 18<zeknox>	cafejunkie: roger that
+T 1336764121 18<cafejunkie>	zeknox: I might go up to Seattle this weekend though
+T 1336764123 18<cafejunkie>	haven't decided yet
+T 1336764186 18<zeknox>	cafejunkie: nice! where do you live again?
+T 1336764188 18<cafejunkie>	yeah, the "old" windows can't entirely go away though. WinRT is still COM based
+T 1336764196 18<cafejunkie>	zeknox: eastern washington, not too far away from Spokane
+T 1336764208 18<zeknox>	cafejunkie: I'll have to visit you the next time im in DC
+T 1336764216 18<cafejunkie>	zeknox: Washington State :P
+T 1336764216 18<Liquidex>	cafejunkie: you know robert moore by chance?
+T 1336764218 18<cafejunkie>	west coast
+T 1336764223 18<zeknox>	>_< my bad cafejunkie 
+T 1336764230 18<cafejunkie>	Liquidex: no
+T 1336764248 18<Liquidex>	ah he's a cool dude
+T 1336764271 18<Liquidex>	you remember a guy getting raided&arrested a few years ago fro VoIP hacking/reselling?
+T 1336764279 18<Liquidex>	in Spokane
+T 1336764302 18<cafejunkie>	no, it might have happened before I moved here 
+T 1336764305 18<cafejunkie>	(i've only been here 2 years)
+T 1336764312 18<Liquidex>	oh alright
+T 1336764335 18<cafejunkie>	found the news article though
+T 1336764403 18<cafejunkie>	"During a four-month period in 2005, Moore launched more than 6 million scans on AT&T's network, looking for vulnerable ports. " :O
+T 1336764415 18<TingPing>	http://youtu.be/QwNVQvygCNQ
+T 1336764416 18<EntropyBot>	Title: Art of the Instakill - YouTube (at youtu.be)
+T 1336764428 18<Liquidex>	yea
+T 1336764435 18<zeknox>	hdm ftw
+T 1336764449 18*	zeknox can't wait to meet him in defcon 
+T 1336764479 18<TingPing>	whos this fellow?
+T 1336764495 18<zeknox>	TingPing: HD Moore, founder of metasploit, Rapid 7's CSO
+T 1336764501 18<zeknox>	TingPing: basically the god of hacking these days
+T 1336764531 18<zeknox>	TingPing: hacked the DoD at the age of 16 or 17
+T 1336764550 18<zeknox>	TingPing: then got hired on to teach them how to fix the issues
+T 1336764556 18<cafejunkie>	fox: remember when I asked what would rms do if his medical equpment ran closed source software?
+T 1336764557 18<cafejunkie>	lol
+T 1336764564 18<TingPing>	!seen sansui350a
+T 1336764564 18<EntropyBot>	TingPing: sansui350a was last seen in #lounge 1 week, 3 days, 0 hours, 33 minutes, and 47 seconds ago: <Sansui350A> not something I'd use.. but very interesting...
+T 1336764565 18<cafejunkie>	fox: http://williamedwardscoder.tumblr.com/post/22833490643/is-an-open-source-pacemaker-safer-than-closed-source apparently he alreaedy answered that question
+T 1336764566 18<EntropyBot>	<http://tinyurl.com/cw8erfq> (at williamedwardscoder.tumblr.com)
+T 1336764576 18<cafejunkie>	"The only way I could justify this is if I began developing a free replacement for that very program. It is ok to use a nonfree program for the purpose of developing its free replacement. "
+T 1336764689 23*	23Kazen has quit (23Client exited23)
+T 1336764728 18<zeknox>	TingPing: what you up to these days?
+T 1336764756 18<TingPing>	zeknox, absolutely nothing :P
+T 1336764784 18<zeknox>	TingPing: you miss me not being in the teamspeak?
+T 1336764801 18<TingPing>	zeknox, dunno, im never even in TS, since h1ll37 died
+T 1336764831 18<zeknox>	TingPing: he didn't die
+T 1336764841 18<zeknox>	TingPing: just keeping busy im sure
+T 1336764850 18<TingPing>	he is at least in a coma
+T 1336764858 18<zeknox>	TingPing: your kidding right?
+T 1336764863 18<cafejunkie>	keeping busy playing civ5 probably
+T 1336764868 18<TingPing>	zeknox, yes lol
+T 1336764888 18<TingPing>	cafejunkie, GET IT ALREADY!
+T 1336764911 18<cafejunkie>	TingPing: i'm too addicted to WoW again
+T 1336764915 18<cafejunkie>	thanks to fox :P
+T 1336764918 18<TingPing>	you suck
+T 1336764922 18<TingPing>	and so does fox 
+T 1336764923 18<zeknox>	boo WoW
+T 1336764929 18<cafejunkie>	you should play
+T 1336764947 18<TingPing>	too boring
+T 1336764963 18<fox>	TingPing: PvP isn't!
+T 1336764971 18<TingPing>	doubt it
+T 1336765006 18<cafejunkie>	even staticsafe plays
+T 1336765011 18<cafejunkie>	and he hates MMOs
+T 1336765015 18<cafejunkie>	so therefore you should play
+T 1336765027 18<TingPing>	tell me it aint true staticsafe !
+T 1336765033 18<fox>	TingPing: 10-50 people per team, CTF/capture point style gameplay, huge maps
+T 1336765047 18<fox>	(50 is endgame BGs and are insane)
+T 1336765088 18*	fox lauches game
+T 1336765092 18<pronto>	o.o
+T 1336765095 18*	pronto farts
+T 1336765144 18<h1ll37>	zeknox: where have you been </3
+T 1336765159 18<TingPing>	hes alive!
+T 1336765170 18<cafejunkie>	TingPing:  "< staticsafe> Alright, fine! I'll play PvP with you if it'll get you to shut up"
+T 1336765176 18<zeknox>	h1ll37: whats up my man
+T 1336765183 18<zeknox>	of course he is alive once the knoxville shows up!
+T 1336765189 18<TingPing>	zeknox, he wants to become a 1337 haxor
+T 1336765204 18<h1ll37>	TingPing is a liar :p
+T 1336765213 18<h1ll37>	zeknox: did TingPing  tell you the new ts server? :p
+T 1336765235 18*	TingPing did
+T 1336765244 18<zeknox>	h1ll37: he did, but I forgot already :P
+T 1336765262 18<h1ll37>	zeknox: tingping.se lol
+T 1336765278 18<TingPing>	can't blame him, difficult to remember
+T 1336765286 18<h1ll37>	TingPing: true to taht lol
+T 1336765303 18<h1ll37>	zeknox: i made a keylogger in python. needed your help the other day when i was trying to hide it from anti virus lol
+T 1336765315 18<TingPing>	h1ll37, so we ever going to play stuff agian?
+T 1336765317 18<zeknox>	h1ll37: :)
+T 1336765320 18<zeknox>	did you get around the AV
+T 1336765348 18<h1ll37>	TingPing: well of course
+T 1336765360 18<TingPing>	h1ll37, i doubt it sometimes :P
+T 1336765368 18<h1ll37>	zeknox: and i couldn't get it to pick up with the av only a friend could but i downloaded norton too and it wouldn't pick up but did with him
+T 1336765388 18<h1ll37>	TingPing: i've just been working more lately and programming more lately
+T 1336765399 18<TingPing>	h1ll37, i made a c# app today
+T 1336765412 18<h1ll37>	TingPing: what does it do?
+T 1336765418 18<zeknox>	sounds hot!
+T 1336765442 18<h1ll37>	zeknox: aww you haven't been here in so long. my site is in python now too lol
+T 1336765443 18<TingPing>	h1ll37, http://puu.sh/ua5F      more to learn something than be usefull
+T 1336765468 18<TingPing>	h1ll37, thing is i failed to learn what i set out to =(
+T 1336765479 18<h1ll37>	TingPing: still looks cool :p
+T 1336765548 18<TingPing>	h1ll37, c# isn't half bad either :P
+T 1336765577 18<h1ll37>	TingPing: better than python :O?
+T 1336765589 18<TingPing>	h1ll37, depends on the job
+T 1336765590 18<h1ll37>	i learned more about threading too :D python don't have no trheading :p
+T 1336765594 18<h1ll37>	i mean php*
+T 1336765603 18*	zeknox needs to become a better coder
+T 1336765624 18<TingPing>	zeknox, i thought you were some assembly pro already :P
+T 1336765680 18<zeknox>	TingPing: i know and understand basic ASM commands
+T 1336765695 18<zeknox>	TingPing: i know the basics to obfuscate my asm instructions
+T 1336765710 18<h1ll37>	TingPing, zeknox: look how beautiful my keylogger looks :) http://pastie.org/private/8pfm59l52owssrcegydvaq
+T 1336765712 18<EntropyBot>	<http://tinyurl.com/7r2rycq> (at pastie.org)
+T 1336765739 18<zeknox>	h1ll37: why not use TFTP vs FTP?
+T 1336765741 18<TingPing>	h1ll37, wanna see how ugly/shitty my c# is :P
+T 1336765760 18<h1ll37>	zeknox: idk the difference
+T 1336765761 18<h1ll37>	TingPing: sure
+T 1336765778 18<zeknox>	h1ll37: TFTP is UDP and doesn't require authentication so you dont have to hardcode passwords
+T 1336765802 18<TingPing>	h1ll37, http://pastebin.com/Tm7wDsFY
+T 1336765803 18<EntropyBot>	Title: [C#] C# - Pastebin.com (at pastebin.com)
+T 1336765850 18<h1ll37>	zeknox: is it the same technology as ftp just a front end kinda/
+T 1336765871 18<zeknox>	h1ll37: no it is UDP, doesn't require authentication and runs on port 69 by default
+T 1336765908 18<h1ll37>	zeknox: oh idk i did it to post on my webserver. not that i would post on my webserver if i was actually using it but you know lol
+T 1336765919 18<h1ll37>	TingPing: and that doesn't look that bad
+T 1336765932 18<TingPing>	h1ll37, yea its not
+T 1336765957 18<TingPing>	h1ll37, and i never new mono would translate winforms crap to linux.. so it works cross platform
+T 1336765983 18<TingPing>	h1ll37, originally i wanted to try the gtk shits, but it was so painfully bad i gave up :P
+T 1336766018 18<h1ll37>	TingPing: lol. kivy is the shit i need to learn more of that now that i'm done with my keylogger prolly
+T 1336766041 18<TingPing>	h1ll37, NO, tingping + games = rest of your time
+T 1336766060 18<h1ll37>	TingPing: lol maybe part idk about all :p
+T 1336766072 18<h1ll37>	zeknox: you need to start getting on ts again though :(
+T 1336766087 18<h1ll37>	TingPing: and summer hits in like a week and a day so i'll be ready then :p
+T 1336766113 18<TingPing>	h1ll37, I've been out for 2 weeks without you :'(... and without the knox!
+T 1336766179 18<h1ll37>	TingPing: it's been like 18 weeks without knox lol
+T 1336766189 18<zeknox>	my email is always receiving messages
+T 1336766236 18<TingPing>	must be spam, no way you are important
+T 1336766275 18<h1ll37>	zeknox: idk your email. and ts is the way not email lol
+T 1336766312 18<h1ll37>	welp gotta go to the dentist then work. Talk to you guys some day :'(
+T 1336766331 18<zeknox>	mccann.brandon@gmail.com
+T 1336766380 18<h1ll37>	zeknox: okay cya on ts :p
+T 1336766398 18<zeknox>	h1ll37: email me the goods and knoxville bitches will be back!
+T 1336766419 18<h1ll37>	zeknox: tingping.se is the only goods you need that's the server. but gotta go bye lol
+T 1336766450 18<zeknox>	latas
+T 1336766589 18<staticsafe>	cafejunkie: you bastard, stop lying
+T 1336766732 19*	19Kazen (Kazen__@net-tlv300.dynamic.ziggo.nl) has joined #lounge
+T 1336766740 23*	23blkcrwn has quit (23Quit: Laterz 23)
+T 1336767630 18<Raccoon>	ohai
+T 1336767639 18<Kazen>	hi
+T 1336767644 18<Raccoon>	Kazen: wassup
+T 1336767657 18<Kazen>	nm u
+T 1336767668 18<Raccoon>	bored, and crying over my shitty grades
+T 1336767670 18<Raccoon>	:(
+T 1336767689 19*	19blkcrwn (blkcrwn@hardcodedsecurity/founder/blkcrwn) has joined #lounge
+T 1336767694 18<Kazen>	lol
+T 1336767970 18<Kazen>	so
+T 1336767972 18<Kazen>	today sucked
+T 1336768010 18<Kazen>	spend 11 hours fixing a network that was nearly FUBAR
+T 1336768050 18<Raccoon>	you know
+T 1336768058 18<Raccoon>	for web design, i've been getting lazy
+T 1336768064 18<Raccoon>	instead of doing a new design for each site
+T 1336768068 18<Raccoon>	I just use my own site 
+T 1336768071 18<Raccoon>	grab it from git
+T 1336768073 18<Raccoon>	and modify it
+T 1336768076 18<pronto>	you git
+T 1336768106 18<Raccoon>	git ass niggah?
+T 1336768123 18<Kazen>	raccoon web design is meh anyways
+T 1336768133 18<Kazen>	all that fancy shit is mostly unneeded most of the time on websites i make
+T 1336768141 18<Kazen>	they need to have simple, plain websites
+T 1336768162 18<Raccoon>	Kazen: well, it's mostly just teach myself new shit with html/css class
+T 1336768166 18<Raccoon>	rather than actual design
+T 1336768173 18<Kazen>	i suck at design
+T 1336768174 18<Raccoon>	I spent most of today fucking around with fonts
+T 1336768185 18<Kazen>	hence why im not doing something like desktop publisher >,< (thankfully) or webdev
+T 1336768197 18<Kazen>	i spent today replacing 2 entire racks >.<
+T 1336768246 18<Raccoon>	sounds boring
+T 1336768258 18<TingPing>	messing with fonts sounds more boring
+T 1336768263 18<Kazen>	was fun but a hell of a job
+T 1336768285 18<Raccoon>	TingPing: no way
+T 1336768291 18<Raccoon>	I'd much rather compare fonts
+T 1336768292 18<Kazen>	who cares about fonts
+T 1336768294 18<Raccoon>	and play with them
+T 1336768298 18<Kazen>	as long as its not comic sans or times new roman its fine
+T 1336768302 18<Raccoon>	and see what works, than do a rack
+T 1336768323 18<Raccoon>	I mean, i'm sure Kazen finds what he does interesting, but it would bore the fuck out of me
+T 1336768342 18<Kazen>	what do you think its boring about it?
+T 1336768358 18<Raccoon>	replacing racks, I mean that sounds hardware oriented
+T 1336768369 18<Raccoon>	and messing with the insides of hardware bores me
+T 1336768375 18<Kazen>	you know...
+T 1336768376 18<Raccoon>	I mean, i'll crack something open if I have too
+T 1336768382 18<Raccoon>	but it's not a hilight of my day
+T 1336768387 18<Kazen>	replacing a rack is not like.. Pull rack out, put new rack in
+T 1336768392 18<Kazen>	as you need to rebuild half the network too
+T 1336768410 18<Kazen>	and cable and do docs.. (which is the boring part)
+T 1336768414 18<Raccoon>	Kazen: and comparing fonts is like bringing up two windows
+T 1336768416 18<Raccoon>	and looking
+T 1336768424 18<Kazen>	well
+T 1336768426 18<Raccoon>	and then switching the fonts
+T 1336768428 18<Kazen>	mostly yes
+T 1336768431 18<Raccoon>	until you find one you like
+T 1336768431 18<Kazen>	>.>
+T 1336768450 18<TingPing>	one is a job the other is being stupid
+T 1336768453 18<TingPing>	so its hard to compare
+T 1336768466 18<Raccoon>	TingPing: and yet thats a part of a jo b
+T 1336768467 18<Raccoon>	job*
+T 1336768481 18<Kazen>	a job as designer maybe ...
+T 1336768492 18<Kazen>	thank wathever you believe in that im not a graphical designer
+T 1336768508 18<Raccoon>	lol
+T 1336768510 18<TingPing>	a real job would do more than just compare fonts
+T 1336768546 18<Kazen>	unless you work as a font design quality manager?
+T 1336768549 18<Kazen>	heck
+T 1336768553 18<Kazen>	there are people who design fonts
+T 1336768556 18<TingPing>	few
+T 1336768566 18<TingPing>	like one person at apple, one at MS, and one at google :P
+T 1336768580 18<Raccoon>	mmmno
+T 1336768625 18<Kazen>	TingPing, i actually think its just part of someone´s job as a designer?
+T 1336768631 18<Kazen>	also, you can apperently buy fonts for loads of money
+T 1336768633 18<TingPing>	Kazen, id assume so
+T 1336768659 18<Raccoon>	fonts are fucking expensive
+T 1336768663 18<Raccoon>	like 1200$USD
+T 1336768665 18<Raccoon>	for one set
+T 1336768675 18<TingPing>	thats nothin :P
+T 1336768694 18<staticsafe>	lolfonts
+T 1336768698 18<staticsafe>	and ohai Raccoon 
+T 1336768717 18<Kazen>	meh
+T 1336768727 18<Kazen>	in relation to network stuff, thats really cheap :P
+T 1336768729 18<Kazen>	but its a FONT
+T 1336768735 18<Raccoon>	TingPing: I mean, the only reason I fanboy over roboto is that it's a helvetica class font that is free for web use
+T 1336768737 18<Raccoon>	ohai staticsafe 
+T 1336768753 18<Raccoon>	though iirc proxima nova is in the same class
+T 1336768778 18<Kazen>	this is raccoon: http://www.youtube.com/watch?v=m6djQHeqMwQ
+T 1336768779 18<EntropyBot>	Title: Font Fight - YouTube (at www.youtube.com)
+T 1336768780 18<staticsafe>	Helvetica isn't that great you know
+T 1336768793 18<Raccoon>	staticsafe: I said helvetica class
+T 1336768797 18<Raccoon>	not it directly
+T 1336768808 18<Raccoon>	:P
+T 1336768811 18<Kazen>	only font i really use is calibri
+T 1336768823 22*	blkcrwn is now known as racoonhunter
+T 1336768830 18<TingPing>	segoe UI + consolas 
+T 1336768834 18<TingPing>	all i need :P
+T 1336768877 18<racoonhunter>	I smell coon
+T 1336768892 18<Raccoon>	well
+T 1336768895 18<Raccoon>	the fuck is a coon?
+T 1336768899 18<Raccoon>	I know what a ccoon is
+T 1336768902 18<racoonhunter>	A racoon
+T 1336768902 18<Raccoon>	but i dunno
+T 1336768909 18<Raccoon>	what is a racoon?
+T 1336768918 18*	Raccoon knows what a Raccoon is however
+T 1336768926 18<racoonhunter>	Damn you
+T 1336768938 22*	racoonhunter is now known as bad_speller
+T 1336768942 18<staticsafe>	lol
+T 1336769007 22*	bad_speller is now known as foxhunter
+T 1336769017 22*	Liquidex is now known as blkcrwn
+T 1336769025 18<blkcrwn>	incurable jew cancer
+T 1336769038 18<Kazen>	also, i hate having to lockdown RJ-45 on the port itself with a lock
+T 1336769040 18<Kazen>	its cubersome
+T 1336769040 22*	blkcrwn is now known as Liquidex
+T 1336769064 18<cafejunkie>	http://www.cbc.ca/news/politics/story/2012/05/10/pol-cp-masks-bill-penalty-doubled-mps.html
+T 1336769066 18<EntropyBot>	<http://tinyurl.com/ckxv3pb> (at www.cbc.ca)
+T 1336769098 18<cafejunkie>	what a stupid law
+T 1336769106 18<Raccoon>	cafejunkie: new hampshire
+T 1336769117 18<Raccoon>	is making some software law
+T 1336769121 18<Raccoon>	I can't remember the details
+T 1336769126 18<Liquidex>	wow
+T 1336769145 18<staticsafe>	Conservative MPs on the House justice committee changed the proposed law Thursday, sending the legislation back to the House of Commons with a maximum penalty of 10 years in jail rather than five.
+T 1336769151 18<staticsafe>	i fucking hate this government
+T 1336769162 18<Raccoon>	http://www.gencourt.state.nh.us/legislation/2012/HB0418.html
+T 1336769163 18<EntropyBot>	<http://tinyurl.com/7yp6wlm> (at www.gencourt.state.nh.us)
+T 1336769164 18<fox>	staticsafe: it could be THIS govenment
+T 1336769164 18<Raccoon>	there we go
+T 1336769169 18<fox>	foxhunter: i see you there
+T 1336769185 18*	fox runs
+T 1336769188 18<cafejunkie>	Raccoon: that's old news
+T 1336769227 18<cafejunkie>	Raccoon: an interesting law, but they only have to "consider" OSS. SO it could be like "Well, we considered libreoffice but everyone likes MS Office better so oh well we'll stick with MS"
+T 1336769238 22*	foxhunter is now known as blkcrwn
+T 1336769279 18<fox>	staticsafe: you know, the government that made it so unmarried couples, gay or not, cannot share healthcare and other things like that
+T 1336769292 18<cafejunkie>	the interesting part of that is this "It is not in the public interest and it is a violation of the fundamental right to privacy for the state to use software that, in addition to its stated function, also transmits data to, or allows control and modification of its systems by, parties outside of the state’s control."
+T 1336769299 18<cafejunkie>	so, that rules out windows activation
+T 1336769323 18<Liquidex>	or activation of any sort?
+T 1336769327 18<cafejunkie>	or any other software that requires activation
+T 1336769327 18<cafejunkie>	yeah
+T 1336769332 18<fox>	staticsafe: did you see the map?
+T 1336769333 18<Raccoon>	hmm, just got an email from the play store telling me that tax will be added to my prices
+T 1336769340 18<staticsafe>	fox: yes
+T 1336769342 18<Raccoon>	in like 40 european and asian countries
+T 1336769343 18<Raccoon>	:/
+T 1336769347 18<Kazen>	http://www.computerhistory.org/timeline/?category=net
+T 1336769347 18<fox>	it was like 99% of NC voted for
+T 1336769348 18<EntropyBot>	<http://tinyurl.com/2pxazn> (at www.computerhistory.org)
+T 1336769388 18<Raccoon>	HOLY FUCK NO
+T 1336769391 18<fox>	Raccoon: how does that make you feel
+T 1336769393 18*	Kazen wants elections
+T 1336769398 18<Raccoon>	THE FUCKING TURNTABLE APP FOR ANDROID IS A GOD DAMN IOS PORT
+T 1336769403 18<Raccoon>	the buttons are fucking iOS ones
+T 1336769414 18<Raccoon>	atleast the instagram app follows some android conventions
+T 1336769414 18<staticsafe>	Raccoon: i hate those
+T 1336769418 18<Kazen>	raccoon instead of whining about the small amount of taxes you have to pay, whine about the people evading taxes on a massive scale
+T 1336769420 18<Raccoon>	THEY DON'T EVEN USE INTENTS
+T 1336769425 18<Raccoon>	 THE FUCK
+T 1336769429 18<Raccoon>	IT'S 2012
+T 1336769432 23*	23FreeFull has quit (23Ping timeout: 121 seconds23)
+T 1336769449 18<Raccoon>	fox: how does what make me feel? The faggot nc bill or google taxes?
+T 1336769462 19*	19FreeFull (freefull@net-sp5d1s.in-addr.btopenworld.com) has joined #lounge
+T 1336769466 18<fox>	google taxes
+T 1336769483 18<fox>	Raccoon: and the bill doesn't just affect gays, it affects anyone unmarried
+T 1336769488 18<Raccoon>	it make me have to adjust prices per country :P
+T 1336769527 18<staticsafe>	Raccoon: http://opendesign.blamesamsung.org/features you see this?
+T 1336769546 18<Kazen>	fox, all people are equal, some are just more equal then others
+T 1336769548 18<Kazen>	apperently
+T 1336769578 18<Kazen>	the entire gay marraige issue is like... a tiny spec if you look at the grand scale of problems
+T 1336769581 18<cafejunkie>	Found. The document has moved here
+T 1336769582 18<cafejunkie>	lolwut
+T 1336769593 18<cafejunkie>	staticsafe: that links gives a 302
+T 1336769601 18<staticsafe>	yea i just realized
+T 1336769605 18<staticsafe>	worked fine this morning
+T 1336769608 18<cafejunkie>	what was it?
+T 1336769611 18<fox>	i can second that
+T 1336769631 18<Raccoon>	staticsafe: i've seen it
+T 1336769635 18<Raccoon>	it looks interesting
+T 1336769644 18<Raccoon>	but IMO samsung does nothing good with touchwiz
+T 1336769653 18<Raccoon>	htc does have some interesting things with sense
+T 1336769662 18<Raccoon>	but I have not seen one good thing come out of touchwiz
+T 1336769741 18<staticsafe>	http://www.reddit.com/r/Android/comments/tgref/new_cm9_features_coming_soon_no_longer_miss_apps/
+T 1336769742 18<EntropyBot>	<http://tinyurl.com/7eucl2g> (at www.reddit.com)
+T 1336769873 18<cafejunkie>	http://www.reddit.com/r/linux/comments/tid6p/pulseaudio_20_has_been_released/c4mvs7n lol
+T 1336769874 18<EntropyBot>	<http://tinyurl.com/bq7qy8n> (at www.reddit.com)
+T 1336769904 18<staticsafe>	He's doing better than his OS then
+T 1336769907 18<staticsafe>	LOL
+T 1336769950 18<staticsafe>	Interesting: Lennart Poettering has only commited one change. It seems that the community is supporting it pretty well.
+T 1336770023 18<cafejunkie>	that would explain the hurd suppor tthen because we all now how much Poettering see's anything other than Linux as a "toy OS"
+T 1336770030 18<cafejunkie>	(his exact words about Debian/kFreeBSD)
+T 1336770056 18<staticsafe>	tbh i don't see Debian/kfreebsd going anywhere
+T 1336770064 18<staticsafe>	FreeBSD itself is fine
+T 1336770090 18<fox>	btw, ESD is actually pretty damn good
+T 1336770130 18<cafejunkie>	staticsafe: well, I would take his comments by extension to mean FreeBSD as well because he issued that comment when asked about why Pulse and his software didn't support anything other than LInux
+T 1336770165 18<Raccoon>	cafejunkie: does bsd need pulse though :P
+T 1336770170 18<Raccoon>	does ANYONE need pulse?
+T 1336770204 18<fox>	the feaures pulse has are actually pretty good, if pulse didn;t totally suck
+T 1336770259 18<cafejunkie>	Pulse was fine for me with the older versions (Ubuntu 10.04), anything newer and I can't turn down my volume all the way (it just goes silent after a certain point)
+T 1336770270 18<cafejunkie>	that's only with headphones/speakers plugged in
+T 1336770290 18<staticsafe>	[SECURITY] [DSA 2670-1] wordpress security update - lolwat Debian has wp in its repos?
+T 1336770297 18<cafejunkie>	that seems to be the case with a lot of my laptop hardware lol, everything worked so much better with older versions of shit
+T 1336770317 18<cafejunkie>	yep
+T 1336770321 18<cafejunkie>	it's in Ubuntu's repos as well
+T 1336770354 18<fox>	staticsafe: you didn't know that?
+T 1336770367 18<staticsafe>	no
+T 1336770428 18<staticsafe>	fox: PulseAudio now has Jack detection :P
+T 1336770460 18<Raccoon>	Question, do you people think putting a header that says the same of the site followed by an image on the top a good idea for a personal page?
+T 1336770469 18<Raccoon>	like (wefwefwef dot com) + pic
+T 1336770477 18<Raccoon>	in some boldish font
+T 1336770502 18<cafejunkie>	A logo would be acceptable, idk about text+image side by side
+T 1336770514 18<cafejunkie>	that just seems like it'd take up too much space
+T 1336770521 18<Raccoon>	cafejunkie: well the image is more like a square
+T 1336770527 18<Raccoon>	instead of a blocky rectangle
+T 1336770544 18<staticsafe>	Raccoon: do it and show us
+T 1336770549 18<cafejunkie>	^
+T 1336770563 18*	Raccoon opens up gimp and makes an image
+T 1336770571 18<staticsafe>	also GIMP <3
+T 1336770630 18<cafejunkie>	staticsafe: I love the new gimp
+T 1336770633 18<staticsafe>	yea
+T 1336770643 18<cafejunkie>	I noticed some performance improvements in windows as well
+T 1336770674 18<cafejunkie>	and the new splash screen is so much better :P
+T 1336770715 18<staticsafe>	I love how people still complaing about GIMP's name and the same thing for LibreOffice
+T 1336770728 18<staticsafe>	Libre isn't a hard word to say idiots
+T 1336770805 23*	23blkcrwn has quit (23Quit: Laterz 23)
+T 1336770824 18<staticsafe>	and I prefer the name LibreOffice over OpenOffice
+T 1336770935 18<cafejunkie>	staticsafe: I also prefer LibreOffice, but for some reason "normals" seem to prefer OpenOffice. I guess Libre is too complicated for them to understand
+T 1336770974 18<fox>	personally i prefer MS Office because it doesn't suck :P
+T 1336771009 18<Raccoon>	^
+T 1336771011 18<Raccoon>	google docs is good
+T 1336771013 18<Raccoon>	as well
+T 1336771034 18<Kazen>	i like MS office 
+T 1336771039 18<Kazen>	it has some good integration
+T 1336771042 18<Kazen>	except powerpoint or onenote
+T 1336771047 18<Kazen>	powerpoint can go die in a corner
+T 1336771051 18<cafejunkie>	Onenote is awesome
+T 1336771111 18<Raccoon>	powerpoint isn't bad
+T 1336771113 18<Raccoon>	also
+T 1336771119 18<Raccoon>	I saw a blackmacbook at school today
+T 1336771124 18<Raccoon>	I almost shat myself
+T 1336771128 18*	Raccoon thought he saw a cr-48
+T 1336771135 18<Raccoon>	those things look 100% the same
+T 1336771143 18<cafejunkie>	minus the big glowing apple
+T 1336771147 18<Raccoon>	cafejunkie: well yeah
+T 1336771168 18<Liquidex>	and the pretentious douchery amirite
+T 1336771179 18<Liquidex>	</generalizations>
+T 1336771198 19*	19blkcrwn (blkcrwn@hardcodedsecurity/founder/blkcrwn) has joined #lounge
+T 1336771208 18<fox>	Liquidex: sorry, the douchery is there with cr-48 users too
+T 1336771216 18<Raccoon>	fox: <3
+T 1336771230 18<Liquidex>	I've never met a CR-48 user
+T 1336771234 18<Liquidex>	in person anyway
+T 1336771243 18<Liquidex>	and everyone is semi-douchey online at times
+T 1336771257 18<fox>	Liquidex: well, they can't do anything but whats possible in the browser
+T 1336771281 18<cafejunkie>	which makes them exert a douchey hipster attitude
+T 1336771283 18<cafejunkie>	just ask Raccoon 
+T 1336771292 18<cafejunkie>	googlefags seem to be almost as bad as macfags
+T 1336771320 18<Raccoon>	cafejunkie: nah
+T 1336771325 18<Raccoon>	i'm not bad
+T 1336771340 18<Raccoon>	cafejunkie: you know you can get as bad as a macfag when it comes to kde
+T 1336771345 18<Raccoon>	we all have our ups and downs
+T 1336771347 18<Raccoon>	:P
+T 1336771370 18<fox>	yes nbut KDE is worth fanboying about
+T 1336771564 18*	Kazen is a juniper fag
+T 1336771571 18<staticsafe>	Kazen: HERETIC
+T 1336771577 18<Kazen>	while i don´t even have any juniper shit as it is fucking expensive lol
+T 1336771592 18<Kazen>	staticsafe irony is my entire network is cisco equipment
+T 1336771594 18<Kazen>	lol
+T 1336771597 18<staticsafe>	:D
+T 1336771599 18*	jordanmkasla2009 fixes buffers
+T 1336771626 18<staticsafe>	http://www.amazon.ca/dp/B007H38JM4/ref=pe_183380_23915370_pe_epc_dt1 i want this :(
+T 1336771627 18<EntropyBot>	<http://tinyurl.com/cmo6bqy> (at www.amazon.ca)
+T 1336771704 18<jordanmkasla2009>	http://www.pcworld.com/article/255508/siri_says_nokia_lumia_900_not_apple_iphone_is_the_best_smartphone_ever.html
+T 1336771705 18<EntropyBot>	<http://tinyurl.com/7hcsfnx> (at www.pcworld.com)
+T 1336771718 18<cafejunkie>	lol
+T 1336771743 18<jordanmkasla2009>	ikr
+T 1336771764 18<Kazen>	http://www.youtube.com/watch?v=04IWUnBj-h4&feature=g-u-u
+T 1336771765 18<EntropyBot>	<http://tinyurl.com/838ls2w> (at www.youtube.com)
+T 1336771822 18<cafejunkie>	"Maybe Wolfram Alpha needs to rethink its data sources?" why? 
+T 1336771842 18<cafejunkie>	While it should pull from multiple sources, best buy's reviews aren't any less credible than say Amazon's reviews
+T 1336771862 18<fox>	cafejunkie: review count
+T 1336771873 18<fox>	it ignored that and went for star rating instead
+T 1336771889 18<fox>	5/5 in 5 vs 4/5 in 500 ?
+T 1336771895 18<cafejunkie>	oh, ok
+T 1336772037 18<cafejunkie>	I'm still mad about nokia going WP7. The Lumia is a sexy piece of hardware, even if it is a bit under powered
+T 1336772078 18<jordanmkasla2009>	cafejunkie, nokia has to b/c of their deal with microsoft :P
+T 1336772079 18<Kazen>	i like the look of the lumia
+T 1336772090 18<Kazen>	its a shame it runs WP7 though
+T 1336772095 18<Kazen>	which makes no carrier stock it here
+T 1336772101 18<cafejunkie>	jordanmkasla2009: yeah, I know. That's what I'm still mad about :P
+T 1336772114 18<cafejunkie>	jordanmkasla2009: I'm not a fan of android either, but I'd rather have had them make some android phones
+T 1336772119 18<Kazen>	on another note: anyone know a mid-end processor for a server build?
+T 1336772121 18<cafejunkie>	I love Maemo
+T 1336772131 18<Kazen>	server will mostly be used in a school lab for about 5-10 students
+T 1336772143 18<fox>	Kazen: AMD 
+T 1336772150 18<Kazen>	fox, which one?
+T 1336772157 18<fox>	Kazen: id use any of them :P
+T 1336772159 18<fox>	priced right :P
+T 1336772170 18<fox>	and don't buy into this "server processor" business
+T 1336772175 18<Kazen>	an X4 would be great
+T 1336772178 18<Kazen>	fox, no lol
+T 1336772182 18<jordanmkasla2009>	fox
+T 1336772184 18<Kazen>	server processors are not sold to consumers mostly
+T 1336772189 18<Kazen>	not to mention there expensive
+T 1336772201 18<Kazen>	still thinking about a way to store the OS though >.>
+T 1336772204 18<Kazen>	SSD is too expensive :/
+T 1336772209 18<Kazen>	and need a case too
+T 1336772214 18<cafejunkie>	like fox said, don't buy into that business. They put the word "server" in front of it so they can charge three times the price
+T 1336772228 18<fox>	Kazen: ^ everything consumer is fine
+T 1336772235 18<fox>	excluding ram and some boards
+T 1336772239 18<fox>	if you HAVE to 
+T 1336772245 18<fox>	go ECC 
+T 1336772245 18<Kazen>	cafejunkie, i know
+T 1336772252 18<Kazen>	fox, dont need to at all
+T 1336772260 18<jordanmkasla2009>	cafejunkie, a Xeon 10-core would outperform a Core i7
+T 1336772261 18<Kazen>	its not a critical server 
+T 1336772274 18<fox>	jordanmkasla2009: not really 
+T 1336772284 18<fox>	jordanmkasla2009: mostly because you forget something
+T 1336772312 18<fox>	sure the processor does, but i personally think a gaming board and ram made for gaming is probably faster than "server" ram 
+T 1336772315 18<cafejunkie>	actually
+T 1336772326 18<cafejunkie>	a current gen i7 will eat most Xeon's for breakfast
+T 1336772329 18<fox>	and w/ the right i7 
+T 1336772330 18<Kazen>	fox, it depends on the task
+T 1336772338 18<fox>	Kazen: defininatly
+T 1336772347 18<Kazen>	bulldozers suck for gaming
+T 1336772349 18<fox>	often its about reliability than speed
+T 1336772354 18<Kazen>	but they can crush numbers like a boss
+T 1336772359 18<Kazen>	very true
+T 1336772369 18<cafejunkie>	in most environments, the cpu is not your bottle neck anyway
+T 1336772370 18<Kazen>	and servers need to last quite a while sometimes
+T 1336772375 18<Kazen>	mostly HDD
+T 1336772389 18<Kazen>	or sometimes network output
+T 1336772394 18<cafejunkie>	in a database heavy application server the CPU isn't going to matter as much as your I/O performance for example
+T 1336772400 18<cafejunkie>	and you can get away with any decent cpu
+T 1336772424 18<cafejunkie>	render farms? You're looking into buying GPUs, not high end CPUs
+T 1336772425 18<Kazen>	im still looking for a sleek case to go with the build >.<
+T 1336772437 18<fox>	Kazen: i got a 15$ case
+T 1336772448 18<fox>	sure your fingers are going to bleed
+T 1336772450 18<Kazen>	it needs to be silent though
+T 1336772455 18<fox>	Kazen: why?
+T 1336772461 18<Kazen>	because it will be in a classroom, thats why
+T 1336772478 18<fox>	Kazen: just so you know, ITS NOT GOING TO BE SILENT EVER
+T 1336772482 18<Kazen>	i know
+T 1336772489 18<Kazen>	not like.. insanely silent
+T 1336772491 18<Kazen>	i just mean...
+T 1336772491 18<fox>	how do i know? i have 3 dell poweredge servers 
+T 1336772492 18<cafejunkie>	My P4 is silent :P
+T 1336772501 18<jordanmkasla2009>	cafejunkie, GPGPUs are fine, as long as you are crunching advanced non-scalar numbers but for scalar calculations they suck
+T 1336772513 18<Kazen>	fox, still, there can be made a huge difference in sound if picking the correct case
+T 1336772521 18<Kazen>	especially if you cut back on fans 
+T 1336772522 18<fox>	jordanmkasla2009: huh?
+T 1336772525 18<Kazen>	some cases come with a million of them
+T 1336772533 18<Kazen>	and you theoraticly only need 3 or 2
+T 1336772534 18<cafejunkie>	MOAR FANS
+T 1336772535 18<cafejunkie>	MOAR CORES
+T 1336772545 18<jordanmkasla2009>	its in the way they are designed
+T 1336772566 18<cafejunkie>	I actually like the noise lol, but I'm just a nerd
+T 1336772569 18<Kazen>	cafejunkie, MORE LEDS THAT MAKE MY RIG LOOK LIKE A XMAS TREE!
+T 1336772580 18<cafejunkie>	it's good white noise when I'm trying to sleep at night
+T 1336772582 18<Kazen>	i like the noise 1 and 2 U´s make
+T 1336772585 18<cafejunkie>	Kazen: YES
+T 1336772589 18<cafejunkie>	LIGHTS
+T 1336772591 18<cafejunkie>	MOAR LIGHTS
+T 1336772597 18<Kazen>	DEATH TO XMAS TREE CASES
+T 1336772613 18<cafejunkie>	Kazen: I like a small blue LED accent, but not overdone
+T 1336772615 18<Kazen>	only lights you need are Link-light and some status LED¨s
+T 1336772619 18<jordanmkasla2009>	CPUs were designed to perform scalar calculations, GPUs were designed to process vectors and advanced calculus functions used in the rendering of 3D graphics
+T 1336772619 18<Kazen>	meh
+T 1336772620 18<cafejunkie>	Kazen: I like indicator lights
+T 1336772623 18<Kazen>	me too
+T 1336772623 18<cafejunkie>	Kazen: not decorative lights
+T 1336772628 18<Kazen>	agreed
+T 1336772645 18<Kazen>	i hate having overly bright indicitator lights for my personal stuff
+T 1336772652 18<Kazen>	because you know
+T 1336772656 18<Kazen>	it will be in my bedroom
+T 1336772659 18<cafejunkie>	my del laptop has really bright indicator lights (blue) but I like them
+T 1336772666 18<Kazen>	sleeping with 10-15 LEDS in your face sucks
+T 1336772666 18<jordanmkasla2009>	that's why software rendering bogs down a computer
+T 1336772671 18<fox>	jordanmkasla2009: i know that.
+T 1336772671 18<cafejunkie>	I have one for power, battery, HDD< wifi, bluetooth, and caps/num/scroll lock
+T 1336772679 18<cafejunkie>	then my speakrs have blue power indicators
+T 1336772680 18<fox>	jordanmkasla2009: i was talking about GPGPUs
+T 1336772688 18<Kazen>	cafejunkie, you know those server racks which have smoked glass windows?
+T 1336772690 18<Kazen>	there awesome
+T 1336772706 18<Kazen>	i want one for my bedroom so i can sleep without being in broad daylight
+T 1336772723 18<jordanmkasla2009>	General Purpose Graphics Processing Units... the GP is a prefix for  a GPU thats being used for General Purpose applications
+T 1336772730 18<fox>	jordanmkasla2009: but, GPU + CPU to do that math is fast as hell
+T 1336772743 18<jordanmkasla2009>	DirectCompute
+T 1336772747 18<jordanmkasla2009>	OpenCL
+T 1336772749 18<fox>	jordanmkasla2009: CUDA
+T 1336772766 18<Kazen>	hmmm
+T 1336772768 18<fox>	CUDA + CPU == HOLY FUCK SO FAST
+T 1336772773 18<pronto>	SO FAST
+T 1336772774 18<pronto>	BRO
+T 1336772781 18<Kazen>	instead of a SSD might go with a flash card which plugs into PCI-E
+T 1336772789 18<fox>	Kazen: why?
+T 1336772792 18<Kazen>	issue is i dunno what the performance is
+T 1336772794 18<fox>	Kazen: HDDs are fine
+T 1336772797 18<Kazen>	fox, it needs little space
+T 1336772806 18*	fox is using a 10GB 
+T 1336772811 18<Kazen>	which i don´t have
+T 1336772815 18<fox>	yes 10GB that wasn't a typo
+T 1336772818 18<Kazen>	i only have 80GB or bigger
+T 1336772822 18<fox>	Kazen: so use that
+T 1336772825 18<Kazen>	10GB flash would be ideal
+T 1336772825 18<Kazen>	no
+T 1336772832 18<fox>	Kazen: why?
+T 1336772844 18<Kazen>	because that will be in a RAID with all the other 80GB disks i have >.<
+T 1336772859 18<fox>	Kazen: :/
+T 1336772865 18<fox>	why do i even bother
+T 1336772873 18<Kazen>	bother what?
+T 1336772934 18<jordanmkasla2009>	fox, Kazen i strongly believe in the use of SSDs for the System disk, and HDD for everything else
+T 1336772942 18<Kazen>	same
+T 1336772944 18<fox>	jordanmkasla2009: umm
+T 1336772949 18<Kazen>	but im afriad a SSD is just too expensive
+T 1336772954 18<fox>	i use an HDD for the system disk and SSD on cache
+T 1336772959 18<Kazen>	which is meh
+T 1336772966 18<Kazen>	just use the SSD for the entire OS then >,<
+T 1336772970 18<fox>	Kazen: huh?
+T 1336772977 18<fox>	you seen how fast my servers are?
+T 1336772979 18<jordanmkasla2009>	Kazen, you don't need a large SSD for the OS
+T 1336772982 18<fox>	oh wwait nope
+T 1336772982 18<Kazen>	i know
+T 1336772984 18<fox>	you haven't 
+T 1336772987 18<Kazen>	still
+T 1336772990 18<Kazen>	caching is meh
+T 1336773009 18<Kazen>	when you can simpely install the OS on the server and put any heavy I/O data stuff on disks
+T 1336773013 18<jordanmkasla2009>	well the SWAP should definitely be on an SSD
+T 1336773018 18<fox>	jordanmkasla2009: NO
+T 1336773022 18<fox>	that will kill it faster
+T 1336773026 18<staticsafe>	lolwat swap on ssd
+T 1336773026 18<cafejunkie>	lol
+T 1336773029 18<cafejunkie>	yeah if you want to kill it
+T 1336773038 18<cafejunkie>	I'd like my SSD to last a long time tyvm
+T 1336773038 18<fox>	why the fuck would you put SWAP/PAGE/HIBER on the SSD
+T 1336773042 18<cafejunkie>	but I'm still a fan of HDDs
+T 1336773042 18<fox>	YOU FUCKING INSANE?
+T 1336773048 18<cafejunkie>	I have a 11 year old HDD 
+T 1336773050 18<cafejunkie>	and it's still not dead
+T 1336773054 18<fox>	cafejunkie: 11?
+T 1336773055 18<fox>	LOL
+T 1336773084 18<fox>	woah 14 years now? damn
+T 1336773100 18<fox>	(my 5 gig HDD in my Armada)
+T 1336773154 18*	Kazen should get a bunch of NIC´s
+T 1336773164 18<Kazen>	im actually wondering
+T 1336773178 18<Kazen>	is there a limit on how many physical ethernet ports a average computer can handle?
+T 1336773193 18<Kazen>	having 5 or 6 5 ethernet port PCI cards would be hilarious
+T 1336773226 18<fox>	Kazen: uh
+T 1336773229 18<fox>	depends on the OS
+T 1336773232 18<Korwyn>	I have a server with 20 ports.
+T 1336773241 18<Korwyn>	Actually 22.
+T 1336773250 18<Kazen>	nice
+T 1336773259 18<Korwyn>	It is my analysis/sniffer box.
+T 1336773264 18*	Kazen has a switch with 24 +2x Gbit uplink, a router with one ...
+T 1336773272 18<Kazen>	ethernet port (10mbit :( )
+T 1336773280 18<Korwyn>	Gig ports
+T 1336773283 18<Kazen>	making that a router on a stick is a major bottleneck >.<
+T 1336773504 19*	19Jupdown_ (Jupdown@net-vm7.rh5.235.64.IP) has joined #lounge
+T 1336773924 18<Raccoon>	"Dunno if you'll get this in time, but I will be in your area-ish tonight if you want to say hi."
+T 1336773926 18<Raccoon>	hmm
+T 1336773931 18<Raccoon>	some guy dm'd me this on twitter
+T 1336773939 18<Raccoon>	Should I? :P
+T 1336773949 18<cafejunkie>	he wants you
+T 1336773958 18<Raccoon>	cafejunkie: he's an android dev pal of mine
+T 1336773966 18<cafejunkie>	or so you tink
+T 1336773972 18<Raccoon>	cafejunkie: BUTSECKS
+T 1336773974 18<Raccoon>	DUH
+T 1336773977 18<Raccoon>	go to the hotel room
+T 1336773979 18<Raccoon>	thinking it's a cute girl
+T 1336773981 18<Raccoon>	then we FUCK
+T 1336773983 18<Raccoon>	HARD
+T 1336774019 18<staticsafe>	lol
+T 1336774029 18<Raccoon>	seriously though, I'd prolly do it
+T 1336774030 18<Raccoon>	but me no have car
+T 1336774035 18<Raccoon>	and telling my dad
+T 1336774044 18<Raccoon>	'yo i'm gonna go meet this guy from twitter'
+T 1336774048 18<Raccoon>	doesn't sound like the best idea
+T 1336774094 18<staticsafe>	lol
+T 1336774265 18<Liquidex>	Bitcoinica was hacked again
+T 1336774281 18<staticsafe>	:o
+T 1336774287 18<Liquidex>	100k USD gone
+T 1336774291 18<staticsafe>	wow
+T 1336774361 18<staticsafe>	Raccoon: can't your bro drive you or something? tell him you are hooking up with some chick and need his help
+T 1336774367 18<staticsafe>	:P
+T 1336774372 18<Raccoon>	staticsafe: what brother?
+T 1336774382 18<Raccoon>	they live in massachusetts
+T 1336774383 18<staticsafe>	wait didn't you say you had a brother
+T 1336774384 18<staticsafe>	oh
+T 1336774388 18<Raccoon>	I have two
+T 1336774390 18<Raccoon>	actually
+T 1336774394 18<Raccoon>	one makes musik
+T 1336774399 18<Raccoon>	the other is in school :P
+T 1336774400 18<Liquidex>	taxi or bus?
+T 1336774402 18<Liquidex>	friends?
+T 1336774421 18<Raccoon>	lol, use a friend to meet a internet friend
+T 1336774425 18<Liquidex>	for sure
+T 1336774428 18<Liquidex>	what could go wrong?
+T 1336774430 18<Raccoon>	that's not going to be an awkward conversation at all
+T 1336774432 18<Raccoon>	:P
+T 1336774625 18<Liquidex>	https://www.eff.org/deeplinks/2012/05/and-privacy-invasion-award-goes-to
+T 1336774626 18<EntropyBot>	<http://tinyurl.com/crlksvr> (at www.eff.org)
+T 1336774652 18<Liquidex>	the EFF is the shit
+T 1336774659 18<staticsafe>	indeed
+T 1336774668 18<staticsafe>	i love the addon they made - HTTPS Everywhere
+T 1336774683 18<Liquidex>	if I ever need their assistance they will get a huge donation, not that I don't give 10-20 here and there
+T 1336774693 18<Liquidex>	for sure, it's great.
+T 1336774731 18<Liquidex>	I remember when SOPA was in the works, they had a script that automatically found your senator and sent them a letter provided you gave them a name and email
+T 1336774737 18<Liquidex>	(your own)
+T 1336775036 23*	23Korwyn has quit (23Read Error23)
+T 1336775155 23*	23Jupdown_ has quit (23Ping timeout: 121 seconds23)
+T 1336775594 18<jordanmkasla2009>	Jupdown!
+T 1336775680 23*	23blkcrwn has quit (23Quit: Laterz 23)
+T 1336775804 18<staticsafe>	lol
+T 1336775880 18<jordanmkasla2009>	... where is Jupdown?
+T 1336775884 18<jordanmkasla2009>	!seen Jupdown
+T 1336775884 18<EntropyBot>	jordanmkasla2009: Jupdown was last seen in #lounge 23 hours and 2 seconds ago: <Jupdown> 1+ to dat ^^
+T 1336775891 18<jordanmkasla2009>	:/
+T 1336775901 18<jordanmkasla2009>	he must be afl
+T 1336775904 18<jordanmkasla2009>	afk*
+T 1336776006 19*	19blkcrwn (blkcrwn@hardcodedsecurity/founder/blkcrwn) has joined #lounge
+T 1336777376 23*	23Kazen has quit (23Connection closed23)
+T 1336777477 19*	19Kazen (kazen@net-tlv300.dynamic.ziggo.nl) has joined #lounge
+T 1336777759 18<Kazen>	What's the diffrence between a drug addict and a geek?
+T 1336777778 18<Kazen>	A geek is proud of it >.<
+T 1336777787 18<jordanmkasla2009>	lol
+T 1336778122 18<Raccoon>	okbajlol
+T 1336778287 18<staticsafe>	:o
+T 1336778302 18<staticsafe>	Raccoon: so you hooking up with this guy?
+T 1336778708 18<Raccoon>	staticsafe: nope
+T 1336778717 18<Raccoon>	I mean, it'll be too odd
+T 1336778725 18<Raccoon>	I know him from phone deving
+T 1336778731 18<Raccoon>	but it's not how I know you :P
+T 1336778741 18*	Raccoon glares at staticsafe in the most oddest way possible
+T 1336778955 18*	Kazen has to do factory shifts in 6 weeks 
+T 1336779002 18<Kazen>	Which will sort of suck but also be nice Because money"s!
+T 1336779058 18<staticsafe>	lol
+T 1336779133 18<Kazen>	But being 8-9 hours a day in a factory is meh. But pays good 
+T 1336779144 18<Kazen>	Because no one wants to do the job 
+T 1336779560 23*	23Kazen has quit (23Quit: Flip the switch 23)

@@ -1,0 +1,6 @@
+T 1333925805 19*	19Now talking on #/np/tv
+T 1333925805 29*	29Topic for #/np/tv 29is: http://sicp.ath.cx:4040 / guest:guest ||| RADIO http://dontcum.in:9001/listen.m3u?src=0
+T 1333925805 29*	29Topic for #/np/tv 29set by zeuhl 29at Fri Jul 29 01:20:37 2011
+T 1333925806 28-29ChanServ28-	[#/np/tv] Now playing all day, every day!
+T 1333925806 22*	26ChanServ gives voice to26 Annex
+T 1333925816 31<Annex>30	:333

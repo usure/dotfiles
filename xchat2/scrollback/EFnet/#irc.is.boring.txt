@@ -1,0 +1,335 @@
+T 1330220615 29*	29Topic for #irc.is.boring 29is: FML
+T 1330220615 29*	29Topic for #irc.is.boring 29set by duckie!duckie@army.corporals.org 29at Sun Jan 15 01:56:52 2012
+T 1330226156 19*	19faalhaas (erik@cp9344529-c.dbsc4.nb.hoomee.nl) has joined #irc.is.boring
+T 1330227126 23*	23faalhaas (23erik@cp9344529-c.dbsc4.nb.hoomee.nl) has left #irc.is.boring
+T 1330230815 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #irc.is.boring
+T 1330231475 23*	23tidalwave (23tidalwave@170-201.82-139.bia.tkbb.net.pl) has left #irc.is.boring
+T 1330233817 19*	19faalhaas (erik@cp9344529-c.dbsc4.nb.hoomee.nl) has joined #irc.is.boring
+T 1330234428 23*	23faalhaas (23erik@cp9344529-c.dbsc4.nb.hoomee.nl) has left #irc.is.boring
+T 1330236588 19*	19faalhaas (erik@cp9344529-c.dbsc4.nb.hoomee.nl) has joined #irc.is.boring
+T 1330237378 23*	23faalhaas (23erik@cp9344529-c.dbsc4.nb.hoomee.nl) has left #irc.is.boring
+T 1330240005 19*	19passwd_ (passwd@passwd.biz) has joined #irc.is.boring
+T 1330240044 19*	19xmage_ (x@g-unit.org) has joined #irc.is.boring
+T 1330240066 23*	23notxmage has quit (23Read error: Operation timed out23)
+T 1330240102 22*	xmage_ is now known as notxmage
+T 1330240121 22*	26fucking gives channel operator status to26 notxmage
+T 1330240121 22*	fucking removes ban on 240!0qjQ@snMmJlds/zpFnh5WC0K/+w==
+T 1330240153 23*	23passwd has quit (23Ping timeout: 256 seconds23)
+T 1330240514 19*	19ninja_ (black@master.passwds.net) has joined #irc.is.boring
+T 1330240550 23*	23iso_ has quit (23Read error: Connection reset by peer23)
+T 1330240556 19*	19iso- (source@overcharged.us) has joined #irc.is.boring
+T 1330240575 22*	26anonymous gives channel operator status to26 ninja_
+T 1330240575 22*	anonymous removes ban on 048!8X|1@07zeYzpTM9bv+dpPOT/oHw==
+T 1330240622 22*	26bonghit gives channel operator status to26 iso-
+T 1330240622 22*	bonghit removes ban on 554!4EQ3@80nTvJ+Tu7BS0YJi/8mMHQ==
+T 1330240657 23*	23ninja- has quit (23Ping timeout: 264 seconds23)
+T 1330242169 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #irc.is.boring
+T 1330243199 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #irc.is.boring
+T 1330245932 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #irc.is.boring
+T 1330246961 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #irc.is.boring
+T 1330251606 19*	19insomnia- (x@elite.ninja.cat) has joined #irc.is.boring
+T 1330251659 23*	23insomniac has quit (23Ping timeout: 260 seconds23)
+T 1330251680 22*	26billyjoe gives channel operator status to26 insomnia-
+T 1330251680 22*	billyjoe removes ban on 77a!;VEt@7apc9jP6Tx4Ys1SVCModDw==
+T 1330253002 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #irc.is.boring
+T 1330253853 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #irc.is.boring
+T 1330253949 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #irc.is.boring
+T 1330254380 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #irc.is.boring
+T 1330259404 23*	23budweiser has quit (23Killed (hub.efnet.us (Nick change collision))23)
+T 1330259405 23*	23jeet has quit (23Killed (hub.dk (Nick change collision))23)
+T 1330259406 23*	23ninja_ has quit (23Killed (hub.efnet.us (Nick change collision))23)
+T 1330259408 19*	19budweiser (ownage@street-pharmacist.com) has joined #irc.is.boring
+T 1330259416 19*	19ninja_ (black@master.passwds.net) has joined #irc.is.boring
+T 1330259454 19*	19jeet (fbsd@ereet.vr0.net) has joined #irc.is.boring
+T 1330259471 22*	26anonymous gives channel operator status to26 budweiser
+T 1330259471 22*	anonymous removes ban on d2c!720X@GW4STkPSlnO+1XaibpwZyw==
+T 1330259490 22*	26anonymous gives channel operator status to26 ninja_
+T 1330259490 22*	anonymous removes ban on dbd!G_<5@/aY9hxYHXdf+uwUn6win0w==
+T 1330259529 22*	26juggalo gives channel operator status to26 jeet
+T 1330259529 22*	juggalo removes ban on a6d!XxQf@tGFcfc+AHTtVsO3YT4Y53w==
+T 1330259751 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #irc.is.boring
+T 1330260381 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #irc.is.boring
+T 1330262905 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #irc.is.boring
+T 1330263516 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #irc.is.boring
+T 1330267113 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #irc.is.boring
+T 1330268083 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #irc.is.boring
+T 1330269205 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #irc.is.boring
+T 1330270176 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #irc.is.boring
+T 1330273170 23*	23insomnia- has quit (23Read error: Operation timed out23)
+T 1330273185 19*	19insomnia- (x@elite.ninja.cat) has joined #irc.is.boring
+T 1330273270 22*	26NSA gives channel operator status to26 insomnia-
+T 1330273270 22*	NSA removes ban on f96!]?a6@96XNiLgV3l0C2yluEJ5vuw==
+T 1330274148 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #irc.is.boring
+T 1330274638 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #irc.is.boring
+T 1330278258 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #irc.is.boring
+T 1330279228 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #irc.is.boring
+T 1330284186 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #irc.is.boring
+T 1330284677 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #irc.is.boring
+T 1330285210 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #irc.is.boring
+T 1330285699 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #irc.is.boring
+T 1330287060 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #irc.is.boring
+T 1330287730 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #irc.is.boring
+T 1330291057 23*	23peanuter has quit (23Read error: Operation timed out23)
+T 1330292882 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #irc.is.boring
+T 1330293552 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #irc.is.boring
+T 1330294161 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #irc.is.boring
+T 1330295072 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #irc.is.boring
+T 1330301820 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #irc.is.boring
+T 1330302550 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #irc.is.boring
+T 1330302704 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #irc.is.boring
+T 1330303435 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #irc.is.boring
+T 1330306306 19*	19faalhaas (erik@cp9344529-c.dbsc4.nb.hoomee.nl) has joined #irc.is.boring
+T 1330307215 23*	23faalhaas (23erik@cp9344529-c.dbsc4.nb.hoomee.nl) has left #irc.is.boring
+T 1330310649 23*	23drug has quit (23Read error: Connection reset by peer23)
+T 1330310656 19*	19drug (phear@insomnia.robbed.us) has joined #irc.is.boring
+T 1330310726 23*	23ingenio has quit (23Read error: Operation timed out23)
+T 1330310734 22*	26anonymous gives channel operator status to26 drug
+T 1330310734 22*	anonymous removes ban on 01d!U3+F@jSAgjnpJJg0oMetABHvCeQ==
+T 1330310761 19*	19ingenio (ownage@rootwheel.net) has joined #irc.is.boring
+T 1330310837 22*	26anonymous gives channel operator status to26 ingenio
+T 1330310837 22*	anonymous removes ban on 984!l7r#@PHma4Diorq0dXBTSNMEEKg==
+T 1330311763 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #irc.is.boring
+T 1330312733 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #irc.is.boring
+T 1330318377 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #irc.is.boring
+T 1330319047 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #irc.is.boring
+T 1330319710 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #irc.is.boring
+T 1330320380 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #irc.is.boring
+T 1330323090 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #irc.is.boring
+T 1330323754 19*	19Geishabel (~geyshabel@ool-457450ca.dyn.optonline.net) has joined #irc.is.boring
+T 1330323770 23*	23Geishabel (23~geyshabel@ool-457450ca.dyn.optonline.net) has left #irc.is.boring
+T 1330324061 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #irc.is.boring
+T 1330327158 19*	19cypress- (x@efnet.bitchx.org) has joined #irc.is.boring
+T 1330327238 22*	26jeet gives channel operator status to26 cypress-
+T 1330327238 22*	jeet removes ban on 6bf!#|ND@UvaUuBOaN15bgJAyyJOsGA==
+T 1330327247 23*	23cypress has quit (23Read error: Operation timed out23)
+T 1330327248 22*	cypress- is now known as cypress
+T 1330329751 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #irc.is.boring
+T 1330330661 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #irc.is.boring
+T 1330332599 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #irc.is.boring
+T 1330333509 23*	23tidalwave (23tidalwave@170-201.82-139.bia.tkbb.net.pl) has left #irc.is.boring
+T 1330338122 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #irc.is.boring
+T 1330338972 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #irc.is.boring
+T 1330340591 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #irc.is.boring
+T 1330340659 19*	19bonex (~bonex@110.137.40.166) has joined #irc.is.boring
+T 1330341022 23*	23tidalwave (23tidalwave@170-201.82-139.bia.tkbb.net.pl) has left #irc.is.boring
+T 1330341789 23*	23bonex has quit (2323)
+T 1330342239 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #irc.is.boring
+T 1330343210 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #irc.is.boring
+T 1330347635 19*	19faalhaas (erik@cp9344529-c.dbsc4.nb.hoomee.nl) has joined #irc.is.boring
+T 1330348027 19*	19engels (webchat@ip72-201-12-31.ph.ph.cox.net) has joined #irc.is.boring
+T 1330348052 18<engels>	indeed, it is boring
+T 1330348425 23*	23faalhaas (23erik@cp9344529-c.dbsc4.nb.hoomee.nl) has left #irc.is.boring
+T 1330348605 23*	23engels (23webchat@ip72-201-12-31.ph.ph.cox.net) has left #irc.is.boring
+T 1330348728 19*	19mib_bv3x3 (Mibbit@80.96.113.28) has joined #irc.is.boring
+T 1330348842 23*	23mib_bv3x3 has quit (23http://www.mibbit.com ajax IRC Client23)
+T 1330351555 23*	23marky has quit (23Read error: Operation timed out23)
+T 1330351641 23*	23kurrupt has quit (23Ping timeout: 250 seconds23)
+T 1330351780 19*	19Saoirse (~androirc@75-56-241-145.lightspeed.cornca.sbcglobal.net) has joined #irc.is.boring
+T 1330353153 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #irc.is.boring
+T 1330354183 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #irc.is.boring
+T 1330354366 23*	23Saoirse (23~androirc@75-56-241-145.lightspeed.cornca.sbcglobal.net) has left #irc.is.boring
+T 1330355466 19*	19kurrupt (pimp@i.wanna.getlaid.ca) has joined #irc.is.boring
+T 1330355472 19*	19marky (pimp@is.into.n4rc0tics.com) has joined #irc.is.boring
+T 1330355530 22*	26anonymous gives channel operator status to26 kurrupt
+T 1330355530 22*	anonymous removes ban on b7e!2;fH@WE5LNTEYbzcKsDgQLs5WGg==
+T 1330355537 22*	26anonymous gives channel operator status to26 marky
+T 1330355537 22*	anonymous removes ban on 595!4,9U@HrthOSXVj4HXWd1hzmflKA==
+T 1330358114 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #irc.is.boring
+T 1330358784 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #irc.is.boring
+T 1330359201 19*	19Iris14 (~DCIxqepf@ip-93.159.42.162.static.crowley.pl) has joined #irc.is.boring
+T 1330359202 23*	23Iris14 has quit (23Connection closed23)
+T 1330364390 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #irc.is.boring
+T 1330365420 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #irc.is.boring
+T 1330365885 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #irc.is.boring
+T 1330365958 23*	23psybnc has quit (23Read error: Connection reset by peer23)
+T 1330365961 19*	19psybnc (woot@ereet.biz) has joined #irc.is.boring
+T 1330366036 22*	26anonymous gives channel operator status to26 psybnc
+T 1330366036 22*	anonymous removes ban on 90b!I0,7@DcZXuVw+4Fegan/N0TW9/Q==
+T 1330366915 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #irc.is.boring
+T 1330371186 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #irc.is.boring
+T 1330371796 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #irc.is.boring
+T 1330374032 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #irc.is.boring
+T 1330374521 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #irc.is.boring
+T 1330374982 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #irc.is.boring
+T 1330375472 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #irc.is.boring
+T 1330381792 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #irc.is.boring
+T 1330382762 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #irc.is.boring
+T 1330383680 23*	23kurrupt has quit (23Read error: Operation timed out23)
+T 1330383745 23*	23marky has quit (23Ping timeout: 260 seconds23)
+T 1330385844 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #irc.is.boring
+T 1330386753 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #irc.is.boring
+T 1330389074 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #irc.is.boring
+T 1330389565 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #irc.is.boring
+T 1330391526 23*	23linz has quit (23Read error: Connection reset by peer23)
+T 1330391591 19*	19marky (pimp@is.into.n4rc0tics.com) has joined #irc.is.boring
+T 1330391627 19*	19kurrupt (pimp@i.wanna.getlaid.ca) has joined #irc.is.boring
+T 1330391665 22*	26cypress gives channel operator status to26 marky
+T 1330391665 22*	cypress removes ban on ba1!4h-8@vlOqxayV2FCDCH3yDQ718w==
+T 1330391694 22*	26jeremiah- gives channel operator status to26 kurrupt
+T 1330391694 22*	jeremiah- removes ban on 05d!;{mV@P571ZFH1vBmNb5+WPEUZwQ==
+T 1330391768 19*	19linz (linz@die.plz.k-thx.biz) has joined #irc.is.boring
+T 1330391787 22*	26duckie gives channel operator status to26 linz passwd_
+T 1330391851 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #irc.is.boring
+T 1330392113 23*	23kurrupt has quit (23Quit: Received SIGTERM23)
+T 1330392113 23*	23marky has quit (23Quit: Received SIGTERM23)
+T 1330392462 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #irc.is.boring
+T 1330393085 19*	19engels (webchat@ip72-201-12-31.ph.ph.cox.net) has joined #irc.is.boring
+T 1330393153 18<engels>	helo
+T 1330393154 18<engels>	hello
+T 1330393192 18<duckie>	what
+T 1330393203 18<engels>	what's up
+T 1330393258 18<xmage>	hi
+T 1330393266 18<xmage>	irc is boring
+T 1330393268 18<xmage>	didnt u hurr
+T 1330393269 18<xmage>	duh
+T 1330393270 18<engels>	it totally is
+T 1330393272 18<duckie>	LLOL
+T 1330393275 18<engels>	hoping you can make it less boring
+T 1330393280 18<xmage>	lulz
+T 1330393311 22*	xmage has changed the topic to: <engels> hoping you can make it less boring
+T 1330393313 18<duckie>	why do you use webchat
+T 1330393314 19*	19marky (pimp@is.into.n4rc0tics.com) has joined #irc.is.boring
+T 1330393324 18<engels>	because it's easier than starting up my laptop
+T 1330393326 18<xmage>	!unotop10
+T 1330393327 18<unoFTW>	Top10 Points 
+T 1330393327 18<unoFTW>	0,6 #1 0,10 duckie 2637 0,6 #2 0,10 unoFTW 69  
+T 1330393330 18<duckie>	;x
+T 1330393331 18<engels>	don't want to make a full commitment
+T 1330393335 18<xmage>	lul
+T 1330393337 18<engels>	I use pidgin on that
+T 1330393338 18<xmage>	DONT WANT TO COMMIT TO IRC
+T 1330393340 18<xmage>	SRS BIZX
+T 1330393345 18<engels>	indeed
+T 1330393347 19*	19kurrupt (pimp@i.wanna.getlaid.ca) has joined #irc.is.boring
+T 1330393355 18<xmage>	i feel ya
+T 1330393358 18<xmage>	wtf duckie
+T 1330393360 18<xmage>	u play'd that this month
+T 1330393363 18<duckie>	;o
+T 1330393367 18<xmage>	lul @ the bot at 69 pionts
+T 1330393368 18<duckie>	UMAD
+T 1330393369 18<xmage>	points
+T 1330393372 18<duckie>	LOL
+T 1330393384 22*	26anonymous gives channel operator status to26 marky
+T 1330393384 22*	anonymous removes ban on f70!NI;O@W/nkpfTIuxlTC1TV/sK5tg==
+T 1330393390 18<xmage>	nance took #playuno
+T 1330393391 18<xmage>	well
+T 1330393392 18<xmage>	didnt take it
+T 1330393395 18<xmage>	it went opless
+T 1330393402 18<xmage>	cuz the maylay's died off
+T 1330393405 18<xmage>	then came back
+T 1330393422 18<duckie>	nan barely is on :(
+T 1330393427 22*	26anonymous gives channel operator status to26 kurrupt
+T 1330393427 22*	anonymous removes ban on 53e!4*Z5@/4ehY6C4NgVccD/Zvfut1w==
+T 1330393458 18<engels>	so what kind of channel is this
+T 1330393474 18<duckie>	wtf kinda question is that
+T 1330393480 18<engels>	what is the "atmosphere"
+T 1330393482 18<duckie>	its a religious channel
+T 1330393484 18<engels>	lol
+T 1330393491 18<duckie>	jesus christ
+T 1330393494 18<duckie>	:P
+T 1330393506 18<engels>	I'm figuring it out as you speak
+T 1330393508 18<engels>	lulz
+T 1330393513 18<duckie>	hah
+T 1330393564 18<xmage>	atmosphere?
+T 1330393583 18<engels>	I can figure it out just from the nicks
+T 1330393592 18<duckie>	ohreally
+T 1330393594 18<engels>	I mean, fucking is in here
+T 1330393596 18<engels>	:)
+T 1330393621 18<duckie>	by nicknames
+T 1330393622 18<duckie>	lol
+T 1330393635 18<engels>	pretty much
+T 1330393675 18<duckie>	TIT
+T 1330393684 18<xmage>	LOL
+T 1330393690 18<duckie>	bahaha
+T 1330393694 18<duckie>	give you a pair
+T 1330393743 18<engels>	o o
+T 1330393751 18<duckie>	playing words with friends
+T 1330393752 18<engels>	O O
+T 1330393753 18<engels>	implants
+T 1330393755 18<duckie>	what do you know about that
+T 1330393808 18<engels>	what do I know about that?
+T 1330394130 18<xmage>	my kid is face timing me
+T 1330394133 18<xmage>	and saying
+T 1330394139 18<xmage>	"daddy would u like some sausage?!?"
+T 1330394325 18<duckie>	awww haha are you at work?
+T 1330394331 18<xmage>	ya
+T 1330394338 18<xmage>	she facetime's me at work everynight
+T 1330394341 18<xmage>	before she goes to bed
+T 1330394344 18<duckie>	thats so cute
+T 1330394359 18<xmage>	then she wants me to lead her everywhere
+T 1330394362 18<xmage>	and show her the machines
+T 1330394363 18<duckie>	LOL
+T 1330394374 18<duckie>	have you taken her on a tour of your place before?
+T 1330394376 18<xmage>	and "all my friends"
+T 1330394378 18<xmage>	yes
+T 1330394379 18<xmage>	lol
+T 1330394384 18<duckie>	lol
+T 1330395078 23*	23engels has quit (23Quit: Page closed23)
+T 1330395748 23*	23billyjoe has quit (23Ping timeout: 240 seconds23)
+T 1330395844 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #irc.is.boring
+T 1330395914 19*	19billyjoe (spoof@hacker.gawd.biz) has joined #irc.is.boring
+T 1330395928 22*	26greenday gives channel operator status to26 billyjoe
+T 1330395928 22*	greenday removes ban on 22a!,et}@VYUBELguDXgn7LnrUKVKfg==
+T 1330396094 23*	23sluts has quit (23Read error: Connection reset by peer23)
+T 1330396102 19*	19sluts (sluts@horny.chicks-rule.net) has joined #irc.is.boring
+T 1330396165 22*	26anonymous gives channel operator status to26 sluts
+T 1330396165 22*	anonymous removes ban on 910!]d6<@0qJ8FSHdmBf9uvunOq/eZQ==
+T 1330396574 23*	23tidalwave (23tidalwave@170-201.82-139.bia.tkbb.net.pl) has left #irc.is.boring
+T 1330399298 19*	19faalhaas (erik@cp9344529-c.dbsc4.nb.hoomee.nl) has joined #irc.is.boring
+T 1330400028 23*	23faalhaas (23erik@cp9344529-c.dbsc4.nb.hoomee.nl) has left #irc.is.boring
+T 1330400759 23*	23kurrupt has quit (23Ping timeout: 260 seconds23)
+T 1330400759 23*	23marky has quit (23Ping timeout: 260 seconds23)
+T 1330401165 19*	19marky (pimp@is.into.n4rc0tics.com) has joined #irc.is.boring
+T 1330401210 19*	19kurrupt (pimp@i.wanna.getlaid.ca) has joined #irc.is.boring
+T 1330401221 22*	26juggalo gives channel operator status to26 kurrupt
+T 1330401221 22*	juggalo removes ban on 0a7!26zE@i8b3u5Uh6RHqie/tkWWy8w==
+T 1330401279 22*	26kurrupt gives channel operator status to26 marky
+T 1330401279 22*	kurrupt removes ban on c53!]wzW@8WtfyoZxRqfNKLdHva1P1w==
+T 1330403396 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #irc.is.boring
+T 1330403826 23*	23tidalwave (23tidalwave@170-201.82-139.bia.tkbb.net.pl) has left #irc.is.boring
+T 1330403994 19*	19caspah (caspah@insomnia.robbed.us) has joined #irc.is.boring
+T 1330404024 23*	23caspah (23caspah@insomnia.robbed.us) has left #irc.is.boring
+T 1330405187 18*	spectre hugz duck and xmage
+T 1330405188 18<spectre>	=D
+T 1330406040 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #irc.is.boring
+T 1330407010 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #irc.is.boring
+T 1330412756 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #irc.is.boring
+T 1330413726 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #irc.is.boring
+T 1330415922 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #irc.is.boring
+T 1330416412 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #irc.is.boring
+T 1330419021 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #irc.is.boring
+T 1330419871 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #irc.is.boring
+T 1330421833 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #irc.is.boring
+T 1330422323 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #irc.is.boring
+T 1330422643 23*	23kurrupt has quit (23Read error: Operation timed out23)
+T 1330422816 19*	19kurrupt (pimp@i.wanna.getlaid.ca) has joined #irc.is.boring
+T 1330422884 22*	26anonymous gives channel operator status to26 kurrupt
+T 1330422884 22*	anonymous removes ban on e1f!iIQ=@gxjtZxspUhVyzOy4oLvw8w==
+T 1330423087 23*	23kurrupt has quit (23Read error: Connection reset by peer23)
+T 1330423123 19*	19kurrupt (pimp@i.wanna.getlaid.ca) has joined #irc.is.boring
+T 1330423191 22*	26cypress gives channel operator status to26 kurrupt
+T 1330423191 22*	cypress removes ban on 267!hnFO@fbZovJwkOaT2774DrHzwGQ==
+T 1330423588 19*	19engels (webchat@ip72-201-12-31.ph.ph.cox.net) has joined #irc.is.boring
+T 1330423594 18<engels>	still hoping...
+T 1330423841 23*	23engels (23webchat@ip72-201-12-31.ph.ph.cox.net) has left #irc.is.boring
+T 1330424645 18<duckie>	lol
+T 1330427269 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #irc.is.boring
+T 1330427760 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #irc.is.boring
+T 1330428633 18<xmage>	lul
+T 1330429055 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #irc.is.boring
+T 1330429545 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #irc.is.boring
+T 1330431163 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #irc.is.boring
+T 1330431832 23*	23tidalwave (23tidalwave@170-201.82-139.bia.tkbb.net.pl) has left #irc.is.boring
+T 1330432159 19*	19dzkr (~dzkR@97-82-236-177.dhcp.hckr.nc.charter.com) has joined #irc.is.boring
+T 1330432201 23*	23dzkr (23~dzkR@97-82-236-177.dhcp.hckr.nc.charter.com) has left #irc.is.boring
+T 1330433168 23*	23tinker has quit (23Excess Flood23)
+T 1330433249 19*	19tinker (tinker@proud.opwhore.net) has joined #irc.is.boring
+T 1330434169 23*	23marky has quit (23Read error: Operation timed out23)
+T 1330434185 19*	19marky (pimp@208.98.9.40) has joined #irc.is.boring
+T 1330434209 22*	26jeremiah- gives channel operator status to26 marky
+T 1330434209 22*	jeremiah- removes ban on 013!2l|8@fyywkzr6UDe6slPCSNUjhQ==
+T 1330434211 19*	19shrooms- (pimp@208.98.9.3) has joined #irc.is.boring
+T 1330434262 23*	23kurrupt has quit (23Ping timeout: 250 seconds23)
+T 1330434264 22*	shrooms- is now known as kurrupt
+T 1330434283 22*	26anonymous gives channel operator status to26 kurrupt
+T 1330434283 22*	anonymous removes ban on 8f8!0;20@EYvDPvvNdI31ZfyQiAPQwA==

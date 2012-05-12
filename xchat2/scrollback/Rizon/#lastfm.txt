@@ -1,0 +1,3 @@
+T 1334575373 19*	19Now talking on #lastfm
+T 1334575373 22*	irc.sxci.net sets mode +n #lastfm
+T 1334575373 22*	irc.sxci.net sets mode +t #lastfm

@@ -1,0 +1,504 @@
+T 1332947728 22*	Disconnected (Remote host closed socket).
+T 1332947750 22*	Disconnected (Remote host closed socket).
+T 1332947771 22*	Disconnected (Remote host closed socket).
+T 1332947792 22*	Disconnected (Remote host closed socket).
+T 1332947814 22*	Disconnected (Remote host closed socket).
+T 1332947868 22*	Disconnected (Remote host closed socket).
+T 1332947889 22*	Disconnected (Remote host closed socket).
+T 1332947915 22*	Disconnected (Remote host closed socket).
+T 1332947936 22*	Disconnected (Remote host closed socket).
+T 1332947957 22*	Disconnected (Remote host closed socket).
+T 1332947978 22*	Disconnected (Remote host closed socket).
+T 1332947999 22*	Disconnected (Remote host closed socket).
+T 1332948053 22*	Disconnected (Remote host closed socket).
+T 1332948074 22*	Disconnected (Remote host closed socket).
+T 1332948095 22*	Disconnected (Remote host closed socket).
+T 1332948116 22*	Disconnected (Remote host closed socket).
+T 1332948137 22*	Disconnected (Remote host closed socket).
+T 1332948158 22*	Disconnected (Remote host closed socket).
+T 1332948213 22*	Disconnected (Remote host closed socket).
+T 1332948234 22*	Disconnected (Remote host closed socket).
+T 1332948255 22*	Disconnected (Remote host closed socket).
+T 1332948308 22*	Disconnected (Remote host closed socket).
+T 1332948329 22*	Disconnected (Remote host closed socket).
+T 1332948351 22*	Disconnected (Remote host closed socket).
+T 1332948372 22*	Disconnected (Remote host closed socket).
+T 1332948394 22*	Disconnected (Remote host closed socket).
+T 1332948448 22*	Disconnected (Remote host closed socket).
+T 1332948469 22*	Disconnected (Remote host closed socket).
+T 1332948523 22*	Disconnected (Remote host closed socket).
+T 1332948578 22*	Disconnected (Remote host closed socket).
+T 1332948600 22*	Disconnected (Remote host closed socket).
+T 1332948622 22*	Disconnected (Remote host closed socket).
+T 1332948644 22*	Disconnected (Remote host closed socket).
+T 1332948665 22*	Disconnected (Remote host closed socket).
+T 1332948718 22*	Disconnected (Remote host closed socket).
+T 1332948739 22*	Disconnected (Remote host closed socket).
+T 1332948760 22*	Disconnected (Remote host closed socket).
+T 1332948813 22*	Disconnected (Remote host closed socket).
+T 1332948834 22*	Disconnected (Remote host closed socket).
+T 1332948855 22*	Disconnected (Remote host closed socket).
+T 1332948908 22*	Disconnected (Remote host closed socket).
+T 1332948929 22*	Disconnected (Remote host closed socket).
+T 1332948983 22*	Disconnected (Remote host closed socket).
+T 1332949038 22*	Disconnected (Remote host closed socket).
+T 1332949093 22*	Disconnected (Remote host closed socket).
+T 1332949114 22*	Disconnected (Remote host closed socket).
+T 1332949135 22*	Disconnected (Remote host closed socket).
+T 1332949156 22*	Disconnected (Remote host closed socket).
+T 1332949208 22*	Disconnected (Remote host closed socket).
+T 1332949229 22*	Disconnected (Remote host closed socket).
+T 1332949250 22*	Disconnected (Remote host closed socket).
+T 1332949303 22*	Disconnected (Remote host closed socket).
+T 1332949324 22*	Disconnected (Remote host closed socket).
+T 1332949345 22*	Disconnected (Remote host closed socket).
+T 1332949366 22*	Disconnected (Remote host closed socket).
+T 1332949391 19*	19Now talking on #world2ch
+T 1332949391 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1332949391 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1332951115 22*	Disconnected (Connection timed out).
+T 1332951140 19*	19Now talking on #world2ch
+T 1332951140 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1332951140 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1332967344 22*	Disconnected (Remote host closed socket).
+T 1332967365 22*	Disconnected (Remote host closed socket).
+T 1332967386 22*	Disconnected (Remote host closed socket).
+T 1332967439 22*	Disconnected (Remote host closed socket).
+T 1332967460 22*	Disconnected (Remote host closed socket).
+T 1332967481 22*	Disconnected (Remote host closed socket).
+T 1332967502 22*	Disconnected (Remote host closed socket).
+T 1332967523 22*	Disconnected (Remote host closed socket).
+T 1332967544 22*	Disconnected (Remote host closed socket).
+T 1332967565 22*	Disconnected (Remote host closed socket).
+T 1332967586 22*	Disconnected (Remote host closed socket).
+T 1332967607 22*	Disconnected (Remote host closed socket).
+T 1332967659 22*	Disconnected (Remote host closed socket).
+T 1332967680 22*	Disconnected (Remote host closed socket).
+T 1332967701 22*	Disconnected (Remote host closed socket).
+T 1332967722 22*	Disconnected (Remote host closed socket).
+T 1332967743 22*	Disconnected (Remote host closed socket).
+T 1332967764 22*	Disconnected (Remote host closed socket).
+T 1332967785 22*	Disconnected (Remote host closed socket).
+T 1332967806 22*	Disconnected (Remote host closed socket).
+T 1332967827 22*	Disconnected (Remote host closed socket).
+T 1332967879 22*	Disconnected (Remote host closed socket).
+T 1332967934 22*	Disconnected (Remote host closed socket).
+T 1332967955 22*	Disconnected (Remote host closed socket).
+T 1332968009 22*	Disconnected (Remote host closed socket).
+T 1332968064 22*	Disconnected (Remote host closed socket).
+T 1332968085 22*	Disconnected (Remote host closed socket).
+T 1332968139 22*	Disconnected (Remote host closed socket).
+T 1332968194 22*	Disconnected (Remote host closed socket).
+T 1332968215 22*	Disconnected (Remote host closed socket).
+T 1332968236 22*	Disconnected (Remote host closed socket).
+T 1332968257 22*	Disconnected (Remote host closed socket).
+T 1332968278 22*	Disconnected (Remote host closed socket).
+T 1332968299 22*	Disconnected (Remote host closed socket).
+T 1332968354 22*	Disconnected (Remote host closed socket).
+T 1332968375 22*	Disconnected (Remote host closed socket).
+T 1332968396 22*	Disconnected (Remote host closed socket).
+T 1332968417 22*	Disconnected (Remote host closed socket).
+T 1332968438 22*	Disconnected (Remote host closed socket).
+T 1332968459 22*	Disconnected (Remote host closed socket).
+T 1332968480 22*	Disconnected (Remote host closed socket).
+T 1332968501 22*	Disconnected (Remote host closed socket).
+T 1332968522 22*	Disconnected (Remote host closed socket).
+T 1332968543 22*	Disconnected (Remote host closed socket).
+T 1332968564 22*	Disconnected (Remote host closed socket).
+T 1332968585 22*	Disconnected (Remote host closed socket).
+T 1332968606 22*	Disconnected (Remote host closed socket).
+T 1332968627 22*	Disconnected (Remote host closed socket).
+T 1332968648 22*	Disconnected (Remote host closed socket).
+T 1332968669 22*	Disconnected (Remote host closed socket).
+T 1332968690 22*	Disconnected (Remote host closed socket).
+T 1332968711 22*	Disconnected (Remote host closed socket).
+T 1332968732 22*	Disconnected (Remote host closed socket).
+T 1332968784 22*	Disconnected (Remote host closed socket).
+T 1332968805 22*	Disconnected (Remote host closed socket).
+T 1332968826 22*	Disconnected (Remote host closed socket).
+T 1332968847 22*	Disconnected (Remote host closed socket).
+T 1332968868 22*	Disconnected (Remote host closed socket).
+T 1332968889 22*	Disconnected (Remote host closed socket).
+T 1332968910 22*	Disconnected (Remote host closed socket).
+T 1332968931 22*	Disconnected (Remote host closed socket).
+T 1332968952 22*	Disconnected (Remote host closed socket).
+T 1332969004 22*	Disconnected (Remote host closed socket).
+T 1332969025 22*	Disconnected (Remote host closed socket).
+T 1332969079 22*	Disconnected (Remote host closed socket).
+T 1332969100 22*	Disconnected (Remote host closed socket).
+T 1332969121 22*	Disconnected (Remote host closed socket).
+T 1332969142 22*	Disconnected (Remote host closed socket).
+T 1332969167 19*	19Now talking on #world2ch
+T 1332969167 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1332969167 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1332972120 31<Annex>30	　　　　　　　　　　∧＿∧　　　／￣￣￣￣￣￣￣￣
+T 1332972120 31<Annex>30	　　　　　　　　　 （　´∀｀）　＜　I just shat on your coffee table.
+T 1332972120 31<Annex>30	　　　　　　　　／　　　　|　　　 ＼＿＿＿＿＿＿＿＿
+T 1332972120 31<Annex>30	　　　　　　　/ 　　　 　 .|　　　　　
+T 1332972120 31<Annex>30	　　　　　　 / "⌒ヽ |.ｲ |
+T 1332972120 31<Annex>30	　　　＿＿ |　　　.ノ | || |＿＿
+T 1332972120 31<Annex>30	　 .　　　 ノく＿＿つ∪∪　　 ＼
+T 1332972120 31<Annex>30	　　　＿（（＿＿＿＿＿＿＿＿_＼
+T 1332972120 31<Annex>30	　　 ￣￣ヽつ￣￣￣￣￣￣ | |￣
+T 1332972120 31<Annex>30	　　　＿＿＿＿＿＿＿＿＿__| |
+T 1332972120 31<Annex>30	　　 ￣￣￣￣￣￣￣￣￣￣| |
+T 1332972121 31<Annex>30	　　　　　　　　　　∧＿∧　　　／￣￣￣￣￣￣￣￣
+T 1332972121 31<Annex>30	　　　　　　　　　 （　´∀｀）　＜　I just shat on your coffee table.
+T 1332972121 31<Annex>30	　　　　　　　　／　　　　|　　　 ＼＿＿＿＿＿＿＿＿
+T 1332972121 31<Annex>30	　　　　　　　/ 　　　 　 .|　　　　　
+T 1332972121 31<Annex>30	　　　　　　 / "⌒ヽ |.ｲ |
+T 1332972121 31<Annex>30	　　　＿＿ |　　　.ノ | || |＿＿
+T 1332972121 31<Annex>30	　 .　　　 ノく＿＿つ∪∪　　 ＼
+T 1332972121 31<Annex>30	　　　＿（（＿＿＿＿＿＿＿＿_＼
+T 1332972121 31<Annex>30	　　 ￣￣ヽつ￣￣￣￣￣￣ | |￣
+T 1332972121 31<Annex>30	　　　＿＿＿＿＿＿＿＿＿__| |
+T 1332972121 31<Annex>30	　　 ￣￣￣￣￣￣￣￣￣￣| |
+T 1332972121 31<Annex>30	　　　　　　　　　　∧＿∧　　　／￣￣￣￣￣￣￣￣
+T 1332972121 31<Annex>30	　　　　　　　　　 （　´∀｀）　＜　I just shat on your coffee table.
+T 1332972121 31<Annex>30	　　　　　　　　／　　　　|　　　 ＼＿＿＿＿＿＿＿＿
+T 1332972121 31<Annex>30	　　　　　　　/ 　　　 　 .|　　　　　
+T 1332972121 31<Annex>30	　　　　　　 / "⌒ヽ |.ｲ |
+T 1332972121 31<Annex>30	　　　＿＿ |　　　.ノ | || |＿＿
+T 1332972121 31<Annex>30	　 .　　　 ノく＿＿つ∪∪　　 ＼
+T 1332972121 31<Annex>30	　　　＿（（＿＿＿＿＿＿＿＿_＼
+T 1332972121 31<Annex>30	　　 ￣￣ヽつ￣￣￣￣￣￣ | |￣
+T 1332972121 31<Annex>30	　　　＿＿＿＿＿＿＿＿＿__| |
+T 1332972121 31<Annex>30	　　 ￣￣￣￣￣￣￣￣￣￣| |
+T 1332972122 31<Annex>30	　　　　　　　　　　∧＿∧　　　／￣￣￣￣￣￣￣￣
+T 1332972122 31<Annex>30	　　　　　　　　　 （　´∀｀）　＜　I just shat on your coffee table.
+T 1332972122 31<Annex>30	　　　　　　　　／　　　　|　　　 ＼＿＿＿＿＿＿＿＿
+T 1332972122 31<Annex>30	　　　　　　　/ 　　　 　 .|　　　　　
+T 1332972122 31<Annex>30	　　　　　　 / "⌒ヽ |.ｲ |
+T 1332972122 31<Annex>30	　　　＿＿ |　　　.ノ | || |＿＿
+T 1332972122 31<Annex>30	　 .　　　 ノく＿＿つ∪∪　　 ＼
+T 1332972122 31<Annex>30	　　　＿（（＿＿＿＿＿＿＿＿_＼
+T 1332972122 31<Annex>30	　　 ￣￣ヽつ￣￣￣￣￣￣ | |￣
+T 1332972122 31<Annex>30	　　　＿＿＿＿＿＿＿＿＿__| |
+T 1332972122 31<Annex>30	　　 ￣￣￣￣￣￣￣￣￣￣| |　　　　　　　　　　∧＿∧　　　／￣￣￣￣￣￣￣￣
+T 1332972122 31<Annex>30	　　　　　　　　　 （　´∀｀）　＜　I just shat on your coffee table.
+T 1332972122 31<Annex>30	　　　　　　　　／　　　　|　　　 ＼＿＿＿＿＿＿＿＿
+T 1332972122 31<Annex>30	　　　　　　　/ 　　　 　 .|　　　　　
+T 1332972122 31<Annex>30	　　　　　　 / "⌒ヽ |.ｲ |
+T 1332972122 31<Annex>30	　　　＿＿ |　　　.ノ | || |＿＿
+T 1332972122 31<Annex>30	　 .　　　 ノく＿＿つ∪∪　　 ＼
+T 1332972122 31<Annex>30	　　　＿（（＿＿＿＿＿＿＿＿_＼
+T 1332972122 31<Annex>30	　　 ￣￣ヽつ￣￣￣￣￣￣ | |￣
+T 1332972122 31<Annex>30	　　　＿＿＿＿＿＿＿＿＿__| |
+T 1332972122 31<Annex>30	　　 ￣￣￣￣￣￣￣￣￣￣| |
+T 1332972123 31<Annex>30	　　　　　　　　　　∧＿∧　　　／￣￣￣￣￣￣￣￣
+T 1332972123 31<Annex>30	　　　　　　　　　 （　´∀｀）　＜　I just shat on your coffee table.
+T 1332972123 31<Annex>30	　　　　　　　　／　　　　|　　　 ＼＿＿＿＿＿＿＿＿
+T 1332972123 31<Annex>30	　　　　　　　/ 　　　 　 .|　　　　　
+T 1332972123 31<Annex>30	　　　　　　 / "⌒ヽ |.ｲ |
+T 1332972123 31<Annex>30	　　　＿＿ |　　　.ノ | || |＿＿
+T 1332972123 31<Annex>30	　 .　　　 ノく＿＿つ∪∪　　 ＼
+T 1332972123 31<Annex>30	　　　＿（（＿＿＿＿＿＿＿＿_＼
+T 1332972123 31<Annex>30	　　 ￣￣ヽつ￣￣￣￣￣￣ | |￣
+T 1332972123 31<Annex>30	　　　＿＿＿＿＿＿＿＿＿__| |
+T 1332972123 31<Annex>30	　　 ￣￣￣￣￣￣￣￣￣￣| |
+T 1332972123 31<Annex>30	　　　　　　　　　　∧＿∧　　　／￣￣￣￣￣￣￣￣
+T 1332972123 31<Annex>30	　　　　　　　　　 （　´∀｀）　＜　I just shat on your coffee table.
+T 1332972123 31<Annex>30	　　　　　　　　／　　　　|　　　 ＼＿＿＿＿＿＿＿＿
+T 1332972123 31<Annex>30	　　　　　　　/ 　　　 　 .|　　　　　
+T 1332972123 31<Annex>30	　　　　　　 / "⌒ヽ |.ｲ |
+T 1332972123 31<Annex>30	　　　＿＿ |　　　.ノ | || |＿＿
+T 1332972123 31<Annex>30	　 .　　　 ノく＿＿つ∪∪　　 ＼
+T 1332972123 31<Annex>30	　　　＿（（＿＿＿＿＿＿＿＿_＼
+T 1332972123 31<Annex>30	　　 ￣￣ヽつ￣￣￣￣￣￣ | |￣
+T 1332972123 31<Annex>30	　　　＿＿＿＿＿＿＿＿＿__| |
+T 1332972123 31<Annex>30	　　 ￣￣￣￣￣￣￣￣￣￣| |
+T 1332972124 31<Annex>30	　　　　　　　　　　∧＿∧　　　／￣￣￣￣￣￣￣￣
+T 1332972124 31<Annex>30	　　　　　　　　　 （　´∀｀）　＜　I just shat on your coffee table.
+T 1332972124 31<Annex>30	　　　　　　　　／　　　　|　　　 ＼＿＿＿＿＿＿＿＿
+T 1332972124 31<Annex>30	　　　　　　　/ 　　　 　 .|　　　　　
+T 1332972124 31<Annex>30	　　　　　　 / "⌒ヽ |.ｲ |
+T 1332972124 31<Annex>30	　　　＿＿ |　　　.ノ | || |＿＿
+T 1332972124 31<Annex>30	　 .　　　 ノく＿＿つ∪∪　　 ＼
+T 1332972124 31<Annex>30	　　　＿（（＿＿＿＿＿＿＿＿_＼
+T 1332972124 31<Annex>30	　　 ￣￣ヽつ￣￣￣￣￣￣ | |￣
+T 1332972124 31<Annex>30	　　　＿＿＿＿＿＿＿＿＿__| |
+T 1332972124 31<Annex>30	　　 ￣￣￣￣￣￣￣￣￣￣| |
+T 1332972125 31<Annex>30	　　　　　　　　　　∧＿∧　　　／￣￣￣￣￣￣￣￣
+T 1332972125 31<Annex>30	　　　　　　　　　 （　´∀｀）　＜　I just shat on your coffee table.
+T 1332972125 31<Annex>30	　　　　　　　　／　　　　|　　　 ＼＿＿＿＿＿＿＿＿
+T 1332972125 31<Annex>30	　　　　　　　/ 　　　 　 .|　　　　　
+T 1332972125 31<Annex>30	　　　　　　 / "⌒ヽ |.ｲ |
+T 1332972125 31<Annex>30	　　　＿＿ |　　　.ノ | || |＿＿
+T 1332972125 31<Annex>30	　 .　　　 ノく＿＿つ∪∪　　 ＼
+T 1332972125 31<Annex>30	　　　＿（（＿＿＿＿＿＿＿＿_＼
+T 1332972125 31<Annex>30	　　 ￣￣ヽつ￣￣￣￣￣￣ | |￣
+T 1332972125 31<Annex>30	　　　＿＿＿＿＿＿＿＿＿__| |
+T 1332972125 31<Annex>30	　　 ￣￣￣￣￣￣￣￣￣￣| |
+T 1332972125 31<Annex>30	　　　　　　　　　　∧＿∧　　　／￣￣￣￣￣￣￣￣
+T 1332972125 31<Annex>30	　　　　　　　　　 （　´∀｀）　＜　I just shat on your coffee table.
+T 1332972125 31<Annex>30	　　　　　　　　／　　　　|　　　 ＼＿＿＿＿＿＿＿＿
+T 1332972125 31<Annex>30	　　　　　　　/ 　　　 　 .|　　　　　
+T 1332972125 31<Annex>30	　　　　　　 / "⌒ヽ |.ｲ |
+T 1332972125 31<Annex>30	　　　＿＿ |　　　.ノ | || |＿＿
+T 1332972125 31<Annex>30	　 .　　　 ノく＿＿つ∪∪　　 ＼
+T 1332972125 31<Annex>30	　　　＿（（＿＿＿＿＿＿＿＿_＼
+T 1332972125 31<Annex>30	　　 ￣￣ヽつ￣￣￣￣￣￣ | |￣
+T 1332972125 31<Annex>30	　　　＿＿＿＿＿＿＿＿＿__| |
+T 1332972125 31<Annex>30	　　 ￣￣￣￣￣￣￣￣￣￣| |
+T 1333022195 19*	19Now talking on #world2ch
+T 1333022195 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1333022195 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1333115745 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1333118951 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1333141295 19*	19Now talking on #world2ch
+T 1333141295 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1333141295 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1333194077 19*	19Now talking on #world2ch
+T 1333194077 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1333194077 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1333195344 23*	23GuyInABox has quit (23Quit: Leaving23)
+T 1333229226 19*	19GuyInABox (~GuyInABox@Rizon-50CA342F.range86-148.btcentralplus.com) has joined #world2ch
+T 1333229227 22*	ChanServ sets mode +q #world2ch GuyInABox
+T 1333229227 22*	26ChanServ gives channel operator status to26 GuyInABox
+T 1333232761 23*	23GuyInABox has quit (23Quit: Leaving23)
+T 1333236402 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1333253760 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1333288151 19*	19GuyInABox (~GuyInABox@Rizon-50CA342F.range86-148.btcentralplus.com) has joined #world2ch
+T 1333288151 22*	ChanServ sets mode +q #world2ch GuyInABox
+T 1333288151 22*	26ChanServ gives channel operator status to26 GuyInABox
+T 1333288307 23*	23GuyInABox has quit (2323)
+T 1333300657 22*	Disconnected (Connection timed out).
+T 1333300682 19*	19Now talking on #world2ch
+T 1333300682 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1333300682 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1333514916 22*	Disconnected (Connection timed out).
+T 1333514940 19*	19Now talking on #world2ch
+T 1333514940 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1333514940 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1333546682 19*	19Now talking on #world2ch
+T 1333546683 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1333546683 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1333579217 19*	19Jkid (~Jkid@no.social.life.king) has joined #world2ch
+T 1333579223 23*	23Jkid (23~Jkid@no.social.life.king) has left #world2ch
+T 1333579229 19*	19Jkid (~Jkid@no.social.life.king) has joined #world2ch
+T 1333579244 23*	23Jkid (23~Jkid@no.social.life.king) has left #world2ch
+T 1333579307 19*	19Jkid (~Jkid@no.social.life.king) has joined #world2ch
+T 1333579311 23*	23Jkid (23~Jkid@no.social.life.king) has left #world2ch
+T 1333802002 19*	19Now talking on #world2ch
+T 1333802002 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1333802002 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1333808047 22*	Disconnected (Connection timed out).
+T 1333808091 19*	19Now talking on #world2ch
+T 1333808091 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1333808091 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1333833437 19*	19Now talking on #world2ch
+T 1333833437 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1333833437 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1333935011 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1333940746 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1333983002 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1333997594 19*	19lacerating (~laceratin@Rizon-55E6EA99.sip.mia.bellsouth.net) has joined #world2ch
+T 1333999345 23*	23lacerating (23~laceratin@Rizon-55E6EA99.sip.mia.bellsouth.net) has left #world2ch (23Leaving23)
+T 1334004095 22*	You are now known as TheShadowFog
+T 1334005855 22*	You are now known as Annex
+T 1334013320 23*	23Airskadt has quit (23Read error: Connection reset by peer23)
+T 1334013442 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1334014740 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1334016276 22*	You are now known as TheShadowFog
+T 1334032462 19*	19Jkid (~Jkid@no.social.life.king) has joined #world2ch
+T 1334032488 18<Jkid>	yeah it's a netsplit
+T 1334032629 23*	23Jkid (23~Jkid@no.social.life.king) has left #world2ch
+T 1334100688 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1334146065 19*	19Now talking on #world2ch
+T 1334146065 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1334146065 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1334161714 19*	19Now talking on #world2ch
+T 1334161714 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1334161714 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1334177039 19*	19Kazisho (~milkshake@is.homosexual) has joined #world2ch
+T 1334177380 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1334182493 23*	23Kazisho has quit (23Ping timeout: 240 seconds23)
+T 1334187534 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1334278982 19*	19Now talking on #world2ch
+T 1334278982 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1334278982 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1334326162 19*	19Now talking on #world2ch
+T 1334326162 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1334326162 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1334328565 22*	Disconnected (Remote host closed socket).
+T 1334328618 22*	Disconnected (Remote host closed socket).
+T 1334328671 22*	Disconnected (Remote host closed socket).
+T 1334328725 22*	Disconnected (Remote host closed socket).
+T 1334328778 22*	Disconnected (Remote host closed socket).
+T 1334328799 22*	Disconnected (Remote host closed socket).
+T 1334328853 22*	Disconnected (Remote host closed socket).
+T 1334328908 22*	Disconnected (Remote host closed socket).
+T 1334328961 22*	Disconnected (Remote host closed socket).
+T 1334329015 22*	Disconnected (Remote host closed socket).
+T 1334329068 22*	Disconnected (Remote host closed socket).
+T 1334329089 22*	Disconnected (Remote host closed socket).
+T 1334329110 22*	Disconnected (Remote host closed socket).
+T 1334329165 22*	Disconnected (Remote host closed socket).
+T 1334329218 22*	Disconnected (Remote host closed socket).
+T 1334329239 22*	Disconnected (Remote host closed socket).
+T 1334329290 22*	Disconnected (Remote host closed socket).
+T 1334329341 22*	Disconnected (Remote host closed socket).
+T 1334329395 22*	Disconnected (Remote host closed socket).
+T 1334329448 22*	Disconnected (Remote host closed socket).
+T 1334329503 22*	Disconnected (Remote host closed socket).
+T 1334329524 22*	Disconnected (Remote host closed socket).
+T 1334329578 22*	Disconnected (Remote host closed socket).
+T 1334329630 22*	Disconnected (Remote host closed socket).
+T 1334329685 22*	Disconnected (Remote host closed socket).
+T 1334329706 22*	Disconnected (Remote host closed socket).
+T 1334329760 22*	Disconnected (Remote host closed socket).
+T 1334329781 22*	Disconnected (Remote host closed socket).
+T 1334329833 22*	Disconnected (Remote host closed socket).
+T 1334329888 22*	Disconnected (Remote host closed socket).
+T 1334329941 22*	Disconnected (Remote host closed socket).
+T 1334329996 22*	Disconnected (Remote host closed socket).
+T 1334330050 22*	Disconnected (Remote host closed socket).
+T 1334330071 22*	Disconnected (Remote host closed socket).
+T 1334330126 22*	Disconnected (Remote host closed socket).
+T 1334330181 22*	Disconnected (Remote host closed socket).
+T 1334330235 22*	Disconnected (Remote host closed socket).
+T 1334330290 22*	Disconnected (Remote host closed socket).
+T 1334330311 22*	Disconnected (Remote host closed socket).
+T 1334330365 22*	Disconnected (Remote host closed socket).
+T 1334330390 19*	19Now talking on #world2ch
+T 1334330390 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1334330390 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1334352411 19*	19GuyInABox (~GuyInABox@Rizon-B1AB2067.range86-183.btcentralplus.com) has joined #world2ch
+T 1334352412 22*	ChanServ sets mode +q #world2ch GuyInABox
+T 1334352412 22*	26ChanServ gives channel operator status to26 GuyInABox
+T 1334354590 23*	23GuyInABox has quit (23Quit: Leaving23)
+T 1334363459 19*	19Now talking on #world2ch
+T 1334363459 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1334363459 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1334505104 19*	19Now talking on #world2ch
+T 1334505104 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1334505104 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1334507231 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1334575368 22*	Cannot join26 #2chan (Channel is invite only).
+T 1334666312 19*	19Now talking on #world2ch
+T 1334666312 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1334666312 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1334711582 19*	19Now talking on #world2ch
+T 1334711582 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1334711582 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1334716308 28-29GeoServ28-	[grimlock] Pleae excuse the services outage.
+T 1334882596 19*	19Now talking on #world2ch
+T 1334882596 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1334882596 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1335047546 19*	19Now talking on #world2ch
+T 1335047546 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1335047546 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1335053592 19*	19Now talking on #world2ch
+T 1335053592 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1335053592 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1335104793 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1335109678 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335123222 19*	19Now talking on #world2ch
+T 1335123222 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1335123222 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1335142229 19*	19Now talking on #world2ch
+T 1335142229 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1335142229 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1335218210 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1335221087 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335232774 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1335232834 22*	Airskadt is now known as Airskadt|zzz
+T 1335267374 22*	Airskadt|zzz is now known as Airskadt
+T 1335274997 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335319739 19*	19Now talking on #world2ch
+T 1335319739 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1335319739 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1335333138 19*	19Jkid (~Jkid@no.social.life.king) has joined #world2ch
+T 1335333144 23*	23Jkid (23~Jkid@no.social.life.king) has left #world2ch
+T 1335357407 19*	19Now talking on #world2ch
+T 1335357407 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1335357407 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1335484759 19*	19Now talking on #world2ch
+T 1335484759 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1335484759 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1335659185 19*	19Now talking on #world2ch
+T 1335659185 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1335659185 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1335797877 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1335825905 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335855094 22*	Disconnected (Connection timed out).
+T 1335856905 22*	Annex sets mode +i Annex
+T 1335856905 22*	Annex sets mode +x Annex
+T 1335856905 28-29Global28-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+T 1335856905 28-29Global28-	[Logon News - May 21 2011] Rizon is looking for python coders to assist with funserv like bots for all channels to enjoy. If you are interested in helping out and joining Rizon's dev team, see #dev.
+T 1335856905 28-29Global28-	[Logon News - Feb 07 2012] We now have a Channel Takeover Policy for the channels with founder being gone for over a certain period of time. Please read http://forum.rizon.net/showthread.php?3850 for details
+T 1335856905 28-29Global28-	[Random News - Mar 20 2009] 7Bored and want to meet some weird people? Check out #Chat and have a good time.
+T 1335856905 28-29NickServ28-	This nickname is registered and protected. If it is your
+T 1335856905 28-29NickServ28-	nick, type /msg NickServ IDENTIFY password. Otherwise,
+T 1335856905 28-29NickServ28-	please choose a different nick.
+T 1335856906 22*	Received a CTCP VERSION from py-ctcp
+T 1335856906 22*	Annex sets mode +r Annex
+T 1335856906 28-29py-bopm28-	Pursuant to United States Code (USC), Title 18, Part 1, Section 2701 Part (c),
+T 1335856906 28-29py-bopm28-	Rizon will do a passive scan of your IP address to check for open proxies.
+T 1335856906 28-29py-bopm28-	If you do not consent to this scan, disconnect now. These scans are harmless and
+T 1335856906 28-29py-bopm28-	will originate from proxyscan.rizon.net (173.248.152.20). For more information see #help.
+T 1335856906 28-29NickServ28-	Password accepted - you are now recognized.
+T 1335856908 22*	Cannot join26 #/lounge/ (Channel is invite only).
+T 1335856909 19*	19Now talking on #world2ch
+T 1335856909 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1335856909 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1335876292 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1335886456 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335910166 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #world2ch
+T 1335913955 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335939693 19*	19mrbradeli (~TomPeters@hamburgers.and.hotdogs.too) has joined #world2ch
+T 1336084145 19*	19Now talking on #world2ch
+T 1336084145 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1336084145 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1336145603 19*	19GuyInABox (~GuyInABox@Rizon-6441076E.range86-177.btcentralplus.com) has joined #world2ch
+T 1336145603 22*	ChanServ sets mode +q #world2ch GuyInABox
+T 1336145603 22*	26ChanServ gives channel operator status to26 GuyInABox
+T 1336147280 23*	23GuyInABox has quit (23Quit: Leaving23)
+T 1336244022 19*	19Now talking on #world2ch
+T 1336244022 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1336244022 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1336340279 19*	19Now talking on #world2ch
+T 1336340279 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1336340279 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1336340279 28-29py-bopm28-	Pursuant to United States Code (USC), Title 18, Part 1, Section 2701 Part (c),
+T 1336340279 28-29py-bopm28-	Rizon will do a passive scan of your IP address to check for open proxies.
+T 1336340279 28-29py-bopm28-	If you do not consent to this scan, disconnect now. These scans are harmless and
+T 1336340279 28-29py-bopm28-	will originate from proxyscan.rizon.net (173.248.152.20). For more information see #help.
+T 1336490148 19*	19Now talking on #world2ch
+T 1336490148 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1336490148 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1336599093 19*	19Now talking on #world2ch
+T 1336599093 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1336599093 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1336605104 28-29Global28-	[T] Please excuse the splits today. Looks like something is clogging up the intertubes. As always thanks for flying with Rizon!
+T 1336606531 22*	Disconnected (Connection reset by peer).
+T 1336606553 22*	Annex sets mode +i Annex
+T 1336606553 22*	Annex sets mode +x Annex
+T 1336606553 22*	Received a CTCP VERSION from py-ctcp
+T 1336606553 28-29py-bopm28-	Pursuant to United States Code (USC), Title 18, Part 1, Section 2701 Part (c),
+T 1336606553 28-29py-bopm28-	Rizon will do a passive scan of your IP address to check for open proxies.
+T 1336606553 28-29py-bopm28-	If you do not consent to this scan, disconnect now. These scans are harmless and
+T 1336606553 28-29py-bopm28-	will originate from proxyscan.rizon.net (173.248.152.20). For more information see #help.
+T 1336606553 28-29Global28-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+T 1336606553 28-29Global28-	[Logon News - May 21 2011] Rizon is looking for python coders to assist with funserv like bots for all channels to enjoy. If you are interested in helping out and joining Rizon's dev team, see #dev.
+T 1336606553 28-29Global28-	[Logon News - Feb 07 2012] We now have a Channel Takeover Policy for the channels with founder being gone for over a certain period of time. Please read http://forum.rizon.net/showthread.php?3850 for details
+T 1336606553 28-29Global28-	[Random News - Mar 27 2009] Interested in adding trivia to your channel? Rizon now offers a trivia bot as apart of our services. For more information goto http://www.rizon.net/vbulletin/showthread.php?t=919 -Rizon Staff.
+T 1336606553 28-29NickServ28-	This nickname is registered and protected. If it is your
+T 1336606553 28-29NickServ28-	nick, type /msg NickServ IDENTIFY password. Otherwise,
+T 1336606553 28-29NickServ28-	please choose a different nick.
+T 1336606553 22*	Annex sets mode +r Annex
+T 1336606553 28-29NickServ28-	Password accepted - you are now recognized.
+T 1336606556 19*	19Now talking on #world2ch
+T 1336606556 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1336606556 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1336657614 19*	19Now talking on #world2ch
+T 1336657614 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1336657614 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1336699675 19*	19Now talking on #world2ch
+T 1336699675 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1336699675 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1336742168 19*	19Now talking on #world2ch
+T 1336742168 29*	29Topic for #world2ch 29is: The most awesome channel of forever goes to: #world2ch!
+T 1336742168 29*	29Topic for #world2ch 29set by GuyInABox!~GuyInABox@Rizon-2382C14B.range31-53.btcentralplus.com 29at Sat Mar 10 13:10:08 2012
+T 1336762117 19*	19Jkid (~Jkid@no.social.life.king) has joined #world2ch
+T 1336762120 23*	23Jkid (23~Jkid@no.social.life.king) has left #world2ch

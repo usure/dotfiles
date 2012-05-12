@@ -1,0 +1,35 @@
+T 1335659281 19*	19Now talking on #/mu/squad
+T 1335659281 22*	irc.cyberdynesystems.net sets mode +n #/mu/squad
+T 1335659281 22*	irc.cyberdynesystems.net sets mode +t #/mu/squad
+T 1335855094 22*	Disconnected (Connection timed out).
+T 1335856909 19*	19Now talking on #/mu/squad
+T 1335856909 22*	irc.cccp-project.net sets mode +n #/mu/squad
+T 1335856909 22*	irc.cccp-project.net sets mode +t #/mu/squad
+T 1336084143 19*	19Now talking on #/mu/squad
+T 1336084143 22*	irc.cccp-project.net sets mode +n #/mu/squad
+T 1336084143 22*	irc.cccp-project.net sets mode +t #/mu/squad
+T 1336244021 19*	19Now talking on #/mu/squad
+T 1336244021 22*	irc.cccp-project.net sets mode +n #/mu/squad
+T 1336244021 22*	irc.cccp-project.net sets mode +t #/mu/squad
+T 1336340276 19*	19Now talking on #/mu/squad
+T 1336340276 22*	irc.cccp-project.net sets mode +n #/mu/squad
+T 1336340276 22*	irc.cccp-project.net sets mode +t #/mu/squad
+T 1336490146 19*	19Now talking on #/mu/squad
+T 1336490146 22*	irc.broke-it.com sets mode +n #/mu/squad
+T 1336490146 22*	irc.broke-it.com sets mode +t #/mu/squad
+T 1336599091 19*	19Now talking on #/mu/squad
+T 1336599091 22*	irc.x1n.org sets mode +n #/mu/squad
+T 1336599091 22*	irc.x1n.org sets mode +t #/mu/squad
+T 1336606531 22*	Disconnected (Connection reset by peer).
+T 1336606578 19*	19Now talking on #/mu/squad
+T 1336606578 22*	irc.cccp-project.net sets mode +n #/mu/squad
+T 1336606578 22*	irc.cccp-project.net sets mode +t #/mu/squad
+T 1336657613 19*	19Now talking on #/mu/squad
+T 1336657613 22*	irc.cyberdynesystems.net sets mode +n #/mu/squad
+T 1336657613 22*	irc.cyberdynesystems.net sets mode +t #/mu/squad
+T 1336699673 19*	19Now talking on #/mu/squad
+T 1336699673 22*	irc.broke-it.com sets mode +n #/mu/squad
+T 1336699673 22*	irc.broke-it.com sets mode +t #/mu/squad
+T 1336742167 19*	19Now talking on #/mu/squad
+T 1336742167 22*	irc.broke-it.com sets mode +n #/mu/squad
+T 1336742167 22*	irc.broke-it.com sets mode +t #/mu/squad

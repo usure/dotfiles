@@ -1,0 +1,3 @@
+T 1335370312 19*	19Now talking on #spam
+T 1335370312 22*	irc2.x1n.org sets mode +n #spam
+T 1335370312 22*	irc2.x1n.org sets mode +t #spam

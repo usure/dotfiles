@@ -1,0 +1,251 @@
+T 1332951115 28-29Global28-	[Logon News - Mar 12 2012] irc.tddirc.net now uses geo-ip data to automatically redirect you to a closer server. If you are not happy with the server you're connected to, simply type "/map" to see the list of available servers.
+T 1332951115 19*	19Now talking on #hackerthreads
+T 1332951115 29*	29Topic for #hackerthreads 29is: Welcome to #hackerthreads || I dun goofed.
+T 1332951115 29*	29Topic for #hackerthreads 29set by horm 29at Wed Mar 21 02:20:08 2012
+T 1332951115 28-29ChanServ28-	[#hackerthreads] Welcome to the official channel of Hackerthreads - http://www.hackerthreads.org
+T 1332951838 23*	23Amit has quit (23Ping timeout23)
+T 1332952629 19*	19viileppi (viileppi@TDDIRC-120FDF22.blinkenshell.org) has joined #hackerthreads
+T 1332952672 18<rundata>	!translate npnctabkn anr tenebnaehnr ontom
+T 1332952673 18<nanobot>	  Argument Exception Method: Translate() Parameter:  Message: 'to' must be a valid language  message id=3737.V2_Rest.Translate.4AB7B3D4  
+T 1332952680 18<rundata>	:P
+T 1332952874 18<antiroach>	oh look nanobot works great
+T 1332952878 18<antiroach>	as usual
+T 1332953443 18<rundata>	lol
+T 1332953445 18<rundata>	hey antiroach 
+T 1332953448 18<rundata>	hows shit?
+T 1332953465 18<antiroach>	good good
+T 1332953471 18<antiroach>	i got back from miami yesterday
+T 1332953489 18<gift>	pantiroach
+T 1332953511 18<antiroach>	hi gift, i see youre clever as always
+T 1332953530 19*	19lagzilla_ (androirc@TDDIRC-39B3B123.wireless.telus.com) has joined #hackerthreads
+T 1332953536 18<lagzilla_>	hello
+T 1332953901 18<gift>	http://i.imgur.com/7t2Jr.jpg
+T 1332953905 18<rundata>	gift: you have any experiance in growing plants?
+T 1332953931 18<rundata>	or any experience?
+T 1332953931 22*	Xires is now known as ^Xires
+T 1332953978 18<antiroach>	who wants an IT / network admin job in NJ?
+T 1332953989 18<gift>	rundata: perhaps enough to answer a question
+T 1332954000 18<gift>	i like to think so
+T 1332954009 18<rundata>	ever grown rose?
+T 1332954013 18<gift>	no
+T 1332954025 18<rundata>	every done or know of grafting?
+T 1332954031 18<rundata>	*ever
+T 1332954039 18<gift>	no
+T 1332954047 18<gift>	maybe
+T 1332954051 18<rundata>	its where you cut a wedge shape into one plant
+T 1332954070 18<gift>	for what purpose? rooting?
+T 1332954077 18<rundata>	and cut off a branch of another plant, make the end fit the wedge shape cut out of plant 1
+T 1332954086 18<rundata>	useing some tar based shit, you bond em together
+T 1332954097 18<gift>	oh no ive never done that
+T 1332954104 18<rundata>	and the original plant feeds the new grafted branch
+T 1332954112 18<rundata>	im considering trying it with cannabis
+T 1332954124 18<rundata>	taking a high thc strain
+T 1332954126 18<gift>	what strain?
+T 1332954132 18<rundata>	and grafting it onto a low thc high yield plant
+T 1332954137 18<rundata>	probably cheese or g13
+T 1332954152 18<gift>	jeez
+T 1332954155 18<rundata>	onto some generic cannabis with very high yeild low quality bud
+T 1332954193 18<gift>	i can see the mother rejeting it
+T 1332954205 18<gift>	but i dont have a why
+T 1332954212 18<rundata>	eh
+T 1332954213 18<rundata>	* heh
+T 1332954215 18<rundata>	found this https://www.greenpassion.org/index.php?/topic/16489-grafting-cannabis-plants/
+T 1332954224 18<gift>	how far along are they?
+T 1332954231 18<gift>	still veg  i'm assuming
+T 1332954233 18<rundata>	they are into bud now so its too late
+T 1332954236 18<rundata>	but next time round
+T 1332954241 18<gift>	yea
+T 1332954252 18<rundata>	dont wanna be tempting fate lol
+T 1332954271 18<rundata>	well ill have a play with it
+T 1332954277 18<rundata>	let you know what i find out
+T 1332954306 18<gift>	cut a 3rd generation clone from one of those mothers and start vegging it, i'd try it as soon as it rooted.  i think ive found that they're less tempermental immediately after rooting
+T 1332954310 18<lagzilla_>	antiroach how intersting is it?
+T 1332954318 23*	23antiroach has quit (23Ping timeout23)
+T 1332954321 18<rundata>	oh
+T 1332954326 18<rundata>	sound cheers
+T 1332954335 18<gift>	you have rooting solution i assume
+T 1332954340 18<rundata>	well
+T 1332954346 18<rundata>	i do but i dont always use it xd
+T 1332954378 18<rundata>	ive had good results with direct planting
+T 1332954391 18<gift>	if it works it works i guess
+T 1332954396 18<rundata>	altough it could be due to the fuck poor rooting compound :(
+T 1332954401 18<gift>	ive never had the courage to try without 
+T 1332954404 18<rundata>	heh
+T 1332954411 18<rundata>	takes a day or two longer i find
+T 1332954419 18<rundata>	but moar natural etc etc
+T 1332954424 18<rundata>	if you can call it that
+T 1332954424 18<rundata>	lol
+T 1332954437 19*	19antiroach (antiroach@TDDIRC-7F13806C.static.optonline.net) has joined #hackerthreads
+T 1332954456 18<rundata>	why 3rd gen?
+T 1332954470 18<gift>	first and second tear branches dont clone well
+T 1332954501 18<gift>	well they 'can' but youll find more die off 
+T 1332954501 18<rundata>	ahhhhhhhhh i get you
+T 1332954525 18<rundata>	i thought you meant cut - > clone - > clone - > best clone
+T 1332954526 18<rundata>	:\
+T 1332954526 18<rundata>	lol
+T 1332954558 18<rundata>	well i didnt know what
+T 1332954587 18<rundata>	mommies a fat bitch anyway so they are all probably fine, didnt know that tho
+T 1332954609 18<gift>	what medium are you growing in?
+T 1332954617 18<rundata>	:(
+T 1332954618 18<rundata>	soil
+T 1332954627 18<rundata>	with guano
+T 1332954634 18<rundata>	perlite n shiz
+T 1332954638 18<rundata>	in the soil too
+T 1332954642 18<gift>	sure
+T 1332954645 18<rundata>	... ffs rundata make a fucking sentance
+T 1332954668 18<rundata>	id like to try bubble bucket
+T 1332954670 18<gift>	well i guess you shouldnt take my lines very seriously, my experience comes from aero but mostly hydro
+T 1332954678 18<gift>	where you dont have that safe soil buffer when you fuck up nutrient combinations
+T 1332954684 18<rundata>	OoOoO aero makes me cum wee
+T 1332954687 18<gift>	so its likely you could do fine however you want
+T 1332954704 18<rundata>	ive never tried it
+T 1332954706 18<gift>	i just dont know, ive never had a 'real' soil op
+T 1332954710 18<rundata>	heh
+T 1332954715 18<rundata>	but im tempted to make aero setup
+T 1332954722 18<rundata>	i have this halloween crystal ball thing
+T 1332954723 18<gift>	its
+T 1332954745 18<rundata>	it has this piezo fogger thing
+T 1332954756 23*	23antiroach has quit (23Ping timeout23)
+T 1332954761 18<rundata>	just sits in water and makes steam
+T 1332954787 18<gift>	sounds dangerous
+T 1332954789 18<rundata>	add a large underbed style plastic box
+T 1332954796 18<rundata>	and some pots / clay balls
+T 1332954813 18<gift>	hydrocorals?
+T 1332954813 18<Cool_Fire>	<rundata> just sits in water and makes steam <- If that's true, it's radioactive.
+T 1332954837 18<gift>	its also dangerous, you really dont want 100% humidity in a closed space after the first week of rooting
+T 1332954868 18<rundata>	Cool_Fire: grr
+T 1332954873 18<gift>	i guess a timer could solve that problem but youd waste weeks getting the timing right and they'd likely be affected negatively in the process
+T 1332954874 19*	19antiroach (antiroach@TDDIRC-7F13806C.static.optonline.net) has joined #hackerthreads
+T 1332954876 18<rundata>	its like this thing you plug it into 240v
+T 1332954884 18<rundata>	then adapter
+T 1332954885 18<rundata>	:p
+T 1332954890 18<rundata>	then this lil fogger thing
+T 1332954909 18<Cool_Fire>	so it's an electric kettle?
+T 1332954917 18<rundata>	essentially this http://www.mindsetsonline.co.uk/images/fogger.jpg
+T 1332954925 18<rundata>	its not a kettle as such
+T 1332954928 18<rundata>	it doesnt get hot
+T 1332954986 18<rundata>	ultrasonic fogger i beleive its called
+T 1332954988 18<gift>	i have a feeling your space is a closet
+T 1332955005 18<rundata>	lol
+T 1332955006 18<Cool_Fire>	Ah, and it's just plain tap water?
+T 1332955010 18<rundata>	yeah Cool_Fire 
+T 1332955015 18<rundata>	gift: not far off ;P
+T 1332955017 18<rundata>	im no pro man
+T 1332955023 18<gift>	you dont run plain water from that
+T 1332955032 18<rundata>	its only for me
+T 1332955037 18<gift>	you need nutrient solutions (flora(grow|bloom|micro))
+T 1332955044 18<gift>	for your NPK
+T 1332955064 18<rundata>	yeah, this thing probably isnt designed to run on anything other than water
+T 1332955077 18<rundata>	probably fuck it up
+T 1332955079 18<gift>	well shit, when youre running at 500 ppm its not going to be a big issue
+T 1332955094 18<gift>	especially in that size tank you were mentioning
+T 1332955096 18<gift>	sound smore like 200ppm
+T 1332955110 18<gift>	cycled (lol bi-weekly)
+T 1332955133 18<rundata>	heh
+T 1332955135 23*	23antiroach has quit (23Ping timeout23)
+T 1332955141 18<rundata>	cheers man 
+T 1332955146 18<rundata>	i g2g
+T 1332955155 18<rundata>	but ill chat to ya again :P
+T 1332955557 19*	19antiroach (antiroach@TDDIRC-7F13806C.static.optonline.net) has joined #hackerthreads
+T 1332955789 23*	23highjack has quit (23Input/output error23)
+T 1332955854 23*	23iHorm has quit (23Client exited23)
+T 1332956079 18<anarch_>	kekeke
+T 1332956085 18<antiroach>	sup anarch_ 
+T 1332956089 18<anarch_>	so no one said anything today about me walking otu yesterday
+T 1332956090 18<antiroach>	hows the liver
+T 1332956092 18<anarch_>	not much anti
+T 1332956093 18<anarch_>	pretty good
+T 1332956094 18<anarch_>	and yours?
+T 1332956103 18<antiroach>	walking out? 
+T 1332956126 18<antiroach>	its still in me lol
+T 1332956133 18<anarch_>	lol
+T 1332956139 18<anarch_>	if you want to do some shots later 
+T 1332956142 18<anarch_>	im down
+T 1332956246 18<antiroach>	something is fucking up on my innanets connection
+T 1332956348 19*	19WebChat_776372 (WebChat_77@TDDIRC-E7BF23AC.nowhere-else.org) has joined #hackerthreads
+T 1332956357 23*	23WebChat_776372 (23WebChat_77@TDDIRC-E7BF23AC.nowhere-else.org) has left #hackerthreads
+T 1332956440 23*	23antiroach has quit (23Ping timeout23)
+T 1332956483 19*	19antiroach (antiroach@TDDIRC-7F13806C.static.optonline.net) has joined #hackerthreads
+T 1332956523 19*	19oishi (oishi@TDDIRC-3B81222D.illegalroot.net) has joined #hackerthreads
+T 1332956532 18<oishi>	FUCKING FUCK FUCK FUCKEDITY FUCK FUCK
+T 1332956544 18<anarch_>	did the movie independence day realize how badass the shellcode must have been in order to function on unknown alien systems, let alone propagate the alien network and take down the shields for all of the little ships
+T 1332956554 18<anarch_>	i mean, thats gotta be the most badass exploit imaginable
+T 1332956562 19*	19shellload (Britt__@TDDIRC-417C5169.lsanca.fios.verizon.net) has joined #hackerthreads
+T 1332956614 18<lagzilla_>	I bet it was an ssh zero day
+T 1332956633 18<anarch_>	must have been
+T 1332956665 18<anarch_>	the hacker guy taps in to the alien system to see what he can do
+T 1332956671 18<oishi>	jeff goldblum wrote it with a macbook
+T 1332956677 18<oishi>	of course it's going to be the best
+T 1332956692 18<anarch_>	"i know this... this is a unix system!"  *the camera shows a cheesily drawn GUI interface for navigating the motherships filesystem
+T 1332956699 18<anarch_>	true
+T 1332956726 18<oishi>	it should have been
+T 1332956728 18<oishi>	i know this
+T 1332956731 18<oishi>	this is linux
+T 1332956734 18<oishi>	*types ls*
+T 1332956742 18<anarch_>	lol
+T 1332956742 18<lagzilla_>	this is bsd
+T 1332956762 18<anarch_>	silly aliens should have updated their kernel
+T 1332956775 18<lagzilla_>	I know eh
+T 1332956781 23*	23antiroach has quit (23Connection reset by peer23)
+T 1332956793 18<oishi>	brb
+T 1332956795 23*	23oishi has quit (23Quit: leaving23)
+T 1332956827 19*	19Oishi (Oishi@dot.dot) has joined #hackerthreads
+T 1332956829 22*	26nanobot gives voice to26 Oishi
+T 1332956832 18<Oishi>	weeee
+T 1332956837 18<Oishi>	connected from home machine now
+T 1332956840 18<peterzal>	i hate my works internet today
+T 1332956872 18<lagzilla_>	lol
+T 1332956916 18<shellload>	dorks
+T 1332956926 18*	shellload passes out beers and tabs to everybody
+T 1332956933 18<peterzal>	tabs?
+T 1332956937 18<shellload>	the soda
+T 1332956941 18<peterzal>	oh
+T 1332956947 18<peterzal>	i thought you meant like acid tabs
+T 1332956955 18<shellload>	dont you wish
+T 1332956958 18<peterzal>	:)
+T 1332956965 18<peterzal>	sharing is caring
+T 1332956969 18<shellload>	fo sho
+T 1332956971 23*	23Chroma has quit (23Ping timeout23)
+T 1332956974 18*	Cool_Fire ignores knowing what she means and imagines it's something sexy
+T 1332956988 18<shellload>	damnit pozican, why'd you smoke it all - sharing, caring...
+T 1332957004 18<shellload>	lol Cool_Fire
+T 1332957022 18<Oishi>	gimmie an I
+T 1332957026 18<gift>	kanye west is the voice of your generation
+T 1332957032 18<gift>	along with nikki minaj
+T 1332957074 18<Oishi>	The voice of my generation is samurai jack
+T 1332957109 18<gift>	(are you gay/12?)
+T 1332957132 18<Oishi>	Maybe
+T 1332957253 18<Cool_Fire>	What is the value of gay?
+T 1332957280 19*	19Chroma (Aefah@TDDIRC-4C628666.fbx.proxad.net) has joined #hackerthreads
+T 1332957323 18<Oishi>	i like how this website's long has a warning for using remember me but has it selected by default
+T 1332957331 18<Oishi>	login*
+T 1332957332 18<Oishi>	lolol
+T 1332957353 18<gift>	http://i.imgur.com/8HmK0.gif
+T 1332958128 18<anarch_>	ron paul 2012
+T 1332958150 18<peterzal>	Cool_Fire: over 9000
+T 1332958159 18<peterzal>	horm 2012
+T 1332958181 18<Oishi>	your mother tonight
+T 1332958195 18<Cool_Fire>	peterzal: gimme something concrete, I can't divide an unknown by 12 :(
+T 1332958232 18<peterzal>	ask gift 
+T 1332958256 18<Oishi>	9000/12 is 750
+T 1332958261 18<Oishi>	so the value of gay is >750
+T 1332958268 18<Oishi>	or i mean
+T 1332958269 18<Oishi>	not
+T 1332958276 18<Oishi>	the value of gay/12 > 750
+T 1332958284 18<Oishi>	I'm not 750
+T 1332958287 18<Cool_Fire>	close enough
+T 1332958325 18<Oishi>	or higher
+T 1332958377 18<Oishi>	:)))))))
+T 1332958538 18<Cool_Fire>	You have many chins
+T 1332958602 18<Oishi>	I have a buttchin that rivals urijah faber
+T 1332958622 18<gift>	is that latin for justin bieber
+T 1332958661 18<Oishi>	no, urijah faber is an mma fighter
+T 1332958671 18<Oishi>	http://www.mmafightcorner.com/wp-content/uploads/2012/02/urijah-faber1.jpg
+T 1332958689 18<gift>	what are you some sort of guido chad fejjet
+T 1332958707 18<Oishi>	i dunno
+T 1332958876 18<gift>	just joshin
+T 1332958899 18<gift>	i was never able to sit through those 
+T 1332959961 19*	19MatteWan (Matt@TDDIRC-460C6B85.plus.com) has joined #hackerthreads
+T 1332959963 22*	26nanobot gives voice to26 MatteWan
+T 1332960038 18<anarch_>	http://exposingthetruth.info/wp-content/uploads/2011/12/911___7_204034629616027_1203367_1476932626_n.jpg
+T 1332960131 18<Oishi>	gift: MMA fights?

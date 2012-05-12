@@ -1,0 +1,709 @@
+T 1336704810 18*	Polkadots is right
+T 1336704824 18*	Ashuri multiplies the silliness by i.
+T 1336704834 18*	Polkadots multiplies the silliness by kittens
+T 1336704856 18<Ashuri>	aaahhhhh! catfaiced silliness!
+T 1336704871 18<Polkadots>	=^.^=
+T 1336704883 18<Ashuri>	(>^_^)>
+T 1336704892 18<Jeran>	fffffuck
+T 1336704900 18<Jeran>	why is applying textures in blender renders so flipping hard.
+T 1336704902 18<Polkadots>	hmm?
+T 1336704906 18<Polkadots>	ah
+T 1336704915 18<Ashuri>	that's not silliness!
+T 1336704927 18<Ashuri>	that's seriousness!
+T 1336704933 18<Polkadots>	OHNOES
+T 1336704943 18<Ashuri>	*silliness factor decreases substantially*
+T 1336704950 18<Polkadots>	:<
+T 1336704996 18<Jeran>	fff.
+T 1336705006 18<Jeran>	well at lease the eyes are rendering with their texutre
+T 1336705015 18<Jeran>	but the arms and legs are broken now
+T 1336705021 18<Polkadots>	fffiddlesticks~
+T 1336705024 18<Ashuri>	"Are you human?"
+T 1336705025 18<Ashuri>	"Negative. I am a meat popsicle."
+T 1336705036 18<Polkadots>	xDD
+T 1336705076 18<Ashuri>	get the reference? :D
+T 1336705088 18<Polkadots>	no :<
+T 1336705093 18<Polkadots>	sorry~
+T 1336705098 18<Ashuri>	no worries. ^_^
+T 1336705105 18<Polkadots>	kay :3
+T 1336705106 18<Ashuri>	That line came from the 5th Element.
+T 1336705114 18*	Polkadots proceeds to turn into a cat
+T 1336705118 18<Jeran>	:o
+T 1336705122 18<Jeran>	did it work?
+T 1336705125 18<Jeran>	FUCK
+T 1336705125 18<Jeran>	not
+T 1336705129 18<Jeran>	now the eyes are wrong again
+T 1336705147 18*	Polkadots pats Jeran on the head
+T 1336705185 18<Ashuri>	WARNING: INCREASED SERIOUSNESS LEVELS HAVE NEARLY DEPLETED THE SILLINESS METER.
+T 1336705198 18<Polkadots>	well I already turned into a cat!
+T 1336705204 18<Polkadots>	what else could I do?? :<
+T 1336705208 18<Ashuri>	PLEASE INSERT RANDOM OBJECTS NOW TO CONTINUE.
+T 1336705219 18*	Polkadots throws a pineapple
+T 1336705236 18*	Ashuri watches the pineapple fall into the ocean.
+T 1336705249 18<Ashuri>	Oh look, now some crazy little sea-sponge has a home.
+T 1336705256 18<Polkadots>	xDD
+T 1336705269 18*	Polkadots throws a starfruit
+T 1336705316 18*	Ashuri watches it sprout into an Invincibility Star Tree on his hat.
+T 1336705365 18<Jeran>	ok, lgegs good
+T 1336705371 18<Jeran>	but eyes WRONG
+T 1336705373 18<Jeran>	no no no!
+T 1336705381 18*	Polkadots gives Jeran candy
+T 1336705477 18*	Ashuri quickly turns into a lemming and walks off of a cliff to counter the seriousness.
+T 1336705500 18<Polkadots>	will you encounter the pineapple I threw??
+T 1336705505 18<Polkadots>	TELL IT I SAY HI
+T 1336705509 18<Jeran>	ffff
+T 1336705512 18<Jeran>	now the legs are wrong
+T 1336705526 18*	Ashuri gets caught by Nyan Cat and flies away.
+T 1336705539 18*	Polkadots approves
+T 1336705547 18*	Ashuri doesn't.
+T 1336705561 18*	Polkadots frowns
+T 1336705573 18<Jessica1>	Meep.
+T 1336705580 18*	Ashuri leaves a block of TNT on Nyan Cat, turns into a Pidgit, and flies back on his magic carpet.
+T 1336705588 18*	Polkadots waves to Jessica
+T 1336705607 18*	Ashuri watches Nyan Cat explode from a distance, causing a shower of rainbows.
+T 1336705619 18*	Ashuri notes that at the end of each of the rainbows is a Nyan Cat.
+T 1336705623 18<Ashuri>	crap.
+T 1336705623 18<Ashuri>	XD
+T 1336705643 18<Jeran>	legs are right...
+T 1336705644 18<Jeran>	and....
+T 1336705648 18<Jeran>	eyes are....
+T 1336705650 18<Jeran>	close enough!
+T 1336705654 18<Jeran>	they are yellow
+T 1336705658 18<Jeran>	the texture didnt load
+T 1336705660 18<Polkadots>	:/
+T 1336705661 18<Jeran>	but the material color did
+T 1336705672 18<Jeran>	i think i know why
+T 1336705677 18<Jeran>	i forgot to apply as uvc.
+T 1336705679 18<Jeran>	UV*
+T 1336705695 18<plaidHatter>	Hey guys, still AFK, but I'll be back eventually.
+T 1336705697 18<plaidHatter>	Sorry all.
+T 1336705699 18<plaidHatter>	Today's been busy.
+T 1336705705 18<Jeran>	lol
+T 1336705706 18<Jeran>	thats ok
+T 1336705707 18<Polkadots>	that's cool
+T 1336705708 18<Jessica1>	No worries, Adam
+T 1336705712 18<Jeran>	!
+T 1336705712 18<Polkadots>	go have fun :P :)
+T 1336705714 18<Jeran>	i got it!
+T 1336705715 18<Jeran>	there.
+T 1336705719 18<Polkadots>	yay!
+T 1336705724 18<Jeran>	now the render is textured.
+T 1336705728 18<Ashuri>	and increase the silliness meter!
+T 1336705730 18<Ashuri>	XD
+T 1336705805 18<Polkadots>	PLUSHIES ARE REQUIRED
+T 1336705813 18<Ashuri>	woo! underside of floating garden entrance is built and well-lit.
+T 1336705824 18<Ashuri>	now to explode it with TNT. :D
+T 1336705828 18<Ashuri>	jk
+T 1336705833 18<Ashuri>	too beautiful to destroy.
+T 1336705835 18<Polkadots>	:O
+T 1336705861 18*	Ashuri instead spawns 100 chickens to enjoy it.
+T 1336705862 18<Ashuri>	:D
+T 1336705931 18*	Ashuri then spawns 50 cows, sheep, pigs, and mooshrooms to join them.
+T 1336705942 18<Polkadots>	hey Ashuri
+T 1336705950 18*	Jeran drops a bucket of lava in the pit.
+T 1336705955 18<Polkadots>	before I started cutting stuff out I meant to ask~
+T 1336705972 18<Polkadots>	what kind of costumes do you usually design
+T 1336705978 18<Ashuri>	hmm.
+T 1336705979 18<Polkadots>	do you have a style or etc.?
+T 1336705983 18<Polkadots>	I am interested :3
+T 1336705986 18<Ashuri>	depends on the character, really.
+T 1336705992 18<Polkadots>	mhm
+T 1336705997 18<Ashuri>	I usually design their main outfit.
+T 1336706010 18<Ashuri>	oftentimes it's armor, but other times it's just normal clothing.
+T 1336706029 18<Polkadots>	modern-day?
+T 1336706039 18<Ashuri>	Also, depends on the character.
+T 1336706052 18<Polkadots>	gotcha
+T 1336706070 18<Ashuri>	some characters are more midaeval, while others are more modern-day.
+T 1336706080 18<Polkadots>	mhm
+T 1336706087 18<Polkadots>	not much in the middle though?
+T 1336706100 18<Ashuri>	not often, no.
+T 1336706107 18<Ashuri>	but I could probably design for that too.
+T 1336706111 18<Polkadots>	cool
+T 1336706120 18<Ashuri>	I haven't really had much in the way of stories there. XD
+T 1336706124 18<Polkadots>	I designed medieval once
+T 1336706127 18<Polkadots>	for an assignment
+T 1336706142 18<Polkadots>	I'd love ot do more medieval stuff though :3
+T 1336706146 18<Ashuri>	ohyeah. That's how it's spelled.
+T 1336706148 18<Ashuri>	derp.
+T 1336706149 18<Ashuri>	XD
+T 1336706153 18<Polkadots>	s'ok
+T 1336706161 18<Polkadots>	I always used to mess it up xD
+T 1336706196 18<Jeran>	medieval
+T 1336706200 18<Jeran>	i always get it wrong.
+T 1336706211 18<Jeran>	<_> even when i try my mnumonics
+T 1336706216 18<Jeran>	nmumonic?
+T 1336706238 18<Polkadots>	fiddlesticks if I know xD
+T 1336706249 18<Polkadots>	starts with an m though
+T 1336706271 18<Ashuri>	pneumonics?
+T 1336706284 18<Jeran>	mneumonic
+T 1336706287 18<Jeran>	a memory device
+T 1336706290 18<Jeran>	not pneumatic
+T 1336706293 18<Ashuri>	hmm.
+T 1336706295 18<Ashuri>	ah
+T 1336706298 18<Jeran>	which is mechanics with air
+T 1336706305 18<Ashuri>	never heard of it then. XD
+T 1336706339 18<Ashuri>	crap. why did I spawn the sheep?!
+T 1336706348 18<Ashuri>	They ate some of my grass. ._.
+T 1336706368 18<Polkadots>	:<
+T 1336706385 18<Ashuri>	no worries. I have infinite. ^_^
+T 1336706439 18*	Ashuri spawns 100 squid high above the ocean and watches them fall into their new home.
+T 1336706453 18<Polkadots>	yay!
+T 1336706519 18<Ashuri>	as usual, my floating ocean base has but one way in other than flight.
+T 1336706538 18<Ashuri>	a solitary pillar of water flowing down from it. :D
+T 1336706566 18<Ashuri>	You have to swim up it to get in. ^_^
+T 1336706661 18<Polkadots>	haha nice
+T 1336706675 18<Ashuri>	only takes about 15 seconds to get all the way up the thing. not bad.
+T 1336706749 18<Jessica1>	Gah. Stuck in my story again.
+T 1336706831 18<Polkadots>	asdgf. knot in thread :<
+T 1336706840 18<Jeran>	fdfffag wrong render colors
+T 1336706852 18<Jeran>	its supposed to be blue, yes
+T 1336706854 18<Ashuri>	agregfsa ef random letters
+T 1336706856 18<Jeran>	but not THAT blue
+T 1336706873 18<Polkadots>	everyone's having problems with making shit xD
+T 1336706878 18<Polkadots>	except Ashuri, apparently
+T 1336706893 18<Ashuri>	I'm still pondering what to make next on my base.
+T 1336706915 18<Ashuri>	But no, I am having problems making something.
+T 1336706923 18<Ashuri>	I'm just ignoring it right now. XD
+T 1336706924 18<Jessica1>	I don't know how to write someone observing the beginnings of a fight from a distance. :\ -bonks brain- THINK HARDER
+T 1336706979 18<Ashuri>	the skeleton for my Ashuri model is giving me trouble, still.
+T 1336707003 18<Polkadots>	my lack of task lighting in my room is giving me problems <.>
+T 1336707020 18<Jessica1>	I'm totally IGNORING my first chapter because I lost focus on writing it and I'll come back to it later...xD;
+T 1336707031 18<Polkadots>	haha nice
+T 1336707049 18<Jessica1>	I know what happens in it. I'm just not used to writing long scenes. xD
+T 1336707064 18<Jeran>	yeah im stuck on a scene as well
+T 1336707072 18<Jeran>	but i need to power through it
+T 1336707080 18<Jeran>	i dont know how i want to end it.
+T 1336707105 18<Jessica1>	I have no deadline, so I'm just writing things as they occur to me. Or at least writing down what I want to happen so I can embellish it later.
+T 1336707111 18<Polkadots>	YES
+T 1336707118 18*	Polkadots has destryoed this knot in the thread
+T 1336707125 18<Jessica1>	...Maybe I'll play another round of LoL instead.
+T 1336707184 18<Jessica1>	I also can't decide where exactly to go with the main plot...
+T 1336707193 18<Jessica1>	but that I'll worry about after the intro chapters.
+T 1336707229 18<Jeran>	well i simply cant get the colors to render as theyare in the preview
+T 1336707232 18<Jeran>	which is the colors i want
+T 1336707234 18<Jeran>	but oh well
+T 1336707253 18<Polkadots>	:<
+T 1336707438 18<Polkadots>	man
+T 1336707449 18<Polkadots>	I have got to get outside tomorrow xD
+T 1336707478 18<Ashuri>	lol
+T 1336707481 18<Jessica1>	Don't be silly. There's sunlight out there. It's bad for your skin. xD
+T 1336707487 18<Polkadots>	haha
+T 1336707492 18<Polkadots>	I'm not Jeran
+T 1336707502 18<Polkadots>	I don't want a personal raincloud :P
+T 1336707504 18<Jeran>	i spend as little time in the sun as i can
+T 1336707506 18<Jessica1>	lol
+T 1336707509 18<Jeran>	i try to avoid direct sunlight
+T 1336707517 18<Jessica1>	I don't actively avoid sunlight, I'm just rarely outside.
+T 1336707517 18<Jeran>	cloudy days are best for getting yard work done
+T 1336707530 18<Polkadots>	how do you do that while gardening? xD
+T 1336707536 18<Polkadots>	oh, gotcha.
+T 1336707548 18<Ashuri>	Cloudy, but not rainy. ^_^
+T 1336707557 18<Ashuri>	I'm an overcast day kinda guy too.
+T 1336707570 18<Polkadots>	I am a SUNNY GIRL~
+T 1336707571 18<Ashuri>	unless I have sunglasses.
+T 1336707573 18<Ashuri>	Then I'm fine.
+T 1336707578 18<Polkadots>	I dance in the sunshine~
+T 1336707583 18*	Frofidor needs a pair of sunglasses
+T 1336707585 18<Polkadots>	(but I would do that in the rain too)
+T 1336707588 18<Ashuri>	I swim in the sunshine. ^_^
+T 1336707594 18<Jeran>	http://circos.ca/presentations/articles/vis_tables1/img/vis-table-19.png
+T 1336707608 18<Polkadots>	you know what, screw wit. I just dance all the time.
+T 1336707613 18<Polkadots>	well, when I feel like it
+T 1336707614 18<Polkadots>	"3
+T 1336707631 18<Polkadots>	* :3
+T 1336707642 19*	19RandomPerson (~RandomPer@pool-71-176-111-55.syrcny.fios.verizon.net) has joined #RANDC
+T 1336707672 18<Jeran>	there is some texture errors
+T 1336707676 18<Jeran>	and a btit of distoration
+T 1336707677 18<Jeran>	but
+T 1336707678 18<Jeran>	http://imgur.com/7cgRB
+T 1336707698 18<Ashuri>	wow
+T 1336707714 18<Jeran>	and it still needs a bit of texutre painting to make it not just solid colors.
+T 1336707715 18<Ashuri>	apparrently it's really rare to find a blonde with brown eyes?
+T 1336707718 18<Polkadots>	nice!
+T 1336707724 18<Jeran>	it will be much better in SL.
+T 1336707734 18<Jeran>	when i can actually do the textures like a regular human being.
+T 1336707735 18<Jeran>	<_>
+T 1336707746 18<Ashuri>	lol
+T 1336708504 18<Ashuri>	(If you need some help with texturing, lemme know. ^_^
+T 1336708506 18<Ashuri>	)
+T 1336708570 18<Ashuri>	stillnomorehomestuckupdates
+T 1336708600 18<Polkadots>	well it is ICE CREAM TIME
+T 1336708605 18<Polkadots>	so I will be back in a bit :3
+T 1336708609 18<Ashuri>	woo!
+T 1336708639 18<Jeran>	fuck YES ITS ICECREAM TIME
+T 1336708640 18<Jeran>	BRB
+T 1336708762 18<Ashuri>	heheh
+T 1336708788 18*	Ashuri returns with ice cream first. :3
+T 1336708841 18*	Ashuri listens to Frofidor's theme song. :3
+T 1336708855 18<Frofidor>	i could have a new one by now :P
+T 1336708856 18*	Jeran listens to his new music
+T 1336708861 18<Ashuri>	true
+T 1336708863 18<Ashuri>	do you?
+T 1336708865 18<Ashuri>	:D
+T 1336708879 18<Frofidor>	not sure but i will have to check
+T 1336708884 18<Ashuri>	lol
+T 1336708887 18<Frofidor>	it might be one of the homestuck songs now
+T 1336709113 18<Frofidor>	they have a lot of good songs now
+T 1336709119 18<Jeran>	lol
+T 1336709130 18<Jeran>	what was the one near the end of cascade?
+T 1336709487 18<Jessica1>	Uggh...I would be able to do this so much better if I could draw it...but I have to like...describe it and stuff. xD
+T 1336709499 18<Jeran>	ah i think i found it
+T 1336709503 18<Ashuri>	lol
+T 1336709507 18<Jeran>	savior of the dreaming dead
+T 1336709513 18<Jeran>	in volume 7.
+T 1336709614 18<Jeran>	Frofidor: i think your theme should be that
+T 1336709620 18<Jeran>	its an awesome song
+T 1336709626 18<Jeran>	and it fits what you are trying to do nicely.
+T 1336709626 18<Frofidor>	let me check that
+T 1336709636 18<Jeran>	its track 17 in volume 7.
+T 1336709714 18<Frofidor>	oh yes
+T 1336709720 18<Frofidor>	this is a good one :3
+T 1336709739 18<Jeran>	this song single handely made the [s] cascade epic
+T 1336709779 18<Frofidor>	yea it was all the ending section, super epic
+T 1336709941 18<Jeran>	also Frofidor want to SMP minecraft?
+T 1336709942 18<Jeran>	im bored
+T 1336709950 18<Frofidor>	smp?
+T 1336709959 18<Jeran>	multiplayer minecraft
+T 1336709963 18<Ashuri>	Survival MultiPlayer
+T 1336709977 18<Ashuri>	also, anyone got a link to that song? :D
+T 1336709984 18<Frofidor>	aaah sure that sounds like it could be fun
+T 1336709989 18<Jeran>	oh, i can put it in the dropbox
+T 1336710060 18<Jeran>	i added it
+T 1336710083 18<Jeran>	fro, i started the server
+T 1336710118 18<Frofidor>	you know something weird, a lot of kids at my school were really against Hamachi
+T 1336710127 18<Jeran>	well they can suck a dick
+T 1336710130 18<Jessica1>	-bonks brain- Thiiiiink...
+T 1336710132 18<Jeran>	becasue hamachi works
+T 1336710133 18<Jeran>	:P
+T 1336710137 18<Frofidor>	they said it would mess with their internet and other weird buggy things happened all the time, i didnt understand
+T 1336710145 18<Ashuri>	It does that.
+T 1336710147 18<Jeran>	they probbly did something wrong
+T 1336710151 18<Jeran>	becaeu i have never had an issue
+T 1336710153 18<Ashuri>	Not really.
+T 1336710179 18<Ashuri>	I'm not sure if it's been fixed in newer versions, but oftentimes, Hamachi would stop internet from working at all.
+T 1336710191 18<Jeran>	i have not had that issue
+T 1336710191 18<Ashuri>	Hamachi would still work, but web browsers would be kaput.
+T 1336710204 18<Ashuri>	I've had it cut out on me too occasionally.
+T 1336710207 18<Jeran>	i have had that issue
+T 1336710211 18<Jeran>	but that was at the hotel
+T 1336710217 18<Jeran>	and i was trying to use my phone internet
+T 1336710217 18<Ashuri>	Simply deactivating the Hamachi network solves that issue.
+T 1336710238 18<Ashuri>	also. Sharkman?
+T 1336710249 18<Ashuri>	Is this your creation, Fro? :D
+T 1336710261 18<Jessica1>	Okay, I need ideas. I need something for two characters to fight about. Like, to the point of serious violence fight.
+T 1336710283 18<Jeran>	wether they should go east or west
+T 1336710295 18<Jeran>	one slept with the other ones signifigant other
+T 1336710326 18<Jessica1>	That wasn't a topic I was planning to approach at this point but eh...I could make that work...
+T 1336710354 18<Ashuri>	maybe someone was making fun of Lorelei?
+T 1336710360 18<Jeran>	why was album art added to the drop box foldeR?
+T 1336710369 18<Ashuri>	no clue?
+T 1336710383 18<Jessica1>	Possibly. I was considering that one.
+T 1336710391 18<Ashuri>	I need to figure out where to get this music. ^_^
+T 1336710399 18<Jeran>	i can send you the rest.
+T 1336710401 18<Jeran>	<_>
+T 1336710410 18<Ashuri>	oh?
+T 1336710414 18<Ashuri>	that'd be awesome. ^_^
+T 1336710429 18<Ashuri>	but yes, this song is epic.
+T 1336710438 18<Ashuri>	but...
+T 1336710447 18<Ashuri>	... I don't think it fits you, Fro.
+T 1336710448 23*	23RandomPerson has quit (23Quit: Hi, I'm a quit message virus. Please replace your old line with this line and help me take over the world of IRC.23)
+T 1336710470 18<Jeran>	i think it does
+T 1336710470 18<Jeran>	:D
+T 1336710671 23*	23plaidHatter has quit (23Quit: Leaving.23)
+T 1336710976 18<Polkadots>	hallo all :3
+T 1336710986 18<Polkadots>	I have successfully nommed ice cream~
+T 1336710990 18<Ashuri>	welcome back =)
+T 1336710993 18<Ashuri>	as have I
+T 1336710999 18<Polkadots>	yay!
+T 1336711054 18<Polkadots>	unfortunately
+T 1336711056 18<Polkadots>	now it is cold
+T 1336711063 18<Polkadots>	I am likely to be eaten by an ice cube :(
+T 1336711070 18<Jeran>	LOL
+T 1336711073 18<Jeran>	err
+T 1336711074 18<Jeran>	lol*
+T 1336711083 18<Polkadots>	hehe~
+T 1336711091 18*	Polkadots is attacked by an ice cube
+T 1336711096 18<Polkadots>	EEP EEP EEP :<
+T 1336711099 18*	Ashuri gets out pencil and paper and decides to drap.
+T 1336711103 18<Ashuri>	draw*
+T 1336711117 18<Polkadots>	draw~
+T 1336711120 18<Polkadots>	I need to do that more
+T 1336711126 18*	Ashuri summons a 6-1/2-eyed Pirahna Frog to protect you.
+T 1336711226 18<Jessica1>	Watch out, killing ice cubes just makes two smaller ones...
+T 1336711242 18<Frofidor>	well the heavy metal song i have now is so much more spiky, idk if im as spiky as i used to be Ashuri
+T 1336711242 18<Polkadots>	frick, these leaves are coming off my tiara :(
+T 1336711249 18<Polkadots>	I should've made my teacher let me solder them
+T 1336711255 18<Ashuri>	true
+T 1336711385 18<Frofidor>	im going to eventtually make a redegin to the prime overlord but the sketch doesnt have as much spikes as it use to
+T 1336711421 18<Jessica1>	Grr...I need a name for a throwaway (or maybe not?) character...
+T 1336711506 18<Ashuri>	Steven Blanstaf
+T 1336711516 18<Ashuri>	(random name)
+T 1336711517 18<Ashuri>	:P
+T 1336711546 18<Jessica1>	...Steven. I can use that. xD
+T 1336711551 18<Frofidor>	jorgen yensberg
+T 1336711555 18<Jessica1>	If I don't like if I can change it later.
+T 1336711973 18<Jessica1>	...now what is his special ability...>< Hard to write a fight between two people if you don't know how both people fight.
+T 1336712153 18<Jeran>	his skin burns others when he touchest them
+T 1336712307 18<Jessica1>	Wow, it would suck to be the mother of that kid...
+T 1336712320 18<Ashuri>	lol
+T 1336712323 18<Ashuri>	wow.
+T 1336712327 18<Ashuri>	yeah.
+T 1336712329 18<Polkadots>	x.x
+T 1336712372 18<Jessica1>	I dunno if that works for this character. He's pretty aggressive and I need something he can make a strong first strike with...
+T 1336713067 18<Jessica1>	-ponders while playing games-
+T 1336713082 18*	Ashuri does research on stuff.
+T 1336713139 18*	Polkadots admires my room which is getting gradually cleaner :D
+T 1336713143 18<Jessica1>	I'm trying really hard not to go too extreme with abilities...I don't want this to seem to magic-y.
+T 1336713146 18<Jessica1>	*too
+T 1336713159 18<Jessica1>	The Consumed can be extreme, but that's because they're not quite human anymore...
+T 1336714343 18<Ashuri>	well, it's time for bed. ._.
+T 1336714351 18<Ashuri>	it's actually PAST time for bed. ._.
+T 1336714355 18<Polkadots>	goodnight!
+T 1336714358 18<Polkadots>	sleep tight :)
+T 1336714364 18<Ashuri>	but I started drawing, and didn't want to stop. XD
+T 1336714415 18<Jeran>	Frofidor: Ashuri!
+T 1336714416 18<Frofidor>	i hate when you have to stop being creative!
+T 1336714418 18<Jeran>	i figured it out!
+T 1336714421 18<Jeran>	the motivation!
+T 1336714421 18<Frofidor>	oh?
+T 1336714427 18<Jeran>	we destory the towers in landwalkers
+T 1336714439 18<Jeran>	becasue the witch is getting her immense powers THROUGH the towers and FROM the gods
+T 1336714483 18<Ashuri>	I'm drawing a SSJ3 Fierce Diety Crystal Infused Ashuri clad in Guardian Armor with MMX 1-3 upgrades.
+T 1336714513 18<Jeran>	i REALLY need to go about rewriting that story
+T 1336714517 18<Jeran>	so that it is presentable
+T 1336714519 18<Jeran>	its a great story.
+T 1336714520 18<Jeran>	:D
+T 1336714521 18<Ashuri>	I'll probably add more stuffs as I come up with it. ^_^
+T 1336714525 18<Ashuri>	that it is.
+T 1336714532 18<Frofidor>	hey thats a much cooler motivation!
+T 1336714533 18<Frofidor>	lol
+T 1336714536 18<Ashuri>	Has one of my favorite characters in it too. ^_^
+T 1336714542 18<Jeran>	and it is TOTALLY fitting
+T 1336714543 18<Ashuri>	Anywho. Bedtime.
+T 1336714548 18<Jeran>	it doesnt upset any other mechanic
+T 1336714549 18<Ashuri>	g'night! :D
+T 1336714552 18<Jeran>	D:
+T 1336714553 18<Jeran>	oh fine
+T 1336714557 18<Jeran>	good ngiht
+T 1336714561 18<Frofidor>	well ill be up to talk about it!
+T 1336714566 18<Ashuri>	I have to wake up at 4:30 in the morning. XD
+T 1336714571 18<Ashuri>	anywho.
+T 1336714578 18*	Ashuri poofs.
+T 1336714582 23*	23Ashuri has quit (23Read error: Connection reset by peer23)
+T 1336714695 19*	19plaidHatter (8a4e6d44@gateway/web/freenode/ip.138.78.109.68) has joined #RANDC
+T 1336714718 18<plaidHatter>	Heyo, all.
+T 1336714723 18<Jeran>	oh hey
+T 1336714744 18<Frofidor>	its like he switched out for AShuri
+T 1336714769 18<plaidHatter>	We planned this terribly well.
+T 1336714774 18<plaidHatter>	He tagged me in, actually.
+T 1336714785 18<plaidHatter>	He mailed me a hand today, and said "You know what you must do."
+T 1336714820 18<Frofidor>	hahah
+T 1336714822 18<Jessica1>	lol
+T 1336714837 18<Jeran>	plaidHatter:  i will take about an hour some day to explain landwalkers to you
+T 1336714841 18<Jeran>	you will like it
+T 1336714934 18<plaidHatter>	Landwalkers?
+T 1336714938 18<Jeran>	mmh
+T 1336714973 18<Polkadots>	hai there Adam :3
+T 1336715012 18<plaidHatter>	OH GOD, IT'S YOU
+T 1336715018 18<plaidHatter>	And what is landwalkers?
+T 1336715038 18<Jeran>	it's our storyline
+T 1336715046 18<plaidHatter>	Oh, the story that you've been working on, aye?
+T 1336715050 18<Jeran>	it takes like an hour to do a poor job of explaining it
+T 1336715052 18<Jeran>	yep
+T 1336715083 18<Frofidor>	mhm we made it years ago!
+T 1336715196 18<Polkadots>	jeez
+T 1336715209 18<Polkadots>	I am looking forward to not having a noseful of dust anymore :/
+T 1336715256 18<plaidHatter>	Huh, sounds like some of the worlds I've been building for years.
+T 1336715270 18<plaidHatter>	This one that I'm currently working on, yet to be named, is actually starting to become really fleshed out.
+T 1336715278 18<plaidHatter>	At least... one country in the one continent is... >.>
+T 1336715306 18<Jessica1>	...Hmm, nope. LoL is not stirring the creative juices, as fun as it is.
+T 1336715343 18<Frofidor>	my nose is clogged every time i wake up actually
+T 1336715350 18<Jeran>	mine isnt
+T 1336715354 18<plaidHatter>	Who was your champ?
+T 1336715376 18<Jessica1>	Amumu
+T 1336715395 18<Jessica1>	I've grown rather fond of the little guy.
+T 1336715477 18<Polkadots>	hehe
+T 1336715489 18<plaidHatter>	He seems pretty awesome.
+T 1336715490 18<Polkadots>	planning: it doesn't work when people forget what weekend it is
+T 1336715493 18<plaidHatter>	Very controly.
+T 1336715512 18<Jessica1>	Amumu gets super nasty end-game if he gets the chance to build.
+T 1336715555 18<Jessica1>	Being able to chase someone and deal upwards of 100 dmg a second passively (with a spell + an item) is a wonderful option.
+T 1336715567 18<plaidHatter>	...
+T 1336715569 18<plaidHatter>	Fuck.
+T 1336715577 18<Jessica1>	?
+T 1336715592 18<Jeran>	lol
+T 1336715687 18<plaidHatter>	Das a lot of damage.
+T 1336715716 18<Jessica1>	The problem is he can't tank very well early game. But once he's built, he does. Not. Die.
+T 1336715730 18<Jessica1>	Which is bad when he's dealing passive damage.
+T 1336715774 18<Jessica1>	Despair deals a certain percent of an opponent's damage a second while they're standing in range. Which makes him an effective tank counter.
+T 1336715810 18<plaidHatter>	Oh ok.
+T 1336715828 18<Jessica1>	And I add whatever that fire cape is to that, which increases the damage.
+T 1336715892 18<Jessica1>	I wish I had more friends to play with. ><
+T 1336716273 18<plaidHatter>	Oh sheesh.
+T 1336716276 18<plaidHatter>	I'd play if I had time.
+T 1336716278 18<plaidHatter>	I will soon.
+T 1336716362 18<Jessica1>	Dw about it, Adam, you're busy and stuff.
+T 1336716410 18<Jessica1>	I just need someone I can actively strategize with so I can maximize the effectiveness of my abilities. Amumu doesn't play well solo.
+T 1336716525 18<plaidHatter>	Heh, no problem. As I said, I'll be interested in playing again soon.
+T 1336716527 18<plaidHatter>	After all.
+T 1336716535 18<plaidHatter>	My Zilean has been itching to get back into sycn.
+T 1336716637 18<Jessica1>	lol
+T 1336716646 18<Jessica1>	I haaaate playing against Zilean.
+T 1336716761 18<plaidHatter>	Why? =D
+T 1336716768 18<Jessica1>	You know very well why, sir.
+T 1336716952 18<Polkadots>	hey everyone I'm going to bed
+T 1336716956 18<Polkadots>	so goodnight~
+T 1336716957 18<Jessica1>	Kay
+T 1336716957 18<Polkadots>	sleep tight
+T 1336716962 18<Jessica1>	night
+T 1336716962 18<Polkadots>	do not let the grues bite
+T 1336717061 18<plaidHatter>	G'night, my friend.
+T 1336717232 18<plaidHatter>	Mrow.
+T 1336717432 18<Jessica1>	Meep.
+T 1336717626 18<plaidHatter>	How are you all tonight?
+T 1336717651 18<Jessica1>	I'm pretty good, if not a bit frustrated with my inability to write a good story chapter. :\
+T 1336717697 18<Frofidor>	im terrible at writing but i still think its fun to do
+T 1336718030 18<Jessica1>	Oh, writing is fun. I just keep getting stuck.
+T 1336718055 18<Jessica1>	I STILL haven't decided what this one character's ability is, and I need that before I can write a fight scene.
+T 1336718239 18<plaidHatter>	For the homerew?
+T 1336718297 18<Jessica1>	Nah, for a personal story.
+T 1336718324 18<Jessica1>	I'm stuck RIGHT before a fight scene because I can't decide on the design for a throwaway(?) character.
+T 1336718544 18<plaidHatter>	What's the world / common abilities?
+T 1336718657 18<Jessica1>	There's no ability or power that's particularly "common", they're usually just not particularly obvious until someone uses them. Some are mental, some are more of what you might call a 'magic' variety. I need this guy to have a more offensive-style ability because he strikes first and a more passive ability is going to make that WAY harder to write for given that the other guy involved is a healer and isn't fighing with offensive 
+T 1336718862 18<Frofidor>	are there rarer abilites then others?
+T 1336718884 18<Frofidor>	like only one person has the ability to do flaming backflips? :o
+T 1336718949 18<Jessica1>	Well, something like being pyrokinetic or influencing something like weather is fairly rare.
+T 1336718984 18<Frofidor>	i see
+T 1336718988 18<Frofidor>	thats cool
+T 1336719004 18<Frofidor>	hmm well heres a question, what would you want the ending to be?
+T 1336719012 18<Jessica1>	Ending to what?
+T 1336719034 18<Frofidor>	just your story or book :o
+T 1336719050 18<Frofidor>	hmm well i guess its not as important
+T 1336719054 18<Jessica1>	That's not really important to this scene. This scene serves more to introduce a character.
+T 1336719061 18<plaidHatter>	Um....
+T 1336719063 18<plaidHatter>	Hm....
+T 1336719087 18<plaidHatter>	So, what's more common offensively than pyrokinetic or weather manipulation?
+T 1336719091 18<plaidHatter>	Telekenesis?
+T 1336719168 18<Jessica1>	Being telekenetic to some extent or another might be considered more common, or some type of physical enhancement, though this normally would be fairly subtle. No one's growing spontaneous spikes. Well, one or two people might be, but that would be highly unusual.
+T 1336719192 18<plaidHatter>	You could have this guy be a dagger 'tosser' in a sense.
+T 1336719212 18<plaidHatter>	Like, minor telekinetic force that allows him to pull weapons and toss them without actually having a hand on them.
+T 1336719221 18<Jessica1>	Hmm.
+T 1336719231 18<plaidHatter>	If you're taking suggestions. >.>
+T 1336719237 18<Jessica1>	It's an idea.
+T 1336719238 18<Jessica1>	-ponders-
+T 1336719371 18<plaidHatter>	-nods-
+T 1336720149 18<Jessica1>	I wasn't going to have my other character pull his switchblade on anyone this early but I suppose if the other guy had powers like that he might have to...
+T 1336720793 23*	23plaidHatter has quit (23Quit: Page closed23)
+T 1336722444 23*	23Jessica1 has quit (23Quit: Leaving.23)
+T 1336723911 23*	23msqrdstr (23~masquerad@unaffiliated/masqueradestar) has left #RANDC (23"i don't hate people. i just feel better when they aren't around. - bukowski"23)
+T 1336724349 23*	23Frofidor (23~Frofidor@ool-182dd407.dyn.optonline.net) has left #RANDC
+T 1336724426 23*	23Jeran has quit (23Quit: Leaving.23)
+T 1336742162 19*	19Now talking on #RANDC
+T 1336746049 19*	19plaidHatter (~Adam@138-78-109-55.resnet.smcm.edu) has joined #RANDC
+T 1336746383 18<plaidHatter>	Heyo?
+T 1336747334 19*	19Jessica1 (~Owner@pool-71-178-217-23.washdc.fios.verizon.net) has joined #RANDC
+T 1336747353 18<Jessica1>	Good morning
+T 1336747361 18<plaidHatter>	Morning. -waves-
+T 1336747369 18<Jessica1>	How are you?
+T 1336747470 18<plaidHatter>	Pretty good, but going to get breakfast.
+T 1336747471 18<plaidHatter>	BBS.
+T 1336747549 18<Jessica1>	Mkay
+T 1336751852 19*	19Jeran (~Jeran@pool-71-179-106-245.bltmmd.fios.verizon.net) has joined #RANDC
+T 1336751937 23*	23Jeran has quit (23Read error: Connection reset by peer23)
+T 1336752603 19*	19Jeran (~Jeran@pool-71-179-106-245.bltmmd.fios.verizon.net) has joined #RANDC
+T 1336752813 18<Jeran>	oh boy. all windows updated up
+T 1336762224 18<Jeran>	default
+T 1336762225 18<Jeran>	{
+T 1336762225 18<Jeran>	    link_message(integer source, integer number, string message, key id)
+T 1336762225 18<Jeran>	    {
+T 1336762225 18<Jeran>	       llSetRot(llEuler2Rot((llRot2Euler(llGetRot())+<0,0,TWO_PI/24>)));
+T 1336762225 18<Jeran>	    }
+T 1336762225 18<Jeran>	}
+T 1336762303 19*	19RandomPerson (~RandomPer@pool-71-176-111-55.syrcny.fios.verizon.net) has joined #RANDC
+T 1336763995 18<plaidHatter>	Heyo, all.
+T 1336764013 18<Jeran>	hello!
+T 1336764021 18<plaidHatter>	How's it going?
+T 1336764025 18<Jeran>	pretty good
+T 1336764031 18<plaidHatter>	And why are some people logged in all the time and never on? It's deceptive.
+T 1336764032 18<Jeran>	hey, do you want me to explain to you landwalkers now?
+T 1336764039 18<Jeran>	they are called lurkers
+T 1336764048 18<Jeran>	they keep thier computers running all the time.
+T 1336764056 18<plaidHatter>	Um... If you want to do that in a secondary chat between you and I, I'm more likely to read it.
+T 1336764060 18<plaidHatter>	I'm also packing at the moment.
+T 1336764071 18<plaidHatter>	But if you post in segments now, I can acknowledge when I've read that part. =P
+T 1336764089 18<Jeran>	i was actually thinking of doing it over voice chat
+T 1336764098 18<Jeran>	but i will wait for you to finihs packing
+T 1336764308 18<Jessica1>	o.o
+T 1336764470 18<plaidHatter>	It might be a bit then.
+T 1336764953 18<Jessica1>	So I managed to come up with an ability for a DIFFERENT character than I needed to. -__-; At least it wasn't for nothing, it WAS something I needed to come up with.
+T 1336767069 18<Jeran>	what is the ability?
+T 1336767612 18<Jessica1>	A form of telekenesis that takes the form of semi-transparent rings that she can conjure around something in order to either stop it from moving or to move it somwhere else. Needless to say, it only works on things that she's strong enough to influence, so nothing too big or too strong.
+T 1336769268 19*	19Frofidor (~Frofidor@ool-182dd407.dyn.optonline.net) has joined #RANDC
+T 1336769274 18<Jeran>	hai fro
+T 1336769276 18<Frofidor>	hello
+T 1336769277 18<Jessica1>	Hey Fro
+T 1336769294 18<Frofidor>	how you guys doing?
+T 1336769296 18<Jeran>	guh, i have been very distracted today :/ didnt get much done. i fixed most of the clock parts
+T 1336769315 18<Jeran>	and poked it with a script, but its not very pretty rightnow, sicie i dont feel like math
+T 1336769335 18<Frofidor>	yea mathing it must be tricky
+T 1336769354 18<Jeran>	especially when you expect it to wrok
+T 1336769356 18<Jeran>	and then it doesnt.
+T 1336769370 18<Frofidor>	i figured it would be really hard but you seemed confident
+T 1336769386 18<Jeran>	its not hard
+T 1336769393 18<Jeran>	its just me having to get all my notes out again
+T 1336769396 18<Jeran>	figure out what they mean
+T 1336769402 18<Jeran>	and then figuring out that my notes sucked
+T 1336769403 18<Frofidor>	aaah
+T 1336769406 18<Frofidor>	lol
+T 1336769407 18<Jeran>	and then recalculating everything agian
+T 1336769410 18<Jeran>	not hard
+T 1336769411 18<Jeran>	just tedious.
+T 1336769432 18<Jeran>	i also still need to add that extra gear.
+T 1336769439 18<Jessica1>	I've just been pondering story ideas and stuff, while not playing Skyrim.
+T 1336769442 18<Jeran>	didnt think to do that while i had the chance
+T 1336769444 18<Jeran>	hmm.
+T 1336769462 18*	Jeran upadtes blender because it is nice enough to patch all my bugs for me.
+T 1336769481 18<Jeran>	it will probably overwrite my default settings again though
+T 1336769482 18<Jeran>	:/
+T 1336769540 18<Jessica1>	I need an antagonist...I have the antagonist for AFTER this, but he can't be the first...and while i know who the first antagonist works for, they're kinda...faceless right now.
+T 1336769654 18<Jeran>	hahah
+T 1336769658 18<Jeran>	faceless antagonists.
+T 1336769662 18<Jeran>	already dealt with him
+T 1336769735 18<Jessica1>	-ponders- Male, female...adult, teenager...I have several options. Which is more of a problem than a blessing.
+T 1336769755 18<Jeran>	female adult.
+T 1336769797 18<Jessica1>	Hmm...I could make that work. Lemme think...
+T 1336771232 23*	23plaidHatter has quit (23Quit: Leaving.23)
+T 1336771373 18<Jeran>	well i think the first step to fixing up the clock
+T 1336771377 18<Jeran>	is going and finfing my notes.
+T 1336771378 18<Jeran>	afk
+T 1336771420 18<Jessica1>	mkay
+T 1336771465 18<Jeran>	also
+T 1336771472 18<Jeran>	Frofidor: after we have the shop running
+T 1336771480 18<Frofidor>	mhm?
+T 1336771497 18<Jeran>	want to start rewriting the story? i think we can work on it bit by bit every night when our other main project is done
+T 1336771510 18<Frofidor>	yea that sounds like a good plan
+T 1336773335 18<Jessica1>	:\ I keep looking out my window and expecting to see my dogs outside.
+T 1336773373 18<Jeran>	:<
+T 1336773749 18<Jessica1>	It's too quiet. ><
+T 1336773764 18<Jessica1>	At least my mom still has a kitty. A VERY verbal kitty.
+T 1336773770 18*	Jeran lights the barn on fire
+T 1336774153 23*	23RandomPerson has quit (23Ping timeout: 260 seconds23)
+T 1336774344 18<Jessica1>	Hmm...
+T 1336774397 18<Frofidor>	vocal kitties are pretty cute though
+T 1336774454 18<Jessica1>	lol...he's silly. He KNOWS he's not supposed to be on the counter. So OBVIOUSLY before he jumps up on the counter he gives a very distinctive meow.
+T 1336774517 18<Jeran>	lol
+T 1336774529 18<Jeran>	"im being bad, oh how naughty, pay attention"
+T 1336774531 18<Jessica1>	He never meows that way any other time.
+T 1336774548 18<Jessica1>	He also used to be the dominant pet in the house when we had him and the two dogs in the same place.
+T 1336774557 18<Jessica1>	He took NO shit from those dogs.
+T 1336774583 18<Jessica1>	I watched him chase down my St. Bernard and jump on her face once.
+T 1336775153 18<Jeran>	oh no!
+T 1336775161 18<Jeran>	i only have 7 more weeks to finish this story!
+T 1336775166 18<Jeran>	preferably faster than that
+T 1336775171 18<Jeran>	so i have time to edit, revise
+T 1336775175 18<Jeran>	and resubmit if nessicary
+T 1336775216 18<Jessica1>	><
+T 1336775453 18<Jessica1>	:\ I'm finding the only way for me to be even somewhat satisfied with my dialogue is to write it, read it out loud, and see if it sounds like something someone would even concievably say.
+T 1336775480 18<Jeran>	i finally finished this awful scene
+T 1336775490 18<Jeran>	i decided to end it nothing like what i originally planned
+T 1336775498 18<Jessica1>	I still can't even start my fight scene. -__-
+T 1336775501 18<Jeran>	because it made no sense
+T 1336775505 18<Jessica1>	I have the bit BEFORE it and the bit AFTER it.
+T 1336775511 18<Jeran>	i waent with a step by step "this makes sense" process
+T 1336775515 18<Jessica1>	But the material in the middle? Currently non-existence.
+T 1336775517 18<Jessica1>	*existent
+T 1336776204 18<Jeran>	http://www.effectgames.com/demos/canvascycle/
+T 1336776262 18<Jessica1>	Neat.
+T 1336776274 18<Jeran>	oooo
+T 1336776279 18<Jeran>	and i sold another bird apparently.
+T 1336776296 18<Frofidor>	oh nice
+T 1336776402 18<Jeran>	afk
+T 1336776592 18<Jessica1>	Meh...I can't decide what I wanna do...I'd start a LoL match but I have to start dinner at 7...
+T 1336776616 18<Frofidor>	try writing a random part of your story
+T 1336776631 18<Frofidor>	just somewhere in the middle, you can always fix it up later
+T 1336776685 18<Jessica1>	Hmm...what part should I write...oh, I know.
+T 1336776776 19*	19Ashuri (~Robert_Fi@75-106-234-2.cust.wildblue.net) has joined #RANDC
+T 1336776784 18<Jessica1>	Hi Ashuri
+T 1336776804 18*	Ashuri floats down from the sky, only to lose focus and fall the last few feet.
+T 1336776819 18*	Ashuri picks himself up off of the ground.
+T 1336776822 18<Ashuri>	hai! ^_^;
+T 1336776910 18<Jessica1>	Must...not...use...too much...profanity...when Marcus speaks...
+T 1336776949 18<Jessica1>	If I were drawing this I'd be writing his dialogue as I see it, in all of its explicit glory, but as it is I'd rather not seem like I'm doing it needlessly.
+T 1336777040 18<Ashuri>	lol
+T 1336777072 18<Ashuri>	I'm resting from work. ._.
+T 1336777117 18<Ashuri>	The produce load came in late today... it usually shows up around 9:30am. It showed up at 1:00 pm.
+T 1336777121 18<Jessica1>	>_<
+T 1336777130 18<Ashuri>	As I get off of work at 3:00...
+T 1336777139 18<Frofidor>	oh noes
+T 1336777141 18<Ashuri>	... I had to hustle to get everything put away on time. ^_^
+T 1336777153 18<Ashuri>	hai Fro =)
+T 1336777158 18<Frofidor>	ery day im hustlin
+T 1336777161 18<Frofidor>	heya
+T 1336777175 18<Ashuri>	yes, but your hustling is mostly with the mind.
+T 1336777175 18<Frofidor>	wait it should be husalin
+T 1336777180 18<Ashuri>	this was moving freight.
+T 1336777183 18<Ashuri>	XD
+T 1336777209 18<Jessica1>	<--- Can't lift jackshit
+T 1336777210 18<Ashuri>	my brain is still pretty energetic but my body is tired. XD
+T 1336777216 18<Jessica1>	I am weak. :<
+T 1336777221 18<Frofidor>	oh yea im in terrible shape too
+T 1336777232 18*	Frofidor needs to work out
+T 1336777236 18<Jessica1>	ME too. :\
+T 1336777239 18<Ashuri>	I'm in pretty good shape, aside from 15 pounds I want to lose. XD
+T 1336777252 18<Jessica1>	I need someone to make me go, though, since i have a VERY hard time inspiring myself to work out...
+T 1336777253 18<Frofidor>	ive been 145 punds for a while now
+T 1336777261 18<Ashuri>	195 here.
+T 1336777261 18<Jessica1>	Aww. How sad. -__-
+T 1336777270 18<Jessica1>	I weigh 180 or so. And it sucks.
+T 1336777293 18<Ashuri>	you're lighter than me! That's a good thing. ^_^
+T 1336777300 18<Frofidor>	well yea im lucky for now but if i dont do anything i could lose my skinnyness pretty quickly
+T 1336777301 18<Ashuri>	Actually, 180 is my preferred weight.
+T 1336777305 18<Jessica1>	I am not tall enough to excuse weighing that much, even if my body carries it well.
+T 1336777312 18<Jessica1>	You're shorter than me, Ashuri.
+T 1336777317 18<Ashuri>	Aye.
+T 1336777330 18<Ashuri>	Meaning I should be lighter?
+T 1336777345 18<Jessica1>	Height and weight are logically correlated, though gender is also a factor.
+T 1336777349 18<Ashuri>	dunno. I was an even 180 all through High School.
+T 1336777360 18<Ashuri>	and I was in pretty good shape then.
+T 1336777370 18<Ashuri>	far better than I am now...
+T 1336777374 18<Jessica1>	Well, as a guy, you'd normally be heavier than a girl of the same height. That's how it usually works.
+T 1336777382 18<Ashuri>	right.
+T 1336777387 18<Jessica1>	Not factoring in build and genetic differences.
+T 1336777403 18<Jessica1>	I used to be a stick. -__- NOT NO MORE.
+T 1336777418 18<Frofidor>	:C
+T 1336777433 18<Jessica1>	I'd be happy if I could get back down into the 160s or so...
+T 1336777442 18<Ashuri>	Funny thing is, fat people used to be the symbol of beauty. XD
+T 1336777450 18<Jessica1>	Well, fat used to indicate wealth.
+T 1336777456 18<Ashuri>	right
+T 1336777462 18<Ashuri>	now its commonplace.
+T 1336777470 18<Ashuri>	so healthiness is a symbol of beauty.
+T 1336777506 18<Ashuri>	(is ignoring the photoshopped beauty crammed down people's throats all the time)
+T 1336777506 18<Jessica1>	Hmm...how much description of someone's clothing is considered excessive? I'm so used to having to throw a character's description into one paragraph as per RP style...
+T 1336777625 18<Ashuri>	I DO have a preferred body type that I like on girls. But it all means bubcus in the end.
+T 1336777626 18<Ashuri>	All in all, it's what their personality is like that determines attractiveness to me. The body is just a plus. ^_^
+T 1336777638 18<Jessica1>	Attractiveness isn't always important, but it rarely hurts.
+T 1336777650 18<Jessica1>	Physically, I mean
+T 1336777661 18<Ashuri>	The only thing I really don't like is obesity.
+T 1336777669 18<Ashuri>	But that can always be fixed.
+T 1336777670 18<Ashuri>	:D
+T 1336777712 18<Ashuri>	'course, skeletally skinny isn't all that attractive either... o_o
+T 1336777719 18<Jessica1>	Well that's just unhealthy looking.
+T 1336777728 18<Ashuri>	exactly.
+T 1336777781 18<Ashuri>	I would say excessive on clothing descriptions would fall under describing where all the stitching is on the pieces.
+T 1336777791 18<Ashuri>	And stuff like that.
+T 1336777803 18<Jessica1>	Well unless that was relevant to the character I wouldn't go that far...xD
+T 1336777809 18<Ashuri>	Just a basic description to get the image of the character into someone's head is all that's needed. ^_^
+T 1336777825 18<Ashuri>	Special focus on anything important to the story.
+T 1336777854 18<Ashuri>	like a particular tear on a sleeve or something.
+T 1336777867 18<Ashuri>	or a scar.
+T 1336777869 18<Ashuri>	etc.
+T 1336777898 18<Ashuri>	nuu! no new homestuck updates! D:
+T 1336777908 18<Jessica1>	I need to go back and describe Marcus' appearance...it's not PLOT important per se but his piercings are notable, as well as the fact that he wears a zip-up hoodie with the sleeves purposely torn off to be short.
+T 1336777932 18<Jessica1>	But I'll worry about that later.
+T 1336777941 18<Jessica1>	Oh shoot, I need to start dinner, don't I...hang on.
+T 1336777953 18<Ashuri>	Interestingly, I've recently discovered exactly what my preferred type of sword is.
+T 1336777991 18<Ashuri>	Katanas and European-styled blades are nice, but I think a fencing sword best suits me.
+T 1336778055 18<Ashuri>	hardly any use against an armored foe (unless you stab into a gap between the pieces), but its light weight makes for really quick movements.
+T 1336778676 18<Jessica1>	lol...I went to call my dad to ask where something was in the kitchen and I found it just as he picked up...
+T 1336778698 18<Ashuri>	lol
+T 1336779476 18<Jessica1>	Meep
+T 1336779484 18<Ashuri>	moop

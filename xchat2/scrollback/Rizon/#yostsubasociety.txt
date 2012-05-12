@@ -1,0 +1,3 @@
+T 1333589157 19*	19Now talking on #yostsubasociety
+T 1333589157 22*	irc.x1n.org sets mode +n #yostsubasociety
+T 1333589157 22*	irc.x1n.org sets mode +t #yostsubasociety

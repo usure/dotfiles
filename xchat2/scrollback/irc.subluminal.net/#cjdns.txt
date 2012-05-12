@@ -1,0 +1,529 @@
+T 1334289925 18<Omelette>	could either use that solution, or one of the scripts
+T 1334290008 18<prurigro>	tvr, now if you're using a re-sizable window for your irssi instance, try making it so the link Omelette just posted goes across two windows and click on it
+T 1334290084 18<tvr>	Appears to work
+T 1334290156 18<prurigro>	interesting
+T 1334290168 18<prurigro>	which term are you using?
+T 1334290185 18<tvr>	i'm using putty. :P
+T 1334290205 18<tvr>	well, a forked putty that enables clickable links.
+T 1334290252 18<prurigro>	ahh, windows?
+T 1334291016 18<tvr>	Yeah
+T 1334291029 18<tvr>	I had to look that up, I did not know that putty was cross-platform.
+T 1334291665 18<derp>	I use Babble on Windows
+T 1334291841 18<prurigro>	word, yea, I only recently found out too- though I dunno why people would use it in linux :)
+T 1334291870 18<prurigro>	maybe the user friendly menus
+T 1334291945 18<Dan>	Derp, look over on #sfmeshnet
+T 1334296154 23*	23jimjam has quit (23Ping timeout23)
+T 1334299370 19*	19jimjam (darkmage@hide-8D9F5160.org) has joined #cjdns
+T 1334306738 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1334312084 23*	23Omelette has quit (23Connection reset by peer23)
+T 1334312085 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1334326147 19*	19Now talking on #cjdns
+T 1334326147 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1334326147 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1334327200 23*	23Dan has quit (23Quit: ZNC - http://znc.sourceforge.net23)
+T 1334327290 19*	19Dan (Dan@908EEA91.5B8AE357.4433AA2D.IP) has joined #cjdns
+T 1334328894 23*	23Dethdial has quit (23Client exited23)
+T 1334343920 23*	23Omelette has quit (23Ping timeout23)
+T 1334343956 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1334344538 23*	23derp has quit (23Ping timeout23)
+T 1334344677 19*	19derp (derp@406FD7AF:DDDA7E8A:4DA0637E:IP) has joined #cjdns
+T 1334345156 19*	19Dethdial (dethdial@hide-9E8F8C1E.dsl.telepac.pt) has joined #cjdns
+T 1334355755 23*	23Dethdial has quit (23Quit: Leaving23)
+T 1334355764 19*	19Dethdial (dethdial@hide-9E8F8C1E.dsl.telepac.pt) has joined #cjdns
+T 1334357739 23*	23Dethdial has quit (23Client exited23)
+T 1334363444 19*	19Now talking on #cjdns
+T 1334363444 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1334363444 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1334505088 19*	19Now talking on #cjdns
+T 1334505088 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1334505088 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1334505519 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1334507320 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1334507336 23*	23Omelette has quit (23Ping timeout23)
+T 1334508662 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1334508697 23*	23Omelette_ has quit (23Ping timeout23)
+T 1334509042 23*	23Omelette has quit (23Input/output error23)
+T 1334509160 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1334518492 23*	23derp has quit (23Ping timeout23)
+T 1334518497 19*	19derp (derp@406FD7AF:DDDA7E8A:4DA0637E:IP) has joined #cjdns
+T 1334518560 23*	23JAWC has quit (23Ping timeout23)
+T 1334518721 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1334538955 23*	23JAWC has quit (23Ping timeout23)
+T 1334541017 23*	23Dethdial has quit (23Client exited23)
+T 1334543909 19*	19Dethdial (dethdial@hide-6995B74.dsl.telepac.pt) has joined #cjdns
+T 1334544461 23*	23Dethdial has quit (23Client exited23)
+T 1334545641 23*	23Omelette has quit (23Input/output error23)
+T 1334546362 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1334568049 19*	19Dethdial (dethdial@3EEDB096.AFD87563.8EDB3888.IP) has joined #cjdns
+T 1334576260 23*	23Dethdial has quit (23Client exited23)
+T 1334666296 19*	19Now talking on #cjdns
+T 1334666296 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1334666296 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1334670496 19*	19Dethdial (dethdial@hide-6995B74.dsl.telepac.pt) has joined #cjdns
+T 1334673969 23*	23Dethdial has quit (23Client exited23)
+T 1334676193 19*	19Dethdial (dethdial@B790FEAE.240C2F96.87DE27EF.IP) has joined #cjdns
+T 1334679591 23*	23Dethdial has quit (23Ping timeout23)
+T 1334696457 19*	19Dethdial (dethdial@hide-6995B74.dsl.telepac.pt) has joined #cjdns
+T 1334701866 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1334711565 19*	19Now talking on #cjdns
+T 1334711565 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1334711565 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1334712585 23*	23Dethdial has quit (23Ping timeout23)
+T 1334712593 19*	19Dethdial (dethdial@hide-C863FBD9.dsl.telepac.pt) has joined #cjdns
+T 1334727273 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1334727335 23*	23Omelette has quit (23Ping timeout23)
+T 1334727719 23*	23Dethdial has quit (23Client exited23)
+T 1334734614 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1334734670 23*	23Omelette_ has quit (23Ping timeout23)
+T 1334742304 23*	23Omelette has quit (23Ping timeout23)
+T 1334748965 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1334882582 19*	19Now talking on #cjdns
+T 1334882582 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1334882582 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1335047530 19*	19Now talking on #cjdns
+T 1335047530 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1335047530 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1335053577 19*	19Now talking on #cjdns
+T 1335053577 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1335053577 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1335064646 23*	23derp has quit (23Ping timeout23)
+T 1335064882 19*	19derp (derp@406FD7AF:DDDA7E8A:4DA0637E:IP) has joined #cjdns
+T 1335067755 23*	23Dethdial has quit (23Client exited23)
+T 1335067780 23*	23derp has quit (23Ping timeout23)
+T 1335067841 19*	19derp (derp@406FD7AF:DDDA7E8A:4DA0637E:IP) has joined #cjdns
+T 1335073657 23*	23derp has quit (23Ping timeout23)
+T 1335073944 19*	19derp (derp@406FD7AF:DDDA7E8A:4DA0637E:IP) has joined #cjdns
+T 1335074556 23*	23derp has quit (23Ping timeout23)
+T 1335074563 19*	19derp (derp@406FD7AF:DDDA7E8A:4DA0637E:IP) has joined #cjdns
+T 1335077614 23*	23derp has quit (23Ping timeout23)
+T 1335077645 19*	19derp (derp@406FD7AF:DDDA7E8A:4DA0637E:IP) has joined #cjdns
+T 1335081677 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1335082114 23*	23finnbawt has quit (23Client exited23)
+T 1335082115 23*	23thefinn93 has quit (23Client exited23)
+T 1335085978 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1335086543 19*	19thefinn93 (Finn@hide-59CD9FD0.com) has joined #cjdns
+T 1335087015 19*	19finnbawt (hax@hide-59CD9FD0.com) has joined #cjdns
+T 1335091279 23*	23Dan has quit (23Ping timeout23)
+T 1335105293 19*	19J[a]WC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1335105855 23*	23J[a]WC has quit (23Ping timeout23)
+T 1335105893 19*	19J[a]WC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1335111460 19*	19Dethdial (dethdial@hide-26331268.dsl.telepac.pt) has joined #cjdns
+T 1335112602 23*	23Dethdial has quit (23Ping timeout23)
+T 1335112754 19*	19Dethdial (dethdial@hide-26331268.dsl.telepac.pt) has joined #cjdns
+T 1335123206 19*	19Now talking on #cjdns
+T 1335123206 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1335123206 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1335142215 19*	19Now talking on #cjdns
+T 1335142215 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1335142215 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1335144845 19*	19J[a]WC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1335145036 23*	23J[a]WC has quit (23Ping timeout23)
+T 1335147329 23*	23Omelette has quit (23Input/output error23)
+T 1335147581 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1335151315 23*	23Dethdial has quit (23Quit: Leaving23)
+T 1335161184 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1335161801 19*	19Dan (user@hide-14B116AF.hsd1.wa.comcast.net) has joined #cjdns
+T 1335162727 19*	19Dan- (Dan@A6E88DA4.3CBCE158.A69A7BEF.IP) has joined #cjdns
+T 1335167228 23*	23Dan has quit (23Ping timeout23)
+T 1335167228 22*	Dan- is now known as Dan
+T 1335176529 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1335190620 23*	23Omelette has quit (23Ping timeout23)
+T 1335190625 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1335201956 19*	19danry25 (user@hide-CDF28883.seattlecentral.edu) has joined #cjdns
+T 1335204085 23*	23danry25 has quit (23Ping timeout23)
+T 1335204702 19*	19Dethdial (dethdial@hide-26331268.dsl.telepac.pt) has joined #cjdns
+T 1335205332 23*	23Dethdial has quit (23Client exited23)
+T 1335209105 19*	19danry25 (user@hide-14B116AF.hsd1.wa.comcast.net) has joined #cjdns
+T 1335216286 23*	23danry25 has quit (23Quit: Leaving23)
+T 1335216296 19*	19danry25 (user@hide-14B116AF.hsd1.wa.comcast.net) has joined #cjdns
+T 1335221627 19*	19J[a]WC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1335221643 22*	J[a]WC is now known as JAWC
+T 1335222737 23*	23danry25 has quit (23Ping timeout23)
+T 1335224774 23*	23JAWC has quit (23Ping timeout23)
+T 1335225488 19*	19derp (derp@hide-F6E53ED4.members.linode.com) has joined #cjdns
+T 1335247833 19*	19liamz (admin@hide-AAFFF7C2.static.tpgi.com.au) has joined #cjdns
+T 1335247850 18<liamz>	Testing Opera IRC
+T 1335247864 23*	23liamz (23admin@hide-AAFFF7C2.static.tpgi.com.au) has left #cjdns
+T 1335248769 18<Dan>	works
+T 1335248774 18<Dan>	oh, nm
+T 1335255473 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1335269823 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1335319723 19*	19Now talking on #cjdns
+T 1335319723 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1335319723 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1335322765 23*	23Dan has quit (23Ping timeout23)
+T 1335322788 19*	19Dan (Dan@A6E88DA4.3CBCE158.A69A7BEF.IP) has joined #cjdns
+T 1335329522 23*	23Dethdial has quit (23Client exited23)
+T 1335349989 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1335357393 19*	19Now talking on #cjdns
+T 1335357393 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1335357393 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1335484745 19*	19Now talking on #cjdns
+T 1335484745 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1335484745 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1335485123 19*	19derp_ (derp@CDEE44CA:7B63B486:DEF416E3:IP) has joined #cjdns
+T 1335485199 22*	derp_ is now known as derp
+T 1335486091 19*	19Dethdial (dethdial@hide-7EEE4652.dsl.telepac.pt) has joined #cjdns
+T 1335503392 23*	23Dethdial has quit (23Client exited23)
+T 1335659169 19*	19Now talking on #cjdns
+T 1335659169 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1335659169 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1335663077 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #cjdns
+T 1335664111 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1335666592 23*	23Dethdial has quit (23Client exited23)
+T 1335675903 19*	19faye (h@hide-C08E99B5.must.eat.this.delicious-cake.org) has joined #cjdns
+T 1335678097 23*	23thefinn93 has quit (23Ping timeout23)
+T 1335678291 23*	23finnbawt has quit (23Ping timeout23)
+T 1335678373 19*	19thefinn93 (Finn@hide-59CD9FD0.com) has joined #cjdns
+T 1335678460 19*	19finnbawt (hax@hide-59CD9FD0.com) has joined #cjdns
+T 1335681903 23*	23Dan has quit (23Ping timeout23)
+T 1335682956 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1335717314 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #cjdns
+T 1335718335 22*	derp is now known as derp_
+T 1335719229 23*	23Dethdial has quit (23Client exited23)
+T 1335726552 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #cjdns
+T 1335727463 22*	derp_ is now known as derp
+T 1335728647 23*	23Dethdial has quit (23Client exited23)
+T 1335735349 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #cjdns
+T 1335736274 23*	23Dethdial has quit (23Quit: Leaving23)
+T 1335737240 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #cjdns
+T 1335737362 23*	23Dethdial has quit (23Quit: Leaving23)
+T 1335739619 19*	19[Xaronic] (~Xaronic@hide-C34543B5.cable.virginmedia.com) has joined #cjdns
+T 1335743641 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #cjdns
+T 1335745461 23*	23Dethdial has quit (23Quit: Leaving23)
+T 1335752542 23*	23Omelette has quit (23Input/output error23)
+T 1335765624 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1335772096 23*	23[Xaronic] has quit (23Ping timeout23)
+T 1335782314 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1335789803 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #cjdns
+T 1335794064 23*	23Dethdial has quit (23Client exited23)
+T 1335808444 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #cjdns
+T 1335812458 19*	19Dan (Dan@hide-83FB26D1.me) has joined #cjdns
+T 1335833110 23*	23Dethdial has quit (23Quit: Leaving23)
+T 1335837420 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1335855116 22*	Disconnected (Connection timed out).
+T 1335856896 19*	19Now talking on #cjdns
+T 1335856896 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1335856896 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1335865002 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1335865055 23*	23Omelette has quit (23Ping timeout23)
+T 1335867173 19*	19midiclast (midiclast@A37DDCDE:9E8B0420:38BAAB06:IP) has joined #cjdns
+T 1335867277 23*	23midiclast has quit (23Quit: Leaving23)
+T 1335897489 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #cjdns
+T 1335900365 23*	23Dethdial has quit (23Client exited23)
+T 1335916527 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #cjdns
+T 1335926459 23*	23Dethdial has quit (23Client exited23)
+T 1336084126 19*	19Now talking on #cjdns
+T 1336084126 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1336084126 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1336090738 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #cjdns
+T 1336102517 23*	23finnbawt has quit (23Client exited23)
+T 1336102564 19*	19finnbawt (hax@hide-59CD9FD0.com) has joined #cjdns
+T 1336103310 22*	Omelette_ is now known as Omelette
+T 1336106612 23*	23bob_twinkles has quit (23Quit: Leaving23)
+T 1336109296 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1336109424 23*	23finnbawt has quit (23Client exited23)
+T 1336109424 23*	23thefinn93 has quit (23Client exited23)
+T 1336109954 19*	19finnbawt (hax@hide-59CD9FD0.com) has joined #cjdns
+T 1336109985 19*	19thefinn93 (Finn@hide-59CD9FD0.com) has joined #cjdns
+T 1336110732 23*	23GreaseMonkey has quit (23Ping timeout23)
+T 1336111684 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1336112841 23*	23GreaseMonkey has quit (23Ping timeout23)
+T 1336113790 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1336122665 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1336153554 23*	23Omelette has quit (23Connection reset by peer23)
+T 1336155816 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1336244006 19*	19Now talking on #cjdns
+T 1336244006 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1336244006 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1336246106 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336256046 23*	23vmp32k has quit (23Ping timeout23)
+T 1336256049 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336259319 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1336259361 23*	23Omelette has quit (23Ping timeout23)
+T 1336262576 22*	Omelette_ is now known as Omelette
+T 1336266644 19*	19Dethdial (dethdial@hide-B4B024E5.dsl.telepac.pt) has joined #cjdns
+T 1336273257 23*	23Dethdial has quit (23Quit: Leaving23)
+T 1336273953 23*	23bob_twinkles has quit (23Ping timeout23)
+T 1336276921 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1336277036 23*	23Omelette has quit (23Ping timeout23)
+T 1336277123 22*	Omelette_ is now known as Omelette
+T 1336277646 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1336279703 23*	23vmp32k has quit (23Ping timeout23)
+T 1336280060 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336284948 23*	23finnbawt has quit (23Client exited23)
+T 1336284968 19*	19finnbawt (hax@hide-59CD9FD0.com) has joined #cjdns
+T 1336285438 23*	23vmp32k has quit (23Ping timeout23)
+T 1336285581 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336290016 23*	23Omelette has quit (23Ping timeout23)
+T 1336290184 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1336290777 23*	23vmp32k has quit (23Ping timeout23)
+T 1336290813 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336292568 19*	19ds500ss (anonbox@hide-A375B163.adsl2.static.versatel.nl) has joined #cjdns
+T 1336301456 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1336304974 19*	19santoscrew (santoscrew@hide-827ADEB9.dynamic.upc.nl) has joined #cjdns
+T 1336307197 23*	23vmp32k has quit (23Ping timeout23)
+T 1336307294 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336319753 23*	23vmp32k has quit (23Ping timeout23)
+T 1336319755 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336319870 19*	19Dethdial (dethdial@hide-B4B024E5.dsl.telepac.pt) has joined #cjdns
+T 1336321961 23*	23vmp32k has quit (23Ping timeout23)
+T 1336321995 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336322786 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #cjdns
+T 1336323040 23*	23vmp32k has quit (23Ping timeout23)
+T 1336323421 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336324193 23*	23santoscrew has quit (23Ping timeout23)
+T 1336325284 23*	23Dethdial has quit (23Client exited23)
+T 1336340261 19*	19Now talking on #cjdns
+T 1336340261 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1336340261 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1336341607 23*	23vmp32k has quit (23Ping timeout23)
+T 1336342602 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336345811 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #cjdns
+T 1336356100 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1336356107 23*	23Omelette has quit (23Ping timeout23)
+T 1336359492 22*	Omelette_ is now known as Omelette
+T 1336359740 23*	23Omelette has quit (23Ping timeout23)
+T 1336359740 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1336360430 23*	23faye has quit (23Quit: leaving23)
+T 1336370600 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #cjdns
+T 1336377081 23*	23vmp32k has quit (23Ping timeout23)
+T 1336379830 23*	23GreaseMonkey has quit (23Input/output error23)
+T 1336392657 23*	23santoscrew has quit (23Ping timeout23)
+T 1336392824 19*	19[Xaronic] (~Xaronic@hide-FF5F9B7C.onyx.net) has joined #cjdns
+T 1336393770 23*	23[Xaronic] has quit (23Ping timeout23)
+T 1336393808 19*	19[Xaronic] (~Xaronic@hide-FF5F9B7C.onyx.net) has joined #cjdns
+T 1336393872 23*	23[Xaronic] has quit (23Connection reset by peer23)
+T 1336490121 19*	19Now talking on #cjdns
+T 1336490121 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1336490121 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1336491165 23*	23vmp32k has quit (23Ping timeout23)
+T 1336491230 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336491790 23*	23vmp32k has quit (23Ping timeout23)
+T 1336492045 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336599076 19*	19Now talking on #cjdns
+T 1336599076 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1336599076 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1336599339 23*	23vmp32k has quit (23Ping timeout23)
+T 1336599344 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336600495 23*	23Dethdial has quit (23Client exited23)
+T 1336601873 19*	19Dethdial (dethdial@hide-5BFA88A8.dsl.telepac.pt) has joined #cjdns
+T 1336603373 22*	jercos is now known as Saddestjercos
+T 1336603554 23*	23vmp32k has quit (23Ping timeout23)
+T 1336603561 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336603653 22*	Saddestjercos is now known as jercos
+T 1336605575 23*	23vmp32k has quit (23Ping timeout23)
+T 1336605846 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336606339 23*	23vmp32k has quit (23Ping timeout23)
+T 1336606608 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336608624 23*	23Dethdial has quit (23Quit: Leaving23)
+T 1336608724 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #cjdns
+T 1336609783 23*	23vmp32k has quit (23Ping timeout23)
+T 1336609818 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336610473 23*	23vmp32k has quit (23Ping timeout23)
+T 1336610475 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336610671 23*	23vmp32k has quit (23Ping timeout23)
+T 1336610800 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336612219 23*	23vmp32k has quit (23Ping timeout23)
+T 1336612348 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336613669 23*	23vmp32k has quit (23Ping timeout23)
+T 1336613738 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336615171 23*	23vmp32k has quit (23Ping timeout23)
+T 1336615236 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336616347 23*	23vmp32k has quit (23Ping timeout23)
+T 1336616350 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336616684 23*	23vmp32k has quit (23Ping timeout23)
+T 1336616718 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336618848 23*	23vmp32k has quit (23Ping timeout23)
+T 1336618881 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336619634 23*	23vmp32k has quit (23Ping timeout23)
+T 1336619652 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336622623 23*	23bob_twinkles has quit (23Client exited23)
+T 1336627247 23*	23vmp32k has quit (23Ping timeout23)
+T 1336627281 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336627988 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336629229 23*	23vmp32k has quit (23Ping timeout23)
+T 1336629241 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336629575 23*	23JAWC has quit (23Ping timeout23)
+T 1336629605 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336630370 23*	23vmp32k has quit (23Ping timeout23)
+T 1336630467 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336630746 23*	23vmp32k has quit (23Ping timeout23)
+T 1336631001 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336632602 23*	23vmp32k has quit (23Ping timeout23)
+T 1336632619 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336633154 23*	23vmp32k has quit (23Ping timeout23)
+T 1336633172 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336635983 23*	23vmp32k has quit (23Ping timeout23)
+T 1336636049 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336636523 23*	23vmp32k has quit (23Ping timeout23)
+T 1336636529 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336638753 23*	23JAWC has quit (23Ping timeout23)
+T 1336638756 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336639079 23*	23vmp32k has quit (23Ping timeout23)
+T 1336639082 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336641320 19*	19santoscrew (santoscrew@hide-827ADEB9.dynamic.upc.nl) has joined #cjdns
+T 1336649894 23*	23vmp32k has quit (23Ping timeout23)
+T 1336649912 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336657599 19*	19Now talking on #cjdns
+T 1336657599 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1336657599 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1336659419 23*	23vmp32k has quit (23Ping timeout23)
+T 1336659484 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336659803 23*	23santoscrew has quit (23Ping timeout23)
+T 1336659816 19*	19santoscrew (santoscrew@A06CFFE4.BA602F57.B967C95.IP) has joined #cjdns
+T 1336659821 23*	23santoscrew has quit (23Connection reset by peer23)
+T 1336659888 23*	23vmp32k has quit (23Ping timeout23)
+T 1336659905 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336660141 19*	19santoscrew (santoscrew@A06CFFE4.BA602F57.B967C95.IP) has joined #cjdns
+T 1336661882 23*	23vmp32k has quit (23Ping timeout23)
+T 1336661962 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336664441 23*	23JAWC has quit (23Ping timeout23)
+T 1336664470 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336665630 23*	23vmp32k has quit (23Ping timeout23)
+T 1336665759 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336665953 23*	23vmp32k has quit (23Ping timeout23)
+T 1336666144 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336666705 23*	23vmp32k has quit (23Ping timeout23)
+T 1336666770 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336667516 23*	23vmp32k has quit (23Ping timeout23)
+T 1336667550 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336668021 23*	23vmp32k has quit (23Ping timeout23)
+T 1336668024 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336668700 23*	23vmp32k has quit (23Ping timeout23)
+T 1336668829 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336669777 23*	23finnbawt has quit (23Client exited23)
+T 1336670057 23*	23vmp32k has quit (23Ping timeout23)
+T 1336670066 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336671641 23*	23santoscrew has quit (23Ping timeout23)
+T 1336671653 19*	19santoscrew (santoscrew@hide-827ADEB9.dynamic.upc.nl) has joined #cjdns
+T 1336671968 23*	23JAWC has quit (23Ping timeout23)
+T 1336671972 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336672146 23*	23vmp32k has quit (23Ping timeout23)
+T 1336672231 19*	19[Xaronic] (~Xaronic@hide-7A792C59.cable.virginmedia.com) has joined #cjdns
+T 1336672464 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336672968 23*	23vmp32k has quit (23Ping timeout23)
+T 1336673222 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336673415 23*	23vmp32k has quit (23Ping timeout23)
+T 1336673495 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336674209 23*	23santoscrew has quit (23Ping timeout23)
+T 1336674898 23*	23vmp32k has quit (23Ping timeout23)
+T 1336674904 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336677401 23*	23[Xaronic] has quit (23Ping timeout23)
+T 1336678346 23*	23vmp32k has quit (23Ping timeout23)
+T 1336678404 19*	19[Xaronic] (~Xaronic@hide-7A792C59.cable.virginmedia.com) has joined #cjdns
+T 1336678412 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336679472 23*	23[Xaronic] has quit (23Ping timeout23)
+T 1336680338 19*	19[Xaronic] (~Xaronic@hide-7A792C59.cable.virginmedia.com) has joined #cjdns
+T 1336680504 23*	23vmp32k has quit (23Ping timeout23)
+T 1336680538 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336681963 23*	23JAWC has quit (23Ping timeout23)
+T 1336681965 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336682236 23*	23vmp32k has quit (23Ping timeout23)
+T 1336682396 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336699658 19*	19Now talking on #cjdns
+T 1336699658 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1336699658 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1336700864 23*	23JAWC has quit (23Ping timeout23)
+T 1336700871 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336703459 23*	23JAWC has quit (23Ping timeout23)
+T 1336703512 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336705465 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336706624 23*	23JAWC has quit (23Ping timeout23)
+T 1336706634 23*	23vmp32k has quit (23Ping timeout23)
+T 1336706932 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336707209 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336707497 23*	23vmp32k has quit (23Ping timeout23)
+T 1336707570 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336707595 23*	23JAWC has quit (23Ping timeout23)
+T 1336707621 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336707762 23*	23vmp32k has quit (23Ping timeout23)
+T 1336707892 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336708084 23*	23vmp32k has quit (23Ping timeout23)
+T 1336708244 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336708720 23*	23vmp32k has quit (23Ping timeout23)
+T 1336708792 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336708987 23*	23vmp32k has quit (23Ping timeout23)
+T 1336709320 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336709550 23*	23JAWC has quit (23Ping timeout23)
+T 1336710261 23*	23vmp32k has quit (23Ping timeout23)
+T 1336710673 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336711133 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336712169 23*	23vmp32k has quit (23Ping timeout23)
+T 1336712171 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336712376 23*	23JAWC has quit (23Ping timeout23)
+T 1336713044 23*	23vmp32k has quit (23Ping timeout23)
+T 1336713047 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336713323 23*	23vmp32k has quit (23Ping timeout23)
+T 1336713325 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336715419 23*	23vmp32k has quit (23Ping timeout23)
+T 1336715606 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336715680 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336716500 23*	23vmp32k has quit (23Ping timeout23)
+T 1336716781 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336717450 23*	23JAWC has quit (23Ping timeout23)
+T 1336718417 23*	23vmp32k has quit (23Ping timeout23)
+T 1336718483 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336718609 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336718863 23*	23vmp32k has quit (23Ping timeout23)
+T 1336718865 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336719018 23*	23JAWC has quit (23Ping timeout23)
+T 1336719246 23*	23vmp32k has quit (23Ping timeout23)
+T 1336719250 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336719625 23*	23vmp32k has quit (23Ping timeout23)
+T 1336719722 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336720295 23*	23vmp32k has quit (23Ping timeout23)
+T 1336720494 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336724373 23*	23vmp32k has quit (23Ping timeout23)
+T 1336724375 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336725447 23*	23vmp32k has quit (23Ping timeout23)
+T 1336725478 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336725480 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336726044 23*	23vmp32k has quit (23Ping timeout23)
+T 1336726126 23*	23JAWC has quit (23Ping timeout23)
+T 1336726140 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336727028 23*	23vmp32k has quit (23Ping timeout23)
+T 1336727030 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336728816 23*	23vmp32k has quit (23Ping timeout23)
+T 1336728818 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336729956 23*	23vmp32k has quit (23Ping timeout23)
+T 1336730211 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336731244 23*	23vmp32k has quit (23Ping timeout23)
+T 1336731688 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336732078 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336732848 23*	23JAWC has quit (23Ping timeout23)
+T 1336733429 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336736564 23*	23vmp32k has quit (23Ping timeout23)
+T 1336737700 23*	23JAWC has quit (23Ping timeout23)
+T 1336739461 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336740667 23*	23JAWC has quit (23Ping timeout23)
+T 1336742154 19*	19Now talking on #cjdns
+T 1336742154 29*	29Topic for #cjdns 29is: https://github.com/cjdelisle/cjdns | RIP dmr | Most chat happens on efnet: irc.efnet.org #cjdns | If cjd is here, the network is up :) | Get install help & meet people to peer with | For voice: /mode <your name> -x  /cycle 
+T 1336742154 29*	29Topic for #cjdns 29set by cjd 29at Sat Feb 18 01:02:21 2012
+T 1336745043 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336745898 23*	23JAWC has quit (23Ping timeout23)
+T 1336745943 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336746827 23*	23JAWC has quit (23Ping timeout23)
+T 1336749808 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336749967 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336750097 23*	23vmp32k has quit (23Ping timeout23)
+T 1336750415 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336751066 23*	23JAWC has quit (23Ping timeout23)
+T 1336751460 23*	23vmp32k has quit (23Ping timeout23)
+T 1336751709 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336751715 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336751964 23*	23JAWC has quit (23Ping timeout23)
+T 1336752728 19*	19Smooke (Smooke@hide-876F6647.epm.net.co) has joined #cjdns
+T 1336753171 23*	23Smooke has quit (23Ping timeout23)
+T 1336753489 19*	19Smooke (Smooke@hide-876F6647.epm.net.co) has joined #cjdns
+T 1336753732 23*	23Smooke has quit (23Quit: 23)
+T 1336754362 23*	23vmp32k has quit (23Ping timeout23)
+T 1336754497 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336754918 19*	19JAWC (thejc@3D980906:5591570:9F71E765:IP) has joined #cjdns
+T 1336755299 19*	19Dethdial (dethdial@hide-5BFA88A8.dsl.telepac.pt) has joined #cjdns
+T 1336756087 23*	23vmp32k has quit (23Ping timeout23)
+T 1336756247 19*	19vmp32k (vmp32k@fc0b:4bea:15d1:10bb:14b9:8ca9:d77:8d9) has joined #cjdns
+T 1336759695 23*	23vmp32k has quit (23Ping timeout23)
+T 1336767300 23*	23Omelette has quit (23Connection reset by peer23)
+T 1336767301 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #cjdns
+T 1336768516 23*	23Dethdial has quit (23Client exited23)

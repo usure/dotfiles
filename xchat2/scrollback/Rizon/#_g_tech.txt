@@ -1,0 +1,734 @@
+T 1336748635 22*	26[420] gives channel operator status to26 auREAX_
+T 1336748675 23*	23shoe420 has quit (23Quit: Leaving23)
+T 1336748705 19*	19nika420 (~conor@Rizon-BDA9D63F.wireless.umd.edu) has joined #/g/tech
+T 1336748765 22*	limit sets channel limit to 124
+T 1336749060 19*	19Kurtov_ (~Kurtov__@Rizon-EB929B7D.eburwd4.vic.optusnet.com.au) has joined #/g/tech
+T 1336749078 23*	23Kurtov_ has quit (2323)
+T 1336749081 23*	23Kurtov has quit (23Quit: Leaving23)
+T 1336749101 19*	19Kurtov (~Kurtov__@Rizon-EB929B7D.eburwd4.vic.optusnet.com.au) has joined #/g/tech
+T 1336749163 23*	23Longlius has quit (23Quit: Lost terminal23)
+T 1336749193 23*	23Sudos|PBG4 has quit (23Quit: MacIrssi running on OSX 10.4.11 on an original, ancient 2001 Ti Powerbook G4 500MHz.23)
+T 1336749224 22*	limit sets channel limit to 122
+T 1336749285 19*	19auREAX__ (~mobile@Rizon-21ACF927.cm-5-7b.dynamic.ziggo.nl) has joined #/g/tech
+T 1336749285 22*	26[420] gives channel operator status to26 auREAX__
+T 1336749467 23*	23auREAX_ has quit (23Ping timeout: 240 seconds23)
+T 1336749657 19*	19i5 (~Kirisame@dont.call.me.gaga) has joined #/g/tech
+T 1336749734 19*	19Siouxsie (~FISH_CAT@all.these.moments.will.be.lost.in.time.like.tears.in.rain) has joined #/g/tech
+T 1336749734 22*	26[420] gives voice to26 Siouxsie
+T 1336749787 23*	23Marisa has quit (23Ping timeout: 240 seconds23)
+T 1336749885 19*	19Leod (~R@rity.is.a.sexy.pony) has joined #/g/tech
+T 1336749943 23*	23LeOdd has quit (23Ping timeout: 240 seconds23)
+T 1336750182 23*	23Siouxsie has quit (2323)
+T 1336750304 23*	23i5 has quit (23Ping timeout: 240 seconds23)
+T 1336750332 23*	23Kurtov has quit (23Read error: Connection reset by peer23)
+T 1336750364 22*	limit sets channel limit to 120
+T 1336750490 18<MisfortuneCooki>	http://images.4chan.org/g/src/1336749575655.jpg
+T 1336750491 18<UltraBot>	[URI 41 by "MisfortuneCooki"] MIME-Type "image/jpeg". 107.14 kiB
+T 1336750512 19*	19Uguubee2 (~uguubee@Rizon-BA2D3F25.dsl.pth.iprimus.net.au) has joined #/g/tech
+T 1336750522 18<mortaneous>	oh darn, I missed the trolling again
+T 1336750526 18<CvR[TSW]>	oie Haeroe PM
+T 1336750531 18<Aaron>	mortaneous: hey, you familiar with openrc ?
+T 1336750536 22*	CvR[TSW] is now known as CvR
+T 1336750549 18<auREAX>	oi aaron
+T 1336750551 18<auREAX>	oi
+T 1336750566 23*	23Uguubee has quit (23Ping timeout: 240 seconds23)
+T 1336750576 18<Aaron>	au	
+T 1336750578 18<Aaron>	auREAX
+T 1336750584 18<auREAX>	sup
+T 1336750587 18<auREAX>	;3
+T 1336750597 18<CvR>	uh guys
+T 1336750603 18<CvR>	why did you kick MoistGorilla
+T 1336750608 18<CvR>	Mendel is the father of genetics
+T 1336750609 18<auREAX>	he was moist
+T 1336750611 18<auREAX>	and a gorilla
+T 1336750615 18<CvR>	Mendel was an augustinian friar
+T 1336750617 18<CvR>	IE priest
+T 1336750622 18<Aaron>	auREAX: my VPS got rebooted earlier so I'm taking the downtime for some maintainance
+T 1336750625 18<Aaron>	and openrc is being stupid 
+T 1336750630 18<Aaron>	it's starting one of my init scripts twice
+T 1336750631 18<auREAX>	I prefer mandelbrot, CvR 
+T 1336750633 18<auREAX>	( ≖‿≖)
+T 1336750651 18<auREAX>	Aaron: no symlinks, I presume?
+T 1336750654 18<CvR>	lol
+T 1336750676 18<MisfortuneCooki>	<auREAX> he was moist
+T 1336750676 18<MisfortuneCooki>	<auREAX> and a gorilla
+T 1336750677 18<MisfortuneCooki>	( ≖‿≖)
+T 1336750711 23*	23Ramen-HardGay has quit (23Quit: leaving23)
+T 1336750742 18<CvR>	i'm just reading the scrollback i don't see a problem with what he was saying
+T 1336750774 18<CvR>	like, almost everything he is saying is verifiable with a quick google search
+T 1336750801 18<MisfortuneCooki>	because he was taking the "hurr durr you guys are jest stuped" approach to debate
+T 1336750823 18<CvR>	only after you guys ganged up on him
+T 1336750857 18<MisfortuneCooki>	nah
+T 1336750868 18<MisfortuneCooki>	he was doing it intermittently
+T 1336750935 19*	19OmegaVesko (~quassel@Rizon-53090B37.dynamic.isp.telekom.rs) has joined #/g/tech
+T 1336751076 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/tech
+T 1336751293 23*	23Noxialis has quit (23Ping timeout: 240 seconds23)
+T 1336751346 19*	19Noxialis (~nokshalee@tired.of.mere.fantasy) has joined #/g/tech
+T 1336751354 18<RageistheNewSage>	CvR: Somebody who declares themself a Godless Catholic isn't worth having around
+T 1336751366 18<CvR>	( ≖‿≖) ( ≖‿≖) ( ≖‿≖) 
+T 1336751383 23*	23Noxialis has quit (23Read error: Connection reset by peer23)
+T 1336751405 18<megafag>	nn
+T 1336751407 18<RageistheNewSage>	Just because he was molested doesn't mean we need to hear his buttpain
+T 1336751410 23*	23megafag has quit (23Quit: sleepan23)
+T 1336751410 18<RageistheNewSage>	( ≖‿≖)
+T 1336751419 18<CvR>	( ≖‿≖) 
+T 1336751618 19*	19Noxialis (~nokshalee@tired.of.mere.fantasy) has joined #/g/tech
+T 1336751759 18<auREAX>	(≖‿≖ )
+T 1336751905 23*	23Noxialis has quit (23Read error: Connection reset by peer23)
+T 1336752294 18<thetooth>	are you guys still on the same fucking topic
+T 1336752404 19*	19shoe420 (~conor@Rizon-BDA9D63F.wireless.umd.edu) has joined #/g/tech
+T 1336752423 18<thetooth>	oh i see i hadn't scrolled down
+T 1336752425 18<thetooth>	( ⊙‿⊙)
+T 1336752500 23*	23nika420 has quit (23Ping timeout: 240 seconds23)
+T 1336752504 18<RageistheNewSage>	ur a fat
+T 1336752560 18<RageistheNewSage>	Bed ( ._.) (  ._) (    .) (     ) (≖    ) (‿≖  ) (≖‿≖ ) (≖‿≖) ( ≖‿≖) ( -‿-)©RageisTheNewSage
+T 1336752570 18<RageistheNewSage>	[ (‿≖  ) ] ~zzzzzzzzzzzzzzz
+T 1336752734 18<desg>	wtf
+T 1336752744 19*	19Ultimation (~ultimatio@what.is.irc) has joined #/g/tech
+T 1336752744 18<desg>	for some reason when people post that face
+T 1336752751 18<desg>	it comes up as quetion maks
+T 1336752754 18<desg>	mrks*
+T 1336752838 18<RageistheNewSage>	desg: you need to purchase a gface license
+T 1336752884 18<Kagami>	Does anybody here have Chrome?
+T 1336752895 18<auREAX>	botnet
+T 1336752899 18<Kagami>	I know that
+T 1336752943 18<Kagami>	Does anybody have it anyway?
+T 1336752962 18<MisfortuneCooki>	nope
+T 1336753031 18<desg>	troll
+T 1336753056 18<desg>	i think my font doesn't support unicode
+T 1336753099 18<MisfortuneCooki>	the font comes with the license
+T 1336753109 18<auREAX>	Gface Extended.otf
+T 1336753122 18<desg>	lol
+T 1336753230 19*	19Noxialis (~nokshalee@tired.of.mere.fantasy) has joined #/g/tech
+T 1336753255 19*	19Brian8bit (~Brian8bit@Rizon-E746C5BE.as13285.net) has joined #/g/tech
+T 1336753255 22*	26[420] gives voice to26 Brian8bit
+T 1336753291 22*	limit sets channel limit to 122
+T 1336753490 18<Brian8bit>	What's the command on Linux for ripping an entire dvd? I mean everything including the movie, extras, subtitles and alternate tracks. There's an app for Mac called RipIt that does this. But they're looking $20 for it and I know that it's just a flashy front end for a simple command...
+T 1336753509 19*	19impending_testacles (cgiirc@shall.bring.destruction) has joined #/g/tech
+T 1336753551 18<netwoodle>	Brian8bit, doesn't handbrake have a port for linux?
+T 1336753599 18<Brian8bit>	I've got handbrake for encoding. I want to rip the DVD entirely for archiving and storage. Then when I want to watch anything I can use handbrake to encode to what my Apple TV can play.
+T 1336753633 18<MisfortuneCooki>	use dd
+T 1336753639 18<netwoodle>	^
+T 1336753649 18<Brian8bit>	Thanks, I'll google about it now
+T 1336753651 18<MisfortuneCooki>	http://www.ehow.com/how_6121198_use-dd-make-iso-image.html
+T 1336753652 18<UltraBot>	[URI 42 by "MisfortuneCooki"] Title: How to Use DD to Make an ISO Image | eHow.com
+T 1336753683 18<auREAX>	Brian8bit: dd
+T 1336753872 18<MisfortuneCooki>	auREAX, dd
+T 1336753945 18<auREAX>	MisfortuneCooki: dd
+T 1336753949 18<MisfortuneCooki>	auREAX, dd
+T 1336753955 18<auREAX>	MisfortuneCooki: dd
+T 1336753963 18<MisfortuneCooki>	auREAX, dd
+T 1336753974 18<netwoodle>	MisfortuneCooki, auREAX, dd
+T 1336753980 18<MisfortuneCooki>	auREAX, dd
+T 1336753987 18<auREAX>	netwoodle, MisfortuneCooki: dd
+T 1336754013 18<MisfortuneCooki>	netwoodle, MisfortuneCooki, auREAX, dd
+T 1336754029 18<RageistheNewSage>	dd if=gface of=pirated-gface
+T 1336754049 18<RageistheNewSage>	dd: Failed - Erasing Hard Drive
+T 1336754065 18<RageistheNewSage>	[ (‿≖  ) ] ~zzzzzzzzzzzzzzz
+T 1336754066 18<auREAX>	 /dev/gface
+T 1336754070 18<auREAX>	gface kernel module
+T 1336754081 18<netwoodle>	Hmm
+T 1336754092 23*	23Leod has quit (23Quit: I think I should know how to make love to something innocent23)
+T 1336754105 18<netwoodle>	I once printed out a gface
+T 1336754109 18<netwoodle>	so I could gface irl
+T 1336754116 18<netwoodle>	 ( ≖‿≖)
+T 1336754119 18<netwoodle>	( ≖‿≖)
+T 1336754128 18<RageistheNewSage>	he paper is DRM it's ok
+T 1336754179 18<RageistheNewSage>	http://www.youtube.com/watch?v=umTDLZHlXmo
+T 1336754180 18<UltraBot>	[URI 43 by "RageistheNewSage"] Title: How To Make Creamy Home Made Pumpkin Soup- YouTube
+T 1336754184 19*	19LeOdd (~R@rity.is.a.sexy.pony) has joined #/g/tech
+T 1336754234 19*	19Feint (~Feint@Rizon-8A3862AA.range86-154.btcentralplus.com) has joined #/g/tech
+T 1336754244 22*	limit sets channel limit to 124
+T 1336754459 18<MisfortuneCooki>	RageistheNewSage, whyyyyyyy
+T 1336754522 18<RageistheNewSage>	( ≖‿≖)
+T 1336754536 23*	23asdfman has quit (2323)
+T 1336754574 23*	23one[coding] has quit (23Ping timeout: 240 seconds23)
+T 1336754597 22*	limit sets channel limit to 122
+T 1336754629 19*	19asdfman (~as@df.man) has joined #/g/tech
+T 1336754722 18<netwoodle>	Guys
+T 1336754726 18<netwoodle>	I am eating an apple
+T 1336754779 18<MisfortuneCooki>	i ate a carrot that tasted like watermelon
+T 1336754833 18<netwoodle>	How
+T 1336754850 18<MisfortuneCooki>	fresh, somewhat sweet
+T 1336755009 18<netwoodle>	That's quite odd
+T 1336755097 19*	19one[coding] (~one@Rizon-2542EBA9.pools.arcor-ip.net) has joined #/g/tech
+T 1336755145 23*	23ZYX has quit (2323)
+T 1336755194 18<RageistheNewSage>	I'm eating a gface approved meal with my gFork
+T 1336755224 18<auREAX>	gfork®
+T 1336755305 18<netwoodle>	( ≖‿≖)
+T 1336755367 18<netwoodle>	oh
+T 1336755375 18<netwoodle>	Haeroe, I missed your query
+T 1336755487 19*	19hades|away (~hades@Rizon-204C5F91.netcologne.de) has joined #/g/tech
+T 1336755487 22*	26[420] gives voice to26 hades|away
+T 1336755547 22*	limit sets channel limit to 124
+T 1336755810 19*	19RJ45 (~RJ45@6E8B2BCF.232B73CD.20FF9D7C.IP) has joined #/g/tech
+T 1336756086 18<Chibs>	Man
+T 1336756091 18<Chibs>	it took 4 hours
+T 1336756097 18<Chibs>	but my bros rig turned out great
+T 1336756118 18<MisfortuneCooki>	RageistheNewSage, i'm sorry, but we have to do a license audit on your fork
+T 1336756125 18<Chibs>	besides his case, turns out he didnt go with the lian li I picked out, but a ricer as fuck raidmax case
+T 1336756138 18<netwoodle>	>Riceer
+T 1336756142 18<netwoodle>	murder him
+T 1336756150 18<Chibs>	Whatever man, its his computer
+T 1336756159 18<Chibs>	there was literally NOWHERE yo hide any of the cables
+T 1336756162 18<netwoodle>	rice is evil
+T 1336756164 18<netwoodle>	kill it
+T 1336756165 18<netwoodle>	kill it
+T 1336756165 18<netwoodle>	kill it
+T 1336756166 18<netwoodle>	kill it
+T 1336756166 18<netwoodle>	kill it
+T 1336756166 23*	23netwoodle has quit (23Connection closed23)
+T 1336756188 18<Chibs>	I have a ricer case too, for the past 2 years, but mine at least has places to hide your shit
+T 1336756203 18<MisfortuneCooki>	...your weed?
+T 1336756239 18<auREAX>	netwoodle status [X] RICED]
+T 1336756241 18<Chibs>	No, your cables and ziptied off shit
+T 1336756257 18<MisfortuneCooki>	>actually caring about case management
+T 1336756260 18<MisfortuneCooki>	RIIIIICERRR
+T 1336756261 18<UltraBot>	IS AL MAIR YOUR REAL NAME, AL MAIR?
+T 1336756394 18<Leissi_>	holy shit
+T 1336756398 19*	19cocaine (~cocaine@chug.chug.chug.chug) has joined #/g/tech
+T 1336756404 18<Leissi_>	biologic (bacterial) hard drives?
+T 1336756408 18<Leissi_>	my body is not yet ready
+T 1336756464 23*	23Brian8bit has quit (23Quit: Quitting!23)
+T 1336756497 18<hades|away>	>drop antibiotic on hdd
+T 1336756499 18<hades|away>	NOOOOOOOOOOOOOO
+T 1336756499 18<UltraBot>	NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO~
+T 1336756503 18<Leissi_>	:D
+T 1336756504 18<hades|away>	( ≖‿≖)
+T 1336756567 18<hades|away>	good for destroying evidence when the fbi raids for your cp
+T 1336756579 18<hades|away>	just a slpash of amoxiciline
+T 1336756579 18<hades|away>	~
+T 1336756766 18<hades|away>	anyway
+T 1336756769 18<hades|away>	time for werk
+T 1336756771 18<hades|away>	~
+T 1336756773 23*	23hades|away has quit (23Quit: *.net *.split23)
+T 1336756834 19*	19F_JUNK_DUMP (~lol@im.just.a.little.girl) has joined #/g/tech
+T 1336756834 22*	26[420] gives voice to26 F_JUNK_DUMP
+T 1336757205 19*	19corefx (~corefx@Rizon-39518E65.adsl.wanadoo.nl) has joined #/g/tech
+T 1336757240 23*	23OmegaVesko has quit (23Ping timeout: 240 seconds23)
+T 1336757396 19*	19OmegaVesko (~quassel@Rizon-53090B37.dynamic.isp.telekom.rs) has joined #/g/tech
+T 1336757578 19*	19Cheeseum (~cheddar@aged.for.fifteen.to.nineteen.months) has joined #/g/tech
+T 1336757638 22*	limit sets channel limit to 126
+T 1336757684 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/g/tech
+T 1336757699 23*	23impending_testacles has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1336757780 19*	19Longlius (~hatter@1AC0425.3A6EA0E3.27160978.IP) has joined #/g/tech
+T 1336757780 22*	26[420] gives voice to26 Longlius
+T 1336757926 19*	19Brian8bit (~Brian8bit@Rizon-E746C5BE.as13285.net) has joined #/g/tech
+T 1336757926 22*	26[420] gives voice to26 Brian8bit
+T 1336757987 22*	limit sets channel limit to 128
+T 1336758131 18<shoe420>	https://www.youtube.com/watch?v=N2vzotsvvkw
+T 1336758132 18<UltraBot>	[URI 44 by "shoe420"] Title: TEDxYYC - Kirk Sorensen - Thorium- YouTube
+T 1336758168 19*	19netwoodle (~noodle@noodle.noodle.noodle) has joined #/g/tech
+T 1336758168 22*	26[420] gives voice to26 netwoodle
+T 1336758180 23*	23shoe420 has quit (23Quit: Leaving23)
+T 1336758221 19*	19nika420 (~conor@Rizon-BDA9D63F.wireless.umd.edu) has joined #/g/tech
+T 1336758684 19*	19ZYX (~none@we.are.soldiers.stand.or.die.com) has joined #/g/tech
+T 1336758745 22*	limit sets channel limit to 130
+T 1336758804 18<RageistheNewSage>	>thorium
+T 1336758826 18<ZYX>	sup everybody
+T 1336758842 18<ZYX>	>MFW i had to restart cuz of stupid WDM crashes again
+T 1336758857 18<ZYX>	if it happens once it always ends up leading to multiple ones :/
+T 1336758868 18<ZYX>	cuz shit gets clogged or somethin
+T 1336758875 18<ZYX>	stupid glitches oh well
+T 1336758896 18*	ZYX checks what latest nvidia drivers are at though
+T 1336758927 18<ZYX>	hmm still around 290s
+T 1336758929 18<ZYX>	nonbeta
+T 1336759007 18<auREAX>	RageistheNewSage: >PPNL proxy is down
+T 1336759009 18<auREAX>	>use PPUK proxy
+T 1336759011 18<auREAX>	(≖‿≖ )
+T 1336759015 18<RageistheNewSage>	well obviously
+T 1336759016 18<RageistheNewSage>	( ≖‿≖)
+T 1336759025 18<auREAX>	what about dat press statement by the way
+T 1336759028 18<RageistheNewSage>	we're getting 3 million hits a day
+T 1336759044 18<RageistheNewSage>	what about it
+T 1336759052 18<ZYX>	?
+T 1336759064 18<auREAX>	did you release it
+T 1336759108 18<RageistheNewSage>	We released a press statemen
+T 1336759109 18<RageistheNewSage>	t
+T 1336759114 18<RageistheNewSage>	not really anything like that one though
+T 1336759116 18<RageistheNewSage>	( ≖‿≖)
+T 1336759120 18<auREAX>	(≖‿≖ )
+T 1336759124 18<auREAX>	so much for the translation then
+T 1336759152 18<RageistheNewSage>	( ≖‿≖)
+T 1336759273 18<Leissi_>	http://www.youtube.com/watch?v=q_A1GNx0M9M
+T 1336759274 18<UltraBot>	[URI 45 by "Leissi_"] Title: Your sound card works perfectly- YouTube
+T 1336759283 18<Leissi_>	Here's something to test your soundcard with
+T 1336759352 18<hghgd>	http://www.youtube.com/watch?v=H8ScNjBd118 wow
+T 1336759353 18<UltraBot>	[URI 46 by "hghgd"] Title: Video Game High School - Trailer- YouTube
+T 1336759366 18<Connor>	It doesn't get any better than this
+T 1336759407 18<Connor>	>E for everyone
+T 1336759411 18<Connor>	>not K-A Kids to Adults
+T 1336759415 18<Connor>	That kid is shit tier
+T 1336759436 18<Connor>	ALso this show sounds terrible
+T 1336759477 18<Connor>	>IBM Model M
+T 1336759482 18<desg>	lol
+T 1336759485 18<Connor>	>broken in half
+T 1336759486 18<Connor>	nope
+T 1336759517 18<MisfortuneCooki>	wha tthe hell
+T 1336759524 18<desg>	does anyone still have their ibm thinkpad
+T 1336759525 18<MisfortuneCooki>	why did they flash that cat 
+T 1336759532 18<MisfortuneCooki>	i have a thinkpad
+T 1336759536 18<MisfortuneCooki>	and two thinkcentres
+T 1336759630 18<auREAX>	www.youtube.com/watch?v=eN54I8n91pw&feature=g-vrec&t=2m20s
+T 1336759634 18<auREAX>	what am I watching
+T 1336759706 18<RageistheNewSage>	Good news guys PulseAudio 2.0 runs on HURD
+T 1336759724 18<MisfortuneCooki>	but does HURD even run
+T 1336759725 18<MisfortuneCooki>	( ≖‿≖)
+T 1336759803 18<Connor>	Why isn't there ALSA for BSD?
+T 1336759810 18<Connor>	( ≖‿≖)
+T 1336759829 18<Connor>	Everyone says BSD is so good but they don't have ALSA, how can they beat Linux without ALSA?
+T 1336759878 19*	19KingSage (~KingSage@alcohol.and.narcotics) has joined #/g/tech
+T 1336759893 18<MisfortuneCooki>	Connor, how many fucking audio interfaces does one OS need
+T 1336759899 18<Connor>	Two
+T 1336759903 18<MisfortuneCooki>	also
+T 1336759907 18<MisfortuneCooki>	>server OS
+T 1336759910 18<MisfortuneCooki>	>needing audio
+T 1336759959 18<kweeb>	Leissi_ hahahah
+T 1336760313 18<RageistheNewSage>	MisfortuneCooki: what about an audio server
+T 1336760316 18<RageistheNewSage>	checkmate
+T 1336760317 18<RageistheNewSage>	( ≖‿≖)
+T 1336760335 18<MisfortuneCooki>	is ALSA low-latency
+T 1336760337 18<MisfortuneCooki>	( ≖‿≖)
+T 1336760389 18<RageistheNewSage>	( ≖‿≖)
+T 1336760464 18<CvR>	what are you mud children up to
+T 1336761340 18<RageistheNewSage>	Fuck you
+T 1336761348 18<RageistheNewSage>	Go suck a dick faggot
+T 1336761352 18<Haeroe>	Sup CvR 
+T 1336761416 18<CvR>	sup Haeroe 
+T 1336761443 18<Haeroe>	Not much, having a drink and that's about it
+T 1336761504 18<auREAX>	–]throwaway236236[S] 10 punten 17 dagen geleden
+T 1336761507 18<auREAX>	Kaspersky was the most challenging at first, Kaspersky is paranoid as fuck! But it has an exploit in KIS, KAV and PURE, allowing to start malicious code in the memory context of a trusted system process unnoticed. Kaspersky won't interfere if it thinks it's the system process doing changes to the system.
+T 1336761509 18<auREAX>	the more you know
+T 1336761595 18<Haeroe>	auREAX: Where's that from?
+T 1336761717 18<RageistheNewSage>	from the darknet
+T 1336761719 18<RageistheNewSage>	( ≖‿≖)
+T 1336761819 18<MisfortuneCooki>	the buttnet (__)_)<-->(_(__)
+T 1336761832 18<auREAX>	>C# is not necessarily bad code or slow code. I hear that a lot from people from Europe and other countries which are heavily anti-Microsoft. I guess that is what the propaganda machine teaches over there
+T 1336761837 18<auREAX>	>Europe and other countrise
+T 1336761838 18<auREAX>	( ≖‿≖)
+T 1336761869 18<Haeroe>	http://www.reddit.com/r/IAmA/comments/sq7cy/iama_a_malware_coder_and_botnet_operator_ama/
+T 1336761870 18<UltraBot>	[URI 47 by "Haeroe"] Title: IAmA a malware coder and botnet operator, AMA : IAmA
+T 1336761892 18<RageistheNewSage>	>bitcoin mining
+T 1336761896 18<RageistheNewSage>	confirmed fake
+T 1336761898 18<MisfortuneCooki>	auREAX, and then they think java is the shit
+T 1336761948 18<RageistheNewSage>	http://www.bbc.co.uk/news/uk-england-london-18042528
+T 1336761948 18<UltraBot>	[URI 48 by "RageistheNewSage"] Title: BBC News - 'Sonic weapon' deployed in London during Olympics
+T 1336761950 18<RageistheNewSage>	GOTTA GO FAST
+T 1336761951 18<UltraBot>	YOU TOLD ME THIS WAS A HARD DRIVE
+T 1336762121 18<RageistheNewSage>	IAmA Successful business leader deploying unicode based solutions globally
+T 1336762174 19*	19MissyVixen (~MissyVixe@Rizon-D40EBF8D.chs.bellsouth.net) has joined #/g/tech
+T 1336762174 22*	26[420] gives voice to26 MissyVixen
+T 1336762210 18<auREAX>	Haeroe: yeah
+T 1336762234 22*	limit sets channel limit to 132
+T 1336762275 23*	23cocaine has quit (23Remote host closed the connection23)
+T 1336762349 18<nyukka>	!decide east or south
+T 1336762349 18<UltraBot>	nyukka: south
+T 1336762785 23*	23n4cht has quit (23Read error: Connection reset by peer23)
+T 1336762796 19*	19n4cht (quasselcor@Rizon-FF8C3253.hsd1.md.comcast.net) has joined #/g/tech
+T 1336762801 18<auREAX>	http://www.youtube.com/watch?v=ekXBa5-fVVg&feature=plcp
+T 1336762802 18<UltraBot>	[URI 49 by "auREAX"] Title: Haruhi Suzumiya vs. Kanye West - It's Gonna Touch The Sky, Right? Right?- YouTube
+T 1336762804 18<auREAX>	##swag
+T 1336762855 18<kweeb>	I love these mashups
+T 1336762875 18<kweeb>	someone should make like a collection torrent or something
+T 1336762944 18<nyukka>	thanks UltraBot, you led me to a gas station
+T 1336762949 18<kweeb>	this isn't particularly good though
+T 1336763001 18<F_JUNK_DUMP>	wtf youtbe
+T 1336763004 18<F_JUNK_DUMP>	youtube
+T 1336763011 18<nyukka>	holy shit a church too? there is sure to be food and water there
+T 1336763013 18<F_JUNK_DUMP>	you wont keep the bigger youtube player format
+T 1336763163 18<kweeb>	yeah I noticed that too earlier
+T 1336763177 18<kweeb>	>google in charge of anything
+T 1336763190 18<kweeb>	had to userscript that shit
+T 1336763195 18<F_JUNK_DUMP>	really
+T 1336763213 18<auREAX>	I like clea.nr for youtube
+T 1336763313 18<kweeb>	I got youtube enhancer because it's popular and recently updated but it's buggy
+T 1336763326 18<kweeb>	should look for a better script
+T 1336763337 18<kweeb>	something simpler
+T 1336763357 18<F_JUNK_DUMP>	whats clea.nr do
+T 1336763407 18<kweeb>	you would have found out yourself faster than asking that question here
+T 1336763414 18<Chibs>	Man
+T 1336763432 18<Chibs>	I cant wait to set up the rest of my bros software and shit monday
+T 1336763437 18<Chibs>	gaymin
+T 1336763453 18<MisfortuneCooki>	YER BRO
+T 1336763453 18<nyukka>	fuck yeah found a larger backpack
+T 1336763459 18<nyukka>	still no food though
+T 1336763473 18<desg>	ARE YOU BUILDAN YER LAN
+T 1336763473 18<UltraBot>	BAHAHA THE NEXT ONE
+T 1336763661 19*	19Xylitol (~Xylitol@Rizon-1F7F8D30.net-81-220-251.rev.numericable.fr) has joined #/g/tech
+T 1336763720 18<nyukka>	i just went in the biggest circle imaginable
+T 1336763760 18<auREAX>	planet earth?
+T 1336763818 18<kweeb>	sphere != circle
+T 1336763839 18<kweeb>	also how can you not imagine anything bigger than earth
+T 1336763864 18<auREAX>	le joke <---
+T 1336763867 18<auREAX>	le kweeb's head <--
+T 1336763869 18<auREAX>	(≖‿≖ )
+T 1336763874 18<kweeb>	le reddit --->
+T 1336763894 18<kweeb>	you're joke was bad and you should feel bad
+T 1336763925 18<auREAX>	coming from the person still making your/you're jokes
+T 1336763927 18<auREAX>	(⌐■‿■)
+T 1336764012 18<MissyVixen>	<.<
+T 1336764031 18<MissyVixen>	how long should i expect a kenal to compile on a 1.5Ghz PPC ?
+T 1336764039 18<Longlius>	depends
+T 1336764044 18<Longlius>	HOW MANY COARZ?!
+T 1336764044 18<UltraBot>	O I C WHAT I DID THAR
+T 1336764062 18<MissyVixen>	long if i didnt specify what do you think?
+T 1336764081 18<auREAX>	4 hours
+T 1336764086 18<kweeb>	I don't even know what a kenal is
+T 1336764093 18<Longlius>	single-threaded, probably a few hours
+T 1336764131 18<MissyVixen>	:S
+T 1336764138 18<MissyVixen>	i should just walk away then XD
+T 1336764147 18<Longlius>	don't walk away
+T 1336764153 18<Longlius>	we'll be lonely without you
+T 1336764156 18<MissyVixen>	heh
+T 1336764163 18<MissyVixen>	but i need to fold clothes
+T 1336764177 18<Longlius>	3>2012 >folding clothes
+T 1336764197 18<F_JUNK_DUMP>	9>2012 >2012 jokes
+T 1336764202 18<Longlius>	I SCOOBY DOOBY DOO
+T 1336764202 18<UltraBot>	SO MUCH THINGS TO ATTEND
+T 1336764283 23*	23MisfortuneCooki has quit (23Read error: Connection reset by peer23)
+T 1336764292 18<Longlius>	what kind of PPC system, MissyVixen?
+T 1336764307 19*	19MisfortuneCooki (~MFC|m91p_@panda.emperor.of.sparkles) has joined #/g/tech
+T 1336764307 22*	26[420] gives voice to26 MisfortuneCooki
+T 1336764308 18<MissyVixen>	g4 mac mini
+T 1336764368 18<Longlius>	oh wow, I don't even know where one would acquire one of those anymore :/
+T 1336764482 18<one[coding]>	ITC: massive scenery http://i.imgur.com/83qzF.png
+T 1336764482 18<UltraBot>	[URI 50 by "one[coding]"] MIME-Type "image/png". 722.70 kiB
+T 1336764497 18<MissyVixen>	Longlius, i have had it for a while
+T 1336764515 18<MissyVixen>	i used to have MorphOS and a Botched Amiga 4.0 on it
+T 1336764525 18<nyukka>	im dying of dehydration and i have the best gear i have had in this game
+T 1336764529 18<nyukka>	if i die i lose it
+T 1336764531 18<Longlius>	what are you installing now? gentoo?
+T 1336764531 18<nyukka>	;~;
+T 1336764548 18<MissyVixen>	si
+T 1336764763 23*	23MisfortuneCooki has quit (23Read error: Connection reset by peer23)
+T 1336764787 19*	19MisfortuneCooki (~MFC|m91p_@panda.emperor.of.sparkles) has joined #/g/tech
+T 1336764787 22*	26[420] gives voice to26 MisfortuneCooki
+T 1336764838 18<Brian8bit>	Right. Apparently I can make a master copy of a DVD with disk utility on Mac. Then I just use handbrake to encode with the libdvdcss pkg from VLC.
+T 1336764840 23*	23MissyVixen has quit (23Quit: Im late, Im late, for a very important Date!23)
+T 1336764843 18<Brian8bit>	Nice
+T 1336764864 18<Brian8bit>	I'll finally be able to archive my dvds completely and get rid of the physical copies
+T 1336764874 18<Brian8bit>	No more moving house and lugging around boxes of dvds
+T 1336764876 18<Brian8bit>	\:D/
+T 1336765164 18<Aaron>	hmac auth request challenge
+T 1336765164 18<UltraBot>	hmac auth challenge 6Larjc8ZiRP+xiQDM98ZzKuhnPnnqEpycPOFcZWQSRw
+T 1336765167 18<Aaron>	hmac auth response yL/By/11pdy9RxUHcbQbPQfdBFTO583iN6D4T+e8WH8
+T 1336765170 18<UltraBot>	hmac auth success
+T 1336765170 18<Aaron>	cmd join #swq
+T 1336765384 18<Leissi_>	wat
+T 1336765411 18<auREAX>	 swq?
+T 1336765636 18<one[coding]>	sure is 1984 in ur UK
+T 1336765672 18<Nemykal>	whats the name of that windows integrity scanner
+T 1336765674 18<Aaron>	weee today: 13 new vulnerabilities in Mac OS X, 1 new vulnerability in Safari
+T 1336765683 18<Aaron>	Nemykal: sfc /scannow ?
+T 1336765686 18<Nemykal>	yeah that
+T 1336765699 18<Nemykal>	time since last virus infection
+T 1336765710 18<Nemykal>	>many uncountable years
+T 1336765714 18<Nemykal>	>now 0
+T 1336765719 18<Nemykal>	this is what I fucking get
+T 1336765724 18<Nemykal>	for plugging a usb in
+T 1336765726 18<Nemykal>	and running a pdf
+T 1336765730 18<Aaron>	why would you do that
+T 1336765738 18<Nemykal>	because I'm a fucking retard
+T 1336765742 18<Aaron>	:\/
+T 1336765751 18<Nemykal>	guy at uni: hey here is textbook for engineering
+T 1336765754 18<Nemykal>	me: oh neat
+T 1336765769 18<Nemykal>	I even scanned the fucker with malwarebytes
+T 1336765783 18<Aaron>	antivirus software is reactive not proactive lol
+T 1336765792 18<Nemykal>	It doesn't seem to be a bad infection, but, as we all know 
+T 1336765801 18<Nemykal>	one compromise = cremate everything
+T 1336765810 18<Aaron>	yup
+T 1336765817 18<Nemykal>	I'm going to spend tomorrow combing over everything forensically
+T 1336765842 18<Nemykal>	It seems it was just one of those "scare tactic" virii
+T 1336765858 18<Brian8bit>	Ah scareware
+T 1336765863 18<Brian8bit>	The favoured of the Indian
+T 1336765865 18<Nemykal>	where it goes YOUR COMPUTER EXPLODED, BUY OUR DATA RECOVERY THING
+T 1336765882 18<Nemykal>	so I get a popup, kill it, and immediately begin the purging
+T 1336765900 18<Nemykal>	tomorrow I will dissect everything in a VM
+T 1336765904 18<Nemykal>	and also reinstall winderps
+T 1336765906 18<CvR>	Nemykal it's stored in %appdata%
+T 1336765908 18<CvR>	of temp
+T 1336765910 18<CvR>	or*
+T 1336765912 18<Nemykal>	actually
+T 1336765914 18<Nemykal>	it was in ProgramData
+T 1336765915 18<Nemykal>	but yeah
+T 1336765935 18<Nemykal>	The trouble with this particular thing is that it's set every single directory and file recursively on C: to hidden
+T 1336765954 18<Nemykal>	which is just laughably stupid and I'm just going to reinstall windows rather than try to fix that 
+T 1336765958 18<Nemykal>	(since you can't unhide recursively)
+T 1336765972 18<Aaron>	attrib.exe doesn't have a recursive switch ?
+T 1336765977 18<Nemykal>	no idea
+T 1336765981 18<Nemykal>	i meant in the gui
+T 1336765993 18<Aaron>	do uh     attrib /?
+T 1336766013 18<Nemykal>	Brian8bit: funnily enough the guy was indian
+T 1336766019 18<Nemykal>	(who gave the pdf to me)
+T 1336766021 18<Nemykal>	In fact 
+T 1336766023 18<Brian8bit>	lol
+T 1336766028 18<Nemykal>	I dont know if it was the autorun from the usb
+T 1336766034 18<Nemykal>	or the pdf
+T 1336766040 18<Aaron>	wait
+T 1336766042 18<Aaron>	you have autorun on ?
+T 1336766045 18<Nemykal>	lazy~
+T 1336766050 18<Nemykal>	I forget to disable that shit
+T 1336766051 18<Nemykal>	you know
+T 1336766054 18<Nemykal>	you reinstall windows enough
+T 1336766061 18<Nemykal>	you forget to do the basics sometimes
+T 1336766070 18<Aaron>	it kinda burns in after the 200th try
+T 1336766086 18<Nemykal>	i dont deal with this kind of security often thogh
+T 1336766088 18<Nemykal>	though*
+T 1336766227 19*	19SegFault (~SegFault@Rizon-FDF89AA0.hvc.res.rr.com) has joined #/g/tech
+T 1336766331 23*	23SegFault` has quit (23Ping timeout: 240 seconds23)
+T 1336766375 18<Aaron>	hm
+T 1336766379 18<Aaron>	5 new php vulnerabilities too
+T 1336766478 19*	19Cbo (~Cbo@Rizon-69D499B3.tc.ph.cox.net) has joined #/g/tech
+T 1336766517 18<Brian8bit>	What's the Safari vulnerability you mentioned a few minutes ago?
+T 1336766601 18<Aaron>	http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2012-0676
+T 1336766604 18<UltraBot>	[URI 55 by "Aaron"] Title: National Vulnerability Database (NVD) National Vulnerability Database (CVE-2012-0676)
+T 1336766635 18*	Tb0n3 is listening to Helmut Walcha - Prelude & Fugue No.15 in G major, BWV 884 - Prelude
+T 1336766639 18<Tb0n3>	>_>
+T 1336766655 18<kweeb>	exploit may cause user homosexuality
+T 1336766660 18<Brian8bit>	Ah that's ok
+T 1336766668 18<Brian8bit>	Safari pushed the update 5.1.7 the other day
+T 1336766718 18<nyukka>	found water just as i was dying
+T 1336766755 18<Aaron>	yeah NVD don't generally publish until after a fix has been released
+T 1336766769 18<Nemykal>	zero day in the wild~
+T 1336766806 22*	Kagami is now known as RJ45_
+T 1336767087 18<CvR>	nyukka what
+T 1336767090 18<CvR>	video game or IRL
+T 1336767109 18<CvR>	kweeb> exploit may cause user homosexuality
+T 1336767114 18<CvR>	kweeb it's not a bug, it's a feature
+T 1336767152 18<kweeb>	gface.app
+T 1336767236 18<F_JUNK_DUMP>	gface.trojan
+T 1336767815 18<RJ45_>	Could you please advise me with this - will it work? http://goput.it/fvp.png
+T 1336767816 18<UltraBot>	[URI 57 by "RJ45_"] MIME-Type "image/png". 23.61 kiB
+T 1336767895 18<Leissi_>	why wouldn't it?
+T 1336767933 18<Leissi_>	if you connect the subwoofer directly to the SOUNDCARD THAT IS WORKING PERFECTLY and l/r to amp with proper cables, it SHOULD work
+T 1336767962 18<RJ45_>	ahh ok, cheers. 
+T 1336767984 18<RJ45_>	But most sub woofers use sub woofer cable.
+T 1336767990 18<Leissi_>	I'm no electrics expert, but my common sense is tingling and saying that setup should work properly
+T 1336768000 18<RJ45_>	that wont fit in a 3.5mm jack?
+T 1336768035 18<Leissi_>	ah hum, that might provide a problem
+T 1336768045 18<MisfortuneCooki>	RJ45, it works if the sub is powered
+T 1336768056 18<Leissi_>	could you macgyver it and fit a 3.5mm jack on the subwoofer cable?
+T 1336768118 18<Leissi_>	also what MFC said; It'll need power one way or the other
+T 1336768174 18<Leissi_>	http://science.slashdot.org/story/12/05/11/1830216/chinese-physicists-achieve-quantum-teleportation-over-60-miles oh shit what
+T 1336768176 18<UltraBot>	[URI 60 by "Leissi_"] Title: Chinese Physicists Achieve Quantum Teleportation Over 60 Miles - Slashdot
+T 1336768179 19*	19MFC|DOS (~toffee@Rizon-8B74C5F4.jamadots.com) has joined #/g/tech
+T 1336768606 23*	23MFC|DOS has quit (2323)
+T 1336768943 23*	23SegFault has quit (23Read error: Connection reset by peer23)
+T 1336769052 19*	19SegFault` (~SegFault@Rizon-FDF89AA0.hvc.res.rr.com) has joined #/g/tech
+T 1336769190 23*	23Ultimation has quit (23Read error: Connection reset by peer23)
+T 1336769389 18<Aaron>	Leissi_: impressive
+T 1336769426 18<auREAX>	http://www.youtube.com/watch?v=aAnD4xtjzKY
+T 1336769427 18<UltraBot>	[URI 61 by "auREAX"] Title: impressive.wmv- YouTube
+T 1336769857 18<Leissi_>	Aaron, more like: You want goods ported to you? TOO BAD FUK U HERE BOMB
+T 1336769878 18<Aaron>	the infinite probability fedex package.
+T 1336769883 23*	23LeOdd has quit (23Ping timeout: 240 seconds23)
+T 1336769944 22*	limit sets channel limit to 130
+T 1336770504 19*	19zyx404 (~zyx404@period.between.every.word) has joined #/g/tech
+T 1336770669 23*	23tarabluh has quit (23Ping timeout: 240 seconds23)
+T 1336770780 18<hghgd>	how did they get the same qubit to reappear?
+T 1336770924 18<MisfortuneCooki>	they gave it money
+T 1336770934 18<MisfortuneCooki>	this is how thing swork in china
+T 1336771012 19*	19impending_testacles (cgiirc@shall.bring.destruction) has joined #/g/tech
+T 1336771068 18<Aaron>	MisfortuneCooki: don't be silly, it didn't jump out of a nearby window.
+T 1336771132 18<MisfortuneCooki>	Aaron, did they do the experiment in a foxconn factory
+T 1336771155 18<hghgd>	not even a quantum could escape a foxconn factory
+T 1336771185 23*	23Brian8bit has quit (23Quit: Quitting!23)
+T 1336771400 18<CvR>	WELL LET'S NOT START SUCKING EACH OTHER'S DICKS QUITE YET
+T 1336771400 18<UltraBot>	MORE LIKE RIZOFF LOLOLOLOLOLOL
+T 1336771413 18<auREAX>	too late CvR
+T 1336771415 18<auREAX>	( ≖‿≖)
+T 1336771447 19*	19Marisa (~Kirisame@Forest.of.Magic) has joined #/g/tech
+T 1336771486 18<CvR>	( ≖‿≖) 
+T 1336771580 23*	23prease has quit (23Ping timeout: 240 seconds23)
+T 1336771812 18<netwoodle>	I want pizza
+T 1336771826 18<netwoodle>	if I give somebody my address, will they go and "troll" me by sending me pizza?
+T 1336771839 18<netwoodle>	s/troll/raid/
+T 1336771882 19*	19i5 (~Kirisame@dont.call.me.gaga) has joined #/g/tech
+T 1336771928 23*	23n4cht has quit (23Read error: Connection reset by peer23)
+T 1336771956 19*	19n4cht (quasselcor@Rizon-FF8C3253.hsd1.md.comcast.net) has joined #/g/tech
+T 1336771983 23*	23Marisa has quit (23Ping timeout: 240 seconds23)
+T 1336772072 18<CvR>	netwoodle well i'll come to your house and rape you
+T 1336772079 18<CvR>	i guess we could call that sending you pizza
+T 1336772085 18<CvR>	because that's how wide your anus will be when i'm done
+T 1336772086 18<CvR>	( ≖‿≖) 
+T 1336772087 18<netwoodle>	CvR, I would be okay with that
+T 1336772090 18<netwoodle>	xD
+T 1336772098 18<netwoodle>	( ≖‿≖)
+T 1336772101 18<CvR>	ur prolly a ugle neckbard
+T 1336772104 18<netwoodle>	n
+T 1336772108 18<netwoodle>	o m cute neckbear
+T 1336772117 18<netwoodle>	Haeroe can attest to that
+T 1336772119 18<netwoodle>	( ≖‿≖)
+T 1336772120 18<netwoodle>	( ≖‿≖)
+T 1336772128 18<CvR>	u let him put it in ur but
+T 1336772157 18<netwoodle>	NAh
+T 1336772161 18<netwoodle>	WE R FAECSBOOK FRENS
+T 1336772162 18<UltraBot>	DICKCEPTION
+T 1336772167 18<netwoodle>	loool
+T 1336772264 19*	19Marisa (~Kirisame@Forest.of.Magic) has joined #/g/tech
+T 1336772286 18<Leissi_>	MY HIPS MUST GO DEEPER ON THEIR OWN
+T 1336772286 18<UltraBot>	RAGE IS THE MOTHERFUCKING NEW AGE
+T 1336772326 18<netwoodle>	vekin is a violent fellow.
+T 1336772375 23*	23i5 has quit (23Ping timeout: 240 seconds23)
+T 1336772512 19*	19prease (~prease@yukirin.is.my.oshi) has joined #/g/tech
+T 1336772718 22*	auREAX__ is now known as auREAX_
+T 1336772985 19*	19i5 (~Kirisame@B77EF40E.C074E9A3.3368CC3F.IP) has joined #/g/tech
+T 1336773046 22*	limit sets channel limit to 132
+T 1336773118 23*	23Marisa has quit (23Ping timeout: 240 seconds23)
+T 1336773118 23*	23RJ45 has quit (23Ping timeout: 240 seconds23)
+T 1336773148 19*	19RJ45 (~RJ45@6E8B2BCF.232B73CD.20FF9D7C.IP) has joined #/g/tech
+T 1336773347 23*	23i5 has quit (2323)
+T 1336773407 22*	limit sets channel limit to 130
+T 1336773574 23*	23Leissi_ has quit (23Quit: The average person spends thirty years of their life asleep. Lying in an unconscious catatonic state.23)
+T 1336773843 19*	19liquid80 (~tsu@Rizon-BEB1248.lns8.cha.bigpond.net.au) has joined #/g/tech
+T 1336773867 22*	liquid80 is now known as liquid
+T 1336773872 22*	26[420] gives voice to26 liquid
+T 1336773886 23*	23Cbo has quit (23Quit: Bye23)
+T 1336773909 19*	19Cbo (~Cbo@Rizon-69D499B3.tc.ph.cox.net) has joined #/g/tech
+T 1336773967 18<MisfortuneCooki>	http://24.media.tumblr.com/tumblr_lzwvqfPwlY1qkpphbo1_500.png
+T 1336773968 18<UltraBot>	[URI 63 by "MisfortuneCooki"] MIME-Type "image/png". 170.65 kiB
+T 1336773988 23*	23Cbo has quit (2323)
+T 1336774002 19*	19Cbo (~Cbo@Rizon-69D499B3.tc.ph.cox.net) has joined #/g/tech
+T 1336774049 18<MisfortuneCooki>	http://24.media.tumblr.com/tumblr_lzx5duUBea1qkpphbo1_500.jpg
+T 1336774049 18<UltraBot>	[URI 64 by "MisfortuneCooki"] MIME-Type "image/jpeg". 154.19 kiB
+T 1336774454 19*	19ako23 (user@Rizon-30FE33A5.dyn.optonline.net) has joined #/g/tech
+T 1336774514 23*	23zyx404 has quit (23Ping timeout: 240 seconds23)
+T 1336774629 23*	23OmegaVesko has quit (23Read error: Connection reset by peer23)
+T 1336774665 18<Nemykal>	MisfortuneCooki: wait til auREAX is around
+T 1336774726 19*	19LeOdd (~R@rity.is.a.sexy.pony) has joined #/g/tech
+T 1336774768 23*	23RJ45_ has quit (23Quit: ;_;23)
+T 1336774823 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/tech
+T 1336775016 18<MisfortuneCooki>	Nemykal, for what
+T 1336775259 18<Tb0n3>	anybody have a way to code tomato to allow for subdomains?
+T 1336775292 18<MisfortuneCooki>	who the hell uses tomato
+T 1336775298 23*	23Feint has quit (23Quit: Feint23)
+T 1336775316 18<Tb0n3>	people
+T 1336775317 18<Tb0n3>	why?
+T 1336775329 18<MisfortuneCooki>	(´･ω･`) 
+T 1336775332 18<Tb0n3>	cause dd-wrt wasn't up to some tasks
+T 1336775336 18<Tb0n3>	like ipv6
+T 1336775343 18<Tb0n3>	also was heavy
+T 1336775372 18<Tb0n3>	mostly I did it because I wanted to try it out, and see if it's qos was any better, it's just shit because you can't change anything
+T 1336775386 18<Tb0n3>	I've got a WNR-3500L
+T 1336775400 18<Aaron>	uh
+T 1336775403 18<Aaron>	DD-WRT has IPv6 builds
+T 1336775416 18<Tb0n3>	yeah yeah, it had ipv6
+T 1336775416 18<Aaron>	and here's a massive documentation page on the subject http://www.dd-wrt.com/wiki/index.php/IPv6
+T 1336775417 18<UltraBot>	[URI 67 by "Aaron"] Title: IPv6 (tutorial) - DD-WRT Wiki
+T 1336775427 18<Tb0n3>	but it was heavy-weight and hard on the router
+T 1336775431 18<Tb0n3>	used lots of memory
+T 1336775435 18<MisfortuneCooki>	uh
+T 1336775437 18<MisfortuneCooki>	it's a router
+T 1336775439 18<Tb0n3>	it's been a while since I changed
+T 1336775440 18<MisfortuneCooki>	who gives a fuck
+T 1336775456 18<MisfortuneCooki>	it's not like you have to run a desktop off of it
+T 1336775458 18<Tb0n3>	if it fucking freezes or needs to be flushed periodically it matters
+T 1336775482 18<MisfortuneCooki>	and you think someone else's implementation is gonna be somehow lighter?
+T 1336775483 18<Tb0n3>	but it may have been primarily because there was water in the cable drop
+T 1336775502 18<Tb0n3>	it's different, and I wanted to see in what ways
+T 1336775504 18<Tb0n3>	that's all
+T 1336775512 18<Tb0n3>	also I wanted to switch up to 10.0.0.0
+T 1336775526 18<Tb0n3>	so it gave me a chance to completely reconfigure from scratch
+T 1336775736 18<Tb0n3>	only problem is, comcast STILL hasn't activated ipv6
+T 1336775737 18<Tb0n3>	faggots
+T 1336775759 19*	19Siouxsie (~FISH_CAT@all.these.moments.will.be.lost.in.time.like.tears.in.rain) has joined #/g/tech
+T 1336775759 22*	26[420] gives voice to26 Siouxsie
+T 1336775840 18<Tb0n3>	tomato is similar to dd-wrt, so with that said, is there any way between the two to create subdomains
+T 1336775980 19*	19phantom67 (~phantom67@Rizon-F5000C8D.xdsl.xnet.co.nz) has joined #/g/tech
+T 1336775998 23*	23phantom67 has quit (2323)
+T 1336776026 18<Tb0n3>	http://www.dd-wrt.com/phpBB2/viewtopic.php?t=37958
+T 1336776027 18<UltraBot>	[URI 69 by "Tb0n3"] Title: DD-WRT Forum :: View topic - More than 1 webserver behind DD-WRT
+T 1336776030 18<Tb0n3>	guess that answers my question
+T 1336776126 23*	23nika420 has quit (23Ping timeout: 240 seconds23)
+T 1336776236 18<MisfortuneCooki>	seconds)
+T 1336776239 19*	19ReDAx (~ReDax@emerge.gface) has joined #/g/tech
+T 1336776239 22*	[420] sets mode +q #/g/tech ReDAx
+T 1336776239 22*	26[420] gives channel operator status to26 ReDAx
+T 1336776419 18<ReDAx>	Sup geetech
+T 1336776429 18<MisfortuneCooki>	http://www.liquidhotdog.com/shit/text/The%20Vagina%20Ass%20of%20Lucifer%20Niggerbastard%20-%20By%20Shawn%20Wunjo.pdf
+T 1336776430 18<UltraBot>	[URI 70 by "MisfortuneCooki"] MIME-Type "application/pdf". 251.87 kiB
+T 1336776436 18<MisfortuneCooki>	that's what's up
+T 1336776440 18<MisfortuneCooki>	( ≖‿≖)
+T 1336776462 18*	Tb0n3 is listening to 坂本真綾 - しっぽのうた
+T 1336776467 18<Tb0n3>	ok U-U
+T 1336776474 18<Aaron>	the fuck
+T 1336776504 18<MisfortuneCooki>	enjoy, Aaron (´･ω･`) 
+T 1336776509 23*	23Siouxsie has quit (23Killed (NickServ (GHOST command used by KurtCobain))23)
+T 1336776515 19*	19KurtCobain (~FISH_CAT@Rizon-11DAE54F.threembb.co.uk) has joined #/g/tech
+T 1336776515 22*	26[420] gives voice to26 KurtCobain
+T 1336776519 18<Aaron>	read title, closed it 
+T 1336776519 18<Aaron>	lol
+T 1336776529 18<MisfortuneCooki>	“Fuck you.” Lucifer elbowed the babyshit into
+T 1336776530 18<MisfortuneCooki>	traffic, waited for it to pick itself off the tires of a giant
+T 1336776530 18<MisfortuneCooki>	dick-shaped bus with an advert for Baby Jesus’ brand
+T 1336776530 18<MisfortuneCooki>	baglecunt ass sandwiches plastered on the side.
+T 1336776548 18<MisfortuneCooki>	BAGLECUNT ASS SANDWICHES
+T 1336776548 18<UltraBot>	HEY EVERYONE!
+T 1336776550 18<ReDAx>	classic literature
+T 1336776554 18<Aaron>	ikr
+T 1336776563 18<MisfortuneCooki>	BABY JESUS' BRAND BAGLECUNT ASS SANDWICHES
+T 1336776564 18<UltraBot>	IT WILL BREAK OTHER PACKAGES
+T 1336776565 18<Haeroe>	Naitu g~
+T 1336776578 18<Aaron>	nn Haeroe 
+T 1336776583 18<ReDAx>	Reads like Scroty McBoogerballs
+T 1336776587 18<ReDAx>	nn Haeroe
+T 1336776593 18<ReDAx>	auREAX-kun~
+T 1336776791 18<Aaron>	oh finally.
+T 1336776795 18<Aaron>	paypal.com just got DNSSEC-signed./
+T 1336776797 18<Aaron>	\o/
+T 1336776898 18<MisfortuneCooki>	words of wisdom
+T 1336776899 18<MisfortuneCooki>	“Nothing lasts forever, fuckwit.” The Ass Fairy
+T 1336776899 18<MisfortuneCooki>	chuckled. “Shit be rolling and changing like a gender
+T 1336776899 18<MisfortuneCooki>	confused dildo wheel.”
+T 1336776905 19*	19Siouxsie (~FISH_CAT@all.these.moments.will.be.lost.in.time.like.tears.in.rain) has joined #/g/tech
+T 1336776905 22*	26[420] gives voice to26 Siouxsie
+T 1336777001 23*	23KurtCobain has quit (23Ping timeout: 240 seconds23)
+T 1336777095 18<MisfortuneCooki>	Running like little bitches, Lucifer and the sack of
+T 1336777095 18<MisfortuneCooki>	--20--
+T 1336777095 18<MisfortuneCooki>	babyshit quickly reached the magic boat and jumped
+T 1336777095 18<MisfortuneCooki>	in. Shaped like a giant ass, the boat seemed to sparkle
+T 1336777095 18<MisfortuneCooki>	with all the gay wonder of faggot vampires and
+T 1336777097 18<MisfortuneCooki>	teenage angsty movies.
+T 1336777224 23*	23Cbo has quit (23Remote host closed the connection23)
+T 1336777412 23*	23Kagami has quit (23Quit: ;_;23)
+T 1336777473 22*	limit sets channel limit to 128
+T 1336777620 23*	23Siouxsie has quit (23Killed (NickServ (GHOST command used by KurtCobain))23)
+T 1336777624 19*	19KurtCobain (~FISH_CAT@Rizon-ECE809A4.threembb.co.uk) has joined #/g/tech
+T 1336777624 22*	26[420] gives voice to26 KurtCobain
+T 1336777904 19*	19Resfirestar (sam@81ED8682.31EFB694.D5B17D05.IP) has joined #/g/tech
+T 1336778675 22*	SegFault` is now known as SegFault
+T 1336778676 22*	26[420] gives voice to26 SegFault
+T 1336778859 23*	23Nillixia has quit (23Quit: And... she's gone...23)
+T 1336778945 18<corefx>	https://wwws.whitehouse.gov/petitions/!/petition/investigate-chris-dodd-and-mpaa-bribery-after-he-publicly-admited-bribing-politicans-pass/DffX0YQv
+T 1336779040 18<KurtCobain>	sup faggots
+T 1336779057 18<KurtCobain>	Guys, where would I look for benchmarks of a graphics card compared to another one?
+T 1336779061 18<liquid>	anyone here know anyhting about painkiller
+T 1336779064 18<KurtCobain>	I tried Google but couldn't find anything
+T 1336779078 18<liquid>	tomshardware
+T 1336779079 18<liquid>	iirc
+T 1336779092 18<KurtCobain>	I want to compare the 6570 to the GTS 450
+T 1336779099 18<KurtCobain>	ok
+T 1336779103 18<KurtCobain>	I will check it out
+T 1336779248 18<KurtCobain>	I can't work out how to compare the two cards
+T 1336779336 18<Aaron>	http://www.gpureview.com/database.php
+T 1336779338 18<UltraBot>	[URI 75 by "Aaron"] Title: Video Card Database - Specifications, Pictures and Comparisons - GPUReview.com
+T 1336779341 18<KurtCobain>	I've found a good site for theoretical performance
+T 1336779406 19*	19cocaine (coco@chug.chug.chug.chug) has joined #/g/tech
+T 1336779438 18<Aaron>	specifically, http://www.gpureview.com/show_cards.php?card1=653&card2=634
+T 1336779441 18<UltraBot>	[URI 76 by "Aaron"] Title: Video Card Comparison - GPUReview.com
+T 1336779499 18<KurtCobain>	:3
+T 1336779506 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/g/tech
+T 1336779520 18<KurtCobain>	I'd got that page, with the two cards side-by-side
+T 1336779542 18<KurtCobain>	How would I work out which one will play TF2 better (and by how much)?
+T 1336779566 22*	limit sets channel limit to 130
+T 1336779569 18<KurtCobain>	I'm pretty sure the 450 would be better
+T 1336779581 18<KurtCobain>	as it seems to be superior in just about every way
+T 1336779587 19*	19nika420 (~conor@Rizon-BDA9D63F.wireless.umd.edu) has joined #/g/tech
+T 1336779600 18<Aaron>	the GTS450 looks to be about 50% better in almosdt every way
+T 1336779602 18<Aaron>	almost*
+T 1336779633 18<KurtCobain>	I'd need to buy a new PSU along with the card
+T 1336779641 18<Aaron>	but the HD6570 does OpenGL 4.1
+T 1336779651 18<Aaron>	the GTS450 only does OpenGL 3.2
+T 1336779658 18<KurtCobain>	That wouldn't matter for a Source game though, right?
+T 1336779675 18<Aaron>	not if you tell it to use directx (which is also the default) no
+T 1336779677 18<KurtCobain>	It's only going to be used to play TF2 and older games

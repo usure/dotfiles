@@ -1,0 +1,531 @@
+T 1335901612 18<LiteralKa>	sup
+T 1335901861 18<passing_by>	mediocre-good, idle, waiting for someone on youtube to respond, which could mean the end or salvation of a cerctain piece of software
+T 1335901925 18<passing_by>	http://www.youtube.com/watch?v=prwjO7MDHug
+T 1335901963 18<passing_by>	the sourcecode was posted on the site and GPL-ed
+T 1335901983 18<passing_by>	But I never bothered to download it untill the site was gone
+T 1335902010 18<passing_by>	>4.89/5 (108 votes)
+T 1335902017 18<passing_by>	woah
+T 1335902025 18<passing_by>	the bot extracts the rating
+T 1335902033 18<passing_by>	hmmm
+T 1335902047 18<passing_by>	meh
+T 1335902078 18<passing_by>	I was thinking of the return of star ratings under the form of a greasemonkey script
+T 1335902255 18<passing_by>	you would get star ratings from site but you would still input like ratings
+T 1335907473 23*	23Iluvatar has quit (2323)
+T 1335908992 19*	19Mucupurulent (~baiborg@Necrophagist.bai) has joined #saovq
+T 1335910166 19*	19Airskadt (~Airskadt@WOW.hot.a.WHAT.baabhabi.at) has joined #saovq
+T 1335910166 22*	Hug sets mode +a #saovq Airskadt
+T 1335910166 22*	26Hug gives channel operator status to26 Airskadt
+T 1335912544 18<Airskadt>	http://knowyourmeme.com/memes/help-the-girl-i-like-won%E2%80%99t-respond-to-my-emails-%EF%BD%A5%CF%89%EF%BD%A5#The
+T 1335912545 18<Airskadt>	i mad
+T 1335912550 18<Airskadt>	I mad in various degrees
+T 1335912568 18<Airskadt>	The butthurt of figaro a tragedy in four acts by Giovanni Airskadt
+T 1335912690 18<fungus>	do you know that feel, cuz
+T 1335912754 18<Airskadt>	Because of this shit now shobon is not only known in the western sphere by hipsters
+T 1335912766 18<Airskadt>	Shobon is now the equivalent of everything Shobon isn't
+T 1335913955 23*	23Airskadt has quit (23Quit: Airskadt23)
+T 1335914042 18<fungus>	poor shobo
+T 1335914414 23*	23emily_ has quit (23Read error: Connection reset by peer23)
+T 1335914414 23*	23ticks has quit (23Read error: Connection reset by peer23)
+T 1335914959 23*	23ticks_ has quit (23Quit: Lost terminal23)
+T 1335915012 19*	19emily_ (~emily@zima.blue) has joined #saovq
+T 1335915012 22*	Hug sets mode +a #saovq emily_
+T 1335915012 22*	26Hug gives channel operator status to26 emily_
+T 1335917071 23*	23passing_by has quit (23Quit: passing_by23)
+T 1335917372 23*	23emily_ has quit (23Read error: Connection reset by peer23)
+T 1335917437 19*	19ticks (~emily@zima.blue) has joined #saovq
+T 1335917438 22*	Hug sets mode +a #saovq ticks
+T 1335917438 22*	26Hug gives channel operator status to26 ticks
+T 1335918283 18<LiteralKa>	Don't bother emailing me with nonsense coz I will not entertain it. Don't even dare to send me viruses or any message with strange characters coz I'm a Computer Engineering student, I have enough knowledge on computers, assembly languages and viruses more than you think and our PC have the best antivirus installed in it. Your evil intentions will not work on me, and if I traced you, I'll report
+T 1335918284 18<LiteralKa>	 yo to yfour e-mail provider so that your account will be erased and you will be banned for all eternity, or even more casualities worst than that... wah ha ha ha ha!!!
+T 1335918579 23*	23godzilla has quit (23Read error: Connection reset by peer23)
+T 1335918601 19*	19godzilla (loldongs@please.respond) has joined #saovq
+T 1335918601 22*	Hug sets mode +a #saovq godzilla
+T 1335918601 22*	26Hug gives channel operator status to26 godzilla
+T 1335918607 19*	19ticks-netbook (~p0m@triumvir.ilia.volyova) has joined #saovq
+T 1335918607 22*	Hug sets mode +a #saovq ticks-netbook
+T 1335918607 22*	26Hug gives channel operator status to26 ticks-netbook
+T 1335918637 22*	ticks-netbook is now known as emuhle
+T 1335919996 23*	23multitrackdriftu has quit (23Read error: Connection reset by peer23)
+T 1335920456 19*	19multitrackdriftu (~Alex@Rizon-26968D90.dsl.pltn13.sbcglobal.net) has joined #saovq
+T 1335920456 22*	Hug sets mode +a #saovq multitrackdriftu
+T 1335920456 22*	26Hug gives channel operator status to26 multitrackdriftu
+T 1335927470 23*	23Mucupurulent has quit (23Remote host closed the connection23)
+T 1335936752 19*	19croc (croc@Rizon-32817DD1.sdf.org) has joined #saovq
+T 1335936752 22*	Hug sets mode +a #saovq croc
+T 1335936752 22*	26Hug gives channel operator status to26 croc
+T 1335940457 23*	23ticks has quit (23Read error: Connection reset by peer23)
+T 1335940584 19*	19emily_nk (~emily@zima.blue) has joined #saovq
+T 1335940584 22*	Hug sets mode +a #saovq emily_nk
+T 1335940584 22*	26Hug gives channel operator status to26 emily_nk
+T 1335940626 23*	23emily_nk has quit (2323)
+T 1335941277 19*	19ticks (~emily@zima.blue) has joined #saovq
+T 1335941277 22*	Hug sets mode +a #saovq ticks
+T 1335941277 22*	26Hug gives channel operator status to26 ticks
+T 1335949370 23*	23Jkid has quit (23Ping timeout: 240 seconds23)
+T 1335950207 19*	19Iluvatar (~Iluvatar@meganekko.mode) has joined #saovq
+T 1335950207 22*	Hug sets mode +a #saovq Iluvatar
+T 1335950207 22*	26Hug gives channel operator status to26 Iluvatar
+T 1335958006 18<LiteralKa>	hi
+T 1335958010 18<LiteralKa>	tru
+T 1335958022 18*	LiteralKa shrugs
+T 1335961194 19*	19passing_by (~cliSwi@muddy.cocks) has joined #saovq
+T 1335961194 22*	Hug sets mode +a #saovq passing_by
+T 1335961194 22*	26Hug gives channel operator status to26 passing_by
+T 1335962555 19*	19Jkid (~Jkid@Rizon-FC628AF9.washdc.east.verizon.net) has joined #saovq
+T 1335962555 22*	Hug sets mode +a #saovq Jkid
+T 1335962555 22*	26Hug gives channel operator status to26 Jkid
+T 1335963483 18<taiga>	┣┫Ё┗└О☆
+T 1335963524 18<passing_by>	My unicodes is workings properly.
+T 1335963533 18<passing_by>	Except octopi and cat faces
+T 1335963546 18<taiga>	huh
+T 1335963575 18<passing_by>	http://www.fileformat.info/info/unicode/char/1f419/index.htm
+T 1335963631 18<passing_by>	Too bad Symbola font looks terribad in IRC
+T 1335963636 18<taiga>	passing_by, how to paste it into irc
+T 1335963638 18<passing_by>	at small sizes
+T 1335963657 18<passing_by>	🐙 
+T 1335963659 18<taiga>	🐙
+T 1335963665 18*	passing_by squints
+T 1335963670 18<passing_by>	hnnnnnnghhhhh
+T 1335963673 18<taiga>	hmm, some fonts i use display it
+T 1335963677 18<taiga>	most not
+T 1335963686 18<passing_by>	what fonts?
+T 1335963693 18<passing_by>	besides Symbola
+T 1335963711 18<taiga>	something that came with windows
+T 1335963728 18<taiga>	idk how to look it up
+T 1335963784 18<taiga>	http://gyazo.com/81b4bf7e67d590039733b7e2201d0025
+T 1335963812 18<passing_by>	that actually looks usable in low res
+T 1335963829 18<taiga>	yeah but god knows what that font is
+T 1335963842 18<passing_by>	You could archive all your fonts from windows dir and I'll sift trough them
+T 1335963876 18<taiga>	several hundreds of megabytes
+T 1335963909 18<passing_by>	that won't be an issue unless upload speed
+T 1335963926 18<passing_by>	you could create a torrent file
+T 1335963959 18<taiga>	that's illegal >_>
+T 1335963992 18<passing_by>	lol
+T 1335964013 18<passing_by>	Can I has?
+T 1335964153 18<taiga>	ok
+T 1335964176 18<taiga>	can i haz pvt tracker
+T 1335964205 18<passing_by>	does initial seeder work?
+T 1335964215 18<passing_by>	*initial seed mode
+T 1335964217 18<taiga>	idk
+T 1335964239 18<passing_by>	brb, acquiring knowledge
+T 1335964258 18<taiga>	compressing...
+T 1335964380 18<passing_by>	got a better idea
+T 1335964399 18<passing_by>	tell me the final size of the archive
+T 1335964418 18<taiga>	i estimate 200 megs
+T 1335964487 18<passing_by>	If it's above 220MB, I'm gonna have to edit some settings
+T 1335964495 18<taiga>	210 426 940b
+T 1335964541 18<taiga>	so under 220MB
+T 1335964563 18<passing_by>	post_max_size = 220M
+T 1335964568 18<passing_by>	purrfect
+T 1335964583 18<passing_by>	http://ww3.penisenlargementtutorial.com/uptest/
+T 1335964591 18<passing_by>	hope it doesn't break
+T 1335964682 18<taiga>	woo, 2% already
+T 1335964698 18<passing_by>	gonna take a while
+T 1335964758 18<passing_by>	Is the rate around 100 KBytes/sec or so?
+T 1335964925 18<passing_by>	lol, the temp file is at 20MB
+T 1335964948 18<passing_by>	24
+T 1335964980 18<taiga>	around 100kB/sec yeah
+T 1335965003 18<passing_by>	I think the ISP is slowing down outgoing http
+T 1335965025 18<taiga>	nah, it's just that slow
+T 1335965047 18<passing_by>	but I get better upload rates elsewhere
+T 1335965065 18<passing_by>	torrent, speedtest
+T 1335965088 18<passing_by>	maybe the server is not configured well
+T 1335965089 18<taiga>	my isp promised not to filter my traffic
+T 1335965145 18<taiga>	easygoing guy, he gave me a public ip etc etc
+T 1335965160 18<taiga>	i've been subject to quite some DoS since then
+T 1335965219 18<taiga>	so how will you find the font, passing_by 
+T 1335965254 18<passing_by>	some font editor/viewer, looking for that char
+T 1335965259 18<passing_by>	one font at a time
+T 1335965285 18<taiga>	got a font viewer already for that
+T 1335965317 18<passing_by>	>High-Logic FontCreator
+T 1335965334 18<passing_by>	It seems to display only a default text
+T 1335965346 23*	23fifel has quit (23Quit: …………………………23)
+T 1335965456 18<passing_by>	tempfile at 62MB
+T 1335965698 18<taiga>	http://www.fileformat.info/info/unicode/font/fontlist.htm?text=%F0%9F%90%99+-+OCTOPUS+%28U%2B1F419%29
+T 1335965777 18<taiga>	i see no octopi there
+T 1335965785 18<passing_by>	local fonts
+T 1335965803 18<passing_by>	also, my symbola octopi seems to display ? instead
+T 1335965809 18<passing_by>	and works elsewhere
+T 1335965823 18<passing_by>	I am doubting this font viewer
+T 1335965872 18<taiga>	me too
+T 1335965898 18<taiga>	i copied pasted the octopus something into the sample text field
+T 1335965906 18<taiga>	seems most of the fonts support it
+T 1335965917 18<passing_by>	weird
+T 1335965926 18<passing_by>	I get no octopi here
+T 1335965947 18<taiga>	it's just wrong though
+T 1335965978 18<taiga>	in xchat i use many fonts that are mentioned there but i display the octopus wrong
+T 1335965984 18<taiga>	🐙
+T 1335966046 18<taiga>	need a better viewer than this
+T 1335966069 18<passing_by>	I have a font editor lying around
+T 1335966174 18<taiga>	55%
+T 1335966288 18<passing_by>	126MB
+T 1335966350 18<passing_by>	I shall rest my head in a pillow for a few minutes
+T 1336084145 19*	19Now talking on #saovq
+T 1336084145 29*	29Topic for #saovq 29is: 10:35:38 <&fungus> want 2 make out
+T 1336084145 29*	29Topic for #saovq 29set by LiteralKa!gencdo@man.of.african.descent.who.finds.other.men.attractive 29at Sun Apr 29 06:36:19 2012
+T 1336084145 22*	Hug sets mode +a #saovq Annex
+T 1336084145 22*	26Hug gives channel operator status to26 Annex
+T 1336084145 23*	23passing_by has quit (23Quit: passing_by23)
+T 1336084201 19*	19passing_by (~cliSwi@muddy.cocks) has joined #saovq
+T 1336084201 22*	Hug sets mode +a #saovq passing_by
+T 1336084201 22*	26Hug gives channel operator status to26 passing_by
+T 1336084241 18<meltingwax>	would you fuck a netnanny
+T 1336084277 18<passing_by>	netnannies seem cold an mechanical
+T 1336084280 18<taiga>	would you fuck a tranny
+T 1336084302 18<passing_by>	I'll likelly get my penis electrocuted in the gears
+T 1336084306 18<passing_by>	no
+T 1336084310 18<taiga>	anyway, never heard of netnannies
+T 1336084310 18<passing_by>	oh
+T 1336084315 18<passing_by>	a tranny
+T 1336084334 18<passing_by>	most likely no
+T 1336084349 18<taiga>	passing_by, and vice versa?
+T 1336084379 18<passing_by>	actually
+T 1336084381 18<passing_by>	maybe
+T 1336084385 18<passing_by>	I don't know
+T 1336084396 18<passing_by>	depends on the implementation of the tranny
+T 1336084411 18<passing_by>	If it's female body with penis
+T 1336084412 18<emily_>	what if they first sucked your dick and you didn't find out it was a tranny until you were about to bang her
+T 1336084414 18<passing_by>	maybe
+T 1336084445 18<passing_by>	if it's male-ish unlikelly
+T 1336084452 18<passing_by>	*, unlikelly
+T 1336084874 19*	19Slereah_ (x@Rizon-453327FF.w83-195.abo.wanadoo.fr) has joined #saovq
+T 1336084874 22*	Hug sets mode +a #saovq Slereah_
+T 1336084874 22*	26Hug gives channel operator status to26 Slereah_
+T 1336084963 23*	23Slereah has quit (23Ping timeout: 240 seconds23)
+T 1336085764 18<taiga>	emily_, well something i wouldn't reconsidre anymore :P
+T 1336087355 18<fungus>	> If it's female body with penis <-- in what way is that female 
+T 1336087402 18<passing_by>	body wise
+T 1336087422 18<passing_by>	question answered upon posting
+T 1336087498 18<fungus>	 i don't think i;ve ever met a non-cisgendered irl
+T 1336087568 18<fungus>	transpersons i know online are unbearable though
+T 1336088067 23*	23passing_by has quit (23Quit: passing_by23)
+T 1336088924 23*	23Jkid (23~Jkid@no.social.life.king) has left #saovq
+T 1336089617 19*	19passing_by (~cliSwi@muddy.cocks) has joined #saovq
+T 1336089617 22*	Hug sets mode +a #saovq passing_by
+T 1336089617 22*	26Hug gives channel operator status to26 passing_by
+T 1336090267 23*	23passing_by has quit (23Quit: passing_by23)
+T 1336095278 23*	23Arveene has quit (23Ping timeout: 240 seconds23)
+T 1336098056 23*	23Mucupurulent has quit (23Remote host closed the connection23)
+T 1336099964 19*	19Mucupurulent (~baiborg@Necrophagist.bai) has joined #saovq
+T 1336102260 19*	19Arveene (~Arveene@Rizon-1A8D945F.try.wideopenwest.com) has joined #saovq
+T 1336102260 22*	Hug sets mode +a #saovq Arveene
+T 1336102260 22*	26Hug gives channel operator status to26 Arveene
+T 1336108258 19*	19rrp0423 (cgiirc@Rizon-B5785B8B.client.mchsi.com) has joined #saovq
+T 1336108258 22*	Hug sets mode +a #saovq rrp0423
+T 1336108258 22*	26Hug gives channel operator status to26 rrp0423
+T 1336108264 18<rrp0423>	what's up my nigs
+T 1336108274 22*	rrp0423 is now known as Wikkie
+T 1336108660 22*	Wikkie has changed the topic to: 
+T 1336108683 22*	Wikkie has changed the topic to: #saovq SAOVQ | Secret areas of vip quality
+T 1336113166 23*	23Wikkie has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1336113282 23*	23ticks has quit (23Read error: Connection reset by peer23)
+T 1336113282 23*	23emily_ has quit (23Read error: Connection reset by peer23)
+T 1336114921 23*	23Mucupurulent has quit (23Quit: Good bye!23)
+T 1336115202 19*	19Mucupurulent (~baiborg@Necrophagist.bai) has joined #saovq
+T 1336116161 23*	23Mucupurulent has quit (23Quit: Good bye!23)
+T 1336119671 19*	19Iluvatar (~Iluvatar@meganekko.mode) has joined #saovq
+T 1336119671 22*	Hug sets mode +a #saovq Iluvatar
+T 1336119671 22*	26Hug gives channel operator status to26 Iluvatar
+T 1336124240 18<LiteralKa>	23:12:19 <&fungus> > If it's female body with penis <-- in what way is that female 
+T 1336124240 18<LiteralKa>	w
+T 1336131605 18<taiga>	"i thought only men have these"
+T 1336132281 18<LiteralKa>	fuck the indefinite article
+T 1336132282 18<LiteralKa>	(or lack thereof)
+T 1336133169 19*	19emily_ (~emily@zima.blue) has joined #saovq
+T 1336133169 22*	Hug sets mode +a #saovq emily_
+T 1336133169 22*	26Hug gives channel operator status to26 emily_
+T 1336139434 18<Blice>	hi LiteralKa 
+T 1336139444 18<LiteralKa>	hoi
+T 1336139449 18<Blice>	howr you
+T 1336139653 18<LiteralKa>	http://www.youtube.com/watch?v=tpTbovltOPA me irl
+T 1336139784 18<Blice>	haha
+T 1336140175 18<LiteralKa>	http://www.youtube.com/channel/UCIxOppWwVjaYLsGM-ZJdd-A
+T 1336140534 18<LiteralKa>	http://www.youtube.com/watch?v=fWlrUcb8l4o&feature=player_detailpage#t=127s
+T 1336140539 18<LiteralKa>	lool
+T 1336146015 18<taiga>	personally i don't need s/an/the in english but i use it since many people can't understand otherwise
+T 1336146084 18<taiga>	at risk i sound more russian, i'll try and stop using articles, what good idea, right?
+T 1336155207 18<LiteralKa>	lol
+T 1336162994 22*	emily_ is now known as ticks_
+T 1336244022 19*	19Now talking on #saovq
+T 1336244022 29*	29Topic for #saovq 29is: #saovq SAOVQ | Secret areas of vip quality
+T 1336244022 29*	29Topic for #saovq 29set by Wikkie!cgiirc@Rizon-B5785B8B.client.mchsi.com 29at Fri May  4 01:07:45 2012
+T 1336244022 22*	Hug sets mode +a #saovq Annex
+T 1336244022 22*	26Hug gives channel operator status to26 Annex
+T 1336244572 23*	23the_Executioner has quit (23Quit: Sono una ridente citta' del Pakistan.23)
+T 1336245783 23*	23Arveene has quit (23Ping timeout: 240 seconds23)
+T 1336246123 19*	19Arveene (~Arveene@Rizon-1A8D945F.try.wideopenwest.com) has joined #saovq
+T 1336246123 22*	Hug sets mode +a #saovq Arveene
+T 1336246123 22*	26Hug gives channel operator status to26 Arveene
+T 1336257819 23*	23Iluvatar has quit (2323)
+T 1336261089 23*	23Mucupurulent has quit (23Remote host closed the connection23)
+T 1336262173 19*	19faux_real (qwebirc@your.front.lawn) has joined #saovq
+T 1336262173 22*	Hug sets mode +a #saovq faux_real
+T 1336262173 22*	26Hug gives channel operator status to26 faux_real
+T 1336262177 18<faux_real>	sup
+T 1336262178 18<faux_real>	!play
+T 1336262180 18<faux_real>	!roll
+T 1336262183 18<faux_real>	!date
+T 1336262189 18<faux_real>	!quote
+T 1336262199 18<faux_real>	!LiteralKa
+T 1336262321 18<faux_real>	http://www.reddit.com/r/finance/comments/t86l6/inside_job_full_length_hd_good_introduction_share/c4ke8gz
+T 1336262339 18<faux_real>	I don't think this eh777 guy understands
+T 1336262344 18<faux_real>	I'm fucking untrollable
+T 1336263306 23*	23ticks_ has quit (23Quit: Process Killed23)
+T 1336266185 18<LiteralKa>	hi faux_real 
+T 1336269999 18<faux_real>	sup homie
+T 1336271997 19*	19ticks (~emily@zima.blue) has joined #saovq
+T 1336271997 22*	Hug sets mode +a #saovq ticks
+T 1336271997 22*	26Hug gives channel operator status to26 ticks
+T 1336277570 23*	23ticks- has quit (23Quit: Lost terminal23)
+T 1336279234 18<LiteralKa>	hi
+T 1336279237 18<LiteralKa>	nmu
+T 1336283402 23*	23ticks has quit (23Ping timeout: 240 seconds23)
+T 1336283971 19*	19ticks (~emily@zima.blue) has joined #saovq
+T 1336283971 22*	Hug sets mode +a #saovq ticks
+T 1336283971 22*	26Hug gives channel operator status to26 ticks
+T 1336286245 23*	23Arveene has quit (23Ping timeout: 240 seconds23)
+T 1336287992 19*	19Slereah (x@Rizon-3F145FB2.w83-195.abo.wanadoo.fr) has joined #saovq
+T 1336287992 22*	Hug sets mode +a #saovq Slereah
+T 1336287992 22*	26Hug gives channel operator status to26 Slereah
+T 1336288006 23*	23Slereah_ has quit (23Ping timeout: 240 seconds23)
+T 1336290379 19*	19Slereah_ (x@Rizon-3F145FB2.w83-195.abo.wanadoo.fr) has joined #saovq
+T 1336290379 22*	Hug sets mode +a #saovq Slereah_
+T 1336290379 22*	26Hug gives channel operator status to26 Slereah_
+T 1336290436 23*	23Slereah has quit (23Ping timeout: 240 seconds23)
+T 1336293240 19*	19Arveene (~Arveene@needs.animu.badly) has joined #saovq
+T 1336293240 22*	Hug sets mode +a #saovq Arveene
+T 1336293240 22*	26Hug gives channel operator status to26 Arveene
+T 1336294897 23*	23ticks has quit (23Ping timeout: 240 seconds23)
+T 1336295819 19*	19Iluvatar (~Iluvatar@meganekko.mode) has joined #saovq
+T 1336295819 22*	Hug sets mode +a #saovq Iluvatar
+T 1336295819 22*	26Hug gives channel operator status to26 Iluvatar
+T 1336310224 19*	19ticks (~emily@zima.blue) has joined #saovq
+T 1336310224 22*	Hug sets mode +a #saovq ticks
+T 1336310224 22*	26Hug gives channel operator status to26 ticks
+T 1336310618 23*	23Arveene has quit (23Ping timeout: 240 seconds23)
+T 1336310724 19*	19Arveene (~Arveene@Rizon-1A8D945F.try.wideopenwest.com) has joined #saovq
+T 1336310724 22*	Hug sets mode +a #saovq Arveene
+T 1336310724 22*	26Hug gives channel operator status to26 Arveene
+T 1336310992 23*	23Arveene has quit (23Ping timeout: 240 seconds23)
+T 1336316100 18<fungus>	http://www.asciiartfarts.com/20120506.html
+T 1336318019 19*	19Arveene (~Arveene@Rizon-1A8D945F.try.wideopenwest.com) has joined #saovq
+T 1336318020 22*	Hug sets mode +a #saovq Arveene
+T 1336318020 22*	26Hug gives channel operator status to26 Arveene
+T 1336318094 23*	23pognivet has quit (23Ping timeout: 240 seconds23)
+T 1336318161 19*	19pognivet (~booga@Rizon-D38D5A56.socal.res.rr.com) has joined #saovq
+T 1336318161 22*	Hug sets mode +a #saovq pognivet
+T 1336318161 22*	26Hug gives channel operator status to26 pognivet
+T 1336318500 23*	23pognivet has quit (23Ping timeout: 240 seconds23)
+T 1336318694 19*	19pognivet (~booga@Rizon-D38D5A56.socal.res.rr.com) has joined #saovq
+T 1336318694 22*	Hug sets mode +a #saovq pognivet
+T 1336318694 22*	26Hug gives channel operator status to26 pognivet
+T 1336318872 23*	23faux_real has quit (23Ping timeout: 240 seconds23)
+T 1336319004 23*	23pognivet has quit (23Ping timeout: 240 seconds23)
+T 1336319061 19*	19pognivet (~booga@Rizon-D38D5A56.socal.res.rr.com) has joined #saovq
+T 1336319061 22*	Hug sets mode +a #saovq pognivet
+T 1336319061 22*	26Hug gives channel operator status to26 pognivet
+T 1336319318 23*	23pognivet has quit (23Ping timeout: 240 seconds23)
+T 1336319344 19*	19pognivet (~booga@Rizon-D38D5A56.socal.res.rr.com) has joined #saovq
+T 1336319344 22*	Hug sets mode +a #saovq pognivet
+T 1336319344 22*	26Hug gives channel operator status to26 pognivet
+T 1336340278 19*	19Now talking on #saovq
+T 1336340278 29*	29Topic for #saovq 29is: #saovq SAOVQ | Secret areas of vip quality
+T 1336340278 29*	29Topic for #saovq 29set by Wikkie!cgiirc@Rizon-B5785B8B.client.mchsi.com 29at Fri May  4 01:07:45 2012
+T 1336340279 22*	Hug sets mode +a #saovq Annex
+T 1336340279 22*	26Hug gives channel operator status to26 Annex
+T 1336342310 18<taiga>	(´～`)
+T 1336349479 19*	19Mucupurulent (~baiborg@Necrophagist.bai) has joined #saovq
+T 1336350417 18<LiteralKa>	hie
+T 1336350821 18<Blice>	:3
+T 1336353556 23*	23fungus has quit (23Quit: leaving23)
+T 1336353731 23*	23ticks has quit (23Quit: goodbye23)
+T 1336369190 19*	19ehhhhh (~fbi_agent@they.think.they.are.not.being.watched.the.fools) has joined #saovq
+T 1336369191 22*	Hug sets mode +a #saovq ehhhhh
+T 1336369191 22*	26Hug gives channel operator status to26 ehhhhh
+T 1336369749 23*	23Mucupurulent has quit (23Remote host closed the connection23)
+T 1336381436 19*	19Iluvatar (~Iluvatar@meganekko.mode) has joined #saovq
+T 1336381436 22*	Hug sets mode +a #saovq Iluvatar
+T 1336381436 22*	26Hug gives channel operator status to26 Iluvatar
+T 1336382581 19*	19the_Executioner (~otherside@Rizon-1A10C58B.libero.it) has joined #saovq
+T 1336382581 22*	Hug sets mode +a #saovq the_Executioner
+T 1336382581 22*	26Hug gives channel operator status to26 the_Executioner
+T 1336382674 19*	19multitrackdriftu1 (~Alex@Rizon-26968D90.dsl.pltn13.sbcglobal.net) has joined #saovq
+T 1336382675 22*	Hug sets mode +a #saovq multitrackdriftu1
+T 1336382675 22*	26Hug gives channel operator status to26 multitrackdriftu1
+T 1336382823 23*	23multitrackdriftu has quit (23Ping timeout: 240 seconds23)
+T 1336385034 23*	23Arveene has quit (23Ping timeout: 240 seconds23)
+T 1336389401 23*	23the_Executioner has quit (23Quit: Sono una ridente citta' del Pakistan.23)
+T 1336392019 19*	19Arveene (~Arveene@Rizon-1A8D945F.try.wideopenwest.com) has joined #saovq
+T 1336392019 22*	Hug sets mode +a #saovq Arveene
+T 1336392019 22*	26Hug gives channel operator status to26 Arveene
+T 1336490148 19*	19Now talking on #saovq
+T 1336490148 29*	29Topic for #saovq 29is: #saovq SAOVQ | Secret areas of vip quality
+T 1336490148 29*	29Topic for #saovq 29set by Wikkie!cgiirc@Rizon-B5785B8B.client.mchsi.com 29at Fri May  4 01:07:45 2012
+T 1336490148 22*	Hug sets mode +a #saovq Annex
+T 1336490148 22*	26Hug gives channel operator status to26 Annex
+T 1336490174 19*	19godzilla (loldongs@please.respond) has joined #saovq
+T 1336490174 22*	Hug sets mode +a #saovq godzilla
+T 1336490174 22*	26Hug gives channel operator status to26 godzilla
+T 1336599092 19*	19Now talking on #saovq
+T 1336599092 29*	29Topic for #saovq 29is: #saovq SAOVQ | Secret areas of vip quality
+T 1336599092 29*	29Topic for #saovq 29set by Wikkie!cgiirc@Rizon-B5785B8B.client.mchsi.com 29at Fri May  4 01:07:45 2012
+T 1336599093 22*	Hug sets mode +a #saovq Annex
+T 1336599093 22*	26Hug gives channel operator status to26 Annex
+T 1336604051 19*	19Mucupurulent (~baiborg@Necrophagist.bai) has joined #saovq
+T 1336604621 23*	23Mucupurulent has quit (23*.net *.split23)
+T 1336604621 23*	23croc has quit (23*.net *.split23)
+T 1336604621 23*	23Tanami has quit (23*.net *.split23)
+T 1336604622 23*	23meltingw1x has quit (23*.net *.split23)
+T 1336604622 23*	23Jkid has quit (23*.net *.split23)
+T 1336604622 23*	23Losstarot has quit (23*.net *.split23)
+T 1336604622 23*	23Blice has quit (23*.net *.split23)
+T 1336604778 19*	19meltingw1x (~meltingwa@Rizon-F3787405.washdc.fios.verizon.net) has joined #saovq
+T 1336604778 19*	19Jkid (~Jkid@no.social.life.king) has joined #saovq
+T 1336604778 22*	irc.x1n.org sets mode +a #saovq meltingw1x
+T 1336604778 22*	irc.x1n.org sets mode +a #saovq Jkid
+T 1336604778 22*	26irc.x1n.org gives channel operator status to26 meltingw1x Jkid
+T 1336604778 19*	19Losstarot (~Koa@Lea.Monde) has joined #saovq
+T 1336604778 19*	19Blice (~blice@alrig.ht) has joined #saovq
+T 1336604778 22*	irc.x1n.org sets mode +a #saovq Losstarot
+T 1336604778 22*	26irc.x1n.org gives channel operator status to26 Losstarot
+T 1336604841 19*	19Mucupurulent (~baiborg@Necrophagist.bai) has joined #saovq
+T 1336604841 19*	19croc (croc@Rizon-32817DD1.sdf.org) has joined #saovq
+T 1336604841 19*	19Tanami (~carnage@frimmin.on.the.frim.fram.frimmin.on.the.fram) has joined #saovq
+T 1336604841 22*	irc.x1n.org sets mode +a #saovq croc
+T 1336604841 22*	irc.x1n.org sets mode +a #saovq Tanami
+T 1336604841 22*	26irc.x1n.org gives channel operator status to26 croc Tanami
+T 1336604845 23*	23Tanami has quit (23Excess Flood23)
+T 1336604850 19*	19Tanami (~carnage@Rizon-F883ACCA.in) has joined #saovq
+T 1336604879 22*	Hug sets mode +a #saovq Tanami
+T 1336604879 22*	26Hug gives channel operator status to26 Tanami
+T 1336605071 23*	23croc has quit (23Ping timeout: 240 seconds23)
+T 1336605073 19*	19croc (croc@Rizon-32817DD1.sdf.org) has joined #saovq
+T 1336605073 22*	Hug sets mode +a #saovq croc
+T 1336605073 22*	26Hug gives channel operator status to26 croc
+T 1336606054 23*	23passing_by has quit (23Quit: passing_by23)
+T 1336606531 22*	Disconnected (Connection reset by peer).
+T 1336606556 19*	19Now talking on #saovq
+T 1336606556 29*	29Topic for #saovq 29is: #saovq SAOVQ | Secret areas of vip quality
+T 1336606556 29*	29Topic for #saovq 29set by Wikkie!cgiirc@Rizon-B5785B8B.client.mchsi.com 29at Fri May  4 01:07:45 2012
+T 1336606556 22*	Hug sets mode +a #saovq Annex
+T 1336606556 22*	26Hug gives channel operator status to26 Annex
+T 1336608804 23*	23MisfortuneCooki has quit (23Read error: Connection reset by peer23)
+T 1336608827 19*	19MisfortuneCooki (~MFC|m91p_@panda.emperor.of.sparkles) has joined #saovq
+T 1336608827 22*	Hug sets mode +a #saovq MisfortuneCooki
+T 1336608827 22*	26Hug gives channel operator status to26 MisfortuneCooki
+T 1336616045 23*	23MisfortuneCooki has quit (23Ping timeout: 240 seconds23)
+T 1336618520 18<brrr>	lol
+T 1336619033 18<LiteralKa>	what
+T 1336620385 23*	23Mucupurulent has quit (23Remote host closed the connection23)
+T 1336620633 19*	19Mucupurulent (~baiborg@Necrophagist.bai) has joined #saovq
+T 1336627147 23*	23LiteralKa has quit (23Read error: Operation timed out23)
+T 1336627149 19*	19LiteralKa (gencdo@Rizon-5DB57A7B.me) has joined #saovq
+T 1336627149 22*	Hug sets mode +a #saovq LiteralKa
+T 1336627149 22*	26Hug gives channel operator status to26 LiteralKa
+T 1336628853 23*	23Mucupurulent has quit (23Remote host closed the connection23)
+T 1336630538 23*	23Losstarot has quit (23Quit: Leaving23)
+T 1336630681 19*	19Losstarot (~Koa@Lea.Monde) has joined #saovq
+T 1336630681 22*	Hug sets mode +a #saovq Losstarot
+T 1336630681 22*	26Hug gives channel operator status to26 Losstarot
+T 1336632475 19*	19fifelem (~fifelem@376E9557.73A6FB18.12DAEE4F.IP) has joined #saovq
+T 1336632475 22*	Hug sets mode +a #saovq fifelem
+T 1336632475 22*	26Hug gives channel operator status to26 fifelem
+T 1336633270 23*	23fifelem has quit (23Quit: fifelem23)
+T 1336634136 19*	19fifelem (~fifelem@Rizon-FD95BFAA.static.tpgi.com.au) has joined #saovq
+T 1336634137 22*	Hug sets mode +a #saovq fifelem
+T 1336634137 22*	26Hug gives channel operator status to26 fifelem
+T 1336634818 23*	23fifelem has quit (23Quit: fifelem23)
+T 1336635451 23*	23meltingw1x has quit (23Ping timeout: 240 seconds23)
+T 1336640108 19*	19Iluvatar (~Iluvatar@meganekko.mode) has joined #saovq
+T 1336640108 22*	Hug sets mode +a #saovq Iluvatar
+T 1336640108 22*	26Hug gives channel operator status to26 Iluvatar
+T 1336652352 19*	19passing_by (~cliSwi@muddy.cocks) has joined #saovq
+T 1336652352 22*	Hug sets mode +a #saovq passing_by
+T 1336652352 22*	26Hug gives channel operator status to26 passing_by
+T 1336653045 19*	19meltingw1x (~meltingwa@Rizon-F3787405.washdc.fios.verizon.net) has joined #saovq
+T 1336653045 22*	Hug sets mode +a #saovq meltingw1x
+T 1336653045 22*	26Hug gives channel operator status to26 meltingw1x
+T 1336654741 19*	19MisfortuneCooki (~MFC|m91p_@panda.emperor.of.sparkles) has joined #saovq
+T 1336654741 22*	Hug sets mode +a #saovq MisfortuneCooki
+T 1336654741 22*	26Hug gives channel operator status to26 MisfortuneCooki
+T 1336657614 19*	19Now talking on #saovq
+T 1336657614 29*	29Topic for #saovq 29is: #saovq SAOVQ | Secret areas of vip quality
+T 1336657614 29*	29Topic for #saovq 29set by Wikkie!cgiirc@Rizon-B5785B8B.client.mchsi.com 29at Fri May  4 01:07:45 2012
+T 1336657614 22*	Hug sets mode +a #saovq Annex
+T 1336657614 22*	26Hug gives channel operator status to26 Annex
+T 1336661156 19*	19Mucupurulent (~baiborg@Necrophagist.bai) has joined #saovq
+T 1336662378 23*	23meltingw1x has quit (23Ping timeout: 240 seconds23)
+T 1336662390 19*	19meltingw1x (~meltingwa@Rizon-F3787405.washdc.fios.verizon.net) has joined #saovq
+T 1336662390 22*	Hug sets mode +a #saovq meltingw1x
+T 1336662390 22*	26Hug gives channel operator status to26 meltingw1x
+T 1336665505 23*	23passing_by has quit (23Quit: passing_by23)
+T 1336668736 19*	19Kashkabald (~Miranda@Rizon-356AD29.netvisao.pt) has joined #saovq
+T 1336668736 22*	Hug sets mode +a #saovq Kashkabald
+T 1336668736 22*	26Hug gives channel operator status to26 Kashkabald
+T 1336676541 23*	23Kashkabald has quit (23Quit: Miranda IM! Smaller, Faster, Easier. http://miranda-im.org23)
+T 1336678923 19*	19passing_by (~cliSwi@muddy.cocks) has joined #saovq
+T 1336678924 22*	Hug sets mode +a #saovq passing_by
+T 1336678924 22*	26Hug gives channel operator status to26 passing_by
+T 1336699674 19*	19Now talking on #saovq
+T 1336699674 29*	29Topic for #saovq 29is: #saovq SAOVQ | Secret areas of vip quality
+T 1336699674 29*	29Topic for #saovq 29set by Wikkie!cgiirc@Rizon-B5785B8B.client.mchsi.com 29at Fri May  4 01:07:45 2012
+T 1336699675 22*	Hug sets mode +a #saovq Annex
+T 1336699675 22*	26Hug gives channel operator status to26 Annex
+T 1336700603 You have been kicked by Annex | Reason: Annex | Rejoining...
+T 1336700603 19*	19Now talking on #saovq
+T 1336700603 29*	29Topic for #saovq 29is: #saovq SAOVQ | Secret areas of vip quality
+T 1336700603 29*	29Topic for #saovq 29set by Wikkie!cgiirc@Rizon-B5785B8B.client.mchsi.com 29at Fri May  4 01:07:45 2012
+T 1336700603 22*	Hug sets mode +a #saovq Annex
+T 1336700603 22*	26Hug gives channel operator status to26 Annex
+T 1336705711 23*	23MisfortuneCooki has quit (23Quit: Leaving23)
+T 1336717694 19*	19passing_by (~cliSwi@muddy.cocks) has joined #saovq
+T 1336717695 22*	Hug sets mode +a #saovq passing_by
+T 1336717695 22*	26Hug gives channel operator status to26 passing_by
+T 1336722051 23*	23meltingw1x has quit (23Ping timeout: 240 seconds23)
+T 1336723441 19*	19meltingw1x (~meltingwa@Rizon-F3787405.washdc.fios.verizon.net) has joined #saovq
+T 1336723441 22*	Hug sets mode +a #saovq meltingw1x
+T 1336723441 22*	26Hug gives channel operator status to26 meltingw1x
+T 1336723702 23*	23passing_by has quit (23Quit: passing_by23)
+T 1336724675 19*	19the_Executioner (~otherside@Rizon-EDB27E45.libero.it) has joined #saovq
+T 1336724675 22*	Hug sets mode +a #saovq the_Executioner
+T 1336724675 22*	26Hug gives channel operator status to26 the_Executioner
+T 1336725175 19*	19passing_by (~cliSwi@muddy.cocks) has joined #saovq
+T 1336725175 22*	Hug sets mode +a #saovq passing_by
+T 1336725175 22*	26Hug gives channel operator status to26 passing_by
+T 1336725726 19*	19Iluvatar (~Iluvatar@meganekko.mode) has joined #saovq
+T 1336725727 22*	Hug sets mode +a #saovq Iluvatar
+T 1336725727 22*	26Hug gives channel operator status to26 Iluvatar
+T 1336727809 23*	23passing_by has quit (23Quit: passing_by23)
+T 1336728813 23*	23Mucupurulent has quit (23Remote host closed the connection23)
+T 1336742168 19*	19Now talking on #saovq
+T 1336742168 29*	29Topic for #saovq 29is: #saovq SAOVQ | Secret areas of vip quality
+T 1336742168 29*	29Topic for #saovq 29set by Wikkie!cgiirc@Rizon-B5785B8B.client.mchsi.com 29at Fri May  4 01:07:45 2012
+T 1336742168 22*	Hug sets mode +a #saovq Annex
+T 1336742168 22*	26Hug gives channel operator status to26 Annex
+T 1336747497 23*	23Jkid has quit (23Ping timeout: 240 seconds23)
+T 1336753923 19*	19Slereah_ (x@Rizon-DBBE0EA8.w83-195.abo.wanadoo.fr) has joined #saovq
+T 1336753923 22*	Hug sets mode +a #saovq Slereah_
+T 1336753923 22*	26Hug gives channel operator status to26 Slereah_
+T 1336754015 23*	23Slereah has quit (23Ping timeout: 240 seconds23)
+T 1336759901 23*	23the_Executioner has quit (23Quit: Sono una ridente citta' del Pakistan.23)
+T 1336762125 19*	19Jkid (~Jkid@no.social.life.king) has joined #saovq
+T 1336762125 22*	Hug sets mode +a #saovq Jkid
+T 1336762125 22*	26Hug gives channel operator status to26 Jkid
+T 1336764283 23*	23MisfortuneCooki has quit (23Read error: Connection reset by peer23)
+T 1336764307 19*	19MisfortuneCooki (~MFC|m91p_@panda.emperor.of.sparkles) has joined #saovq
+T 1336764307 22*	Hug sets mode +a #saovq MisfortuneCooki
+T 1336764307 22*	26Hug gives channel operator status to26 MisfortuneCooki
+T 1336764763 23*	23MisfortuneCooki has quit (23Read error: Connection reset by peer23)
+T 1336764787 19*	19MisfortuneCooki (~MFC|m91p_@panda.emperor.of.sparkles) has joined #saovq
+T 1336764787 22*	Hug sets mode +a #saovq MisfortuneCooki
+T 1336764787 22*	26Hug gives channel operator status to26 MisfortuneCooki
+T 1336772866 19*	19Mucupurulent (~baiborg@Necrophagist.bai) has joined #saovq
+T 1336775560 19*	19Iluvatara (~Iluvatar@Rizon-D6B9B4A6.customer.lyse.net) has joined #saovq
+T 1336775560 22*	Hug sets mode +a #saovq Iluvatara
+T 1336775560 22*	26Hug gives channel operator status to26 Iluvatara
+T 1336775595 23*	23Iluvatar has quit (23Ping timeout: 240 seconds23)
+T 1336775634 23*	23Iluvatara has quit (2323)
+T 1336776597 23*	23Jkid (23~Jkid@no.social.life.king) has left #saovq
+T 1336778965 19*	19Jorg_Lieberstesh (~Jorg@Rizon-16D760E8.nrflva.fios.verizon.net) has joined #saovq
+T 1336778965 22*	Hug sets mode +a #saovq Jorg_Lieberstesh
+T 1336778965 22*	26Hug gives channel operator status to26 Jorg_Lieberstesh

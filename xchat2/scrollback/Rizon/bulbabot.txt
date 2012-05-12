@@ -1,0 +1,3 @@
+T 1333202325 18<BulbaBot>	Commands I recognise: addpoint_command, ask, ban, beats, bing, bytes, c, defend_ground, deop, devoice, dice, doc, duck, flip, g, gc, gcs, generic_countdown, head, ip, isup, kickban, npl, o, op, part, py, quiet, quit, rand, reload, removeuser, rmpoint_command, search, setpoint, shorten, slap, stats, suggest, tock, topic, tr, tr2, u, unban, unquiet, update, val, view_scores, voice, wa, xkcd, yi, ytsearch.
+T 1333202326 18<BulbaBot>	For help, do 'BulbaBot: help example?' where example is the name of the command you want help for.
+T 1333202336 31<Annex>30	.ban

@@ -1,0 +1,3 @@
+T 1333925826 19*	19Now talking on #/mu/stash
+T 1333925826 22*	irc.cccp-project.net sets mode +n #/mu/stash
+T 1333925826 22*	irc.cccp-project.net sets mode +t #/mu/stash

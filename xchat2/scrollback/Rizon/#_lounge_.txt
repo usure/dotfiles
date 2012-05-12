@@ -1,0 +1,48 @@
+T 1333110196 19*	19Now talking on #/lounge/
+T 1333110196 29*	29Topic for #/lounge/ 29is: Go forth and buy Ras Pi | http://bus-tops.com/
+T 1333110196 29*	29Topic for #/lounge/ 29set by Dionysus!~x@madasfuck.com 29at Wed Feb 29 02:47:47 2012
+T 1333110196 28-29TheKey28-	[#/lounge/] <MILKRIBS4K> I can insure you I am no anus!
+T 1333110196 22*	TheKey sets mode +a #/lounge/ Annex
+T 1333110196 22*	26TheKey gives channel operator status to26 Annex
+T 1333115834 23*	23Tanami has quit (23Killed (irc.cyberdynesystems.net joins/parts in #yhl within 5 seconds.)23)
+T 1333115839 19*	19Tanami (~carnage@Rizon-F883ACCA.in) has joined #/lounge/
+T 1333115839 22*	TheKey sets mode +a #/lounge/ Tanami
+T 1333115839 22*	26TheKey gives channel operator status to26 Tanami
+T 1333115866 23*	23Tanami has quit (23Killed (irc.cyberdynesystems.net joins/parts in #yhl within 8 seconds.)23)
+T 1333115871 19*	19Tanami (~carnage@Rizon-F883ACCA.in) has joined #/lounge/
+T 1333115871 22*	TheKey sets mode +a #/lounge/ Tanami
+T 1333115871 22*	26TheKey gives channel operator status to26 Tanami
+T 1333116741 18<Dionysus>	LavosPhoenix, lol
+T 1333116826 18<LavosPhoenix>	then they just removed the whole sign eventually
+T 1333116895 18<Dionysus>	LavosPhoenix link to story?
+T 1333117068 18<LavosPhoenix>	don't really have any
+T 1333117122 18<LavosPhoenix>	lol 31C on Sunday
+T 1333117197 18<Dionysus>	time to get tanned
+T 1333117538 18<LavosPhoenix>	but seriously it has been very warm this March here
+T 1333117695 18<LavosPhoenix>	hasn't been below 50F in nearly 3 weeks
+T 1333117764 18<LavosPhoenix>	basically the low temp each day is higher than the average high
+T 1333117823 18<LavosPhoenix>	I know the UK had some bouts of warm weather via the Big Black Cock
+T 1333117879 18<Dionysus>	w
+T 1333117892 18<Dionysus>	Yeah we've had a lot of high pressure
+T 1333117900 18<Dionysus>	tomorrow it'll be colder
+T 1333124184 23*	23Kristal has quit (23Ping timeout: 240 seconds23)
+T 1333125300 22*	Dionysus sets invite on Diabeetuss!*@*
+T 1333125300 22*	Dionysus sets invite on Diocletian!*@*
+T 1333125300 22*	Dionysus sets invite on Dionysus!*@*
+T 1333125313 22*	Dionysus sets invite on fifel!*@*
+T 1333125313 22*	Dionysus sets invite on Internets!*@*
+T 1333125313 22*	Dionysus sets invite on Kristal-!*@*
+T 1333125324 22*	Dionysus sets invite on LavosPhoenix!*@*
+T 1333125324 22*	Dionysus sets invite on meltingwax!*@*
+T 1333125324 22*	Dionysus sets invite on netwoodle!*@*
+T 1333125340 22*	Dionysus sets invite on Quotes!*@*
+T 1333125340 22*	Dionysus sets invite on richardus!*@*
+T 1333125340 22*	Dionysus sets invite on Tanami!*@*
+T 1333125349 22*	Dionysus sets invite on Zylo!*@*
+T 1333125349 22*	Dionysus sets invite on TheKey!*@*
+T 1333125349 22*	Dionysus sets invite on html!*@*
+T 1333125386 22*	Dionysus sets invite on Jdigital!*@*
+T 1333125386 22*	Dionysus sets invite on Jdiggital!*@*
+T 1333125386 22*	Dionysus sets invite on fifelem!*@*
+T 1333125394 22*	Dionysus sets invite on mr_vile!*@*
+T 1333125414 22*	Dionysus sets mode +i #/lounge/

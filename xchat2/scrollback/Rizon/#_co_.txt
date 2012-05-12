@@ -1,0 +1,564 @@
+T 1336362325 18<Kiwifruit>	oh
+T 1336362326 18<Gerry_MkII>	Silver Age heroes were the heroes we know now...
+T 1336362330 18<Kiwifruit>	ok
+T 1336362336 18<Gerry_MkII>	Superman, Batman, Wonder Woman, Hal Jordan Green Lantern, etc.
+T 1336362344 18<Kiwifruit>	gotcha
+T 1336363071 23*	23ircstats has quit (23Connection closed23)
+T 1336363071 23*	23rms has quit (23Connection closed23)
+T 1336363500 19*	19Venkman (~VX@Rizon-3EFCA747.nycmny.fios.verizon.net) has joined #/co/
+T 1336363500 22*	26Warden gives channel operator status to26 Venkman
+T 1336363691 23*	23Gerry_MkII has quit (23Ping timeout: 240 seconds23)
+T 1336364230 18<Kiwifruit>	yeayea yeeeeeeaaah WOW
+T 1336364413 18<Kiwifruit>	SPIDAMAN
+T 1336364685 18<Venkman>	SPEC-TAC-ULAR
+T 1336364998 18<Kiwifruit>	no no, this is the INVINCIBLE spiderman
+T 1336365477 23*	23Kite-kun has quit (23Ping timeout: 240 seconds23)
+T 1336365561 23*	23Juuza has quit (23Read error: Connection reset by peer23)
+T 1336365757 19*	19rms (~rms@G.N.U) has joined #/co/
+T 1336365810 19*	19ircstats (~stats@stats.bot) has joined #/co/
+T 1336367798 19*	19Brecht (~Plissken@77-56-168-178.dclient.hispeed.ch) has joined #/co/
+T 1336367798 22*	Warden sets mode +a #/co/ Brecht
+T 1336367798 22*	26Warden gives channel operator status to26 Brecht
+T 1336368204 19*	19Supernova (~ZeroReiMa@Rizon-8A6C52AF.dhcp.insightbb.com) has joined #/co/
+T 1336368204 22*	Warden sets mode +a #/co/ Supernova
+T 1336368204 22*	26Warden gives channel operator status to26 Supernova
+T 1336368207 23*	23Maru has quit (23Ping timeout: 240 seconds23)
+T 1336368947 23*	23helpful_comrade has quit (23Ping timeout: 240 seconds23)
+T 1336369073 19*	19helpful_comrade (~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net) has joined #/co/
+T 1336370185 23*	23Moejoe has quit (23Quit: 4(???) Aww sheeeeiiiit23)
+T 1336370966 19*	19Juuza (~Juuza@Rizon-922BF32.tmodns.net) has joined #/co/
+T 1336371177 23*	23Raph13 has quit (23Remote host closed the connection23)
+T 1336371560 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336373712 23*	23tarabluh has quit (23Ping timeout: 240 seconds23)
+T 1336375025 23*	23Firge has quit (23Ping timeout: 240 seconds23)
+T 1336376734 19*	19helpful_comrade_ (~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net) has joined #/co/
+T 1336376918 23*	23helpful_comrade has quit (23Ping timeout: 240 seconds23)
+T 1336376924 22*	helpful_comrade_ is now known as helpful_comrade
+T 1336376973 23*	23Broseph has quit (23Ping timeout: 240 seconds23)
+T 1336378283 19*	19Vismund (~Mundmund@Rizon-AEE461E4.adsl.alicedsl.de) has joined #/co/
+T 1336378283 22*	26Warden gives channel half-operator status to26 Vismund
+T 1336379914 23*	23Juuza has quit (23Quit: Leaving23)
+T 1336381388 19*	19Erzengel (~really@Rizon-E6EFDCD.dip.t-dialin.net) has joined #/co/
+T 1336382664 19*	19Polterer (~Polterer@Rizon-14524EF7.superkabel.de) has joined #/co/
+T 1336384575 23*	23Polterer has quit (23Read error: Connection reset by peer23)
+T 1336384617 19*	19erz^gone (~really@Rizon-9BDCFEDD.dip.t-dialin.net) has joined #/co/
+T 1336384723 23*	23Erzengel has quit (23Ping timeout: 240 seconds23)
+T 1336387151 23*	23helpful_comrade has quit (23Quit: ChatZilla 0.9.88.2 [Firefox 12.0/20120420145725]23)
+T 1336387458 19*	19helpful_comrade (~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net) has joined #/co/
+T 1336387605 22*	26Warden gives channel operator status to26 helpful_comrade
+T 1336390219 23*	23Supernova has quit (23Ping timeout: 240 seconds23)
+T 1336391541 19*	19Firge (~WinNT@396E5A46.857C7872.D4742AC6.IP) has joined #/co/
+T 1336391997 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336392236 19*	19Egrif (~WinNT@396E5A46.857C7872.D4742AC6.IP) has joined #/co/
+T 1336392247 19*	19misto_ (~Maxo@280F5CD.EAE468CE.A57AF6A9.IP) has joined #/co/
+T 1336392296 23*	23Firge has quit (23Ping timeout: 240 seconds23)
+T 1336392316 22*	Egrif is now known as Firge
+T 1336392316 23*	23misto has quit (23Ping timeout: 240 seconds23)
+T 1336392318 22*	misto_ is now known as misto
+T 1336392812 19*	19Maru (~ZeroReiMa@Three.Zeros.Presents) has joined #/co/
+T 1336392812 22*	Warden sets mode +a #/co/ Maru
+T 1336392812 22*	26Warden gives channel operator status to26 Maru
+T 1336393686 23*	23Firge has quit (23Ping timeout: 240 seconds23)
+T 1336395243 19*	19Trygon (~kraken@Rizon-A63652.dhcp.embarqhsd.net) has joined #/co/
+T 1336490146 19*	19Now talking on #/co/
+T 1336490146 29*	29Topic for #/co/ 29is: Check out the livestream channel 11www.livestream.com/the_tower and give helpful_comrade your requests.  If you'd like to help run the channel, feel free to let him know and volunteer your time.
+T 1336490146 29*	29Topic for #/co/ 29set by helpful_comrade!~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net 29at Tue May  1 18:36:30 2012
+T 1336490510 23*	23Moejoe has quit (2323)
+T 1336490926 19*	19Juuza (~Juuza@Rizon-82E08469.tmodns.net) has joined #/co/
+T 1336491552 23*	23Kiwifruit has quit (23Quit: butts23)
+T 1336491608 19*	19Kiwifruit (~asdf@Rizon-987FCA79.ptld.qwest.net) has joined #/co/
+T 1336491732 23*	23Maru has quit (23Ping timeout: 240 seconds23)
+T 1336491785 19*	19Moejoe (~t@ke.it.easy) has joined #/co/
+T 1336599090 19*	19Now talking on #/co/
+T 1336599090 29*	29Topic for #/co/ 29is: Check out the livestream channel 11www.livestream.com/the_tower and give helpful_comrade your requests.  If you'd like to help run the channel, feel free to let him know and volunteer your time.
+T 1336599090 29*	29Topic for #/co/ 29set by helpful_comrade!~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net 29at Tue May  1 18:36:30 2012
+T 1336599175 23*	23mavis has quit (23Ping timeout: 240 seconds23)
+T 1336599461 23*	23Gerry_MkII_ has quit (23Read error: Connection reset by peer23)
+T 1336599496 19*	19Gerry_MkII_ (~Gerry_MkI@8CA5682D.A9174224.AA6EFCD4.IP) has joined #/co/
+T 1336599739 19*	19Kite-kun (~kitelanfo@Rizon-B196C975.socal.res.rr.com) has joined #/co/
+T 1336599754 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/co/
+T 1336600432 19*	19Raph13 (~chatzilla@6BABF17A.16B050C8.F9ABF277.IP) has joined #/co/
+T 1336600576 18<Gerry_MkII_>	http://www.bleedingcool.com/2012/05/09/thinking-before-watchmen/
+T 1336600705 23*	23DrugLordKai has quit (23Ping timeout: 240 seconds23)
+T 1336601254 19*	19Firge (~WinNT@396E5A46.857C7872.D4742AC6.IP) has joined #/co/
+T 1336601837 18<Gerry_MkII_>	LOL. http://images.4chan.org/co/src/1336601148822.jpg
+T 1336602200 23*	23Erzengel has quit (2323)
+T 1336602350 19*	19Enker (~Reznor@child.alone) has joined #/co/
+T 1336602350 22*	26Warden gives voice to26 Enker
+T 1336602354 18<Enker>	WOowopOWP
+T 1336602360 18<Enker>	woWPOWPwowpooopWOOOOPPWOPOP
+T 1336602408 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336603775 19*	19Gabu (~Gabu@Rizon-D2C4FA50.hsd1.il.comcast.net) has joined #/co/
+T 1336603912 23*	23Gabu has quit (2323)
+T 1336604060 19*	19Erzengel (~really@Rizon-DF14E081.dip.t-dialin.net) has joined #/co/
+T 1336604117 19*	19Gabu (~Gabu@Rizon-D2C4FA50.hsd1.il.comcast.net) has joined #/co/
+T 1336604132 19*	19Trygon (~kraken@Rizon-A63652.dhcp.embarqhsd.net) has joined #/co/
+T 1336604621 23*	23Trygon has quit (23*.net *.split23)
+T 1336604621 23*	23Kite-kun has quit (23*.net *.split23)
+T 1336604621 23*	23deci has quit (23*.net *.split23)
+T 1336604621 23*	23andonuts has quit (23*.net *.split23)
+T 1336604622 23*	23SFR has quit (23*.net *.split23)
+T 1336604622 23*	23helpful_comrade has quit (23*.net *.split23)
+T 1336604622 23*	23Kiwifruit has quit (23*.net *.split23)
+T 1336604622 23*	23ZYX has quit (23*.net *.split23)
+T 1336604627 23*	23Brecht has quit (23Quit: 04.99«04UPP99»04.23)
+T 1336604778 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336604778 19*	19helpful_comrade (~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net) has joined #/co/
+T 1336604778 19*	19Kiwifruit (~asdf@174-25-77-201.ptld.qwest.net) has joined #/co/
+T 1336604778 19*	19ZYX (~none@we.are.soldiers.stand.or.die.com) has joined #/co/
+T 1336604778 22*	26irc.x1n.org gives channel operator status to26 helpful_comrade
+T 1336604820 23*	23SFR has quit (2323)
+T 1336604841 19*	19Trygon (~kraken@Rizon-A63652.dhcp.embarqhsd.net) has joined #/co/
+T 1336604841 19*	19Kite-kun (~kitelanfo@Rizon-B196C975.socal.res.rr.com) has joined #/co/
+T 1336604841 19*	19deci (deci51279@I.dont.want.to.go) has joined #/co/
+T 1336604841 19*	19andonuts (~nope@the.dr.is.in) has joined #/co/
+T 1336605209 19*	19BlasterBlade210 (~kitelanfo@Rizon-B196C975.socal.res.rr.com) has joined #/co/
+T 1336605376 23*	23Kite-kun has quit (23Ping timeout: 240 seconds23)
+T 1336605876 23*	23helpful_comrade has quit (23Quit: ChatZilla 0.9.88.2 [Firefox 12.0/20120420145725]23)
+T 1336606080 22*	BlasterBlade210 is now known as Kite-kun
+T 1336606165 23*	23Runner_ has quit (23Ping timeout: 240 seconds23)
+T 1336606240 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336606531 22*	Disconnected (Connection reset by peer).
+T 1336606596 19*	19Now talking on #/co/
+T 1336606596 29*	29Topic for #/co/ 29is: Check out the livestream channel 11www.livestream.com/the_tower and give helpful_comrade your requests.  If you'd like to help run the channel, feel free to let him know and volunteer your time.
+T 1336606596 29*	29Topic for #/co/ 29set by helpful_comrade!~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net 29at Tue May  1 18:36:30 2012
+T 1336606854 23*	23Erzengel has quit (23Ping timeout: 240 seconds23)
+T 1336607034 19*	19ratstar (~ratstar@tiger.boobs) has joined #/co/
+T 1336608164 19*	19guacamole (cgiirc@B466D39B.745762D7.F48704DE.IP) has joined #/co/
+T 1336608506 23*	23Firge has quit (23Ping timeout: 240 seconds23)
+T 1336608568 23*	23dzl has quit (23Ping timeout: 240 seconds23)
+T 1336608743 19*	19helpful_comrade (~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net) has joined #/co/
+T 1336608777 22*	26Warden gives channel operator status to26 helpful_comrade
+T 1336610562 19*	19DrugLordKai (~kissmy@Rizon-BD68CDF8.hsd1.ma.comcast.net) has joined #/co/
+T 1336611234 23*	23Kazisho has quit (23Quit: Here goes my genius23)
+T 1336611599 19*	19Broseph (~tex1488@Rizon-F8BD7551.dsl.hstntx.swbell.net) has joined #/co/
+T 1336613009 23*	23ratstar has quit (23Ping timeout: 240 seconds23)
+T 1336613855 23*	23Gabu has quit (23Ping timeout: 240 seconds23)
+T 1336614956 19*	19Firge (~WinNT@396E5A46.857C7872.D4742AC6.IP) has joined #/co/
+T 1336615435 19*	19Erzengel (~really@Rizon-DF14E081.dip.t-dialin.net) has joined #/co/
+T 1336615460 19*	19mavis (~pianis@Rizon-4B3E4E14.hsd1.mi.comcast.net) has joined #/co/
+T 1336615749 23*	23notcommander (23~notcomman@Rizon-DA02DCB5.washdc.fios.verizon.net) has left #/co/
+T 1336615970 23*	23playerTwo has quit (23Killed (NickServ (GHOST command used by playerOne))23)
+T 1336616639 18<helpful_comrade>	http://www.youtube.com/watch?v=yDoJMwjs0I8  :DDDD
+T 1336616641 18<rms>	01,00You00,04Tube "Alex Alice's SIEGFRIED - North American Trailer" (04:44) By: archaiaentertainment. 2,744 views since 2012-05-04. 5 comments. 4.95/5 (73 ratings) - http://youtu.be/yDoJMwjs0I8
+T 1336616909 23*	23mavis has quit (23Ping timeout: 240 seconds23)
+T 1336617620 19*	19Chief_Ding (~CD@Rizon-9C16ADCE.baf.movistar.cl) has joined #/co/
+T 1336618083 23*	23SFR has quit (2323)
+T 1336619136 18<Kiwifruit>	>bmo has soccer practice
+T 1336619180 18<Kiwifruit>	lmao bmo is like their child and they are having a husband and wife quarrel
+T 1336619226 23*	23Gerry_MkII_ has quit (23Ping timeout: 240 seconds23)
+T 1336619380 18<Kiwifruit>	WAT
+T 1336619410 19*	19Gerry_MkII_ (~Gerry_MkI@8CA5682D.A9174224.AA6EFCD4.IP) has joined #/co/
+T 1336619497 23*	23tarabluh has quit (23Read error: Connection reset by peer23)
+T 1336619515 18<Kiwifruit>	Gerry_MkII_, WAT
+T 1336619518 18<Kiwifruit>	the ending D:
+T 1336619528 18<Gerry_MkII_>	INORITE?
+T 1336619534 18<Gerry_MkII_>	That didn't sound like Ron Perlman, though.
+T 1336619543 18<Gerry_MkII_>	The season finale is going to be BALLZ.
+T 1336619560 18<Kiwifruit>	story arcs and shit man
+T 1336619592 19*	19tarabluh (~tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/co/
+T 1336619780 18<DrugLordKai>	Gerry: Memory serves, he stopped being voiced by Ron Perlman once they destroyed his body
+T 1336619797 18<DrugLordKai>	Memory serves, Kevin Michael Richardson was the voice when he jumped into PB
+T 1336619808 18<DrugLordKai>	So it makes sense someone else would voice here
+T 1336619873 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336620047 22*	Maru is now known as Zzzero
+T 1336620076 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/co/
+T 1336620655 23*	23Gerry_MkII_ has quit (23Ping timeout: 240 seconds23)
+T 1336620980 23*	23Trygon has quit (23Quit: http://www.1up-island.com/23)
+T 1336621782 19*	19Venkman (~VX@Rizon-C9386332.nycmny.fios.verizon.net) has joined #/co/
+T 1336621782 22*	26Warden gives channel operator status to26 Venkman
+T 1336621831 19*	19Clavros (~Hendrik@Rizon-7691B951.dyn.estpak.ee) has joined #/co/
+T 1336621831 22*	26Warden gives channel operator status to26 Clavros
+T 1336621939 23*	23Hendrik has quit (23Ping timeout: 240 seconds23)
+T 1336622130 19*	19Gerry_MkII_ (~Gerry_MkI@8CA5682D.A9174224.AA6EFCD4.IP) has joined #/co/
+T 1336622303 18<Venkman>	zup Gerry
+T 1336622593 18<Kiwifruit>	haha
+T 1336622597 18<Kiwifruit>	power glove in regular show
+T 1336622619 18<Kiwifruit>	>It's so bad!
+T 1336622620 18<Kiwifruit>	hahahaha
+T 1336622658 18<Venkman>	The Nintendo one?
+T 1336622665 18<Kiwifruit>	what else lol
+T 1336622707 18<Venkman>	I owned that once. Completely useless.
+T 1336622735 18<Gerry_MkII_>	Back.
+T 1336622744 18<Gerry_MkII_>	Doing absolutely nothing.
+T 1336622751 18<Gerry_MkII_>	That new episode or Regular Show was pretty good.
+T 1336622755 18<Gerry_MkII_>	New character. Character development.
+T 1336622769 18<Gerry_MkII_>	Margaret gives in a bit to Mordecai.
+T 1336622798 18<Kiwifruit>	I'm months behind in regular show
+T 1336622897 18<Gerry_MkII_>	I gave up on the show, really.
+T 1336622906 18<Gerry_MkII_>	It is the same thing every episode.
+T 1336622913 18<Gerry_MkII_>	I wish they would try a multi-episode plot.
+T 1336622921 18<Gerry_MkII_>	Some character development. Shipping. Etc.
+T 1336622928 18<Gerry_MkII_>	It is pretty much an adult show, already.
+T 1336623008 18<Gerry_MkII_>	Ovens is a pretty good Rule 34 artist... Now if only she could stick to a goddamn schedule for her commissions and webcomic. http://rule34.paheal.net/post/view/744605#search=Ovens
+T 1336623114 18<Venkman>	She did that human female/aliens comic? Where the blue alien had an aphrodisiac penis?
+T 1336623129 18<Gerry_MkII_>	Spacey Lucy. Yes.
+T 1336623139 18<Gerry_MkII_>	She does her Slipshine shit on time.
+T 1336623142 18<Venkman>	Ah...that was pretty good.
+T 1336623147 18<Gerry_MkII_>	But slacks on her webcomic and commissions.
+T 1336623154 18<Venkman>	Because Slipshine signs the checks.
+T 1336623161 18<Gerry_MkII_>	She also did that erotic comic with the Invisible Man and Monster Women.
+T 1336623172 18<Gerry_MkII_>	What ever happened to Hellstroem?
+T 1336623211 18<Venkman>	real life, probably.
+T 1336623925 18<Gerry_MkII_>	Goddamnit, /co/... http://images.4chan.org/co/src/1336622691947.jpg
+T 1336623970 18<Chief_Ding>	why.
+T 1336623982 18<Kiwifruit>	...
+T 1336624014 18<Gerry_MkII_>	I dunno. It is that stupid ass alternate-reality Avatar comic...
+T 1336624018 18<Gerry_MkII_>	By that autistic Tumblr girl.
+T 1336624037 18<Kiwifruit>	what
+T 1336624039 18<Kiwifruit>	sounds lame
+T 1336624207 23*	23Firge has quit (23Ping timeout: 240 seconds23)
+T 1336624266 18<Gerry_MkII_>	LOL.  http://images.4chan.org/co/src/1336623411605.png
+T 1336624341 22*	26Warden gives channel operator status to26 DrugLordKai
+T 1336624846 23*	23Gerry_MkII_ has quit (23Ping timeout: 240 seconds23)
+T 1336625568 23*	23tarabluh has quit (23Read error: Connection reset by peer23)
+T 1336625583 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/co/
+T 1336626483 19*	19Juuza (~Juuza@47A01365.555EF866.8E6F3D3C.IP) has joined #/co/
+T 1336626646 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336626799 19*	19Brecht (~Plissken@77-56-168-178.dclient.hispeed.ch) has joined #/co/
+T 1336626799 22*	Warden sets mode +a #/co/ Brecht
+T 1336626799 22*	26Warden gives channel operator status to26 Brecht
+T 1336626827 23*	23Juuza has quit (2323)
+T 1336626855 19*	19Juuza (~Juuza@47A01365.555EF866.8E6F3D3C.IP) has joined #/co/
+T 1336626873 23*	23Juuza has quit (2323)
+T 1336627041 19*	19Juuza (~Juuza@47A01365.555EF866.8E6F3D3C.IP) has joined #/co/
+T 1336627147 19*	19Gabu (~Gabu@Rizon-D2C4FA50.hsd1.il.comcast.net) has joined #/co/
+T 1336629406 23*	23Kite-kun has quit (23Ping timeout: 240 seconds23)
+T 1336629858 23*	23guacamole has quit (23Ping timeout: 240 seconds23)
+T 1336630160 23*	23tarabluh has quit (23Ping timeout: 240 seconds23)
+T 1336630856 19*	19ratstar (~ratstar@tiger.boobs) has joined #/co/
+T 1336633920 23*	23ratstar has quit (23Ping timeout: 240 seconds23)
+T 1336634247 23*	23Raph13 has quit (23Quit: ChatZilla 0.9.88.2 [Firefox 12.0/20120420145725]23)
+T 1336635292 23*	23Chief_Ding has quit (23Quit: I'll never forget the day when... THE DEVIL SHOOK MY HAND!23)
+T 1336636183 23*	23helpful_comrade has quit (23Quit: ChatZilla 0.9.88.2 [Firefox 12.0/20120420145725]23)
+T 1336636830 23*	23DrugLordKai has quit (23Ping timeout: 240 seconds23)
+T 1336641938 19*	19notcommander (~notcomman@Rizon-DA02DCB5.washdc.fios.verizon.net) has joined #/co/
+T 1336642070 23*	23notcommander has quit (2323)
+T 1336642526 23*	23Gabu has quit (23Ping timeout: 240 seconds23)
+T 1336642982 23*	23Juuza has quit (23Ping timeout: 240 seconds23)
+T 1336643756 19*	19erz^gone (~really@Rizon-FB15EADF.dip.t-dialin.net) has joined #/co/
+T 1336643867 23*	23Erzengel has quit (23Ping timeout: 240 seconds23)
+T 1336644227 19*	19Polterer (~Polterer@Rizon-14524EF7.superkabel.de) has joined #/co/
+T 1336644244 22*	erz^gone is now known as Erzengel
+T 1336644610 23*	23Venkman has quit (23Quit: <TheProbe> Show me a sane woman and I'll show you a tranny.23)
+T 1336645227 19*	19Ruby11 (~fwcbqrXv@Rizon-490DBC16.neoplus.adsl.tpnet.pl) has joined #/co/
+T 1336645227 23*	23Ruby11 has quit (23Connection closed23)
+T 1336646246 19*	19helpful_comrade (~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net) has joined #/co/
+T 1336646278 22*	26Warden gives channel operator status to26 helpful_comrade
+T 1336646639 23*	23Hollenthon has quit (23Quit: 04.99«04UPP99»04.23)
+T 1336647747 23*	23Brecht has quit (23Quit: 04.99«04UPP99»04.23)
+T 1336648843 22*	Clavros is now known as Hendrik
+T 1336650198 23*	23Zzzero has quit (23Ping timeout: 240 seconds23)
+T 1336653022 19*	19xgatt (~kiwi_xgat@Rizon-119F43A5.kiwiirc.com) has joined #/co/
+T 1336653238 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336653243 23*	23xgatt has quit (2323)
+T 1336654026 19*	19Gerry_MkII_ (~Gerry_MkI@8CA5682D.A9174224.AA6EFCD4.IP) has joined #/co/
+T 1336657612 19*	19Now talking on #/co/
+T 1336657612 29*	29Topic for #/co/ 29is: Check out the livestream channel 11www.livestream.com/the_tower and give helpful_comrade your requests.  If you'd like to help run the channel, feel free to let him know and volunteer your time.
+T 1336657612 29*	29Topic for #/co/ 29set by helpful_comrade!~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net 29at Tue May  1 18:36:30 2012
+T 1336657657 23*	23SFR has quit (23Ping timeout: 240 seconds23)
+T 1336657703 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336657998 23*	23Gerry_MkII_ has quit (23Ping timeout: 240 seconds23)
+T 1336658267 23*	23Trygon has quit (23Quit: http://www.1up-island.com/23)
+T 1336658328 23*	23SFR has quit (23Remote host closed the connection23)
+T 1336658344 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336658554 23*	23Spah has quit (23Ping timeout: 240 seconds23)
+T 1336658665 19*	19Spah (~Nic@Rizon-924305D5.atclnj.east.verizon.net) has joined #/co/
+T 1336658773 19*	19Erzengel (~really@Rizon-FB15EADF.dip.t-dialin.net) has joined #/co/
+T 1336659153 23*	23SFR has quit (23Remote host closed the connection23)
+T 1336659171 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336660012 19*	19Firge (~WinNT@396E5A46.857C7872.D4742AC6.IP) has joined #/co/
+T 1336660850 23*	23SFR has quit (23Remote host closed the connection23)
+T 1336660871 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336661684 23*	23SFR has quit (23Remote host closed the connection23)
+T 1336661700 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336662398 23*	23Networks12 has quit (23Ping timeout: 240 seconds23)
+T 1336662433 23*	23SFR has quit (23Ping timeout: 240 seconds23)
+T 1336662506 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336662564 19*	19Networks12 (Networks12@vhost.goes.here) has joined #/co/
+T 1336662761 23*	23SFR has quit (23Remote host closed the connection23)
+T 1336662776 19*	19SFR (~Trini@Rizon-C2B853FC.mia.fl.atlanticbb.net) has joined #/co/
+T 1336663151 19*	19Kite-kun (~kitelanfo@358F4F4C.B4E17CF.79E709F1.IP) has joined #/co/
+T 1336663496 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/co/
+T 1336663619 23*	23SFR has quit (23Remote host closed the connection23)
+T 1336663634 19*	19SFR (~Trini@Rizon-C2B853FC.mia.fl.atlanticbb.net) has joined #/co/
+T 1336663869 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/co/
+T 1336663883 23*	23SFR has quit (23Ping timeout: 240 seconds23)
+T 1336663922 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336664234 23*	23SFR has quit (23Ping timeout: 240 seconds23)
+T 1336664317 19*	19SFR (~Trini@Rizon-C2B853FC.mia.fl.atlanticbb.net) has joined #/co/
+T 1336665341 23*	23Kite-kun has quit (23Quit: Leaving23)
+T 1336666443 23*	23tarabluh has quit (23Read error: Connection reset by peer23)
+T 1336666507 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/co/
+T 1336667036 23*	23SFR has quit (23Remote host closed the connection23)
+T 1336667064 19*	19SFR (~Trini@Rizon-C2B853FC.mia.fl.atlanticbb.net) has joined #/co/
+T 1336667749 19*	19Gerry_MkII_ (~Gerry_MkI@8CA5682D.A9174224.AA6EFCD4.IP) has joined #/co/
+T 1336669125 19*	19Juuza (~Juuza@47A01365.555EF866.8E6F3D3C.IP) has joined #/co/
+T 1336669125 23*	23mmorz has quit (23Quit: Leaving...23)
+T 1336669131 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/co/
+T 1336669142 23*	23Gerry_MkII_ has quit (23Ping timeout: 240 seconds23)
+T 1336670266 23*	23Firge has quit (23Ping timeout: 240 seconds23)
+T 1336672182 23*	23agitooo has quit (23Ping timeout: 240 seconds23)
+T 1336672280 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336672335 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/co/
+T 1336672582 23*	23Erzengel has quit (2323)
+T 1336673367 19*	19Moejoe (~t@ke.it.easy) has joined #/co/
+T 1336674110 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336674909 23*	23SFR has quit (23Ping timeout: 240 seconds23)
+T 1336674983 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336675516 19*	19Kazisho (~milkshake@gorilla.warfare) has joined #/co/
+T 1336675611 19*	19Slumberthile (~Mundmund@Rizon-9E225843.adsl.alicedsl.de) has joined #/co/
+T 1336675779 23*	23Awaymund has quit (23Ping timeout: 240 seconds23)
+T 1336676115 19*	19Trygon (~kraken@Rizon-A63652.dhcp.embarqhsd.net) has joined #/co/
+T 1336676177 23*	23Polterer has quit (23Quit: Leaving23)
+T 1336676375 23*	23SFR has quit (23Ping timeout: 240 seconds23)
+T 1336676551 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336677303 23*	23helpful_comrade has quit (23Quit: ChatZilla 0.9.88.2 [Firefox 12.0/20120420145725]23)
+T 1336677921 19*	19helpful_comrade (~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net) has joined #/co/
+T 1336677938 22*	26Warden gives channel operator status to26 helpful_comrade
+T 1336678716 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/co/
+T 1336679956 19*	19Gabu (~Gabu@Rizon-D2C4FA50.hsd1.il.comcast.net) has joined #/co/
+T 1336680458 23*	23Kazisho has quit (23Ping timeout: 240 seconds23)
+T 1336680974 19*	19Kazisho (~milkshake@gorilla.warfare) has joined #/co/
+T 1336681330 23*	23tarabluh has quit (23Read error: Connection reset by peer23)
+T 1336681398 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/co/
+T 1336699672 19*	19Now talking on #/co/
+T 1336699672 29*	29Topic for #/co/ 29is: Check out the livestream channel 11www.livestream.com/the_tower and give helpful_comrade your requests.  If you'd like to help run the channel, feel free to let him know and volunteer your time.
+T 1336699672 29*	29Topic for #/co/ 29set by helpful_comrade!~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net 29at Tue May  1 18:36:30 2012
+T 1336699690 18<Diskai>	http://images.4chan.org/co/src/1336693140981.gif
+T 1336699708 18<Kiwifruit>	 amusing
+T 1336699735 18<Diskai>	i like her skin tone
+T 1336699752 18<Diskai>	and her head
+T 1336699761 23*	23Moejoe has quit (23Quit: 4(???) Aww sheeeeiiiit23)
+T 1336700134 19*	19Gerry_MkII_ (~Gerry_MkI@8CA5682D.A9174224.AA6EFCD4.IP) has joined #/co/
+T 1336700216 18<Diskai>	if you could give your library a comic book what would it be?
+T 1336700271 18<Gerry_MkII_>	Hmm...
+T 1336700278 18<Gerry_MkII_>	The Promethea Series.
+T 1336700283 18<Gerry_MkII_>	Just because I really liked it.
+T 1336700321 18<Diskai>	interesting
+T 1336700467 18<Diskai>	kicked from pantsu for balloons
+T 1336700902 18<Diskai>	my library doesn't have promethea either
+T 1336701128 18<Diskai>	http://images.4chan.org/gif/src/1336672893512.gif
+T 1336701137 18<Diskai>	i don't understand tickle fetish
+T 1336701152 18<Diskai>	i do but it's interesting to say i don
+T 1336701157 18<Diskai>	mai
+T 1336701254 18<Diskai>	't
+T 1336701863 18<Red_Bucket>	Is there a trope for "comedy characters who are secretly hax"
+T 1336701918 18<Diskai>	legend of korra tropes look for one related to bloin?
+T 1336701938 18<Diskai>	oh no wait he's not hax
+T 1336702022 18<Kiwifruit>	I can't really fap to tickle fetish porn for some reason
+T 1336702025 18<Kiwifruit>	but I do like tickling girls
+T 1336702190 18<agitooo>	bolin makes me lol
+T 1336702222 18<Kiwifruit>	indeed
+T 1336702229 19*	19ratstar (~ratstar@tiger.boobs) has joined #/co/
+T 1336703100 18<Diskai>	...shit
+T 1336703134 18<Diskai>	the bbbff reprise really gets to me
+T 1336703238 19*	19erz^gone (~really@Rizon-FB15EADF.dip.t-dialin.net) has joined #/co/
+T 1336703345 23*	23Erzengel has quit (23Ping timeout: 240 seconds23)
+T 1336703502 23*	23Firge has quit (23Ping timeout: 240 seconds23)
+T 1336703565 18<Kiwifruit>	?
+T 1336703601 18<Kiwifruit>	o heh
+T 1336703640 23*	23ratstar has quit (23Read error: Connection reset by peer23)
+T 1336703826 18<Diskai>	http://www.youtube.com/watch?v=LoCGspqQytc
+T 1336703828 18<rms>	01,00You00,04Tube "MLP: FIM Song - Twilight Sparkle - B.B.B.F.F. (Reprise)" (00:23) By: 205phineaslover. 27,641 views since 2012-04-21. 156 comments. 4.98/5 (173 ratings) - http://youtu.be/LoCGspqQytc
+T 1336703852 18<Kiwifruit>	yes
+T 1336703864 18<Diskai>	http://fuckyeahnouns.com/images/russian%20angles.jpg
+T 1336703892 18<Kiwifruit>	sad horse
+T 1336703929 18<Diskai>	sad horse indeed
+T 1336704206 18<Diskai>	http://chzsetphaserstolol.files.wordpress.com/2012/05/sci-fi-fantasy-legend-of-korra-triangles.jpg
+T 1336704280 18<Kiwifruit>	>cheez network
+T 1336704282 18<Kiwifruit>	gtfo Diskai 
+T 1336704299 18<Diskai>	link's from my sister
+T 1336704303 18<Kiwifruit>	:I
+T 1336704304 18<Diskai>	on a forum
+T 1336704307 18<Diskai>	in a shoutbox
+T 1336704316 18<Kiwifruit>	well tell her of the evils of cheez network then idk
+T 1336705005 23*	23erz^gone has quit (23Ping timeout: 240 seconds23)
+T 1336705311 19*	19DrugLordKai (~kissmy@Rizon-BD68CDF8.hsd1.ma.comcast.net) has joined #/co/
+T 1336705311 22*	26Warden gives channel operator status to26 DrugLordKai
+T 1336705422 19*	19helpful_comrade (~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net) has joined #/co/
+T 1336705439 22*	26Warden gives channel operator status to26 helpful_comrade
+T 1336706032 23*	23Gerry_MkII_ has quit (23Ping timeout: 240 seconds23)
+T 1336707024 18<Diskai>	yeap
+T 1336707034 18<Diskai>	money money money
+T 1336708002 23*	23Gabu has quit (23Read error: Connection reset by peer23)
+T 1336708023 19*	19Gabu (~Gabu@Rizon-D2C4FA50.hsd1.il.comcast.net) has joined #/co/
+T 1336708897 18<agitooo>	Money!
+T 1336708941 18<Diskai>	Moooney!
+T 1336708943 18<Kiwifruit>	get away
+T 1336708953 18<Kiwifruit>	you get a good job with good pay and you're ooookay
+T 1336709107 18<Diskai>	good job with bad pay
+T 1336709120 18<Kiwifruit>	money!
+T 1336709123 18<Kiwifruit>	it's a gas
+T 1336709130 18<Kiwifruit>	grab that cash with both hands and make a stash
+T 1336709271 18<Diskai>	won't employers be suspicioned upon by paying in cash
+T 1336709279 18<Diskai>	like, paying aliens
+T 1336709286 18<Diskai>	illegaly
+T 1336709286 18<Kiwifruit>	dude
+T 1336709313 18<Kiwifruit>	Diskai, http://www.youtube.com/watch?v=cpbbuaIA3Ds
+T 1336709313 18<Diskai>	i don't want to use bank of 'murric
+T 1336709323 18<rms>	01,00You00,04Tube "Money - Pink Floyd HD (Studio Version)" (06:33) By: art7s77. 1,928,160 views since 2009-08-20. 2,081 comments. 4.95/5 (6,686 ratings) - http://youtu.be/cpbbuaIA3Ds
+T 1336709341 18<Kiwifruit>	kids are so uncultured these days
+T 1336709350 23*	23Gabu has quit (23Read error: Connection reset by peer23)
+T 1336709371 19*	19Gabu (~Gabu@Rizon-D2C4FA50.hsd1.il.comcast.net) has joined #/co/
+T 1336709389 18<Diskai>	Pink Floyd is too popular
+T 1336709396 18<Diskai>	for a hipster like notme
+T 1336709403 18<Diskai>	!me
+T 1336709442 19*	19Venkman (~VX@Rizon-AA5634C0.nycmny.fios.verizon.net) has joined #/co/
+T 1336709442 22*	26Warden gives channel operator status to26 Venkman
+T 1336709596 18<agitooo>	Who is me?
+T 1336709597 18<Diskai>	i never listened to more than three pink floyd songs
+T 1336709626 18<Diskai>	i am
+T 1336709639 18<Diskai>	as you are he 
+T 1336709701 18<Diskai>	as you are me
+T 1336709702 18<Diskai>	and we are all together
+T 1336709723 18<Diskai>	frakked that up
+T 1336709917 18<Kiwifruit>	...
+T 1336709922 18<Kiwifruit>	now you're just trolling Diskai 
+T 1336709957 18<Kiwifruit>	surely no one is so ignorant as to confuse pink floyd with the beatles :P
+T 1336710044 18<Diskai>	...
+T 1336710052 18<Diskai>	no
+T 1336710079 18<Diskai>	you're making that connection all by yourself
+T 1336710123 18<Kiwifruit>	ok lol
+T 1336710309 19*	19Diskaijan (cgiirc@Rizon-3EE1E952.hgrtmd.east.verizon.net) has joined #/co/
+T 1336710321 18<Diskaijan>	 #mlpfim
+T 1336710361 18<Kiwifruit>	a horrible channel full of the faggotiest of fags
+T 1336710402 18<Kiwifruit>	don't go there just enjoy ponies and ignore the 3>bronies thing
+T 1336710407 18<Kiwifruit>	they are worse than goddamn sonicfags
+T 1336710441 23*	23Diskai has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1336710450 18<Diskaijan>	my sister was a sonicfag...
+T 1336710458 18<Kiwifruit>	kill her for shaming your family
+T 1336710462 18<Diskaijan>	then she turned pony
+T 1336710580 23*	23tarabluh has quit (23Read error: No route to host23)
+T 1336710604 18<agitooo>	Nominated for 2 Emmy awards
+T 1336710673 23*	23Red_Bucket has quit (2323)
+T 1336710923 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/co/
+T 1336711782 23*	23Diskaijan (23cgiirc@Rizon-3EE1E952.hgrtmd.east.verizon.net) has left #/co/
+T 1336713425 23*	23Kite-kun has quit (23Ping timeout: 240 seconds23)
+T 1336713556 23*	23Geerie has quit (23Ping timeout: 240 seconds23)
+T 1336713661 19*	19Geerie (~Sun@Rizon-57EEC7BD.sctnpa.east.verizon.net) has joined #/co/
+T 1336713809 23*	23Raph13 has quit (23Quit: ChatZilla 0.9.88.2 [Firefox 12.0/20120420145725]23)
+T 1336713873 23*	23Hollenthon has quit (23Quit: 04.99«04UPP99»04.23)
+T 1336714112 19*	19Juuza (~Juuza@47A01365.555EF866.8E6F3D3C.IP) has joined #/co/
+T 1336714183 23*	23Juuza has quit (2323)
+T 1336715601 23*	23Maru has quit (23Ping timeout: 240 seconds23)
+T 1336716348 19*	19Str0mer (~lolol@Rizon-9AB03D27.dsl.irvnca.sbcglobal.net) has joined #/co/
+T 1336716471 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1336716650 23*	23Broseph has quit (23Ping timeout: 240 seconds23)
+T 1336716662 19*	19Stromer (~lolol@Rizon-A81E64A.dsl.irvnca.sbcglobal.net) has joined #/co/
+T 1336716708 19*	19tarabluh (~tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/co/
+T 1336716810 23*	23DrugLordKai has quit (23Ping timeout: 240 seconds23)
+T 1336716831 23*	23Str0mer has quit (23Ping timeout: 240 seconds23)
+T 1336717011 19*	19Firge (~WinNT@396E5A46.857C7872.D4742AC6.IP) has joined #/co/
+T 1336717130 23*	23Geerie has quit (23Ping timeout: 240 seconds23)
+T 1336717855 23*	23tarabluh has quit (23Ping timeout: 240 seconds23)
+T 1336717946 19*	19ratstar (~ratstar@tiger.boobs) has joined #/co/
+T 1336719139 23*	23mmorz has quit (23Killed (irc.broke-it.com joins/parts in #kbo within 3 seconds.)23)
+T 1336719162 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/co/
+T 1336719210 18<Venkman>	mmorz
+T 1336719300 23*	23Gabu has quit (23Ping timeout: 240 seconds23)
+T 1336721751 23*	23Enker has quit (23Ping timeout: 240 seconds23)
+T 1336721996 23*	23helpful_comrade has quit (23Remote host closed the connection23)
+T 1336723064 19*	19Erzengel (~really@Rizon-FB15EADF.dip.t-dialin.net) has joined #/co/
+T 1336723670 23*	23ratstar has quit (23Ping timeout: 240 seconds23)
+T 1336724377 23*	23ircstats has quit (23Remote host closed the connection23)
+T 1336724377 23*	23rms has quit (23Remote host closed the connection23)
+T 1336724408 19*	19ircstats (~stats@stats.bot) has joined #/co/
+T 1336724468 19*	19rms (~rms@G.N.U) has joined #/co/
+T 1336724539 23*	23rms has quit (23Remote host closed the connection23)
+T 1336724539 23*	23ircstats has quit (23Remote host closed the connection23)
+T 1336724831 23*	23SFR has quit (23Ping timeout: 240 seconds23)
+T 1336725175 19*	19Polterer (~Polterer@Rizon-14524EF7.superkabel.de) has joined #/co/
+T 1336725241 23*	23Venkman has quit (23Quit: <TheProbe> Show me a sane woman and I'll show you a tranny.23)
+T 1336725731 19*	19ircstats (~stats@stats.bot) has joined #/co/
+T 1336725828 19*	19rms (~rms@G.N.U) has joined #/co/
+T 1336726345 19*	19Gabu (~Gabu@Rizon-D2C4FA50.hsd1.il.comcast.net) has joined #/co/
+T 1336726753 23*	23Gabu has quit (23Read error: Connection reset by peer23)
+T 1336728241 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336728486 23*	23SFR has quit (23Ping timeout: 240 seconds23)
+T 1336730092 19*	19erz^gone (~really@Rizon-C8B44551.dip.t-dialin.net) has joined #/co/
+T 1336730221 23*	23Erzengel has quit (23Ping timeout: 240 seconds23)
+T 1336730838 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336731108 19*	19Hollenthon (~Plissken@46.22.28.245) has joined #/co/
+T 1336731108 22*	Warden sets mode +a #/co/ Hollenthon
+T 1336731108 22*	26Warden gives channel operator status to26 Hollenthon
+T 1336732784 19*	19helpful_comrade (~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net) has joined #/co/
+T 1336732816 22*	26Warden gives channel operator status to26 helpful_comrade
+T 1336732992 19*	19Geerie (~Sun@In.the.Garden.of.the.Sun) has joined #/co/
+T 1336733431 23*	23helpful_comrade has quit (23Ping timeout: 240 seconds23)
+T 1336735239 19*	19helpful_comrade (~chatzilla@Rizon-2525713.ronkva.east.verizon.net) has joined #/co/
+T 1336735293 22*	26Warden gives channel operator status to26 helpful_comrade
+T 1336735540 23*	23helpful_comrade has quit (23Read error: Connection reset by peer23)
+T 1336735575 19*	19helpful_comrade (~chatzilla@Rizon-2525713.ronkva.east.verizon.net) has joined #/co/
+T 1336735602 22*	26Warden gives channel operator status to26 helpful_comrade
+T 1336736043 23*	23agitooo has quit (23Quit: Trillian (http://www.ceruleanstudios.com23)
+T 1336737820 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/co/
+T 1336738236 23*	23Geerie has quit (23Ping timeout: 240 seconds23)
+T 1336738361 19*	19Geerie (~Sun@Rizon-57EEC7BD.sctnpa.east.verizon.net) has joined #/co/
+T 1336739078 23*	23Polterer has quit (23Read error: Connection reset by peer23)
+T 1336739767 23*	23Geerie has quit (23Ping timeout: 240 seconds23)
+T 1336742167 19*	19Now talking on #/co/
+T 1336742167 29*	29Topic for #/co/ 29is: Check out the livestream channel 11www.livestream.com/the_tower and give helpful_comrade your requests.  If you'd like to help run the channel, feel free to let him know and volunteer your time.
+T 1336742167 29*	29Topic for #/co/ 29set by helpful_comrade!~chatzilla@Rizon-6DA1A25E.ronkva.east.verizon.net 29at Tue May  1 18:36:30 2012
+T 1336742603 19*	19Geerie (~Sun@In.the.Garden.of.the.Sun) has joined #/co/
+T 1336744812 23*	23Geerie has quit (23Ping timeout: 240 seconds23)
+T 1336745344 19*	19Geerie (~Sun@In.the.Garden.of.the.Sun) has joined #/co/
+T 1336746823 23*	23Hollenthon has quit (23Quit: 04.•99«04UPP99»04•.23)
+T 1336746862 23*	23Geerie has quit (23Ping timeout: 240 seconds23)
+T 1336747278 23*	23Maru has quit (23Ping timeout: 240 seconds23)
+T 1336748351 19*	19Maru (~ZeroReiMa@Three.Zeros.Presents) has joined #/co/
+T 1336748351 22*	Warden sets mode +a #/co/ Maru
+T 1336748351 22*	26Warden gives channel operator status to26 Maru
+T 1336749167 19*	19Kite-kun (~kitelanfo@Rizon-B196C975.socal.res.rr.com) has joined #/co/
+T 1336751080 23*	23Firge has quit (23Ping timeout: 240 seconds23)
+T 1336751987 19*	19ratstar (~ratstar@tiger.boobs) has joined #/co/
+T 1336752432 19*	19Moejoe (~t@ke.it.easy) has joined #/co/
+T 1336752596 19*	19Polterer (Polterer@Rizon-14524EF7.superkabel.de) has joined #/co/
+T 1336753048 23*	23helpful_comrade has quit (23Ping timeout: 240 seconds23)
+T 1336755145 23*	23ZYX has quit (2323)
+T 1336755770 19*	19Firge (~WinNT@396E5A46.857C7872.D4742AC6.IP) has joined #/co/
+T 1336756647 23*	23Firge has quit (23Ping timeout: 240 seconds23)
+T 1336757686 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/co/
+T 1336758173 19*	19helpful_comrade (~chatzilla@Rizon-659A3684.ronkva.east.verizon.net) has joined #/co/
+T 1336758200 22*	26Warden gives channel operator status to26 helpful_comrade
+T 1336758571 23*	23ratstar has quit (23Quit: Leaving23)
+T 1336758634 19*	19ZYX (~none@we.are.soldiers.stand.or.die.com) has joined #/co/
+T 1336761060 19*	19Gerry_MkII (~Gerry_MkI@8CA5682D.A9174224.AA6EFCD4.IP) has joined #/co/
+T 1336762036 19*	19Awaymund (~Mundmund@Rizon-755C763E.adsl.alicedsl.de) has joined #/co/
+T 1336762036 22*	26Warden gives channel half-operator status to26 Awaymund
+T 1336762201 23*	23Slumberthile has quit (23Ping timeout: 240 seconds23)
+T 1336763163 19*	19Clavros (~Hendrik@Rizon-7691B951.dyn.estpak.ee) has joined #/co/
+T 1336763163 22*	26Warden gives channel operator status to26 Clavros
+T 1336763229 23*	23Hendrik has quit (23Ping timeout: 240 seconds23)
+T 1336763707 22*	Clavros is now known as Hendrik
+T 1336766330 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/co/
+T 1336767279 23*	23helpful_comrade has quit (23Quit: ChatZilla 0.9.88.2 [Firefox 12.0/20120420145725]23)
+T 1336767654 19*	19helpful_comrade (~chatzilla@Rizon-659A3684.ronkva.east.verizon.net) has joined #/co/
+T 1336767802 22*	26Warden gives channel operator status to26 helpful_comrade
+T 1336768313 19*	19ratstar (~ratstar@tiger.boobs) has joined #/co/
+T 1336769128 19*	19crbb (~crbb^^@Rizon-97BDD716.bredband.skanova.com) has joined #/co/
+T 1336769689 23*	23crbb has quit (2323)
+T 1336769773 19*	19crbb (~crbb^^@Rizon-97BDD716.bredband.skanova.com) has joined #/co/
+T 1336769946 23*	23crbb has quit (2323)
+T 1336770669 23*	23tarabluh has quit (23Ping timeout: 240 seconds23)
+T 1336771545 23*	23Gerry_MkII has quit (23Ping timeout: 240 seconds23)
+T 1336772985 19*	19Felix (~ratstar@Rizon-19C9F6DE.bb.sky.com) has joined #/co/
+T 1336773084 19*	19Rainbow_Dash (~milkshake@is.homosexual) has joined #/co/
+T 1336773118 23*	23ratstar has quit (23Ping timeout: 240 seconds23)
+T 1336773123 23*	23Kazisho has quit (23Ping timeout: 240 seconds23)
+T 1336773141 22*	Rainbow_Dash is now known as Kazisho
+T 1336775511 18<mmorz>	ve
+T 1336775517 18<mmorz>	venkman
+T 1336775901 19*	19Trygon (~kraken@Rizon-A63652.dhcp.embarqhsd.net) has joined #/co/
+T 1336777843 23*	23Polterer has quit (23Quit: Leaving23)
+T 1336778841 19*	19Hollenthon (~Plissken@178-83-11-230.dynamic.hispeed.ch) has joined #/co/
+T 1336778841 22*	Warden sets mode +a #/co/ Hollenthon
+T 1336778841 22*	26Warden gives channel operator status to26 Hollenthon
+T 1336778882 19*	19Geerie (~Sun@In.the.Garden.of.the.Sun) has joined #/co/
+T 1336778965 19*	19Jorg_Lieberstesh (~Jorg@Rizon-16D760E8.nrflva.fios.verizon.net) has joined #/co/
+T 1336779114 19*	19Juuza (cgiirc@47A01365.555EF866.8E6F3D3C.IP) has joined #/co/
+T 1336779131 22*	Juuza is now known as Guest34658
+T 1336779172 23*	23Hollenthon has quit (23Read error: Connection reset by peer23)
+T 1336779172 19*	19HTII (~Plissken@178-83-11-230.dynamic.hispeed.ch) has joined #/co/
+T 1336779176 23*	23HTII has quit (23Read error: Connection reset by peer23)
+T 1336779508 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/co/

@@ -1,0 +1,5 @@
+T 1335366604 31<TheShadowFog>30	!help
+T 1335366607 31<TheShadowFog>30	!e
+T 1335366609 31<TheShadowFog>30	!w
+T 1335366610 18<Metamorphic>	Please visit http://classic.wunderground.com for more details on searching methods.
+T 1335366614 31<TheShadowFog>30	!g

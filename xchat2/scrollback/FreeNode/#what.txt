@@ -1,0 +1,3 @@
+T 1335804167 19*	19Now talking on #what
+T 1335804167 22*	adams.freenode.net sets mode +n #what
+T 1335804167 22*	adams.freenode.net sets mode +s #what

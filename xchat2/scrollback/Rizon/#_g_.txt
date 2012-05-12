@@ -1,0 +1,515 @@
+T 1333879114 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1333879910 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1333879943 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1333883539 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1333883567 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1333884683 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1333884689 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1333884944 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1333884950 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1333893506 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1333893548 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1333895286 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1333895660 23*	23AlphaOmega82 has quit (23Remote host closed the connection23)
+T 1333901659 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1333904437 23*	23AlphaOmega82 has quit (23Quit: Leaving23)
+T 1333912841 18<guymann>	you guys are gay
+T 1333912844 18<guymann>	get your shit together
+T 1333913643 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1333920672 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1333924495 23*	23Kagami has quit (23Quit: ;_;23)
+T 1333925902 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1333977015 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1333978774 23*	23AlphaOmega82 has quit (23Quit: Leaving23)
+T 1333980232 19*	19Yuuki (AnimeRefer@Rizon-43FAB055.static.tpgi.com.au) has joined #/g/
+T 1333987613 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1333987906 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1333987941 23*	23Kagami has quit (2323)
+T 1333990139 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1333992729 19*	19grawlen (cgiirc@8E09430C.B5B13D70.9D428029.IP) has joined #/g/
+T 1333992737 23*	23grawlen (23cgiirc@8E09430C.B5B13D70.9D428029.IP) has left #/g/
+T 1333995919 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1333995968 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1333999682 23*	23AlphaOmega82 has quit (23Quit: Leaving23)
+T 1334000057 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1334004095 22*	You are now known as TheShadowFog
+T 1334005855 22*	You are now known as Annex
+T 1334007091 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1334009685 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334016276 22*	You are now known as TheShadowFog
+T 1334031539 18<Orthicon>	http://www.youtube.com/watch?v=qOs8iGOSnT0
+T 1334034153 23*	23Orthicon has quit (23Ping timeout: 240 seconds23)
+T 1334034407 19*	19Orthicon (~LHC@Orthicon.Corp) has joined #/g/
+T 1334035534 23*	23Orthicon has quit (23Ping timeout: 240 seconds23)
+T 1334045708 19*	19Orthicon (~LHC@Orthicon.Corp) has joined #/g/
+T 1334048414 18<Yuuki>	how is that /g/ related?
+T 1334052778 23*	23Yuuki has quit (23Ping timeout: 240 seconds23)
+T 1334055385 23*	23Orthicon has quit (23Read error: Connection reset by peer23)
+T 1334055404 19*	19Orthicon (~LHC@Orthicon.Corp) has joined #/g/
+T 1334070464 18<Orthicon>	http://www.youtube.com/watch?v=X6uwH65N47s
+T 1334072738 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1334074947 19*	19Giran (~giran@Rizon-B48D5D8B.vpn.ipredator.se) has joined #/g/
+T 1334074968 18<Giran>	hey /g/ give me a good antivirus lolthnx
+T 1334075256 23*	23Giran (23~giran@Rizon-B48D5D8B.vpn.ipredator.se) has left #/g/
+T 1334076047 19*	19phloam (~LHC@Rizon-6302401.hsd1.ma.comcast.net) has joined #/g/
+T 1334076133 23*	23Orthicon has quit (23Ping timeout: 240 seconds23)
+T 1334083462 23*	23phloam has quit (23Ping timeout: 240 seconds23)
+T 1334083733 19*	19Orthicon (~LHC@Orthicon.Corp) has joined #/g/
+T 1334086487 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1334091480 23*	23Orthicon has quit (23Ping timeout: 240 seconds23)
+T 1334093507 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1334093880 19*	19Orthicon (~LHC@Orthicon.Corp) has joined #/g/
+T 1334095487 18<Orthicon>	http://www.youtube.com/watch?v=c8nyynmZrH0&hd=1
+T 1334097068 23*	23Orthicon has quit (23Read error: Connection reset by peer23)
+T 1334098064 19*	19Orthicon (~LHC@Orthicon.Corp) has joined #/g/
+T 1334099015 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334146063 19*	19Now talking on #/g/
+T 1334146063 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1334146063 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1334151981 23*	23AlphaOmega82 has quit (23Quit: Leaving23)
+T 1334152107 18<Orthicon>	http://www.youtube.com/watch?v=p5ZbGLzyqcQ
+T 1334159793 23*	23guymann has quit (23Read error: Operation timed out23)
+T 1334161712 19*	19Now talking on #/g/
+T 1334161712 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1334161712 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1334164788 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334169510 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1334170466 23*	23AlphaOmega82 has quit (23Remote host closed the connection23)
+T 1334170544 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334170617 23*	23akibakun has quit (23Quit: .23)
+T 1334171180 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1334172111 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1334172885 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1334174529 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1334179346 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1334185259 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334185263 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334185304 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334187664 19*	19Foam (~a@the.soft.bubbly.stuff) has joined #/g/
+T 1334187669 18<Foam>	whoa
+T 1334187673 18<Foam>	why only 9 people
+T 1334190027 23*	23Foam has quit (23Ping timeout: 240 seconds23)
+T 1334195920 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334195942 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334198408 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334199519 19*	19tripper (~birchekiv@flaming.woodscrews) has joined #/g/
+T 1334211939 18<Orthicon>	http://www.youtube.com/watch?v=p5ZbGLzyqcQ
+T 1334217577 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1334225346 18<Orthicon>	http://www.youtube.com/watch?v=ymK2gx_0Aqw
+T 1334234238 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1334237241 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1334248818 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1334252436 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1334253998 18<Orthicon>	http://www.youtube.com/watch?v=hc79o6bP6bo
+T 1334257051 19*	19kDoob (~W_M@Rizon-D42E6DD4.home1.cgocable.net) has joined #/g/
+T 1334257055 23*	23kDoob (23~W_M@Rizon-D42E6DD4.home1.cgocable.net) has left #/g/ (23Leaving23)
+T 1334258614 19*	19Megakapers (~Megakaper@Rizon-9D87687E.roennqu1.dynamic.dsl.tele.dk) has joined #/g/
+T 1334258768 23*	23Megakapers (23~Megakaper@Rizon-9D87687E.roennqu1.dynamic.dsl.tele.dk) has left #/g/
+T 1334259307 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1334266373 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1334268365 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334278980 19*	19Now talking on #/g/
+T 1334278980 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1334278980 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1334281705 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334283178 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334283198 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334283633 22*	Eyemann is now known as guymann
+T 1334284007 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334284084 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334286598 23*	23AlphaOmega82 has quit (23Read error: Connection reset by peer23)
+T 1334286621 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334287596 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334314239 23*	23guymann has quit (23*.net *.split23)
+T 1334314239 23*	23Suiseiseki has quit (23*.net *.split23)
+T 1334314367 19*	19guymann (~charles@bus.fucker) has joined #/g/
+T 1334314367 19*	19Suiseiseki (Desu@desu.desu.desu) has joined #/g/
+T 1334314367 22*	irc.cccp-project.net sets mode +q #/g/ guymann
+T 1334314367 22*	26irc.cccp-project.net gives channel operator status to26 guymann
+T 1334326161 19*	19Now talking on #/g/
+T 1334326161 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1334326161 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1334328565 22*	Disconnected (Remote host closed socket).
+T 1334328618 22*	Disconnected (Remote host closed socket).
+T 1334328671 22*	Disconnected (Remote host closed socket).
+T 1334328725 22*	Disconnected (Remote host closed socket).
+T 1334328778 22*	Disconnected (Remote host closed socket).
+T 1334328799 22*	Disconnected (Remote host closed socket).
+T 1334328853 22*	Disconnected (Remote host closed socket).
+T 1334328908 22*	Disconnected (Remote host closed socket).
+T 1334328961 22*	Disconnected (Remote host closed socket).
+T 1334329015 22*	Disconnected (Remote host closed socket).
+T 1334329068 22*	Disconnected (Remote host closed socket).
+T 1334329089 22*	Disconnected (Remote host closed socket).
+T 1334329110 22*	Disconnected (Remote host closed socket).
+T 1334329165 22*	Disconnected (Remote host closed socket).
+T 1334329218 22*	Disconnected (Remote host closed socket).
+T 1334329239 22*	Disconnected (Remote host closed socket).
+T 1334329290 22*	Disconnected (Remote host closed socket).
+T 1334329341 22*	Disconnected (Remote host closed socket).
+T 1334329395 22*	Disconnected (Remote host closed socket).
+T 1334329448 22*	Disconnected (Remote host closed socket).
+T 1334329503 22*	Disconnected (Remote host closed socket).
+T 1334329524 22*	Disconnected (Remote host closed socket).
+T 1334329578 22*	Disconnected (Remote host closed socket).
+T 1334329630 22*	Disconnected (Remote host closed socket).
+T 1334329685 22*	Disconnected (Remote host closed socket).
+T 1334329706 22*	Disconnected (Remote host closed socket).
+T 1334329760 22*	Disconnected (Remote host closed socket).
+T 1334329781 22*	Disconnected (Remote host closed socket).
+T 1334329833 22*	Disconnected (Remote host closed socket).
+T 1334329888 22*	Disconnected (Remote host closed socket).
+T 1334329941 22*	Disconnected (Remote host closed socket).
+T 1334329996 22*	Disconnected (Remote host closed socket).
+T 1334330050 22*	Disconnected (Remote host closed socket).
+T 1334330071 22*	Disconnected (Remote host closed socket).
+T 1334330126 22*	Disconnected (Remote host closed socket).
+T 1334330181 22*	Disconnected (Remote host closed socket).
+T 1334330235 22*	Disconnected (Remote host closed socket).
+T 1334330290 22*	Disconnected (Remote host closed socket).
+T 1334330311 22*	Disconnected (Remote host closed socket).
+T 1334330365 22*	Disconnected (Remote host closed socket).
+T 1334330390 19*	19Now talking on #/g/
+T 1334330390 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1334330390 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1334330575 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334335054 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1334341777 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1334342825 23*	23AlphaOmega82 has quit (23Read error: Connection reset by peer23)
+T 1334342865 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334343247 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334343318 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334344740 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334345738 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334345776 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1334347651 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334348134 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334352820 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1334363458 19*	19Now talking on #/g/
+T 1334363458 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1334363458 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1334505102 19*	19Now talking on #/g/
+T 1334505102 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1334505102 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1334518369 23*	23akibakun has quit (23Read error: Connection reset by peer23)
+T 1334525591 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1334525946 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1334528044 19*	19Kota (~dasda@Killer.Operational.Targeting.Active) has joined #/g/
+T 1334528046 23*	23Kota (23~dasda@Killer.Operational.Targeting.Active) has left #/g/
+T 1334529630 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334530540 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1334531380 23*	23Orthicon has quit (23Ping timeout: 240 seconds23)
+T 1334532505 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334533794 19*	19Orthicon (~LHC@Orthicon.Corp) has joined #/g/
+T 1334534154 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334534172 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334535473 19*	19NicotinePatchesDontWork (~NicotineP@Rizon-36673FDA.ppp.as43234.net) has joined #/g/
+T 1334536473 19*	19Amonynous (~Anemone@anon.ymous) has joined #/g/
+T 1334536476 23*	23Amonynous (23~Anemone@anon.ymous) has left #/g/
+T 1334536571 18<NicotinePatchesDontWork>	How is everyone?
+T 1334536574 23*	23NicotinePatchesDontWork (23~NicotineP@Rizon-36673FDA.ppp.as43234.net) has left #/g/ (23Leaving23)
+T 1334536665 19*	19Amonynous (~Anemone@anon.ymous) has joined #/g/
+T 1334536669 23*	23Amonynous (23~Anemone@anon.ymous) has left #/g/
+T 1334539108 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334539132 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334545980 19*	19tarabluh (tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/g/
+T 1334545984 23*	23tarabluh (23tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has left #/g/
+T 1334548251 23*	23Flanoir has quit (2323)
+T 1334549827 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334549869 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334553251 18<Orthicon>	http://www.youtube.com/watch?v=p5ZbGLzyqcQ
+T 1334558800 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334572787 18<Orthicon>	http://www.youtube.com/watch?v=R3yqNrpepQo
+T 1334574710 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1334581868 23*	23flat has quit (23Quit: Leaving23)
+T 1334666310 19*	19Now talking on #/g/
+T 1334666310 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1334666310 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1334668912 18<Orthicon>	http://www.youtube.com/watch?v=Bh9_pzFVNLk
+T 1334676768 18<Orthicon>	http://www.youtube.com/watch?v=WTbea-k8btc
+T 1334681814 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1334683588 19*	19Pootis (cgiirc@Rizon-48E616A2.cm-5-4c.dynamic.ziggo.nl) has joined #/g/
+T 1334683854 23*	23Pootis has quit (2323)
+T 1334691440 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1334698429 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1334698749 23*	23Kagami has quit (23Quit: ;_;23)
+T 1334701887 23*	23Orthicon has quit (23Ping timeout: 240 seconds23)
+T 1334711579 19*	19Now talking on #/g/
+T 1334711579 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1334711579 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1334711807 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334711844 19*	19AlphaOmega82 (~AlphaOmeg@C6C56339.5177D82B.18BFCE2C.IP) has joined #/g/
+T 1334712259 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334712277 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334714538 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1334714582 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1334718365 19*	19Orthicon (~LHC@Orthicon.Corp) has joined #/g/
+T 1334718864 23*	23AlphaOmega82 has quit (23Quit: Leaving23)
+T 1334729392 19*	19sputnikv (~Bias@Rizon-E44F8936.res-wired.cornell.edu) has joined #/g/
+T 1334882595 19*	19Now talking on #/g/
+T 1334882595 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1334882595 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1334882976 23*	23akibakun has quit (23*.net *.split23)
+T 1334883047 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1335047543 19*	19Now talking on #/g/
+T 1335047543 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1335047543 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1335049216 23*	23The_Vole has quit (23Remote host closed the connection23)
+T 1335051308 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1335053590 19*	19Now talking on #/g/
+T 1335053590 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1335053590 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1335057024 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1335074226 23*	23phloam has quit (23Read error: Connection reset by peer23)
+T 1335074247 19*	19phloam (~LHC@Rizon-83AA875C.hsd1.ma.comcast.net) has joined #/g/
+T 1335092502 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1335093205 23*	23flat has quit (23Quit: Leaving23)
+T 1335100994 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1335101165 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1335107672 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1335111096 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335117455 19*	19Orthicon (~LHC@Orthicon.Corp) has joined #/g/
+T 1335117558 23*	23phloam has quit (23Ping timeout: 240 seconds23)
+T 1335123221 19*	19Now talking on #/g/
+T 1335123221 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1335123221 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1335123477 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1335142228 19*	19Now talking on #/g/
+T 1335142228 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1335142228 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1335151389 23*	23yaiu has quit (23Read error: No route to host23)
+T 1335151527 19*	19yaiu (~yaiu@kwangmyong.org) has joined #/g/
+T 1335156702 19*	19yaiu_ (~yaiu@are.you.a.wizard) has joined #/g/
+T 1335156865 23*	23yaiu has quit (23Ping timeout: 240 seconds23)
+T 1335165550 23*	23Str0mer has quit (23Read error: Connection reset by peer23)
+T 1335165617 19*	19Stromer (~lolol@Rizon-9852E270.dsl.irvnca.sbcglobal.net) has joined #/g/
+T 1335168408 22*	yaiu_ is now known as yaiu
+T 1335169572 19*	19Str0mer (~lolol@Rizon-90284C20.dsl.irvnca.sbcglobal.net) has joined #/g/
+T 1335169710 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1335179985 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1335182974 19*	19yaiu_ (~yaiu@are.you.a.wizard) has joined #/g/
+T 1335183118 23*	23yaiu has quit (23Ping timeout: 240 seconds23)
+T 1335183211 22*	yaiu_ is now known as yaiu
+T 1335196416 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1335209611 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335209640 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1335209864 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1335215323 19*	19yaiu_ (~yaiu@are.you.a.wizard) has joined #/g/
+T 1335215466 23*	23yaiu has quit (23Ping timeout: 240 seconds23)
+T 1335216952 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1335218632 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335219130 23*	23yaiu_ has quit (23Read error: Connection reset by peer23)
+T 1335219205 19*	19yaiu (~yaiu@kwangmyong.org) has joined #/g/
+T 1335224390 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335226804 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1335226846 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335227282 23*	23yaiu has quit (23Quit: ZNC has closed23)
+T 1335228701 23*	23AlphaOmega82 has quit (23Quit: Leaving23)
+T 1335231456 19*	19yaiu (~yaiu@kwangmyong.org) has joined #/g/
+T 1335236573 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1335250333 19*	19Nogaku (~Horo@all.my.lonely.life) has joined #/g/
+T 1335250524 22*	Nogaku is now known as YukiNagato
+T 1335250666 23*	23YukiNagato has quit (23Quit: Leaving23)
+T 1335267353 23*	23yaiu has quit (23Read error: Connection reset by peer23)
+T 1335267415 19*	19yaiu (~yaiu@kwangmyong.org) has joined #/g/
+T 1335274289 19*	19flat (~flat@B5AED3C.71885256.4844C4F5.IP) has joined #/g/
+T 1335319737 19*	19Now talking on #/g/
+T 1335319737 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1335319737 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1335325329 23*	23yaiu has quit (23Quit: ZNC has closed23)
+T 1335325374 19*	19yaiu (~yaiu@are.you.a.wizard) has joined #/g/
+T 1335326433 19*	19yaiu_ (~yaiu@are.you.a.wizard) has joined #/g/
+T 1335326568 23*	23yaiu has quit (23Ping timeout: 240 seconds23)
+T 1335326572 22*	yaiu_ is now known as yaiu
+T 1335327646 19*	19AlmaWade (rayzor@corporate.armacham.com) has joined #/g/
+T 1335339691 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335346313 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1335346329 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335346628 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1335350618 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1335357406 19*	19Now talking on #/g/
+T 1335357406 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1335357406 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1335484758 19*	19Now talking on #/g/
+T 1335484758 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1335484758 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1335484862 18<Orthicon>	http://www.youtube.com/watch?v=dgFr_ZV8QO8
+T 1335504147 19*	19yaiu_ (~yaiu@are.you.a.wizard) has joined #/g/
+T 1335504239 23*	23yaiu has quit (23Ping timeout: 240 seconds23)
+T 1335507551 22*	yaiu_ is now known as yaiu
+T 1335513958 19*	19tyil (~tyil@Rizon-B20ABFB8.upc-i.chello.nl) has joined #/g/
+T 1335659182 19*	19Now talking on #/g/
+T 1335659182 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1335659182 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1335662961 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1335663372 23*	23AlphaOmega82 has quit (23Quit: Leaving23)
+T 1335674059 19*	19tripper (~birchekiv@flaming.woodscrews) has joined #/g/
+T 1335675723 19*	19thebananafish (~thebanana@Rizon-B8FDC9E2.neo.res.rr.com) has joined #/g/
+T 1335678902 23*	23tripper has quit (23Ping timeout: 240 seconds23)
+T 1335689702 23*	23yaiu has quit (23Read error: Connection reset by peer23)
+T 1335689758 19*	19yaiu (~yaiu@are.you.a.wizard) has joined #/g/
+T 1335700752 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1335701919 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1335713205 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1335713667 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1335717006 23*	23guymann has quit (23Ping timeout: 240 seconds23)
+T 1335718855 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335720095 23*	23AlphaOmega82 has quit (23Read error: Connection reset by peer23)
+T 1335720136 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335721318 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1335721335 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335723112 18<Orthicon>	http://www.youtube.com/watch?v=IG1zjn9nMNw
+T 1335724739 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335726687 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1335726701 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335727647 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1335727685 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335736512 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1335736522 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335739585 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1335739598 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335745243 23*	23AlphaOmega82 has quit (23Remote host closed the connection23)
+T 1335745273 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335745618 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1335745642 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335746575 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1335746600 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1335752379 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1335757311 23*	23AlphaOmega82 has quit (23Quit: Leaving23)
+T 1335762678 23*	23flat has quit (23Quit: Leaving23)
+T 1335766315 23*	23thebananafish has quit (23Ping timeout: 240 seconds23)
+T 1335776194 18<Orthicon>	http://www.youtube.com/watch?v=c1M3DIX9f78
+T 1335785059 19*	19thebananafish (~thebanana@Rizon-E1A1D2EC.neo.res.rr.com) has joined #/g/
+T 1335809922 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1335817787 19*	19Anon762 (~Anonymous@but.I.poop.from.there) has joined #/g/
+T 1335817806 18<Anon762>	How much should I sell the stock heatsink that came with my Phenom II X4 for?
+T 1335818019 23*	23Anon762 (23~Anonymous@but.I.poop.from.there) has left #/g/ (23SIEG23)
+T 1335819646 23*	23yaiu has quit (23Read error: Connection reset by peer23)
+T 1335819694 19*	19yaiu (~yaiu@are.you.a.wizard) has joined #/g/
+T 1335822308 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335831310 23*	23Str0mer has quit (23Ping timeout: 240 seconds23)
+T 1335831625 19*	19Stromer (~lolol@Rizon-EFD7CDF8.dsl.irvnca.sbcglobal.net) has joined #/g/
+T 1335834890 23*	23Networks12 has quit (23Read error: Connection reset by peer23)
+T 1335835203 19*	19Networks12 (Networks12@vhost.goes.here) has joined #/g/
+T 1335835786 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1335835971 19*	19Stromer (~lolol@Rizon-460AC55E.dsl.irvnca.sbcglobal.net) has joined #/g/
+T 1335855094 22*	Disconnected (Connection timed out).
+T 1335856908 19*	19Now talking on #/g/
+T 1335856908 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1335856908 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1335884000 23*	23thebananafish has quit (23Read error: Connection reset by peer23)
+T 1335895327 19*	19flat (~flat@B5AED3C.71885256.4844C4F5.IP) has joined #/g/
+T 1335899705 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1335901365 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1335910206 23*	23Kagami has quit (23Quit: ;_;23)
+T 1335911749 23*	23flat has quit (23Ping timeout: 240 seconds23)
+T 1335913817 18<Orthicon>	http://www.youtube.com/watch?v=Nlw6mIAFx6Y&hd=1
+T 1335916075 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1335917697 19*	19Sean| (~Sean@brit.LoL) has joined #/g/
+T 1335917714 23*	23Sean| (23~Sean@brit.LoL) has left #/g/
+T 1335925937 23*	23yaiu has quit (23Read error: Connection reset by peer23)
+T 1335926006 19*	19yaiu (~yaiu@are.you.a.wizard) has joined #/g/
+T 1335927160 23*	23yaiu (23~yaiu@are.you.a.wizard) has left #/g/
+T 1335941342 18<Orthicon>	http://www.youtube.com/watch?v=bvnBn-P4Wr4
+T 1335943059 18<Orthicon>	http://www.youtube.com/watch?v=YmuqKNKUxH0
+T 1336084143 19*	19Now talking on #/g/
+T 1336084143 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1336084143 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1336091848 19*	19thebananafish (~thebanana@Rizon-E1A1D2EC.neo.res.rr.com) has joined #/g/
+T 1336095500 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1336095536 23*	23thebananafish has quit (23Ping timeout: 240 seconds23)
+T 1336099853 23*	23AlphaOmega82 has quit (23Quit: Leaving23)
+T 1336110474 18<Orthicon>	http://www.youtube.com/watch?v=iZtobhwiAOw
+T 1336143617 19*	19Sloth (~Sloth@I.am.a.Sloth) has joined #/g/
+T 1336143630 18<Sloth>	derp, thought this would be bigger
+T 1336155339 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1336160579 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1336162856 19*	19thebananafish (~thebanana@Rizon-E1A1D2EC.neo.res.rr.com) has joined #/g/
+T 1336244021 19*	19Now talking on #/g/
+T 1336244021 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1336244021 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1336245116 19*	19phloam (~LHC@Rizon-B01AB3CB.hsd1.ma.comcast.net) has joined #/g/
+T 1336245291 23*	23Orthicon has quit (23Ping timeout: 240 seconds23)
+T 1336247041 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1336254033 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1336272097 23*	23The_Vole has quit (23Quit: The_Vole23)
+T 1336276505 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1336279389 19*	19tripper (~birchekiv@flaming.woodscrews) has joined #/g/
+T 1336283622 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1336298987 18<phloam>	http://www.youtube.com/watch?v=ZHFL8WY-_cI
+T 1336322068 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1336340275 19*	19Now talking on #/g/
+T 1336340275 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1336340275 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1336340467 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1336345963 23*	23Kagami has quit (23Quit: ;_;23)
+T 1336346021 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1336348336 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1336348340 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1336350755 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1336350771 19*	19AlphaOmega82 (~AlphaOmeg@Rizon-E45CA904.cpe.net.cable.rogers.com) has joined #/g/
+T 1336351206 23*	23AlphaOmega82 has quit (23Ping timeout: 240 seconds23)
+T 1336357572 19*	19iamalemon (~ok@desu.ka) has joined #/g/
+T 1336360268 19*	19Ezprezo (~Ezprezo@Rizon-E05A185A.clsp.qwest.net) has joined #/g/
+T 1336360900 23*	23iamalemon (23~ok@desu.ka) has left #/g/
+T 1336364071 23*	23Ezprezo has quit (23Quit: Leaving23)
+T 1336368588 23*	23Stromer (23~lolol@Rizon-460AC55E.dsl.irvnca.sbcglobal.net) has left #/g/ (23Leaving23)
+T 1336368699 19*	19Stromer (~lolol@Rizon-460AC55E.dsl.irvnca.sbcglobal.net) has joined #/g/
+T 1336394500 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1336490146 19*	19Now talking on #/g/
+T 1336490146 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1336490146 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1336599090 19*	19Now talking on #/g/
+T 1336599090 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1336599090 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1336602332 19*	19akibakun (~akibakun@born.in.akiba) has joined #/g/
+T 1336604532 23*	23The_Vole has quit (23Remote host closed the connection23)
+T 1336604587 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1336604621 23*	23thebananafish has quit (23*.net *.split23)
+T 1336604839 19*	19thebananafish (~thebanana@Rizon-E1A1D2EC.neo.res.rr.com) has joined #/g/
+T 1336606531 22*	Disconnected (Connection reset by peer).
+T 1336606594 19*	19Now talking on #/g/
+T 1336606594 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1336606594 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1336606619 23*	23The_Vole has quit (23Ping timeout: 240 seconds23)
+T 1336609590 23*	23The_Vole_ has quit (23Quit: The_Vole_23)
+T 1336616062 23*	23thebananafish has quit (23Ping timeout: 240 seconds23)
+T 1336619675 19*	19sb057 (~sb057@Rizon-51DC5CF5.dyn.centurytel.net) has joined #/g/
+T 1336619689 18<sb057>	9>0 ops
+T 1336619696 23*	23sb057 (23~sb057@Rizon-51DC5CF5.dyn.centurytel.net) has left #/g/ (23Leaving23)
+T 1336643501 19*	19The_Vole (~aherpydad@Rizon-2D4BAA6.adsl.xs4all.nl) has joined #/g/
+T 1336657612 19*	19Now talking on #/g/
+T 1336657612 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1336657612 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1336662398 23*	23Networks12 has quit (23Ping timeout: 240 seconds23)
+T 1336662562 19*	19Networks12 (Networks12@vhost.goes.here) has joined #/g/
+T 1336675460 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1336678361 19*	19d0ngs (~hurr@dicks.cocks) has joined #/g/
+T 1336678380 18<d0ngs>	is there an application where i can manually set the pins on my USB port?
+T 1336679158 18<Sloth>	what
+T 1336681765 23*	23akibakun has quit (23Ping timeout: 240 seconds23)
+T 1336699673 19*	19Now talking on #/g/
+T 1336699673 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1336699673 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1336716290 19*	19Str0mer (~lolol@Rizon-9AB03D27.dsl.irvnca.sbcglobal.net) has joined #/g/
+T 1336716471 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1336716662 19*	19Stromer (~lolol@Rizon-A81E64A.dsl.irvnca.sbcglobal.net) has joined #/g/
+T 1336716831 23*	23Str0mer has quit (23Ping timeout: 240 seconds23)
+T 1336722737 19*	19Turbo_ (~Turbo@Rizon-F1575F31.dc.dc.cox.net) has joined #/g/
+T 1336722887 23*	23Turbo_ (23~Turbo@Rizon-F1575F31.dc.dc.cox.net) has left #/g/
+T 1336742167 19*	19Now talking on #/g/
+T 1336742167 29*	29Topic for #/g/ 29is: #/g/ - 12ℳℴℯ4❤ 3technology.
+T 1336742167 29*	29Topic for #/g/ 29set by guymann 29at Tue May 25 18:46:52 2010
+T 1336751076 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1336757501 22*	d0ngs is now known as d0ngs1
+T 1336757523 22*	d0ngs1 is now known as d0ngs2
+T 1336757546 22*	d0ngs2 is now known as d0ngs
+T 1336763887 23*	23akibakun has quit (23Quit: .23)
+T 1336765623 22*	d0ngs is now known as Bucketphase
+T 1336765633 22*	Bucketphase is now known as d0ngs
+T 1336766806 22*	Kagami is now known as RJ45_
+T 1336771857 19*	19theminimalist (~theminima@DA67B2A6.13AB4A9E.3D9B4F4F.IP) has joined #/g/
+T 1336772619 23*	23theminimalist has quit (23Quit: WeeChat 0.3.723)
+T 1336774768 23*	23RJ45_ has quit (23Quit: ;_;23)
+T 1336774823 19*	19Kagami (~Kagami@Timotei.Timotei.Timotei) has joined #/g/
+T 1336777412 23*	23Kagami has quit (23Quit: ;_;23)

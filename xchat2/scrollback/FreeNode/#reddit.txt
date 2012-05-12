@@ -1,0 +1,597 @@
+T 1332422998 18<Spikes>	Meta_Man, so far i had only one good idea - slowly turn your brain from it' organic form into something that still works same way as brain, but instead made out of more resistant to degradation elements
+T 1332423001 19*	19nmsss (~noemail@unaffiliated/nmsss) has joined #Reddit
+T 1332423006 18<Spikes>	like one cell at a time
+T 1332423013 18<Meta_Man>	ya
+T 1332423025 18<Meta_Man>	and hud AR glasses are a good first step
+T 1332423028 19*	19spiceflow (~spiceflow@cpc11-sgyl31-2-0-cust942.sgyl.cable.virginmedia.com) has joined #Reddit
+T 1332423028 18<Meta_Man>	cant wait until they are out
+T 1332423032 18<Meta_Man>	later this year actually
+T 1332423046 18<Meta_Man>	heads up display augmented reality glasses
+T 1332423049 18<Spikes>	I forgot what is a lifespan of brain
+T 1332423052 18<Meta_Man>	combined with something like emotiv headsets
+T 1332423060 23*	23t1|Mike has quit (23Ping timeout: 260 seconds23)
+T 1332423062 18<creme_chesus>	we need to figure out how to use more of our brains
+T 1332423063 18<Spikes>	I thought it was something like 400 years
+T 1332423066 18<creme_chesus>	like
+T 1332423074 18<creme_chesus>	there are paradigms we can't even perceive
+T 1332423091 18<Spikes>	creme_chesus, have you read Blindsight by peter Watts?
+T 1332423096 18<creme_chesus>	no
+T 1332423099 18<Spikes>	creme_chesus, highly recommend it
+T 1332423103 18<creme_chesus>	ok
+T 1332423109 18<creme_chesus>	lemme check it out
+T 1332423113 18<creme_chesus>	I need some good reading
+T 1332423120 18<Spikes>	Meta_Man, read Blindsight too. Awesome book
+T 1332423121 19*	19psychouroboros (~deadalus@unaffiliated/deadalus) has joined #Reddit
+T 1332423155 18<Spikes>	creme_chesus, i hink i'm going to reread it again. Every time i read it i find something interesting that i haven't noticed before
+T 1332423169 19*	19killminusnine (~blong@host138.office.sover.net) has joined #Reddit
+T 1332423205 18<creme_chesus>	it sounds interesting
+T 1332423220 23*	23Rayquaza2233 has quit (23Quit: Relax, its only ONES and ZEROS!23)
+T 1332423225 18<Meta_Man>	um
+T 1332423231 18<Meta_Man>	we use 100% of our brains
+T 1332423240 18<Meta_Man>	that old "we use 10%" is a fucking myth
+T 1332423245 18<Meta_Man>	supported by that recent movie
+T 1332423246 23*	23yogster has quit (23Ping timeout: 252 seconds23)
+T 1332423249 19*	19Myakyu (~Myakyu@pool-108-50-2-164.sctnpa.east.verizon.net) has joined #Reddit
+T 1332423250 18<n000ksa>	but limitless
+T 1332423253 18<Meta_Man>	yes
+T 1332423255 18<Meta_Man>	that movie
+T 1332423257 18<n000ksa>	what about the pill
+T 1332423258 18<Meta_Man>	completely made up
+T 1332423259 18<n000ksa>	haha
+T 1332423264 18<Meta_Man>	we use 100% of our brains
+T 1332423267 18<Meta_Man>	fucking idiots
+T 1332423269 18<Myakyu>	morning
+T 1332423271 18<Meta_Man>	think evolution
+T 1332423276 18<n000ksa>	You mean I cant take a pill and become a genius stock trader?
+T 1332423278 18<Meta_Man>	no
+T 1332423282 18<creme_chesus>	like
+T 1332423284 18<Meta_Man>	but you can take nootropics
+T 1332423286 18<Meta_Man>	and become smarter
+T 1332423288 18<creme_chesus>	I think at one time maybe we did
+T 1332423290 18<Meta_Man>	take hallucinogens
+T 1332423293 18<Meta_Man>	they do make you smarter
+T 1332423294 19*	19Crumpets (~Crumpets@164.106.88.248) has joined #Reddit
+T 1332423299 18<Meta_Man>	they are like the limitless pill
+T 1332423304 18<Meta_Man>	but...
+T 1332423309 18<Meta_Man>	we dont use 10% of our brains
+T 1332423313 18<Meta_Man>	we use all of our brains
+T 1332423314 18<creme_chesus>	but I think we've gotten so comfortable to thinking a certain way
+T 1332423317 18<Meta_Man>	look it up
+T 1332423318 18<creme_chesus>	that's made us lazy
+T 1332423321 18<Meta_Man>	huge fucking myth
+T 1332423331 18<creme_chesus>	in the same vein that if you only use your arms, your legs will atrophy
+T 1332423332 18<Meta_Man>	when i was a kid in 1978 i heard that a lot
+T 1332423336 18<Spikes>	Meta_Man, i too thought that 10% figure seemed like a total bs. Biological organisms aren't machines, we don't have extra 90% capacity of anything in our bodies
+T 1332423337 18<Meta_Man>	then i found out it was a myth
+T 1332423343 18<Meta_Man>	then the limitless movie comes out
+T 1332423346 18<Spikes>	Only machines could be overclocked
+T 1332423347 18<Meta_Man>	and supports the myth
+T 1332423369 18<Meta_Man>	Spikes: right- evolution is not going to make a brain that works 10%
+T 1332423369 19*	19RubberMonkey (R@158.39.241.245) has joined #Reddit
+T 1332423375 18<Meta_Man>	aint happening
+T 1332423383 18<Meta_Man>	but yet- if i go to common joe american
+T 1332423384 18<Meta_Man>	and ask him
+T 1332423390 18<Meta_Man>	"how much of our brains do we use"
+T 1332423402 18<Meta_Man>	i am goign to get 10-50% as answer
+T 1332423405 18<Meta_Man>	and that makes me mad
+T 1332423420 18<Spikes>	Meta_Man, wishful thinking, i guess. They like to pretend that they are smarter then actually are
+T 1332423430 18<Meta_Man>	well- something larger going on
+T 1332423433 18<n000ksa>	the average joe american is pretty uninformed about a lot of things
+T 1332423434 18<Meta_Man>	how we know "facts"
+T 1332423438 18<Meta_Man>	myth and word of mouth
+T 1332423447 18<Spikes>	like they've got that incredible potential that is hidden
+T 1332423451 18<Meta_Man>	because we saw it on tv
+T 1332423453 18<Meta_Man>	or movies
+T 1332423455 18<Meta_Man>	it is true
+T 1332423458 18<Meta_Man>	very very fucking sad
+T 1332423462 18<Meta_Man>	and this is exploited every day
+T 1332423468 18<Meta_Man>	by those of us without a moral compass
+T 1332423496 23*	23medfly (23~medf@unaffiliated/medfly) has left #Reddit
+T 1332423503 19*	19katja (~katja@c-76-110-46-87.hsd1.fl.comcast.net) has joined #Reddit
+T 1332423507 18<creme_chesus>	http://en.wikipedia.org/wiki/10%25_of_brain_myth
+T 1332423509 18<creme_chesus>	you're right
+T 1332423513 18<creme_chesus>	dammit wikipedia
+T 1332423544 18<creme_chesus>	I guess it's cool that the brain is still a mystery
+T 1332423547 18<creme_chesus>	though
+T 1332423609 19*	19itamz (~haro@chello089173028041.chello.sk) has joined #Reddit
+T 1332423611 19*	19Sorrowful (~wicked@86.108.92.174) has joined #Reddit
+T 1332423615 18<Spikes>	I wonder when we actually discover how does our brain work in all it's complexity
+T 1332423636 18<creme_chesus>	it'll be interesting
+T 1332423647 18<Spikes>	its
+T 1332423648 18<creme_chesus>	I wonder if we could perceive it
+T 1332423663 18<creme_chesus>	it's crazy
+T 1332423664 19*	19kish- (~rr@unaffiliated/spice) has joined #Reddit
+T 1332423667 18<creme_chesus>	the brain named itself
+T 1332423704 18<Spikes>	creme_chesus, hehe. i'm sure we'll be able to understand how it works. Well, at least neuroscientists
+T 1332423734 18<creme_chesus>	it's a weird limit
+T 1332423740 23*	23kahrn has quit (23Read error: Connection reset by peer23)
+T 1332423747 23*	23Montresor has quit (23Ping timeout: 252 seconds23)
+T 1332423750 18<creme_chesus>	the limit as we approach our understanding of the tool that we use to comprehend
+T 1332423755 19*	19kahrn (~kahrn@unaffiliated/kahrn) has joined #Reddit
+T 1332423796 19*	19DCMT (~DCMT@unaffiliated/dcmt) has joined #Reddit
+T 1332423818 18<creme_chesus>	so if you have an addiction
+T 1332423823 19*	19RedHelix (~RedHelix@204.11.151.104) has joined #Reddit
+T 1332423828 18<creme_chesus>	it's better to quit that addiction on vacation
+T 1332423831 18<creme_chesus>	wanna quit smoking
+T 1332423837 18<creme_chesus>	go on vaation and don't smoke
+T 1332423839 18<Spikes>	why?
+T 1332423845 18<killminusnine>	I just up and quit
+T 1332423860 18<Spikes>	new environment - easier to make a decision?
+T 1332423869 18<creme_chesus>	apparently, the dopamine pathways that are satisfied through the addiction use the vacation as a substitute
+T 1332423870 18<killminusnine>	every time I wanted to smoke, I played world of warcraft
+T 1332423888 18<Spikes>	killminusnine, haha, nice idea
+T 1332423892 18<creme_chesus>	so smoking say satisfies a certain dopamine pathway
+T 1332423893 18<Spikes>	creme_chesus, interesting
+T 1332423903 18<killminusnine>	it totally worked, but then I got addicted to WoW
+T 1332423919 18<creme_chesus>	hahaha
+T 1332423922 23*	23kish-_ has quit (23Ping timeout: 260 seconds23)
+T 1332423928 18<creme_chesus>	go on vacation, don't bring WoW
+T 1332423938 18<creme_chesus>	and when you come back the desire to play should be weaker
+T 1332423946 18<Spikes>	killminusnine, but surely you don't play WoW now.... or at least what's left of Vanilla WoW?
+T 1332423966 18<killminusnine>	I still do occasionally, I just don't have time with work and all
+T 1332423985 18<creme_chesus>	http://neuroanthropology.net/2008/02/03/dopamine-and-addiction-part-one/
+T 1332423999 18<Spikes>	Couple of days ago new shots from Mists of Pandaria been released. Almost no desire to return to WoW
+T 1332423999 23*	23hilquias has quit (23Ping timeout: 248 seconds23)
+T 1332424005 18<creme_chesus>	I went on vacation, and since I came back, I havent played skyrim
+T 1332424013 18<creme_chesus>	there was no intent to quit skyrim
+T 1332424029 18<Spikes>	One day i thought "What the fuck am i spending my life on" and just deleted the game
+T 1332424044 18<n000ksa>	what have you done with all the extra time?
+T 1332424058 18<Spikes>	n000ksa, learned programming, finished uni
+T 1332424066 18<Spikes>	n000ksa, become a game journalist
+T 1332424102 18<n000ksa>	that seems like a good use of time
+T 1332424108 18<creme_chesus>	well
+T 1332424110 18<creme_chesus>	you know what's weird
+T 1332424116 18<creme_chesus>	when you quit that stuff....
+T 1332424119 18<stabb>	Mists of Pandaria hey
+T 1332424124 18<creme_chesus>	you still question... what am I doing with my life
+T 1332424127 18<creme_chesus>	whats the point?
+T 1332424133 18<creme_chesus>	why wake up everyday?
+T 1332424152 18<stabb>	goldilocks?
+T 1332424154 18<Spikes>	n000ksa, my brother who also was quite a WoW player learned how to draw and now he's a concept artist for indie movies and games
+T 1332424166 18<creme_chesus>	nice
+T 1332424173 18<Spikes>	creme_chesus, yeah, i still do have those questions. No answer so far
+T 1332424195 18<Spikes>	creme_chesus, some days could be quite dreadful if i wake up with those thoughts
+T 1332424202 18<stabb>	creme_chesus makes me hungry
+T 1332424207 18<creme_chesus>	hahahah
+T 1332424213 18<creme_chesus>	I do too
+T 1332424213 19*	19livebythecog (~livebythe@c-76-26-70-83.hsd1.wv.comcast.net) has joined #Reddit
+T 1332424216 18<stabb>	this is sort of some sick joke
+T 1332424219 18<creme_chesus>	I'm determined to come to a conclusion
+T 1332424230 18<creme_chesus>	here's my hypothesis
+T 1332424232 23*	23dax has quit (23Quit: leaving23)
+T 1332424238 18<creme_chesus>	throughout our lives there's always an end goal
+T 1332424243 18<creme_chesus>	get good grades in school
+T 1332424247 18<creme_chesus>	get to a good college
+T 1332424250 18<creme_chesus>	get a good job
+T 1332424253 18<creme_chesus>	well...
+T 1332424255 18<creme_chesus>	then what?
+T 1332424258 18<creme_chesus>	why have the good job
+T 1332424261 18<n000ksa>	then comes the grind
+T 1332424264 18<creme_chesus>	yea
+T 1332424275 18<creme_chesus>	but why oparticipate in the circlejerk?
+T 1332424282 18<Spikes>	creme_chesus, i usually try to think how i can make world a better place.
+T 1332424288 18<n000ksa>	what about a family? Is that not fulfilling
+T 1332424302 18<creme_chesus>	family is weird
+T 1332424317 18<creme_chesus>	I would feel guilty bringing someone else into this world when I don't find it fulfilling
+T 1332424329 18<creme_chesus>	yea, and def make the world a better place
+T 1332424333 23*	23Myakyu (23~Myakyu@pool-108-50-2-164.sctnpa.east.verizon.net) has left #Reddit
+T 1332424339 18<Spikes>	i'd feel guilty bringing anyone to life at our time
+T 1332424342 18<katja>	that is so sad you don't find life fulfilling
+T 1332424344 18<creme_chesus>	I mean, we can each take little steps every day to make the world a better place
+T 1332424350 18<creme_chesus>	but will it be impactful
+T 1332424361 18<creme_chesus>	it's sad to realize we'll all be forgotten in history
+T 1332424375 18<katja>	why is that sad?
+T 1332424380 18<creme_chesus>	iunno
+T 1332424387 18<n000ksa>	that doesnt mean we cant enjoy the time we are here
+T 1332424395 18<Spikes>	katja, yes it is, but we can't help ourselves. We have logic and so far it won't give us any answer to the question "what's the point"
+T 1332424416 18<creme_chesus>	true
+T 1332424416 18<Spikes>	i wish i was smarter and become a scientist
+T 1332424417 18<katja>	why does there have to be a point?
+T 1332424426 18<creme_chesus>	you're smart enough to become a scientist
+T 1332424428 18<creme_chesus>	if you can think
+T 1332424432 18<creme_chesus>	you can be a scientist
+T 1332424435 18<Spikes>	katja, it's in our nature - to look for an answer
+T 1332424454 18<stabb>	http://www.youtube.com/watch?feature=player_embedded&v=QPtxZmuaosE
+T 1332424457 18<katja>	the point of living is , it is fun
+T 1332424462 18<n000ksa>	is science going to answer that question?
+T 1332424463 18<Spikes>	creme_chesus, yeah, i try to keep my spirits up with that line of thinking
+T 1332424464 23*	23dale1v has quit (23Quit: Bye!23)
+T 1332424476 18<n000ksa>	seems more like a philosophical question
+T 1332424495 19*	19Octane (Octane@c-68-50-168-222.hsd1.dc.comcast.net) has joined #Reddit
+T 1332424532 18<creme_chesus>	yea
+T 1332424537 18<Spikes>	n000ksa, science can give you determination. Solving a mystery of our  universe is quite a point for one's life
+T 1332424543 18<creme_chesus>	yea
+T 1332424554 18<creme_chesus>	so here's my conclusion so far
+T 1332424562 18<Spikes>	Sure, science is not an answer, but it's a way to find it
+T 1332424569 18<Spikes>	A tool
+T 1332424575 18<Crumpets>	how are we alive on this planet?
+T 1332424585 18<katja>	you guys will make yourselves nuts looking for answers there are no answers to
+T 1332424587 18<creme_chesus>	as long as I can make a contribution to the frontier of understanding
+T 1332424588 18<Spikes>	Crumpets, do you want a long answer or a short one?
+T 1332424594 18<creme_chesus>	than, I have a purposeful life to live
+T 1332424602 18<Spikes>	katja, that is alwasy a possibility
+T 1332424615 18<Spikes>	creme_chesus, good conclusion
+T 1332424623 19*	19DIProgan (gargamel@90-230-196-83-no86.tbcn.telia.com) has joined #Reddit
+T 1332424635 18<katja>	accept that you will never know and have fun
+T 1332424659 18<Spikes>	I'm not that kind of person that can accept something that what i think is not truth
+T 1332424664 19*	19snkcld (~snkcld3@209.51.167.2) has joined #Reddit
+T 1332424683 18<creme_chesus>	I think there are too many mysteries that exist, and trying to make sense of them, is exciting
+T 1332424684 18<livebythecog>	overpopulation. We are raised with this imprint of the 50's and 60's but there are simply too many people and not enough to purpose to go around. Your only immediate purpose is to consume and spend. You are here to increase corporate profits. .....walmart birthing centers.....
+T 1332424694 18<creme_chesus>	yea
+T 1332424702 18<creme_chesus>	and quite frankly , labor is becmoning obsolete
+T 1332424723 18<katja>	creme_chesus well don't let yourself get caught up in some half baked answer
+T 1332424724 18<creme_chesus>	the rational person would hire a programmer to automate a mfg facility and then hire a few engineers for maintenence
+T 1332424739 18<creme_chesus>	you don't need to hire a fleet of people screwing caps on to toothpaste tubes
+T 1332424773 18<Meta_Man>	wow talk about coming full circle
+T 1332424775 18<Meta_Man>	yogster
+T 1332424781 18<Meta_Man>	he started pming me
+T 1332424783 18<Meta_Man>	about this guy
+T 1332424788 18<Meta_Man>	who wrote about native americans
+T 1332424793 18<Meta_Man>	i read it- thought it was complete shit
+T 1332424795 18<Spikes>	Problem is, what would happen to all the people without a job in manufacturing facilities?
+T 1332424795 18<livebythecog>	I think everyone has these realizations.... they break down... then they find that one thing they love....  I bought a bicycle... im okay now.
+T 1332424801 18<Meta_Man>	guess what?
+T 1332424806 18<Spikes>	We really are too overpopulated
+T 1332424811 18<Meta_Man>	same guy may have started the 10% brain myth
+T 1332424815 18<Meta_Man>	"One possible origin is the reserve energy theories by Harvard psychologists William James and Boris Sidis in the 1890s "
+T 1332424829 18<Meta_Man>	yogster was messaging me about boris sidis
+T 1332424832 18<Meta_Man>	saying how smart he was
+T 1332424835 18<Meta_Man>	hahahahahaha
+T 1332424835 18<Crumpets>	Spikes: can i have both short and long?
+T 1332424837 18<Meta_Man>	not that smart
+T 1332424838 18<creme_chesus>	hah
+T 1332424877 18<Spikes>	Crumpets, no, shot answer is - big bang and chaos theory. THat's must be it
+T 1332424904 18<n000ksa>	Spikes, have you read the omnivore's dilemma? He wrote about the creation of synthetic nitrogen (fertilizer) which was one of the causes of rapid population increase
+T 1332424922 18<creme_chesus>	hmmm interesting
+T 1332424952 18<creme_chesus>	how does survival of the fittest play a rule in modern society?
+T 1332424969 18<Spikes>	n000ksa, hmm, that rings a bell
+T 1332424970 18<itamz>	overpopulation is a local issue
+T 1332424974 18<Meta_Man>	working together > single person
+T 1332424987 18<Meta_Man>	that is survival of fittest
+T 1332424991 18<itamz>	there are parts of the world where the population numbers are actually decreasing
+T 1332424992 18<Meta_Man>	how well you get along with others
+T 1332425002 18<creme_chesus>	hmm
+T 1332425003 18<creme_chesus>	yea
+T 1332425010 18<DIProgan>	overpopulation is a universal issue...
+T 1332425010 18<Meta_Man>	i dont care what movies say
+T 1332425013 18<creme_chesus>	I was thinking, he who has the gold, rules
+T 1332425015 18<n000ksa>	itamz: is it really a local issue when we are supporting populations around the globe with food aid, medical aid, etc
+T 1332425017 18<Meta_Man>	if 10 people want to kill you
+T 1332425018 18<Meta_Man>	you are fucked
+T 1332425020 18<creme_chesus>	yea
+T 1332425023 18<creme_chesus>	very true
+T 1332425025 18<creme_chesus>	well
+T 1332425027 18<creme_chesus>	unless you have $$
+T 1332425029 18<Meta_Man>	movies blur this point
+T 1332425034 18<livebythecog>	well look at growth of the human population in direct correlation with oil production...  couldn't have had one without the other.
+T 1332425037 18<Meta_Man>	where one guy/gal takes out hundreds
+T 1332425039 23*	23totem has quit (23Ping timeout: 245 seconds23)
+T 1332425041 18<itamz>	.w Population decline
+T 1332425042 18<Meta_Man>	yeah, i want to see that in real life
+T 1332425043 18<redditalien>	itamz: http://en.wikipedia.org/w/index.php?title=Population_decline&oldid=482366513
+T 1332425044 18<redditalien>	itamz: Sometimes known as depopulation, population decline is the reduction over time in a region's census. It can be caused for several reasons; notable ones include sub-replacement fertility (along with limited immigration), heavy emigration, disease, famine, and war. History is replete with examples of large scale depopulations. Many wars, for example, have been accompanied by significant depopulations. (2 more messages)
+T 1332425053 18<itamz>	look at the maps there
+T 1332425056 18<Crumpets>	teacher just said people have trouble understanding Climate Change because they cannot experience for themselves, what about religous folks?
+T 1332425079 18<Meta_Man>	Crumpets: that is complicated
+T 1332425084 18<Meta_Man>	of why people are like that
+T 1332425086 18<livebythecog>	http://www.paulchefurka.ca/World%20Population%20and%20Oil%201900.JPG
+T 1332425088 18<Meta_Man>	not the climate change itself
+T 1332425094 18<creme_chesus>	what's teh worst that can happen if we try to ceate a more sustainable economy
+T 1332425097 18<Meta_Man>	it is how people react to mis/dis/over information
+T 1332425104 18<creme_chesus>	why wait til it's too late if we're wrong?
+T 1332425108 18<n000ksa>	profits will be cut into
+T 1332425113 18<creme_chesus>	good
+T 1332425114 18<Meta_Man>	oh noes
+T 1332425115 18<creme_chesus>	it's a free market
+T 1332425118 18<Meta_Man>	not my profits
+T 1332425123 18<creme_chesus>	you better keep up with the times or go deefunct
+T 1332425126 18<creme_chesus>	like
+T 1332425127 18<Meta_Man>	fuck you i will kill you all
+T 1332425130 18<Meta_Man>	dont fuck with my profits
+T 1332425130 18<n000ksa>	right, but they have all the political power
+T 1332425132 18<DIProgan>	if growth of the human population where in direct correlation with oil, africa would surely produce a whole lot of it
+T 1332425133 18<creme_chesus>	comps come out, typewriters go
+T 1332425144 18<kish>	stabb, about to cook my drope
+T 1332425158 18<Meta_Man>	about to cook dope?
+T 1332425159 23*	23stagen has quit (23Quit: stagen23)
+T 1332425162 18<Meta_Man>	what kind of dope?
+T 1332425165 18<kish>	heroin
+T 1332425169 18<Meta_Man>	ack
+T 1332425193 18<Meta_Man>	so glad i am not addicted to opiates or crack
+T 1332425198 18<Spikes>	indeed
+T 1332425200 18<Spikes>	me too
+T 1332425203 18<Meta_Man>	i am hopelessly addicted to weed and hallucinogens though
+T 1332425205 23*	23thaNatozZ has quit (23Quit: Lost terminal23)
+T 1332425205 18<kish>	i dont know if im addicted, yet
+T 1332425206 18<Meta_Man>	:P
+T 1332425219 18<n000ksa>	well, keep it up and you will be
+T 1332425226 18<Meta_Man>	ha
+T 1332425226 18<creme_chesus>	ok
+T 1332425232 18<creme_chesus>	I haven't done hallucinogens yet
+T 1332425239 18<Meta_Man>	:0
+T 1332425242 18<creme_chesus>	I feel like I need to do the cactus thing and go on a spiritual trip
+T 1332425250 18<Meta_Man>	absolutely
+T 1332425253 18<Meta_Man>	it is mankinds religion
+T 1332425256 18<Meta_Man>	our true religion
+T 1332425264 18<Meta_Man>	not that jesus, mohammed, jew crap
+T 1332425267 18<errgnomeous>	beavers and ducks!!!
+T 1332425282 18<Crumpets>	Meta_Man: people are retards?
+T 1332425286 18<Meta_Man>	nah
+T 1332425288 18<Meta_Man>	we do our best
+T 1332425293 18<Meta_Man>	fucking animals
+T 1332425296 18<Meta_Man>	that is the problem
+T 1332425300 18<Meta_Man>	humans are fucking animals
+T 1332425303 18<Spikes>	Haven't tried any serious drugs in my life.. well except some booze several times a year
+T 1332425305 18<errgnomeous>	every day
+T 1332425306 18<Meta_Man>	when we get past that... things will be gooood
+T 1332425307 18<errgnomeous>	in every way
+T 1332425316 18<Spikes>	No idea how other people live with addictions
+T 1332425321 18<Meta_Man>	booze is one of the heaviest drugs on the planet spikes
+T 1332425323 18<errgnomeous>	at least in the state of washington
+T 1332425325 18<Meta_Man>	dont believe the marketing
+T 1332425337 18<Spikes>	Meta_Man, yeah, i drink it once or twice a year
+T 1332425342 18<Meta_Man>	ya
+T 1332425350 18<Meta_Man>	just stating it is a very HARD drug
+T 1332425351 18<Meta_Man>	and it is
+T 1332425365 18<Meta_Man>	legality means zip
+T 1332425373 18<errgnomeous>	is there still a lock on your back door?
+T 1332425378 18<Meta_Man>	just because it is legal does not mean it is not one of the most dangerous substances on earth
+T 1332425394 19*	19nerdshark (~NOT@reddit/operator/nerdshark) has joined #Reddit
+T 1332425417 18<DIProgan>	you know that oil/population graph is realy manipulated to fit the purpose, you could take nearly any graph with a positive trend and choose the right numbers on each side to make it fit
+T 1332425437 19*	19Kroms (~Kroms@72.37.252.50) has joined #Reddit
+T 1332425439 18<Kroms>	hai
+T 1332425450 19*	19el_kevino (~el_kevino@216.249.7.209.tor.pathcom.com) has joined #Reddit
+T 1332425499 23*	23killminusnine has quit (23Ping timeout: 250 seconds23)
+T 1332425518 18<livebythecog>	DLProgan, its just more to set up the idea without oil we can not feed all these people in the same fashion we do today. We cant move everything around between all these spread own small cities. Urban sprawl is a problem, and will be a bigger one as we hit peak oil.... or maybe it won't...i watch star trek.
+T 1332425520 18<n000ksa>	but doesn't it seem reasonable that the mass production of cheap food (using oil) would cause a population increase?
+T 1332425530 18<creme_chesus>	it annoys me how science is manipulated by politics
+T 1332425534 18<creme_chesus>	it SHOULD be neutral
+T 1332425563 23*	23stalled has quit (23Ping timeout: 246 seconds23)
+T 1332425586 18<creme_chesus>	well until oil becomes a problem, lets just continue to use it
+T 1332425592 18<creme_chesus>	and live unsustainably
+T 1332425600 18<creme_chesus>	while birthing more children in the name of god
+T 1332425605 18<creme_chesus>	it makes perfect sense
+T 1332425623 18<livebythecog>	theres nothing you can do really short of standing on the corner holding up a sign that says "Please stop driving around and fucking each other."
+T 1332425626 23*	23WWFan has quit (23Ping timeout: 246 seconds23)
+T 1332425640 18<creme_chesus>	well change the pardigm
+T 1332425647 18<creme_chesus>	people arent' going to change their behavior
+T 1332425667 18<creme_chesus>	so what can we do to allow people to live life in the same way, while making the pocess more sustainable on the back end
+T 1332425669 18<Meta_Man>	walked across room- front window guy in a bmw is taking a picture of me
+T 1332425676 18<Meta_Man>	"what the fuck do you think you are doing dude"
+T 1332425677 18<livebythecog>	They will when they are starving.... i like to think we the youth will eat the rich and the old some day.
+T 1332425678 19*	19t1|Mike (~Mike@unaffiliated/disruptr) has joined #Reddit
+T 1332425678 18<Meta_Man>	he sped off
+T 1332425679 18<Meta_Man>	wtf
+T 1332425680 19*	19dragndrop (~IceChat7@99-6-169-55.lightspeed.hstntx.sbcglobal.net) has joined #Reddit
+T 1332425692 18<DIProgan>	I say let's invent ourselfs out of the problem
+T 1332425693 23*	23Alanna77 has quit (23Ping timeout: 244 seconds23)
+T 1332425693 18<Spikes>	creme_chesus, first of all. genophage. really need to decrease population
+T 1332425695 23*	23nyuszika7h has quit (23Ping timeout: 248 seconds23)
+T 1332425698 18<ri0tdorque>	how am i still logged in
+T 1332425699 18<ri0tdorque>	weird
+T 1332425715 18<Meta_Man>	whenever someone takes a picture of me in public-- i walk up to them and ask why
+T 1332425715 19*	19kubusg (~kubus@host-217-172-238-100.gdynia.mm.pl) has joined #Reddit
+T 1332425721 18<Meta_Man>	wtf
+T 1332425733 18<Meta_Man>	hell this was not even public
+T 1332425734 18<kubusg>	..
+T 1332425736 18<Meta_Man>	i was in my bedroom
+T 1332425741 18<Meta_Man>	but his picture is going to show that
+T 1332425742 23*	23Paradox has quit (23Ping timeout: 252 seconds23)
+T 1332425743 18<n000ksa>	is that a crime?
+T 1332425744 18<creme_chesus>	genophage?
+T 1332425746 18<Meta_Man>	he was a mortgage guy
+T 1332425748 18<Meta_Man>	from the bank
+T 1332425754 18<Meta_Man>	owner of the house is in foreclosure
+T 1332425757 18<n000ksa>	is your house being forclsoed?
+T 1332425764 18<Meta_Man>	banks can violate all laws
+T 1332425764 18<Spikes>	creme_chesus, yeah, allows to control fertility of females
+T 1332425765 23*	23cron has quit (23Ping timeout: 272 seconds23)
+T 1332425769 18<Meta_Man>	because they are owned by jews
+T 1332425771 18<Meta_Man>	or something
+T 1332425773 18<ri0tdorque>	saywha spikes?
+T 1332425773 18<Two9A>	So they're trying to prove what, that you still live there?
+T 1332425774 18<Meta_Man>	i dont know
+T 1332425777 18<creme_chesus>	interesting
+T 1332425779 18<Meta_Man>	i rent
+T 1332425781 18<Spikes>	ri0tdorque, hey
+T 1332425781 19*	19Mowsh (Mowsh@cpc10-nrte23-2-0-cust30.8-4.cable.virginmedia.com) has joined #Reddit
+T 1332425783 18<Meta_Man>	has nothing to do with me
+T 1332425792 18<stabb>	get to the tunnel
+T 1332425795 18<Meta_Man>	hey ri0tdorque unban me from ##subreddit please
+T 1332425805 18<ri0tdorque>	uummmmm
+T 1332425811 23*	23scro has quit (23Quit: orevouarlol23)
+T 1332425825 18<Meta_Man>	scoresman banned me cause i banned him earlier yesterday
+T 1332425841 18<ri0tdorque>	the new one?
+T 1332425854 18<Spikes>	creme_chesus, our planet can't sustain even current population for too much longer and in the future it would be even worser. And it's not like we are using nazi's methods. Nations won't suddenly stop to reproduce. Just decrease population growth rate
+T 1332425862 19*	19marshal0605 (~marshal@ip4da0187f.direct-adsl.nl) has joined #Reddit
+T 1332425895 19*	19CaptainCanuck (~CaptainCa@h239-net157.svil.netcampus.ca) has joined #Reddit
+T 1332425897 18<creme_chesus>	ok,
+T 1332425906 18<DIProgan>	Let the smart guys invent products that build upon the green stuff while being better for each purpose. I dream one day science gets as much resources as the entertainment industry does. Fusion should be around about lunch tomorrow then.
+T 1332425909 18<creme_chesus>	so could population growth be viewed as a bubble?
+T 1332425922 23*	23CaptainCanuck has quit (23Remote host closed the connection23)
+T 1332425925 18<RedHelix>	it could be viewed as tons of stretched vaginas
+T 1332425927 18<RedHelix>	TONS
+T 1332425930 18<creme_chesus>	hahaha
+T 1332425935 18<creme_chesus>	billions!
+T 1332425940 18<Spikes>	creme_chesus, i'd say make a virus that could target populations with certain dna (chinese, indian).
+T 1332425949 18<ri0tdorque>	don't confuse me like that Meta_Man
+T 1332425953 18<ri0tdorque>	i'm far too early in the morning
+T 1332425958 18<ri0tdorque>	oh i have cake!!!
+T 1332425965 18<ri0tdorque>	redditalien, that's so not sexy
+T 1332425971 18*	Meta_Man takes ri0tdorque's cake
+T 1332425974 18<Meta_Man>	mwhahahaha
+T 1332425978 18<creme_chesus>	really?
+T 1332425980 18<Spikes>	creme_chesus, grim, but some things must happen one way or another
+T 1332425983 18<ri0tdorque>	bitch i dont thik solllllmy cake
+T 1332425984 18<ri0tdorque>	all mine
+T 1332425988 18<DIProgan>	population growth isn't realy the fundamental problem, it is our will to expand our horizons and our power. With that we _will_ destroy our earth so the only option is getting the hell out of here thus we need to research colonization of space.
+T 1332425994 18<creme_chesus>	I mean, there's gotta be a better solution
+T 1332426004 18*	ri0tdorque goes to get her cake
+T 1332426007 18<RedHelix>	yeah, I'm ok with indefinite population growth
+T 1332426012 18<RedHelix>	we just need to stop strangling NASA
+T 1332426016 18<RedHelix>	and get the hell off this rock
+T 1332426018 18<Spikes>	DIProgan, good idea too.
+T 1332426021 18<itamz>	population growth tends to slow down in developed countries
+T 1332426023 18<creme_chesus>	yea, nasa needs money
+T 1332426026 18<creme_chesus>	not the department of war
+T 1332426030 18<itamz>	it's the shitholes that are driving the global numbers up
+T 1332426030 18<RedHelix>	exactly
+T 1332426036 19*	19amraam27 (~anonymous@corp-office.vaultnetworks.com) has joined #Reddit
+T 1332426039 18<n000ksa>	but if we develop all the countries, oil will run out real fast
+T 1332426046 18<RedHelix>	NASA needs it's funding back, like, so badly
+T 1332426049 18<RedHelix>	It's not even funny
+T 1332426055 18<creme_chesus>	we need a sustainable oil substitute
+T 1332426057 18<creme_chesus>	and right now
+T 1332426060 18<itamz>	much of western europe only has growing population because of immigration
+T 1332426067 18<RedHelix>	Kids don't say "I want to be an astronaut when I grow up" anymore, because it's probably not going to happen at this rate
+T 1332426069 18<creme_chesus>	there aren't incentives out there to create it, or produce it to scale
+T 1332426070 19*	19hlveheart (~jer@unaffiliated/hlveheart) has joined #Reddit
+T 1332426073 18<Spikes>	itamz, and targeting china nad india would be even easier since they do have some differences in DNA
+T 1332426083 23*	23hlveheart has quit (23Read error: Connection reset by peer23)
+T 1332426091 18<itamz>	china is at least trying to solve its population issues
+T 1332426096 23*	23bburhans has quit (23Ping timeout: 610 seconds23)
+T 1332426099 18<n000ksa>	are we talking about genocide
+T 1332426099 18<creme_chesus>	the us can't
+T 1332426103 18<creme_chesus>	not with people like santorum
+T 1332426104 19*	19sh1ken (~sh1ken@unaffiliated/sh1ken) has joined #Reddit
+T 1332426112 18<Meta_Man>	ri0tdorque: the cake is a lie
+T 1332426116 18<Spikes>	n000ksa, not very successful, though
+T 1332426147 18<n000ksa>	would another major world war work just as well? Maybe thats an option
+T 1332426160 18<RedHelix>	that's...definitely not an option
+T 1332426170 18<creme_chesus>	okay so think about this
+T 1332426170 18<itamz>	nobody would want such a huge war
+T 1332426170 18<RedHelix>	another major world war would probably wipe us out
+T 1332426173 18<livebythecog>	The more star trek i watch the sadder i get. Even if we had a ship that could travel fast enough to matter you would have to figure out how to keep the people inside of it from dying from the forces... I think we are stuck indefinitely and as beautiful of a thought as getting out of our solar system is it isn't happening before the race dies.
+T 1332426174 18<itamz>	not profitable
+T 1332426175 18<n000ksa>	yeah, lets stick to the virus plan
+T 1332426181 18<creme_chesus>	if the power, the entire grid zapped for like 2 weeks say
+T 1332426186 18<Spikes>	n000ksa, it could, problem is there's no weapon powerful enough to deal with populations over billion. We don't want to use nukes after all
+T 1332426191 18<creme_chesus>	how many people do you think would make it out alive?
+T 1332426196 18<Spikes>	n000ksa, therefore genophage
+T 1332426201 18<RedHelix>	livebythecog: that's pretty fatalist, man
+T 1332426207 18<RedHelix>	when you study science long enough, you learn that literally anything is possible
+T 1332426209 18<DIProgan>	It seems cyberspace took over the position of the far away dream that space once had.
+T 1332426214 19*	19stalled (~stalled@unaffiliated/stalled) has joined #Reddit
+T 1332426214 18<RedHelix>	it's a cliche but it's true
+T 1332426226 18<livebythecog>	DIProgan: truth.
+T 1332426230 18<DIProgan>	We need to start dreaming of space again.
+T 1332426235 18<itamz>	another "morally better" solution would be for their government to just stop supporting them
+T 1332426235 18<creme_chesus>	yea
+T 1332426239 18<RedHelix>	and all it takes is dollars, really. we drove propulsion technology forward 100 years in 10 during the cold war
+T 1332426282 18<livebythecog>	RedHelix: I hope your right. Im just sad I won't see it in my lifetime
+T 1332426288 18<n000ksa>	What about stopping developed nations from sending foreign aid
+T 1332426294 18<RedHelix>	get yourself cryogenically frozen then
+T 1332426301 18<RedHelix>	heh
+T 1332426309 23*	23RubberMonkey has quit (23Ping timeout: 246 seconds23)
+T 1332426320 18<itamz>	ok, I've had enough nonsenical futuristic hitler bullshit for today :)
+T 1332426323 18<itamz>	back to work...
+T 1332426324 18<livebythecog>	RedHelix: Scared of the likely idiocracy scenario
+T 1332426328 18<creme_chesus>	ew work
+T 1332426330 18<RedHelix>	heh
+T 1332426333 18<creme_chesus>	I wish I had somethign to work on
+T 1332426336 18<creme_chesus>	I'm soo damn bored
+T 1332426340 18<n000ksa>	work is ending for me.
+T 1332426341 18<RedHelix>	there always remains an upper echelon of thinkers, no matter how small
+T 1332426346 19*	19Nemo7 (nemo@nemo.org.org) has joined #Reddit
+T 1332426357 18<creme_chesus>	I hope to one day be there
+T 1332426358 23*	23Meta_Man has quit (23Read error: Connection reset by peer23)
+T 1332426372 18<creme_chesus>	this whole thing is so interesting
+T 1332426377 18<RedHelix>	today's the last day of the week for me
+T 1332426380 23*	23marshal0505 has quit (23Ping timeout: 252 seconds23)
+T 1332426382 18<creme_chesus>	there are so many interesting mysteries and situations to think about
+T 1332426384 18<RedHelix>	then it's midnight hunger games and a weekend in new hampshire
+T 1332426390 18<RedHelix>	going to stargaze the fuck out of this weekend
+T 1332426394 18<RedHelix>	got all my camera gear
+T 1332426398 18<creme_chesus>	niiice
+T 1332426414 18<RedHelix>	then a flight lesson on monday
+T 1332426417 18<RedHelix>	shit, life is awesome
+T 1332426418 18<RedHelix>	holy shit
+T 1332426425 18<n000ksa>	Going on a motorcycle trip this weekend to camp alongside the Nile
+T 1332426426 18<creme_chesus>	nice dude
+T 1332426426 19*	19thaNatozZ (~me@wlan-mis-131-52.unifr.ch) has joined #Reddit
+T 1332426428 18<creme_chesus>	that's awesome
+T 1332426429 18<DIProgan>	Japan was doing the space elevator wasn't they?
+T 1332426447 18<DIProgan>	one week travel time o_O
+T 1332426452 18<Spikes>	creme_chesus, how about a goal of making a huge corporation that in the end would work not for a profit (second important thing), but to bring your malicious ideas to life?
+T 1332426453 18<Crumpets>	n000ksa: watch out for the floods and large lizards
+T 1332426466 18<n000ksa>	hippos and baboons are the real problem
+T 1332426468 18<ri0tdorque>	dammit it's cold
+T 1332426477 18<livebythecog>	DIProgan: Commercial flights to space start in the next 5-10 years and tickets are only 10,000
+T 1332426494 18<creme_chesus>	like halliburton?
+T 1332426510 18<Spikes>	creme_chesus, similar
+T 1332426523 18<DIProgan>	I guess the real question is what sollution brings most weight up there
+T 1332426552 18<livebythecog>	http://www.virgingalactic.com/
+T 1332426557 18<Spikes>	creme_chesus, no idea what halliburton is trying to achieve, so far seems like just another greedy corporation that only cares about money and expansion of it's interests
+T 1332426557 18<livebythecog>	theres already a book section.
+T 1332426558 18<livebythecog>	lol
+T 1332426560 18<creme_chesus>	there where?
+T 1332426561 18<livebythecog>	booking*
+T 1332426601 18<DIProgan>	"In February 2012, a Japanese construction firm Obayashi Corporation announced that in 38 years it could build a space elevator using carbon nanotube technology[28]. According to Obayashi, a 30-seaters space elevator will be made of carbon nanotube, The whole length of the elevator cable is expected to be 96,000 kilometers. At a speed of 200 kilometers per hour, passenger will be able to reach
+T 1332426601 18<DIProgan>	the terminal satellite which is 36,000 kilometers up high after a 7.5 days trip."
+T 1332426617 18<Spikes>	creme_chesus, or, your possible furue corp could just finance scientists and other smart people
+T 1332426629 18<creme_chesus>	it's a shame that the focus of corporations is on increasing Earnings Per Share, vs say ummm... creating a positive contribution to the human condition
+T 1332426636 18<creme_chesus>	true
+T 1332426638 18<Spikes>	indeed
+T 1332426643 18<DIProgan>	making plans 38 years forward is brave
+T 1332426647 23*	23stalled has quit (23Ping timeout: 244 seconds23)
+T 1332426651 22*	marshal0605 is now known as marshal0505
+T 1332426659 18<creme_chesus>	the problem I see with corporations and science is say
+T 1332426660 19*	19lone-m (~lone@p54AE22A4.dip.t-dialin.net) has joined #Reddit
+T 1332426670 18<pepee>	https://www.youtube.com/watch?v=LF2QrZzIRFk
+T 1332426684 18<pepee>	there, free energy
+T 1332426687 18<creme_chesus>	I havea  business, with tons of R&D, we discover somethign revolutionary!... we keep it a trade secret so we are the only who can profit
+T 1332426696 18<creme_chesus>	isn't that backwards?
+T 1332426700 18<livebythecog>	has anyone tried that? like i keep seeing that video but can someone film themselves trying it... lol
+T 1332426706 19*	19Knightari (~Carlambor@dsl-hvkbrasgw1-fe8af800-50.dhcp.inet.fi) has joined #Reddit
+T 1332426743 18<Spikes>	creme_chesus, it's still a business that tries to make as much money as possible
+T 1332426761 18<creme_chesus>	right, so this a dissonance
+T 1332426766 18<creme_chesus>	that makes no sense
+T 1332426771 18<creme_chesus>	so say you were thomas edison
+T 1332426779 18<creme_chesus>	you figure out how to harness the power of electricity
+T 1332426793 18<creme_chesus>	why share your secrets with others?
+T 1332426798 18<Crumpets>	or movies or telepones
+T 1332426798 18<livebythecog>	It's because the only natural predator humans have is each other... if we were threatened by something else, you better believe we would create the technology without money even being thought about...
+T 1332426800 18<Spikes>	creme_chesus, no really wrong as long as say in 5 years you release yur findings into public domain
+T 1332426800 23*	23n000ksa has quit (23Quit: Leaving.23)
+T 1332426804 18<pepee>	think about medical/pharma patents
+T 1332426807 18<Spikes>	not*
+T 1332426830 18<creme_chesus>	yea, so I guess have a temporary monopoly
+T 1332426833 18<creme_chesus>	but why do that
+T 1332426839 18<creme_chesus>	I'm saying no patent.... just trade secret
+T 1332426841 18<Spikes>	creme_chesus, you still would need money for future r&d
+T 1332426845 18<creme_chesus>	if you are the only one who gets it
+T 1332426865 18<creme_chesus>	yea, so sharing that knowledge can only dilute your market share
+T 1332426874 18<Spikes>	creme_chesus, if it's important stll release it after you made enough money for future r&d
+T 1332426934 23*	23Crumpets has quit (23Remote host closed the connection23)
+T 1332426942 18<creme_chesus>	it still seems that by releasing that information will only do you and your company a future disservice... why be genorous like that?
+T 1332426960 18<DIProgan>	if enough people are productive sharing is way more beneficial
+T 1332426966 18<creme_chesus>	I think that part of capitalism is destructive to "progress"
+T 1332426972 18<creme_chesus>	yes it is
+T 1332426976 18<livebythecog>	very much so.
+T 1332426978 18<itamz>	sharing is hard as shit to organize effectively
+T 1332426978 18<creme_chesus>	and you see it in the open source community
+T 1332426984 19*	19axe319 (~axe319@220.sub-166-249-96.myvzw.com) has joined #Reddit
+T 1332426988 18<RedHelix>	creme_chesus: Mixed bag when it comes to disclosing drug stuff
+T 1332426991 18<creme_chesus>	it's a totally different paradigm than the traditional b-model
+T 1332426993 18<RedHelix>	You have to disclose it to the FDA
+T 1332426998 18<Spikes>	creme_chesus, why not? You're in not for a superprofits. You're in to make a difference
+T 1332427000 18<RedHelix>	How it's made, etc
+T 1332427014 18<pepee>	<creme_chesus> I think that part of capitalism is destructive  <- FTFY
+T 1332427016 18<livebythecog>	http://www.youtube.com/watch?v=htX2usfqMEs  I love this woman. I do.
+T 1332427017 18<sn0wman>	YouTube Elizabeth Warren on Debt Crisis, Fair Taxation
+T 1332427020 18<DIProgan>	I keep dreaming of the workfree society where the robots do all the work
+T 1332427026 18<creme_chesus>	pepee, ty :)
+T 1332427036 18<itamz>	DIProgan, and who maintains the robots?
+T 1332427038 18<Spikes>	DIProgan, and how many people live in that society?
+T 1332427052 18<creme_chesus>	yea, and what are you gonna waste your day doing?
+T 1332427059 18<DIProgan>	itamz: robots repair eachother just like we have doctors? :)
+T 1332427061 18<livebythecog>	sn0wman: lol  script?
+T 1332427064 18<RedHelix>	Capitalism is somewhat destructive, yes, and the same can be said for any ecosystem, man-made or otherwise
+T 1332427068 18<creme_chesus>	I have work to do and I'm still unbearably boared
+T 1332427072 18<itamz>	DIProgan: something will always go wrong
+T 1332427079 18<DIProgan>	hehe the pessimist
+T 1332427080 18<itamz>	given enough time
+T 1332427082 18<creme_chesus>	bored*
+T 1332427084 18<creme_chesus>	jeez
+T 1332427106 19*	19zyltoid (~lmn@wsip-98-174-82-158.ri.ri.cox.net) has joined #Reddit
+T 1332427108 18<pepee>	RedHelix, capitalism is destructive to human societies

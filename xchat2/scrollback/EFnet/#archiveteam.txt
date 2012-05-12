@@ -1,0 +1,661 @@
+T 1336667753 23*	23LordNlptp has quit (23Ping timeout: 504 seconds23)
+T 1336667901 18<SketchCow>	root@teamarchive-1:/1/FORTUNECITY# du -sh .
+T 1336667901 18<SketchCow>	1.2T    .
+T 1336667909 23*	23blt has quit (23http://www.mibbit.com ajax IRC Client23)
+T 1336667917 18<SketchCow>	OK, it's gzipping WARCs, so we saved a hell of a lot more than 1.2tb of friendster.
+T 1336667946 18*	philpem wonders if the VOGONSDrivers guys would be interested in zipped copies of some of the driver disks he has...
+T 1336667960 18<Schbirid_>	philpem: i bet
+T 1336667965 18<philpem>	RadioReveal / Aimslab Radiotrack V1 drivers, anyone?
+T 1336667973 18<Schbirid_>	good thought actually. i have some floppies somewhere too
+T 1336668005 18<philpem>	or perhaps you'd prefer the Windows 3.1 drivers for the Diamond Stealth64 Video2001? :)
+T 1336668030 23*	23BlueMax has quit (23Quit: Leaving23)
+T 1336668122 18<Nemo_bis>	If I have several single-page JPG scans to be put in a single item, what format should I set them to?
+T 1336668470 23*	23ndurner_l has quit (23Leaving.23)
+T 1336668621 19*	19MMovie (~mikelee@d53-64-57-146.nap.wideopenwest.com) has joined #archiveteam
+T 1336668687 19*	19ndurner (~nils@e180009086.adsl.alicedsl.de) has joined #archiveteam
+T 1336669004 18<SketchCow>	man oh man
+T 1336669014 18<SketchCow>	So I was here, trying to figure out how to merge two directories.
+T 1336669025 18<SketchCow>	you know, as I push 45 uploaders' copies of fortune city toger
+T 1336669030 18<SketchCow>	I've done a few nightmare shell scripts.
+T 1336669033 18<SketchCow>	Then I think.
+T 1336669034 18<SketchCow>	RSYNC
+T 1336669036 18<SketchCow>	FUCKING RSYNC
+T 1336669074 18<yipdw>	the nice thing about fucking rsync is that if you take a break, it will resume where you left off
+T 1336669081 18<SketchCow>	++
+T 1336669084 22*	26SketchCow gives channel operator status to26 yipdw
+T 1336669093 18<yipdw>	:D
+T 1336669102 18<DFJustin>	and also eat your babies if you get a parameter wrong
+T 1336669113 18<SketchCow>	Yeah, I'm dry-running to crazy
+T 1336669265 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #archiveteam
+T 1336669582 18<SketchCow>	Anyway, there we go. It's running. Well, that just saved me a HELL OF A LOT OF TIME - we'll be seeing Fortunecity uploaded within a day or so, I think.
+T 1336669755 18<DFJustin>	is that going to go in the wayback machine eventually
+T 1336669774 18<mistym>	Legal wrangling in issue threads--
+T 1336669799 18<ersi>	SketchCow: Awesome!
+T 1336669824 18<mistym>	SketchCow: Excellent!
+T 1336669883 18<SketchCow>	Yes, it's definitely going there.
+T 1336670055 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #archiveteam
+T 1336670076 18<SketchCow>	ha ha, I love those postings
+T 1336670084 18<Schbirid_>	files i downloaded for http://archiveteam.org/index.php?title=Fileplanet so far: http://www.quaddicted.com/stuff/temp/files.txt
+T 1336670095 18<SketchCow>	"BLAHHHHHHHHHHHHHHHHHHHHHHHHHHHHRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGG LEGAL VOMIT oh I am not a lawyer"
+T 1336670117 18<SketchCow>	KLANG KLANG KLANG KLANG KLANG KLANG KLANG KLANG KLANG KLANG I am not a contractor
+T 1336670123 18<mistym>	I really should probably not keep the conversation going, but...
+T 1336670130 18<SketchCow>	Don't.
+T 1336670133 18<SketchCow>	Stay out of it.
+T 1336670137 18<mistym>	OK. No more.
+T 1336670139 18<mistym>	Sorry.
+T 1336670150 18<mistym>	Pointed to the Github TOS, last comment.
+T 1336670194 18<SketchCow>	Yeah, don't start making an admin of the code start trying to correct/interpret jordan
+T 1336670209 18<SketchCow>	Everyone keeps poking, it will go down.
+T 1336670216 18<mistym>	Good point.
+T 1336670250 18<mistym>	Should I delete that comment pointing the user to the Github TOS, or just avoid talking about it afterwards?
+T 1336670287 18<SketchCow>	Just stop getting involved with them.
+T 1336670296 18<mistym>	Mhm.
+T 1336670302 18<SketchCow>	Jordan put this thing on github on my word
+T 1336670319 18<SketchCow>	If it has repurcussions beyond what I expected, which was "hey, take a look, fuck around a tad", then it goes down.
+T 1336670335 18<mistym>	I can respect that. Not trying to get you in trouble, sorry.
+T 1336670354 18<SketchCow>	I'll never get in trouble over this.
+T 1336670433 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #archiveteam
+T 1336670433 18<Schbirid_>	aww, looked at ovh's usb storage options. 2TB hdd would be just 12 for a month but 32 setup fee
+T 1336670443 18<Schbirid_>	could really use that space for fileplanet
+T 1336670459 18<Schbirid_>	i can only process one chunk atm. downloading, then uploading to archive.org, then the next one
+T 1336670479 19*	19LordNlptp (~jonathan@c-71-224-112-213.hsd1.pa.comcast.net) has joined #archiveteam
+T 1336670480 18<yipdw>	isn't a 2TB hard drive just pretty cheap to outright buy these days?
+T 1336670494 18<SketchCow>	Not one hooked to the internets at great speed and redundance.
+T 1336670497 18<Schbirid_>	yeah but i would not be able to get it into my server
+T 1336670498 18<SketchCow>	In theory.
+T 1336670524 18<yipdw>	sure, but it sounds like this particular 2TB is going to be used for cache to be shoved into archive.org at some point
+T 1336670532 19*	19DopefishJ (DopefishJu@S01060024a542344b.no.shawcable.net) has joined #archiveteam
+T 1336670699 23*	23Angantyr has quit (23Ping timeout: 483 seconds23)
+T 1336670861 23*	23DFJustin has quit (23hub.se efnet.portlane.se23)
+T 1336670923 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #archiveteam
+T 1336670926 18<SketchCow>	next question. Any suggestions on an efficient way to take a directory tree and split it into copies of 50gb apiece?
+T 1336670960 18<devesine>	tar | split?
+T 1336670992 18<SketchCow>	Will each individual tar be viewable that way? I don't think so.
+T 1336671025 23*	23godane has quit (23Read error: Operation timed out23)
+T 1336671038 18<Schbirid_>	maybe du --max-depth=X and then some math?
+T 1336671059 18<chronomex>	find | horrible shell script   leaps to mind
+T 1336671095 18<chronomex>	(also, hi! few days no see)
+T 1336671172 18<devesine>	ah, tar --multi-volume
+T 1336671178 18<devesine>	which requires some fiddling to do filenames
+T 1336671180 18<chronomex>	ooh
+T 1336671207 18<devesine>	one sec, i'll toss together a demo
+T 1336671230 18<mistym>	bsdtar y u no have multi-volume
+T 1336671282 18<yipdw>	mistym: it probably will soon -> https://github.com/libarchive/libarchive/pull/2
+T 1336671289 18<Schbirid_>	i am not sure tar multi volume is viewable seperately
+T 1336671303 18<mistym>	yipdw: Oh, nice.
+T 1336671323 18<SketchCow>	multi-volume followed by tape-size
+T 1336671347 18<SketchCow>	I'm going to do some experiments, after this current insanity is finished (making fortunecity into one directory structure)
+T 1336671355 18<SketchCow>	It's taking a while since the machine is doing too much.
+T 1336671431 18<devesine>	hm, yeah, multi-volume isn't viewable separately
+T 1336671491 18<yipdw>	http://www.gnu.org/software/tar/manual/tar.html#SEC161
+T 1336671499 18<yipdw>	that might work
+T 1336671530 18<yipdw>	they call it multivolume but then say "Each volume is itself a valid GNU tar archive, so it can be read without any special options"
+T 1336671537 18<yipdw>	so I guess that means viewable separately
+T 1336671556 18<SketchCow>	I'll take a 3gb item and split it into 3 1gb tars.
+T 1336671559 18<SketchCow>	We'll see what happens.
+T 1336671563 18<SketchCow>	Or 300mb, 100mb
+T 1336671564 18<SketchCow>	same idea
+T 1336671571 18<yipdw>	--tape-length is a really shitty option name, too
+T 1336671578 18<SketchCow>	Oh, the worst
+T 1336671579 18<devesine>	well, tar is "tape archive"
+T 1336671582 18<yipdw>	I know
+T 1336671582 18<yipdw>	but
+T 1336671589 18<yipdw>	I was expecting to find something like --maximum-size
+T 1336671603 18<yipdw>	I understand the need for backwards compatibility and all but
+T 1336671604 18<yipdw>	seriously
+T 1336671614 18<yipdw>	there has never been a 1 gigabyte tape
+T 1336671629 18<ersi>	SketchCow: I promise you have quite a few FC users who aren't WARC'd up, if I remember correctly~~
+T 1336671660 18<devesine>	i dunno, aren't a lot of DAT tapes like 50 or 100gb these days?
+T 1336671667 18<SketchCow>	It's like you're loading into a plane and the safety markings tell you it was manufactured under "the pleasure of the american colonies and his majesty king george"
+T 1336671681 18<yipdw>	devesine: I was thinking along the lines of paper tape, but yeah, I guess DAT is fair game
+T 1336671749 18<chronomex>	who would put tar files on paper tape
+T 1336671755 18<yipdw>	they'd be sticky
+T 1336671777 18<chronomex>	they'd be holey - tar aligns to 512b sector boundaries
+T 1336671781 18<ersi>	just needs feathers
+T 1336671786 18<devesine>	hm, well
+T 1336671789 18<SketchCow>	While I'm rsyncing up these fortunecities, I'm blasting: http://www.youtube.com/watch?v=TRRTRGehkuM
+T 1336671792 18<devesine>	it's sort of the case that you can use them separately
+T 1336671807 18<devesine>	but thins get wonky when you hit files that were stored across archive boundaries
+T 1336671849 18<ersi>	fuck it's a lot of ads on YT, should get adblock+ installed >_>
+T 1336671855 23*	23yotta has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671855 23*	23lee_ has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671855 23*	23shaqfu has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671855 23*	23dnova has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671855 23*	23Cowering has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671855 23*	23torpid has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671855 23*	23Wack0 has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671855 23*	23ivan` has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671855 23*	23tev|stdby has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671855 23*	23dnova__ has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671855 23*	23lmorchard has quit (23hub.efnet.us ircd.choopa.net23)
+T 1336671863 18<SketchCow>	I give major credit to the kinect star wars dance thing, for making Darth Vader REALLY HARD TO DANCE AGAINST
+T 1336671871 18<SketchCow>	And the Emperor even harder
+T 1336671901 18<SketchCow>	Because if you're going to take on Darth Vader in a dance contest, it better be like the devil went down to georgia
+T 1336671924 18<yipdw>	the songwriters on that game must have been laughing their asses off
+T 1336671952 18<SketchCow>	http://www.youtube.com/watch?v=lvAG2D7SvCo&feature=related this one
+T 1336671967 18<SketchCow>	When darth kicks in (0:23) he just takes you apart
+T 1336672017 18<SketchCow>	And fuck lyrics
+T 1336672027 18<Nemo_bis>	"Although in this section we will often call volume a tape [...] they can *EVEN* be located on files. "
+T 1336672038 18<Nemo_bis>	(emphasis added)
+T 1336672202 18<SketchCow>	In case anyone cares, there's a web archiving conference at Columbia today and tomorrow. WARC12
+T 1336672213 18<SketchCow>	https://twitter.com/#!/search/%23WARC12
+T 1336672214 18<yipdw>	"Kudo Tsunoda, creative director for Kinect, said of this decision: "It's one of those things where you can see how the unique parts of Kinect can bring to life the fantasy of being a Jedi in a way no other game console or media can do."
+T 1336672219 22*	DopefishJ is now known as DFJustin
+T 1336672229 18<yipdw>	Star Wars Kid might disagree
+T 1336672287 18<SketchCow>	Star Wars Kid is now a law student!!
+T 1336672288 19*	19godane (~tux@c-75-68-6-221.hsd1.nh.comcast.net) has joined #archiveteam
+T 1336672327 18<SketchCow>	http://static02.mediaite.com/geekosystem/uploads/2010/06/149420-ghyslain-raza-president-patrimoine-trois_original-550x366.jpg
+T 1336672349 18<yipdw>	force lawsuit
+T 1336672369 18<SketchCow>	http://www.youtube.com/watch?v=E_Ea28Z7PBU&feature=relmfu
+T 1336672380 18<SketchCow>	I can't stop being amazed at the water effects while they're dancing.
+T 1336672388 18<SketchCow>	I just can't imagine how things have innovated with that.
+T 1336672414 18<SketchCow>	The reflective, slightly mottled, reactive water.
+T 1336672446 18<devesine>	well, this would be slow, but here's a script to add files one at a time to a tar archive until it hits a specified size
+T 1336672653 23*	23balrog_ has quit (23Quit: balrog_23)
+T 1336672725 23*	23MMovie (23~mikelee@d53-64-57-146.nap.wideopenwest.com) has left #archiveteam
+T 1336672805 19*	19yotta (yotta@bnc.yotta.org) has joined #archiveteam
+T 1336672806 19*	19lee_ (~lee@li388-156.members.linode.com) has joined #archiveteam
+T 1336672806 19*	19shaqfu (~shaqfu@c-68-39-220-92.hsd1.de.comcast.net) has joined #archiveteam
+T 1336672806 19*	19dnova (~don@pigeon.don.cm) has joined #archiveteam
+T 1336672806 19*	19Cowering (right@ip68-1-115-120.pn.at.cox.net) has joined #archiveteam
+T 1336672806 19*	19torpid (~dan@metatron.darkhaven.net) has joined #archiveteam
+T 1336672806 19*	19Wack0 (~tickle@176.31.68.4) has joined #archiveteam
+T 1336672806 19*	19lmorchard (~lmorchard@97.71.119.2) has joined #archiveteam
+T 1336672806 19*	19ivan` (~ivan`@li125-242.members.linode.com) has joined #archiveteam
+T 1336672806 19*	19tev|stdby (travise@nvm2u.com) has joined #archiveteam
+T 1336672806 19*	19dnova__ (~dnova_@scic-firewall.sdm.buffalo.edu) has joined #archiveteam
+T 1336672806 22*	26ircd.choopa.net gives channel operator status to26 lmorchard
+T 1336672913 18<SketchCow>	Ha ha, this merge? Taking a little time.
+T 1336673142 18<SketchCow>	I opened three windows to 'speed it up'
+T 1336673176 18<devesine>	ut hey, the script works
+T 1336673209 18<devesine>	http://pastebin.com/JxAZcMRg
+T 1336673224 23*	23yipdw (23~yipdw@avatar.ninjawedding.org) has left #archiveteam
+T 1336673228 19*	19yipdw (~yipdw@avatar.ninjawedding.org) has joined #archiveteam
+T 1336673363 23*	23godane has quit (23Ping timeout: 504 seconds23)
+T 1336673436 18<devesine>	i honestly have no idea how fast it will be compared to straight tar
+T 1336674439 18<Coderjoe>	devesine: compressed tar file or uncompressed tar file?
+T 1336674469 18<Coderjoe>	because figuring out the size of the uncompressed tarball given a list of contents is fairly easy
+T 1336674474 18<SketchCow>	Doesn't matter to me how fast it is, since otherwise this would languish for months while I found time to supervise hand-clumping
+T 1336674531 18<dnova>	http://i.imgur.com/GRUiS.jpg   richard noooo 
+T 1336674545 19*	19AdamCaudi (~Adam@66.171.87.119) has joined #archiveteam
+T 1336674659 23*	23AC[away] has quit (23Read error: Operation timed out23)
+T 1336674878 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #archiveteam
+T 1336674917 18<dnova>	I haven't seen any details but the one article said that he felt sick after a power surge so he called an ambulance 
+T 1336674942 18<devesine>	Coderjoe: uncompressed, and it's checking file sizes as it adds, not checking the tar file itself
+T 1336674967 18<devesine>	SketchCow: well, then, the script will work well enough for you
+T 1336675044 18<SketchCow>	Yeah, I just want to push this stuff off
+T 1336675051 18<SketchCow>	Get FOS nice and cleaned up
+T 1336675066 18<SketchCow>	Because I think it's obvious 2012 is not likely to go by without us making a go at myspace
+T 1336675145 23*	23LordNlptp has quit (23Ping timeout: 504 seconds23)
+T 1336675205 18<SmileyG>	o_O
+T 1336675216 18<SmileyG>	gonna grab myspace ? :O
+T 1336675230 19*	19godane (~tux@c-75-68-6-221.hsd1.nh.comcast.net) has joined #archiveteam
+T 1336675262 18<SketchCow>	Yeah.
+T 1336675269 18<SketchCow>	Grabbing Myspace looks like this: http://www.youtube.com/watch?v=RNuUgbUzM8U&ob=av2n&t=2m0s
+T 1336675308 23*	23kha00hs has quit (23Quit: Leaving23)
+T 1336675447 18<SketchCow>	Very few of these fortunecity grabs are not collections of .warc files.
+T 1336675622 18<ersi>	Great
+T 1336675628 18<ersi>	I thought it'd be a lot more
+T 1336675641 18<Schbirid_>	next fileplanet chunk is done. http://archive.org/details/FileplanetFiles_60000-64999 (page did not update yet)
+T 1336675828 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #archiveteam
+T 1336675952 19*	19khaoohs (~khaoohs@74-139-90-227.dhcp.insightbb.com) has joined #archiveteam
+T 1336676259 18<dnova>	rms is reportedly "ok" 
+T 1336676263 18<dnova>	according to random people on twitter. 
+T 1336676276 18<dnova>	and this https://www.fsf.org/news/richard-stallman-speech-in-barcelona-canceled
+T 1336676435 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #archiveteam
+T 1336676491 18<Nemo_bis>	Schbirid_, do they include metadata/descriptions now?
+T 1336676518 19*	19primus104 (~primus102@pehta.net) has joined #archiveteam
+T 1336676535 18<Schbirid_>	only the download pages still. i am downloading all the fileinfo pages at once in a different thread since those are detached from how my script works
+T 1336676617 18<Nemo_bis>	wow, and tarview is working even with those 25 GB tars, actually giving you individual files
+T 1336676635 18<Schbirid_>	yeah, my plan is to provide a ftp like structure using that in the end
+T 1336676642 18<Schbirid_>	that's gonna rock so hard
+T 1336676966 19*	19ndurner_l (~Nils_Durn@e180009086.adsl.alicedsl.de) has joined #archiveteam
+T 1336676994 19*	19lclhst (~Tanooki@31-151-39-155.dynamic.upc.nl) has joined #archiveteam
+T 1336677099 18<shaqfu>	Schbirid_: With /fileinfo you could probably make a spiffy index
+T 1336677105 23*	23tidalwave (23tidalwave@170-201.82-139.bia.tkbb.net.pl) has left #archiveteam
+T 1336677120 18<Schbirid_>	the index is covered by the download pages and download locations already
+T 1336677167 18<Schbirid_>	http://www.quaddicted.com/stuff/temp/files.txt are the download locations, it is really awesome
+T 1336677244 18<shaqfu>	Ah, wow
+T 1336677250 18<SketchCow>	http://archive.org/download/FileplanetFiles_60000-64999/60000-64999.tar/
+T 1336677277 18<shaqfu>	Pity the download count isn't captured; for a lot of those ancient files, you're probably the first grab in a decade...
+T 1336677285 18<Schbirid_>	heh
+T 1336677305 18<Schbirid_>	i was actually hoping it would cover much older files
+T 1336677315 18<Schbirid_>	but many of those are not indexed with the numeric IDs
+T 1336677356 18<shaqfu>	I was surprised by that; I expected there to be more, since they're the more interesting files
+T 1336677378 18<Schbirid_>	yeah
+T 1336677393 18<Nemo_bis>	SketchCow, btw those links should always be in the interface
+T 1336677406 18<Nemo_bis>	IMHO
+T 1336677422 18<shaqfu>	Schbirid_: Were the hosteddl files grabbed by planet* efforts?
+T 1336677490 18<shaqfu>	And yeesh, they use the old-style download manager interface...
+T 1336677515 18<Schbirid_>	they MIGHT be already all saved in http://www.gamers.org/pub/idgames2/planetquake/
+T 1336677518 18<Schbirid_>	but i am not sure
+T 1336677528 18<SketchCow>	What.
+T 1336677532 18<SketchCow>	Oh, you mean the thing.
+T 1336677544 18<SketchCow>	There's some reason it's like it is.
+T 1336677548 18<SketchCow>	I'll bring it up at some point.
+T 1336677561 18<SketchCow>	The fact is, this was a minor feature that was previously unwanted/irrelevant
+T 1336677565 18<SketchCow>	And now we're making it vital.
+T 1336677575 18<Schbirid_>	planet* sites let their hosted people host their files right in their directories at first. later they required them to be hosted at fileplanet. the /planetquake/ dir MIGHT be exactly that older stuff
+T 1336677649 18<Nemo_bis>	SketchCow, does it load the servers much?
+T 1336677681 18<Nemo_bis>	I've always liked it a lot, and after all there's a bunch of scan images archives, not only our hairy tars.
+T 1336677877 18<SketchCow>	Whether it loads it is irrelevant.
+T 1336677896 18<SketchCow>	It's just that we're exploiting a feature, and that feature is turning out to need tuning to become even more useful.
+T 1336677923 18<SketchCow>	And I mean it's irrelevant in that IA will just throw more resources at anything.
+T 1336677934 18<Nemo_bis>	heh
+T 1336678275 18<shaqfu>	Schbirid_: That'd make a lot of sense
+T 1336678515 18<Nemo_bis>	speaking of resource management https://wikitech.wikimedia.org/images/1/1c/Thumbnail_request_path.jpg
+T 1336678703 18<DFJustin>	does the fileplanet stuff get the files from other sites like classicgaming.com, e.g. http://dl.fileplanet.com/dl/dl.asp?classicgaming/o2home/rtl.zip
+T 1336678919 23*	23ndurner_l has quit (23Leaving.23)
+T 1336678939 19*	19highscore (4fc611f8@p4FC611F8.dip0.t-ipconnect.de) has joined #archiveteam
+T 1336678944 18<highscore>	hi:)
+T 1336679008 18<shaqfu>	Hello
+T 1336679430 18<Coderjoe>	i really need to get around to writing that seekable gzip/bzip2 decompressor, along with possibly an indexed tar viewer
+T 1336679498 18<Coderjoe>	(the gzip/bzip2 seeking thin would require an indexing pass to record what uncompressed blocks start where, and for deflate(gzip) it needs to record the needed window state)
+T 1336679523 18<Schbirid_>	DFJustin: i tried earlier and did not find any download links on classicgaming.com
+T 1336679780 23*	23sankin has quit (23Quit: Leaving.23)
+T 1336680537 19*	19faalhaas (erik@cp9344529-c.dbsc4.nb.hoomee.nl) has joined #archiveteam
+T 1336681151 18<DFJustin>	most of the sites are gone or moved but the files are still there by the looks of it
+T 1336681158 18<DFJustin>	https://www.google.ca/search?q=http%3A%2F%2Fdl.fileplanet.com%2Fdl%2Fdl.asp%3Fclassicgaming
+T 1336681271 18<DFJustin>	you may want to try poking around wayback machine versions of the site
+T 1336681324 23*	23faalhaas (23erik@cp9344529-c.dbsc4.nb.hoomee.nl) has left #archiveteam
+T 1336681328 18<Schbirid_>	we'd need to find out what its domain was before classicgaming.gamespy.com
+T 1336681427 18<Schbirid_>	ah, .com actually
+T 1336681512 18<DFJustin>	used to go there a lot around 1999 :)
+T 1336681748 23*	23ndurner has quit (23Remote host closed the connection23)
+T 1336681913 18<Schbirid_>	hm, no idea
+T 1336682141 19*	19ndurner (~nils@e180009086.adsl.alicedsl.de) has joined #archiveteam
+T 1336699669 19*	19Now talking on #archiveteam
+T 1336699669 29*	29Topic for #archiveteam 29is: http://archiveteam.org | Imagine you threw a ham-eating machine into a Lake Michigan-sized pile of ham 
+T 1336699669 29*	29Topic for #archiveteam 29set by SketchCow!~jscott@www.textfiles.com 29at Sat Apr 21 11:39:15 2012
+T 1336700389 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #archiveteam
+T 1336700618 22*	CamerOff is now known as Cameron_D
+T 1336700879 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #archiveteam
+T 1336701320 19*	19mistym (~mistym@50.72.70.192) has joined #archiveteam
+T 1336701839 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #archiveteam
+T 1336702265 19*	19balrog__ (~balrog@mobile-166-147-108-033.mycingular.net) has joined #archiveteam
+T 1336702328 23*	23balrog_ has quit (23Read error: Operation timed out23)
+T 1336702330 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #archiveteam
+T 1336702489 23*	23Ymgve has quit (2323)
+T 1336702673 23*	23balrog__ has quit (23Remote host closed the connection23)
+T 1336702690 19*	19balrog_ (~balrog@155.247.181.182) has joined #archiveteam
+T 1336702750 18<dashcloud>	godane: you do know that magazine is still in circulation and publishing right?
+T 1336702756 23*	23BlueMax has quit (23Quit: Leaving23)
+T 1336704131 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #archiveteam
+T 1336704170 18<dashcloud>	SketchCow: congrats on JSMESS supporting it's second system
+T 1336704259 18<chronomex>	it's unlikely to hew 100% to the zero-one-many rule, but I expect it to be much easier from here
+T 1336704297 18<chronomex>	:]
+T 1336704357 18<SketchCow>	It was seven lines of changed code to support O2
+T 1336704363 18<SketchCow>	Similar for rest
+T 1336704366 18<chronomex>	bitchen.
+T 1336704378 18<SketchCow>	Right now they're doing a round of coding to handle a new version of Emscripten
+T 1336704382 18<chronomex>	that's really reassuring to hear.
+T 1336704392 18<SketchCow>	When that's done, I have a set of seven I want to have
+T 1336704404 18<SketchCow>	From there, it's a matter of looking into optimization
+T 1336704513 18<SketchCow>	Probably would be good to have more people at that time.
+T 1336704580 18<SketchCow>	Also, I just got trapped into a somewhat time consuming thing
+T 1336704586 18<SketchCow>	It'll be another 20-30 minutes to complete.
+T 1336704589 18<SketchCow>	But kind of awesome!
+T 1336704659 18<shaqfu>	"back in my day, we had to DOWNLOAD our emulators"
+T 1336704707 18<SketchCow>	https://raw.github.com/ziz/jsmess/no_cothreads/src/mess/mess.lst is a list of everything jsmess can potentially emulate.
+T 1336704781 18<godane>	dashcloud: I'm backing it up for the dark-magazine-rack
+T 1336704792 18<dashcloud>	ah- okay
+T 1336704802 18<godane>	it was hard to find these pdfs
+T 1336704921 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #archiveteam
+T 1336705608 23*	23balrog_ has quit (23Ping timeout: 506 seconds23)
+T 1336705648 18<SketchCow>	Done! http://archive.org/details/ryos-podcast
+T 1336706279 19*	19Hydria (hydriz@willow.toolserver.org) has joined #archiveteam
+T 1336706288 19*	19balrog_ph (~balrogpho@mobile-166-147-108-033.mycingular.net) has joined #archiveteam
+T 1336706296 22*	Hydria is now known as Hydriz
+T 1336707497 19*	19Betlewood (DrainTheLi@pool-108-24-45-61.cmdnnj.fios.verizon.net) has joined #archiveteam
+T 1336707991 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #archiveteam
+T 1336708653 19*	19Zod_ (~mIRC@CPE0026f326aca0-CM0026f326ac9d.cpe.net.cable.rogers.com) has joined #archiveteam
+T 1336708781 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #archiveteam
+T 1336709004 23*	23Betlewood has quit (23Ping timeout: 630 seconds23)
+T 1336709381 19*	19LordNlptp (~jonathan@c-71-224-112-213.hsd1.pa.comcast.net) has joined #archiveteam
+T 1336709660 19*	19balrog_ (~balrog@mobile-166-147-108-033.mycingular.net) has joined #archiveteam
+T 1336710006 23*	23dashcloud has quit (23Read error: Operation timed out23)
+T 1336710599 19*	19Betlewood (Betlewood@pool-108-24-45-61.cmdnnj.fios.verizon.net) has joined #archiveteam
+T 1336710872 23*	23mistym has quit (23Remote host closed the connection23)
+T 1336711395 18<bsmith093>	anyone have a copy of this lying around? ive generated a pdf from the webpages on dadgm.com but it doesnt feel the same Halcyon Days: Interviews with Classic Computer and Video Game Programmers
+T 1336711409 18<bsmith093>	sold on floppy in the 90s
+T 1336711445 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #archiveteam
+T 1336711659 19*	19faalhaas (erik@cp9344529-c.dbsc4.nb.hoomee.nl) has joined #archiveteam
+T 1336711753 22*	Zebranky_ is now known as Zebranky
+T 1336712115 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #archiveteam
+T 1336712329 23*	23faalhaas (23erik@cp9344529-c.dbsc4.nb.hoomee.nl) has left #archiveteam
+T 1336712476 18<SketchCow>	I have it
+T 1336712478 18<SketchCow>	Somewhere.
+T 1336712731 23*	23Betlewood has quit (23Ping timeout: 608 seconds23)
+T 1336712752 18<godane>	uploaded crankgeeks 035-037
+T 1336712819 18<godane>	we may need a pcmag_videos collection at some point
+T 1336712895 18<godane>	also with revison3 being bought by discoverly we may want to start backing up there videos
+T 1336712920 18<godane>	like all cancelled shows first
+T 1336712927 18<godane>	then work from there
+T 1336713015 18<bsmith093>	SketchCow: i just finished tweaking htmldoc to give me a *good* pdf, and whoo, I'm happy
+T 1336713153 18<bsmith093>	it would be wonderful if there was an ai, i could feed a url to, and go here, Hallie, this is a hyperlinked book in website form, make me a pdf. and it would just go, but html doc and html editing to relative- ize links works too, i suppose
+T 1336713198 18<bsmith093>	and on topic, this time, what about blip.tv, anybody doing that?
+T 1336713355 19*	19BlueMax (~BlueMaxim@ppp59-167-136-105.static.internode.on.net) has joined #archiveteam
+T 1336714234 23*	23balrog_ has quit (23Ping timeout: 506 seconds23)
+T 1336714839 18<SketchCow>	Nothing here.
+T 1336715169 18<godane>	episode 38-40 of crankgeeks are up
+T 1336715431 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #archiveteam
+T 1336715573 23*	23Zod_ has quit (23Remote host closed the connection23)
+T 1336716106 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #archiveteam
+T 1336716154 23*	23RedType has quit (23Remote host closed the connection23)
+T 1336716580 19*	19ndurner_l (~Nils_Durn@e180005017.adsl.alicedsl.de) has joined #archiveteam
+T 1336716767 19*	19RedType (~mag@50-0-107-69.dsl.dynamic.sonic.net) has joined #archiveteam
+T 1336716823 19*	19Wyatt (~wyatt@99-100-48-211.lightspeed.clmboh.sbcglobal.net) has joined #archiveteam
+T 1336717102 23*	23balrog_ph has quit (23Quit: Bye23)
+T 1336717318 19*	19balrog_ph (~balrogpho@mobile-166-147-108-033.mycingular.net) has joined #archiveteam
+T 1336718185 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #archiveteam
+T 1336718571 18<Coderjoe>	wait... wasn't wyatt just hired in the past 6 months?
+T 1336718589 23*	23ndurner_l has quit (23Leaving.23)
+T 1336718591 18<Wyatt>	No.  About ten months ago.
+T 1336718600 18<Coderjoe>	sucks
+T 1336718615 18<Wyatt>	(Wow, news gets around)
+T 1336718630 18<Coderjoe>	plus, they could have done it 2 weeks ago... then you could have made it to acen :D
+T 1336718667 18<Coderjoe>	SketchCow mentioned it at 1908h
+T 1336718676 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #archiveteam
+T 1336718703 18<Wyatt>	Ah, I see now.
+T 1336718721 18<Coderjoe>	i was scrolling back and was captivated by big angry caps
+T 1336718796 18<Wyatt>	Hah, well it's more "earlier than planned" than anything, at some level.
+T 1336718823 18<Wyatt>	I've had worse situations; this just means I'm putting off my new desktop a little longer.
+T 1336718867 18<Wyatt>	Hell, I've already started in on updating my resume.
+T 1336718891 18<Coderjoe>	well, good luck on the search
+T 1336718906 18<Wyatt>	Many thanks.
+T 1336718954 18<Wyatt>	Trying to remember who was using my VPS for screenshotting, though.
+T 1336718977 18<Wyatt>	Wanted to warn him that that machine is now on borrowed time.
+T 1336719004 18<Coderjoe>	he doesn't have a separate account?
+T 1336719043 18<Wyatt>	He has an account, but that VPS was set up as a perk of employment.
+T 1336719076 18<Wyatt>	No one really knows it exists, but now that I no longer have an SSH key on the host node, it may get deleted at any time.
+T 1336719097 18<Coderjoe>	my logs say winr4r
+T 1336719108 18<Wyatt>	So it could be around for days or it could be around a couple years.
+T 1336719122 18<Coderjoe>	i meant the separate account doesn't tell you who it was?
+T 1336719153 18<Wyatt>	The separate account isn't the IRC name.
+T 1336719156 18<Wyatt>	Yeah, that's the onw.
+T 1336719770 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #archiveteam
+T 1336719871 19*	19Ymgve (~ymgve@224.79.34.95.customer.cdi.no) has joined #archiveteam
+T 1336719950 18*	Coderjoe lifts the corner of the rug and noticed a few more stage6 videos that need to be uploaded
+T 1336720033 23*	23balrog_ph has quit (23Remote host closed the connection23)
+T 1336720046 18<Coderjoe>	(about 74)
+T 1336720208 18*	Coderjoe uploads them with a description of "description pending" with the intention of fixing them later in a redo-metadata pass after fixing the "control characters" problem
+T 1336720231 19*	19Betlewood (Betlewood@pool-108-24-45-61.cmdnnj.fios.verizon.net) has joined #archiveteam
+T 1336720239 23*	23willwill has quit (23Remote host closed the connection23)
+T 1336720260 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #archiveteam
+T 1336720348 19*	19primus104 (~primus102@pehta.net) has joined #archiveteam
+T 1336720860 19*	19ndurner_o (~ndu@84.38.64.238) has joined #archiveteam
+T 1336721270 19*	19pronoiac (~chatzilla@c-24-4-68-235.hsd1.ca.comcast.net) has joined #archiveteam
+T 1336721413 23*	23Betlewood has quit (2323)
+T 1336721498 18<yipdw>	time for the 11.10 -> 12.04 upgrade
+T 1336721505 18<yipdw>	SAY GOODBYE TO COMPUTER
+T 1336722124 18<LordNlptp>	*BOOM!*
+T 1336722278 18<Wyatt>	yipdw: Good luck with that.  I've never seen a system survive a dist-upgrade unscathed.
+T 1336722329 18<chronomex>	I've had it work three times!
+T 1336722359 18<Wyatt>	With nothing wrong at all?  On a system you had actually used for some amount of time?
+T 1336722376 18<LordNlptp>	i survived ubuntu 5 or 6 to 7 upgrade mostly intact iirc
+T 1336722393 18<LordNlptp>	except my pc speaker stopped working, no more console beeps
+T 1336722404 18<chronomex>	well, it still booted afterwards, does that count?
+T 1336722405 19*	19faalhaas (erik@cp9344529-c.dbsc4.nb.hoomee.nl) has joined #archiveteam
+T 1336722409 19*	19void_ (~void_@2-224-212-52.ip172.fastwebnet.it) has joined #archiveteam
+T 1336722413 18<Wyatt>	;)
+T 1336722428 18<LordNlptp>	apparently ubuntu devs disabled it in multiple places because broken motherboards/drivers set it up to be incredibly loud on laptops and was disturbing people in lectures and stuff
+T 1336722441 18<LordNlptp>	and of course nobody documented these places where the beep was disable
+T 1336722443 18<LordNlptp>	d
+T 1336722443 18<SmileyG>	ubuntu devs know best, right?
+T 1336722450 18<SmileyG>	LordNlptp: in kernel and errrrr
+T 1336722452 18<SmileyG>	thats about it :/
+T 1336722464 18<yipdw>	Wyatt: 10.04 -> 11.10 has so far been okay for me
+T 1336722480 18<yipdw>	I just like to expect the worst, because if things go okay I can be like "oh, that wasn't so bad after all"
+T 1336722487 18<LordNlptp>	i modprobed pc_speaker and while the "beep" console command can make the speaker beep, bash and most other glibc stuff fails to make it beep properly
+T 1336722499 18<LordNlptp>	so they must have patched glibc or something else
+T 1336722516 18<yipdw>	I also do not use the pc_speaker module
+T 1336722518 18<SmileyG>	ew?
+T 1336722525 18<yipdw>	so that must mean that this upgrade will be flawless
+T 1336722530 18<SmileyG>	and people wonder why I have issues with ubuntu?
+T 1336722560 18<LordNlptp>	nobody on #ubuntu could tell me where i could undo the crap they did
+T 1336722575 18<LordNlptp>	basically told me 'use your sound card and speakers'
+T 1336722598 18<LordNlptp>	well what if i don't have a sound card and don't want a stupid wavefile playing instead of my squarewave speaker beep?
+T 1336722619 18<SmileyG>	LordNlptp: that'll be becausse none of the devs actually talk to the users
+T 1336722627 18<SmileyG>	everyone in the support channels seems to be mostly kind of ... dumb :S
+T 1336722638 18<SmileyG>	Choose life. Choose gentoo.
+T 1336722645 18<LordNlptp>	so my system is still beep-free (except for "beep" command, and oddly the new mail sound from thunderbird does play a speaker beep, but thats it)
+T 1336722663 18<ersi>	sigh
+T 1336722680 18<chronomex>	http://www.flickr.com/photos/theyhavewings/3589938806/
+T 1336722683 18*	SmileyG waits for the next distro war
+T 1336722711 18<ersi>	Obviously
+T 1336722726 18<SmileyG>	whats that off?
+T 1336722746 18<SmileyG>	I +1 anything that has the word destory.
+T 1336722748 18<chronomex>	I think a Jones Soda bottle
+T 1336722752 18<yipdw>	psh, distros, I use LFS
+T 1336722757 18<yipdw>	prepackaged software is so mainstream
+T 1336722778 18<SmileyG>	I can't turn back, I started gentoo to learn
+T 1336722786 18<SmileyG>	and now everyhting else feels inferior? ;/
+T 1336722810 18<yipdw>	we should start Hipster Linux
+T 1336722818 18<SmileyG>	lol
+T 1336722829 18<SmileyG>	I use centos and ubuntu at work
+T 1336722837 18<SmileyG>	I'm not sure which makes me want to scream more
+T 1336722849 18<yipdw>	it's all about the CONSOLE, MAAAAN
+T 1336722871 18<SmileyG>	sry wut?
+T 1336723196 23*	23faalhaas (23erik@cp9344529-c.dbsc4.nb.hoomee.nl) has left #archiveteam
+T 1336723787 23*	23RedType has quit (23Quit: leaving23)
+T 1336723982 19*	19RedType (~mag@50-0-107-69.dsl.dynamic.sonic.net) has joined #archiveteam
+T 1336724049 19*	19nobody1 (~alberto@151.Red-213-4-33.staticIP.rima-tde.net) has joined #archiveteam
+T 1336724186 23*	23RedType has quit (23Remote host closed the connection23)
+T 1336724382 19*	19RedType (~mag@50-0-107-69.dsl.dynamic.sonic.net) has joined #archiveteam
+T 1336724650 23*	23primus104 has quit (23Leaving.23)
+T 1336724898 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #archiveteam
+T 1336725010 23*	23LordNlptp has quit (23Ping timeout: 504 seconds23)
+T 1336725042 23*	23pronoiac has quit (23Quit: ChatZilla 0.9.88.2 [Firefox 11.0/20120312181643]23)
+T 1336725089 19*	19willwill (~whs@ppp-124-122-167-77.revip2.asianet.co.th) has joined #archiveteam
+T 1336725688 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #archiveteam
+T 1336728039 23*	23RedType has quit (23Ping timeout: 260 seconds23)
+T 1336729001 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #archiveteam
+T 1336729491 23*	23tidalwave (23tidalwave@170-201.82-139.bia.tkbb.net.pl) has left #archiveteam
+T 1336729830 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #archiveteam
+T 1336730078 19*	19Schbirid_ (~Schbirid@d096239.adsl.hansenet.de) has joined #archiveteam
+T 1336730321 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #archiveteam
+T 1336731242 19*	19RedType (~mag@50-0-107-69.dsl.dynamic.sonic.net) has joined #archiveteam
+T 1336733126 18<Schbirid_>	updated https://github.com/SpiritQuaddicted/fileplanet-file-download/blob/master/download_pages_and_files_from_fileplanet.sh
+T 1336733162 23*	23Hydriz has quit (23Lost terminal23)
+T 1336734473 19*	19goldielox (ore83@78-25-36.ip.zebry.lt) has joined #archiveteam
+T 1336734626 23*	23void_ (23~void_@2-224-212-52.ip172.fastwebnet.it) has left #archiveteam (23Leaving...23)
+T 1336735124 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #archiveteam
+T 1336735380 23*	23goldielox (23ore83@78-25-36.ip.zebry.lt) has left #archiveteam
+T 1336736034 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #archiveteam
+T 1336736306 19*	19beardicus (~beardicus@cpe-74-67-182-153.rochester.res.rr.com) has joined #archiveteam
+T 1336736379 23*	23Angantyr has quit (23/_*_\23)
+T 1336736528 19*	19Angantyr (~odin@anon-173-198.vpn.ipredator.se) has joined #archiveteam
+T 1336737435 18<shaqfu>	Schbirid_: There are files not listed under sitemaps? Yikes :(
+T 1336737588 18<ersi>	Why would you actually have an honest sitemap?
+T 1336737593 18<ersi>	As a web master that is
+T 1336737641 18<shaqfu>	Sadly, "making life easier for AT" isn't high on any webmaster's lists
+T 1336737661 18<godane>	do we plan on backing up flickr?
+T 1336737668 18<shaqfu>	Eh, we'll have a complete id list soon enough; that'll take care of that
+T 1336737681 18<godane>	only ask cause its own by yahoo
+T 1336737693 18<Schbirid_>	ersi: google?
+T 1336737742 18<shaqfu>	godane: It's being watched/worked on
+T 1336737754 18<godane>	ok
+T 1336737814 18<godane>	just thinking that scripting should be down and we start archive the profiles that have not being update since like 2007
+T 1336737842 18<shaqfu>	Schbirid_: Do you need the range I grabbed, or would it be easier for you to get it?
+T 1336737863 18<Schbirid_>	shaqfu: it was some small low one right? i got all those myself
+T 1336737864 18<shaqfu>	I won't be able to start uploading it for ~12 hours, and it'll take about a day to get on archive.org
+T 1336737868 18<shaqfu>	Okay, awesome
+T 1336737877 18<shaqfu>	Yeah, something like 10-5k
+T 1336737880 18<Schbirid_>	see http://archiveteam.org/index.php?title=Fileplanet
+T 1336737882 18<Schbirid_>	yeah, got that
+T 1336737899 18<godane>	alos i found the first 4 episodes of floss weekly that was on twit
+T 1336737911 18<shaqfu>	Wonder what that huge gap is
+T 1336737936 18<godane>	i just google FLOSS-001.mp3 and found someone that the first 4 episodes
+T 1336737962 18<Schbirid_>	i am grabbing some higher ranges now so we get a better view
+T 1336738037 19*	19primus104 (~primus102@pehta.net) has joined #archiveteam
+T 1336738075 18<shaqfu>	Alright, off to work
+T 1336738170 23*	23bayleef` has quit (23Read error: Operation timed out23)
+T 1336738438 23*	23primus104 has quit (23Leaving.23)
+T 1336738694 18<ersi>	Schbirid_: Uh? Is that a answer to my "Why?"
+T 1336738746 18<ersi>	Why would you want a complete sitemap, for Google? You basically only want to show your landing crap pages and such for Google
+T 1336739643 19*	19mistym (~mistym@50.72.70.192) has joined #archiveteam
+T 1336740073 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #archiveteam
+T 1336740126 19*	19kronoch (~nope@frontend.gtri.gatech.edu) has joined #archiveteam
+T 1336740285 23*	23mistym has quit (23Remote host closed the connection23)
+T 1336742163 19*	19Now talking on #archiveteam
+T 1336742164 29*	29Topic for #archiveteam 29is: http://archiveteam.org | Imagine you threw a ham-eating machine into a Lake Michigan-sized pile of ham 
+T 1336742164 29*	29Topic for #archiveteam 29set by SketchCow!~jscott@www.textfiles.com 29at Sat Apr 21 11:39:15 2012
+T 1336742748 23*	23mistym has quit (23Remote host closed the connection23)
+T 1336742864 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #archiveteam
+T 1336743288 18<Schbirid_>	ersi: i know i want google to index my whole site well. why would a site like fileplanet not want that? they live from filename searches i guess
+T 1336743487 19*	19nobody2 (~alberto@151.Red-213-4-33.staticIP.rima-tde.net) has joined #archiveteam
+T 1336743719 23*	23nobody1 has quit (23Ping timeout: 499 seconds23)
+T 1336743774 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #archiveteam
+T 1336744115 23*	23tev has quit (23Connection closed23)
+T 1336744127 19*	19tev (~travis@ip68-102-89-243.ks.ok.cox.net) has joined #archiveteam
+T 1336745364 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #archiveteam
+T 1336745456 19*	19nobody1 (~alberto@151.Red-213-4-33.staticIP.rima-tde.net) has joined #archiveteam
+T 1336745468 23*	23nobody2 has quit (23Quit: Leaving.23)
+T 1336745556 23*	23nobody1 has quit (23Client Quit23)
+T 1336745572 19*	19nobody1 (~alberto@151.Red-213-4-33.staticIP.rima-tde.net) has joined #archiveteam
+T 1336745751 19*	19mistym (~mistym@50.museumforhumanrights.com) has joined #archiveteam
+T 1336746035 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #archiveteam
+T 1336746382 18<godane>	creativecommons.org is having problems
+T 1336746594 23*	23ndurner_o has quit (23Quit: Leaving.23)
+T 1336746749 23*	23filer has quit (23Read error: Operation timed out23)
+T 1336747043 22*	Cameron_D is now known as CamerOff
+T 1336747139 19*	19filer (~filer@serenity.ninjr.org) has joined #archiveteam
+T 1336747353 23*	23nobody1 has quit (23Quit: Leaving.23)
+T 1336747369 19*	19nobody1 (~alberto@151.Red-213-4-33.staticIP.rima-tde.net) has joined #archiveteam
+T 1336747718 23*	23nobody1 has quit (23Quit: Leaving.23)
+T 1336747733 19*	19nobody1 (~alberto@151.Red-213-4-33.staticIP.rima-tde.net) has joined #archiveteam
+T 1336748282 18<SketchCow>	So, I'm a liar about it only taking a day for me to integrate fortunecity into one directory, in about 24 hours.
+T 1336748291 18<SketchCow>	It's 1.2tb of tiny files and it's taking quite some time.
+T 1336748299 18<SketchCow>	But that said, I'm doing ZERO work to make it happen. Zero.
+T 1336748309 18<Nemo_bis>	:D
+T 1336748592 18<nitro2k01>	Poor disk
+T 1336748600 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #archiveteam
+T 1336748882 18<SketchCow>	It definitely pushes the edges of the functionality of the disk.
+T 1336748980 18<godane>	uploading episode 58 of crankygeeks
+T 1336749003 18<godane>	i'm 1/5 there :-D
+T 1336749026 18<godane>	there is about 237 episodes
+T 1336749234 18<SketchCow>	OK, on the second disk I'm now using this method for splinder.
+T 1336749329 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #archiveteam
+T 1336749337 19*	19BlueMaxim (~BlueMaxim@ppp59-167-136-105.static.internode.on.net) has joined #archiveteam
+T 1336749684 23*	23BlueMax has quit (23Read error: Operation timed out23)
+T 1336749898 19*	19balrog_ph (~balrogpho@mobile-166-147-108-033.mycingular.net) has joined #archiveteam
+T 1336750054 19*	19ndurner_l (~Nils_Durn@e180005017.adsl.alicedsl.de) has joined #archiveteam
+T 1336750092 19*	19LordNlptp (~jonathan@c-71-224-112-213.hsd1.pa.comcast.net) has joined #archiveteam
+T 1336750122 19*	19ndurner (~nils@e180005017.adsl.alicedsl.de) has joined #archiveteam
+T 1336750475 23*	23ndurner_l has quit (23Quit: Leaving.23)
+T 1336750491 23*	23ndurner has quit (23Quit: Leaving.23)
+T 1336751116 23*	23kronoch has quit (23Quit: leaving23)
+T 1336751670 18<Nemo_bis>	yay splinder
+T 1336751717 23*	23balrog_ph has quit (23Quit: Bye23)
+T 1336752193 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #archiveteam
+T 1336752671 23*	23BlueMaxim has quit (23Quit: Leaving23)
+T 1336753223 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #archiveteam
+T 1336753321 19*	19Avishek (Avishek@117.201.110.25) has joined #archiveteam
+T 1336753464 23*	23filer has quit (23Read error: Operation timed out23)
+T 1336753502 18<Schbirid_>	is my math off or should uploading 10GB with 60kilobytes/s not take 50 hours?
+T 1336753517 23*	23LordNlptp has quit (23Read error: Operation timed out23)
+T 1336753612 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #archiveteam
+T 1336753616 18<SketchCow>	You're assuming it's consistent.
+T 1336753625 18<SketchCow>	Are you doing s3 or are you going to FOS?
+T 1336753632 19*	19filer (~filer@serenity.ninjr.org) has joined #archiveteam
+T 1336754641 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #archiveteam
+T 1336754751 19*	19patrickg (~patrick@georgi-clan.de) has joined #archiveteam
+T 1336754766 23*	23filer has quit (23Read error: Operation timed out23)
+T 1336754934 19*	19filer (~filer@serenity.ninjr.org) has joined #archiveteam
+T 1336755312 19*	19LordNlptp (~jonathan@c-71-224-112-213.hsd1.pa.comcast.net) has joined #archiveteam
+T 1336756287 19*	19balrog_ (~balrog@wirelessNAT190.wireless.temple.edu) has joined #archiveteam
+T 1336757147 18<SketchCow>	Hahahahahahahahahahahahahahahaha
+T 1336757154 18<SketchCow>	Facebook is adding filesharing
+T 1336757157 18<SketchCow>	Oh god, the humanity
+T 1336757185 18<SketchCow>	The pirate bay just looked up from their trench going "hey, why'd the shelling stop"
+T 1336757198 18<SketchCow>	A company with 75 billion dollar market cap is about to go into filesharing
+T 1336757488 18<bbot_>	lol
+T 1336757788 18<balrog_>	LOL
+T 1336757796 18<balrog_>	SketchCow: you know that facebook blocks TBP links, right?
+T 1336757803 18<balrog_>	(and other prominent torrent sites)
+T 1336757909 18<SketchCow>	Of course
+T 1336757932 18<DFJustin>	hopefully that'll fix this kind of thing https://xkcd.com/949/
+T 1336757948 23*	23Avishek has quit (23Ping timeout: 630 seconds23)
+T 1336758045 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #archiveteam
+T 1336758231 18<closure>	hahahahaaa
+T 1336758356 18<godane>	problem
+T 1336758359 18<godane>	Item submission error!  reason: The identifier chosen is already taken.  You will need to try an alternate identifier
+T 1336758368 18<SketchCow>	Tjat
+T 1336758370 18<godane>	crankygeeks_064_episode
+T 1336758374 18<SketchCow>	That's not a problem, that's an easy thing
+T 1336758382 18<godane>	ok
+T 1336758427 18<SketchCow>	http://archive.org/details/crankygeeks_064_episode
+T 1336758510 18<balrog_>	DFJustin: there's a 25mb limit with this new facebook feature
+T 1336758551 18<SketchCow>	There we go, just triggered off a 2-3 day splinder merge
+T 1336758835 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #archiveteam
+T 1336758968 18<Nemo_bis>	ou
+T 1336759005 18<Nemo_bis>	and we were wrong, the disk could indeed do *more*
+T 1336759011 18<Nemo_bis>	orat least be busier
+T 1336759116 19*	19faalhaas (erik@cp9344529-c.dbsc4.nb.hoomee.nl) has joined #archiveteam
+T 1336759590 18<Nemo_bis>	SketchCow, do you also manage to discover which downloading users didn't upload their stuff?
+T 1336759688 18<SketchCow>	Under the new system they have to upload before it's accepted.
+T 1336759696 18<SketchCow>	I don't know the case here.
+T 1336759705 18<SketchCow>	I expect some people to go "oh ffffffffff" and come forward
+T 1336759758 18<SmileyG>	whait, what have I missed?
+T 1336759763 18<SmileyG>	facebook filesharing.... wut?
+T 1336759907 23*	23faalhaas (23erik@cp9344529-c.dbsc4.nb.hoomee.nl) has left #archiveteam
+T 1336761597 19*	19EstaTiC (estetic@102-148-91.adsl.beatel.net) has joined #archiveteam
+T 1336762148 23*	23EstaTiC (23estetic@102-148-91.adsl.beatel.net) has left #archiveteam
+T 1336763452 18<Coderjoe>	DFJustin: my problem with that comic is that most of the people who were early adopters of the internet itself generally know how to transfer files.
+T 1336763631 18<Coderjoe>	the problems come when others want to send files.
+T 1336763790 18<Coderjoe>	hmm
+T 1336763870 18<Coderjoe>	<td><b>Description</b></td><td>\xe3\x83\x8b\xe3\x82\xb3\xe3\x83\x8b\xe3\x82\xb3\xe5\x8b\x95\xe7\x94\xbb\x03</td></tr>
+T 1336763897 18<Coderjoe>	(i translated &lt; and &gt;, but left the rest alone)
+T 1336763919 18<Coderjoe>	is that \x03 valid?
+T 1336763936 18<Coderjoe>	afaik, that should be utf8
+T 1336764037 18<DFJustin>	comes out as ニコニコ動画 in utf-8
+T 1336764051 18<Deewiant>	It seems to be extraneous: that's ニコニコ動画 plus the ^C
+T 1336764248 19*	19primus104 (~primus102@pehta.net) has joined #archiveteam
+T 1336764271 18<Coderjoe>	hmm
+T 1336764314 18<DFJustin>	only bytes with the high bit set have special meaning in utf-8
+T 1336764324 18<Coderjoe>	the four problem descriptions i've looked at so far have a ^C at the end
+T 1336764346 18<Coderjoe>	that's what i thought. i wanted to confirm that, though
+T 1336765157 18<Coderjoe>	i guess I'll just strip the ^C
+T 1336765178 18<Coderjoe>	(IA's s3 endpoint is erroring on it)
+T 1336765188 19*	19balrog_ph (~balrogpho@wirelessNAT190.wireless.temple.edu) has joined #archiveteam
+T 1336765193 23*	23balrog_ has quit (23Quit: bye23)
+T 1336765253 18<Coderjoe>	but first, a pass to verify I have successfully uploaded everything
+T 1336765809 19*	19ManOfIce (mirc@d150-220-8.cust.tele12.it) has joined #archiveteam
+T 1336765874 19*	19Zod_ (~mIRC@173.239.141.26) has joined #archiveteam
+T 1336766259 23*	23ManOfIce (23mirc@d150-220-8.cust.tele12.it) has left #archiveteam
+T 1336766322 23*	23Zod_ has quit (23Read error: Connection reset by peer23)
+T 1336766327 19*	19Zod__ (~mIRC@173.239.141.26) has joined #archiveteam
+T 1336767140 23*	23balrog_ph has quit (23Quit: Bye23)
+T 1336767156 23*	23Zod__ has quit (23Read error: Connection reset by peer23)
+T 1336767430 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #archiveteam
+T 1336767679 19*	19balrog_ph (~balrogpho@wirelessNAT190.wireless.temple.edu) has joined #archiveteam
+T 1336767860 23*	23tidalwave (23tidalwave@170-201.82-139.bia.tkbb.net.pl) has left #archiveteam
+T 1336768236 23*	23LordNlptp has quit (23Read error: Operation timed out23)
+T 1336768249 19*	19balrog_-1 (~balrogpho@mobile-166-147-108-030.mycingular.net) has joined #archiveteam
+T 1336768309 23*	23balrog_-1 has quit (23Client Quit23)
+T 1336768417 19*	19balrog_-1 (~balrogpho@mobile-166-147-108-030.mycingular.net) has joined #archiveteam
+T 1336768487 23*	23balrog_ph has quit (23Read error: Connection reset by peer23)
+T 1336768852 23*	23willwill has quit (23Quit: Computer has gone to sleep.23)
+T 1336771013 19*	19tidalwave (tidalwave@170-201.82-139.bia.tkbb.net.pl) has joined #archiveteam
+T 1336771734 23*	23balrog_-1 has quit (23Quit: Bye23)
+T 1336772023 23*	23tidalwave (23tidalwave@170-201.82-139.bia.tkbb.net.pl) has left #archiveteam
+T 1336772101 19*	19balrog_ph (~balrogpho@wirelessNAT190.wireless.temple.edu) has joined #archiveteam
+T 1336772721 19*	19carl_ (roqqa@217-20-120-56.internetssurviceteam.com) has joined #archiveteam
+T 1336773152 23*	23carl_ (23roqqa@217-20-120-56.internetssurviceteam.com) has left #archiveteam
+T 1336773958 23*	23mistym has quit (23Remote host closed the connection23)
+T 1336774136 19*	19LordNlptp (~jonathan@c-71-224-112-213.hsd1.pa.comcast.net) has joined #archiveteam
+T 1336774379 19*	19primus105 (~primus102@pehta.net) has joined #archiveteam
+T 1336774572 23*	23balrog_ph has quit (23Quit: Bye23)
+T 1336774823 23*	23primus104 has quit (23Read error: Operation timed out23)
+T 1336775557 18<Coderjoe>	hmm
+T 1336775565 18<Coderjoe>	one more that apparently didn't get uploaded
+T 1336775638 18<yipdw>	heh
+T 1336775639 18<yipdw>	http://investors.geek.net/releasedetail.cfm?ReleaseID=672629
+T 1336776832 19*	19Zod_ (~mIRC@cmr-208-124-184-194.cr.net.cable.rogers.com) has joined #archiveteam
+T 1336776949 18<Coderjoe>	and now doing a last pass for metadata
+T 1336777810 19*	19mistym (~mistym@50.72.70.192) has joined #archiveteam
+T 1336777866 19*	19dashcloud (~quassel@pool-173-75-233-245.phlapa.fios.verizon.net) has joined #archiveteam
+T 1336778059 19*	19subsub (indigo@cmb2-250.dial-up.arnez.si) has joined #archiveteam
+T 1336778601 23*	23Ymgve has quit (2323)
+T 1336778810 23*	23subsub (23indigo@cmb2-250.dial-up.arnez.si) has left #archiveteam
+T 1336779204 22*	CamerOff is now known as Cameron_D

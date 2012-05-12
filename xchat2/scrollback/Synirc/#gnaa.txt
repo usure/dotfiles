@@ -1,0 +1,18 @@
+T 1329004037 19*	19Now talking on #GNAA
+T 1329004037 19*	19ChanServ (services@services.synirc.net) has joined #GNAA
+T 1329004037 22*	ChanServ sets mode +s #GNAA
+T 1329004037 22*	ChanServ sets mode +n #GNAA
+T 1329004037 22*	ChanServ sets mode +t #GNAA
+T 1329004037 22*	ChanServ sets mode +i #GNAA
+T 1329004037 22*	ChanServ sets ban on *!*TheShadow@synIRC-83C350C.dyn.optonline.net
+T 1329004037 23*	You have been kicked from #GNAA by ChanServ (abuse23)
+T 1330532347 19*	19Now talking on #GNAA
+T 1330532348 19*	19ChanServ (services@services.synirc.net) has joined #GNAA
+T 1330532348 22*	ChanServ sets mode +s #GNAA
+T 1330532348 22*	ChanServ sets mode +n #GNAA
+T 1330532348 22*	ChanServ sets mode +t #GNAA
+T 1330532348 22*	ChanServ sets mode +i #GNAA
+T 1330532348 22*	ChanServ sets ban on *!*TheShadow@synIRC-83C350C.dyn.optonline.net
+T 1330532348 23*	You have been kicked from #GNAA by ChanServ (abuse23)
+T 1330532362 22*	Cannot join26 #GNAA (Channel is invite only).
+T 1332948271 19*	19Now talking on #GNAA

@@ -1,0 +1,3 @@
+T 1329788790 19*	19Now talking on #synirc
+T 1329788790 29*	29Topic for #synirc 29is: Welcome to synIRC! - English Only & No Trolling! - For network-related help, please join #Help
+T 1329788790 29*	29Topic for #synirc 29set by Jake 29at Wed Nov 30 06:53:02 2011

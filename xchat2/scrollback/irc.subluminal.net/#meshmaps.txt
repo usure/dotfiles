@@ -1,0 +1,435 @@
+T 1329017669 23*	23finn has quit (23Quit: bye23)
+T 1329019586 19*	19finn (finn@4370C597:5B7760D5:A27DEB82:IP) has joined #meshmaps
+T 1329020127 23*	23finn has quit (23Quit: bye23)
+T 1329021118 19*	19finn (finn@4370C597:5B7760D5:A27DEB82:IP) has joined #meshmaps
+T 1329021658 23*	23finn has quit (23Quit: bye23)
+T 1329022258 19*	19finn (finn@4370C597:5B7760D5:A27DEB82:IP) has joined #meshmaps
+T 1329022799 23*	23finn has quit (23Quit: bye23)
+T 1329085395 19*	19Now talking on #meshmaps
+T 1329117566 19*	19Now talking on #meshmaps
+T 1329127863 19*	19derp (Mibbit@hide-644AC12C.abhsia.telus.net) has joined #meshmaps
+T 1329127863 22*	ChanServ sets mode +q #meshmaps derp
+T 1329127863 22*	26ChanServ gives channel operator status to26 derp
+T 1329129859 19*	19Omelette (Egghead@hide-7440D9D4.d.resnet.cwu.edu) has joined #meshmaps
+T 1329133046 23*	23Omelette has quit (23Connection reset by peer23)
+T 1329133060 19*	19Omelette (Egghead@hide-7440D9D4.d.resnet.cwu.edu) has joined #meshmaps
+T 1329135544 23*	23Omelette has quit (23Input/output error23)
+T 1329137723 23*	23derp has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1329240391 19*	19Now talking on #meshmaps
+T 1329266177 22*	Omelette_ is now known as Omelette
+T 1329266275 23*	23Omelette has quit (23Quit: 23)
+T 1329266280 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329272230 23*	23Omelette has quit (23Quit: 23)
+T 1329272235 19*	19Omelette (Egghead@hide-3EE6157.cinfuserver.com) has joined #meshmaps
+T 1329273178 23*	23prurigro has quit (23Ping timeout23)
+T 1329273965 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329298513 23*	23Omelette has quit (23Ping timeout23)
+T 1329298516 19*	19Omelette (Egghead@hide-3EE6157.cinfuserver.com) has joined #meshmaps
+T 1329301966 23*	23Omelette has quit (23Ping timeout23)
+T 1329301989 19*	19Omelette (Egghead@hide-3EE6157.cinfuserver.com) has joined #meshmaps
+T 1329304998 23*	23Kyashii has quit (23Ping timeout23)
+T 1329305050 19*	19Kyashii (kasu@hide-1F37596D.lns11.lon.bigpond.net.au) has joined #meshmaps
+T 1329307296 23*	23prurigro has quit (23Ping timeout23)
+T 1329307372 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329307557 23*	23prurigro has quit (23Ping timeout23)
+T 1329307673 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329307727 23*	23Kyashii has quit (23Connection reset by peer23)
+T 1329307736 19*	19Kyashii (kasu@hide-858214A.vic.bigpond.net.au) has joined #meshmaps
+T 1329309242 23*	23Kyashii has quit (23Ping timeout23)
+T 1329309279 19*	19Kyashii (kasu@hide-75F4DA46.lns7.win.bigpond.net.au) has joined #meshmaps
+T 1329310076 19*	19Kasu (kasu@hide-75F4DA46.lns7.win.bigpond.net.au) has joined #meshmaps
+T 1329310128 23*	23Kyashii has quit (23Ping timeout23)
+T 1329318430 23*	23Omelette has quit (23Input/output error23)
+T 1329318991 19*	19Omelette (Egghead@hide-3EE6157.cinfuserver.com) has joined #meshmaps
+T 1329331334 23*	23Omelette has quit (23Ping timeout23)
+T 1329331336 19*	19Omelette (Egghead@hide-3EE6157.cinfuserver.com) has joined #meshmaps
+T 1329351404 23*	23Omelette has quit (23Input/output error23)
+T 1329351831 19*	19Omelette (Egghead@hide-3EE6157.cinfuserver.com) has joined #meshmaps
+T 1329351965 23*	23Omelette has quit (23Input/output error23)
+T 1329351972 19*	19Omelette (Egghead@hide-3EE6157.cinfuserver.com) has joined #meshmaps
+T 1329352725 23*	23Omelette has quit (23Input/output error23)
+T 1329352784 19*	19Omelette (Egghead@hide-3EE6157.cinfuserver.com) has joined #meshmaps
+T 1329361855 23*	23Omelette has quit (23Input/output error23)
+T 1329361916 19*	19Omelette (Egghead@hide-3EE6157.cinfuserver.com) has joined #meshmaps
+T 1329362460 23*	23prurigro has quit (23Ping timeout23)
+T 1329362624 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329374155 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329374291 23*	23Omelette has quit (23Ping timeout23)
+T 1329379398 23*	23prurigro (23prurigro@fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14) has left #meshmaps
+T 1329379398 19*	19prurigro (prurigro@fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14) has joined #meshmaps
+T 1329388059 23*	23prurigro has quit (23Ping timeout23)
+T 1329389033 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329389234 19*	19Kyashii (kasu@hide-D760C232.lnse5.win.bigpond.net.au) has joined #meshmaps
+T 1329389247 23*	23Kasu has quit (23Ping timeout23)
+T 1329390577 23*	23prurigro has quit (23Ping timeout23)
+T 1329390708 19*	19Dan (Mibbit@hide-14B116AF.hsd1.wa.comcast.net) has joined #meshmaps
+T 1329391135 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329391786 23*	23prurigro has quit (23Ping timeout23)
+T 1329391885 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329392127 19*	19Kasu (kasu@hide-1E81A6F9.lnse1.win.bigpond.net.au) has joined #meshmaps
+T 1329392185 23*	23Kyashii has quit (23Ping timeout23)
+T 1329392756 22*	Kasu is now known as Kyashii
+T 1329393770 23*	23Kyashii has quit (23Ping timeout23)
+T 1329393798 19*	19Kyashii (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329396412 23*	23Dan has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1329405064 23*	23Omelette_ has quit (23Ping timeout23)
+T 1329409327 23*	23Kyashii has quit (23Connection reset by peer23)
+T 1329409331 19*	19Kyashii (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329427559 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329448403 23*	23Omelette has quit (23Ping timeout23)
+T 1329460314 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329468662 23*	23glitchy has quit (23Ping timeout23)
+T 1329468779 19*	19glitchy (glitch@hide-6FD78BD8.nmu.edu) has joined #meshmaps
+T 1329474486 23*	23TrueShiftBlue has quit (23Ping timeout23)
+T 1329474907 19*	19TrueShiftBlue (tsb@B402DFF:AA51CDE2:2C04989C:IP) has joined #meshmaps
+T 1329475108 23*	23TrueShiftBlue has quit (23Ping timeout23)
+T 1329476003 19*	19TrueShiftBlue (tsb@B402DFF:AA51CDE2:2C04989C:IP) has joined #meshmaps
+T 1329521575 23*	23Omelette has quit (23Connection reset by peer23)
+T 1329524204 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329537986 19*	19Now talking on #meshmaps
+T 1329539240 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329539373 23*	23Omelette has quit (23Ping timeout23)
+T 1329530047 23*	23prurigro has quit (23Ping timeout23)
+T 1329530322 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329530511 23*	23prurigro has quit (23Ping timeout23)
+T 1329536245 23*	23Kyashii has quit (23Ping timeout23)
+T 1329536629 19*	19Kyashii (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329566688 19*	19guardband (kvirc@hide-99669BE7.cfl.res.rr.com) has joined #meshmaps
+T 1329566719 23*	23guardband (23kvirc@hide-99669BE7.cfl.res.rr.com) has left #meshmaps (23Once you know what it is you want to be true, instinct is a very useful device for enabling you to know that it is23)
+T 1329566748 19*	19newbie (kvirc@hide-99669BE7.cfl.res.rr.com) has joined #meshmaps
+T 1329566873 23*	23newbie (23kvirc@hide-99669BE7.cfl.res.rr.com) has left #meshmaps (23Once you know what it is you want to be true, instinct is a very useful device for enabling you to know that it is23)
+T 1329566923 19*	19guardband (kvirc@228.103.188.72.cfl.res.rr.com) has joined #meshmaps
+T 1329567174 23*	23guardband has quit (23Quit: KVIrc 4.0.4 Insomnia http://www.kvirc.net/23)
+T 1329586800 19*	19Now talking on #meshmaps
+T 1329589392 19*	19Kasu (kasu@35FD9DBD.9CD80DF6.2154A5EF.IP) has joined #meshmaps
+T 1329589520 23*	23Kyashii has quit (23Ping timeout23)
+T 1329606220 22*	Kasu is now known as Kyashii
+T 1329620033 19*	19derp (Mibbit@hide-644AC12C.abhsia.telus.net) has joined #meshmaps
+T 1329620033 22*	ChanServ sets mode +q #meshmaps derp
+T 1329620033 22*	26ChanServ gives channel operator status to26 derp
+T 1329620809 23*	23derp has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1329675079 19*	19Kasu (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329675183 23*	23Kyashii has quit (23Ping timeout23)
+T 1329676381 23*	23TrueShiftBlue has quit (23Ping timeout23)
+T 1329676531 19*	19TrueShiftBlue (tsb@B402DFF:AA51CDE2:2C04989C:IP) has joined #meshmaps
+T 1329759126 23*	23Omelette_ has quit (23Connection reset by peer23)
+T 1329759127 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329760634 23*	23Omelette has quit (23Ping timeout23)
+T 1329760786 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329761982 23*	23Omelette has quit (23Ping timeout23)
+T 1329762197 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329766225 19*	19Now talking on #meshmaps
+T 1329774202 23*	23TrueShiftBlue has quit (23Ping timeout23)
+T 1329774722 19*	19TrueShiftBlue (tsb@B402DFF:AA51CDE2:2C04989C:IP) has joined #meshmaps
+T 1329811815 23*	23TrueShiftBlue has quit (23Ping timeout23)
+T 1329812303 19*	19TrueShiftBlue (tsb@B402DFF:AA51CDE2:2C04989C:IP) has joined #meshmaps
+T 1329814036 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329814172 23*	23Omelette has quit (23Ping timeout23)
+T 1329820517 23*	23Omelette_ has quit (23mindjail.subluminal.net abacus.subluminal.net23)
+T 1329820517 23*	23glitchy has quit (23mindjail.subluminal.net abacus.subluminal.net23)
+T 1329820753 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329820753 19*	19glitchy (glitch@hide-6FD78BD8.nmu.edu) has joined #meshmaps
+T 1329837273 23*	23TrueShiftBlue has quit (23Ping timeout23)
+T 1329837316 19*	19TrueShiftBlue (tsb@B402DFF:AA51CDE2:2C04989C:IP) has joined #meshmaps
+T 1329840091 23*	23TrueShiftBlue has quit (23Ping timeout23)
+T 1329840477 19*	19TrueShiftBlue (tsb@B402DFF:AA51CDE2:2C04989C:IP) has joined #meshmaps
+T 1329853226 22*	Omelette_ is now known as Omelette
+T 1329861588 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329869144 23*	23Omelette has quit (23Connection reset by peer23)
+T 1329869146 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329869182 23*	23Omelette has quit (23Connection reset by peer23)
+T 1329869245 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1329872838 23*	23Kasu has quit (23Ping timeout23)
+T 1329873037 19*	19Kyashii (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329873241 23*	23Kyashii has quit (23Ping timeout23)
+T 1329873370 19*	19Kyashii (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329873611 23*	23Kyashii has quit (23Connection reset by peer23)
+T 1329873614 19*	19Kyashii (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329874780 23*	23Kyashii has quit (23Connection reset by peer23)
+T 1329874785 19*	19Kyashii (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329878689 23*	23Kyashii has quit (23Input/output error23)
+T 1329879753 19*	19Kyashii (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329883693 23*	23TrueShiftBlue has quit (23Ping timeout23)
+T 1329884235 19*	19TrueShiftBlue (tsb@B402DFF:AA51CDE2:2C04989C:IP) has joined #meshmaps
+T 1329896974 19*	19blaphmat (Mibbit@hide-29214FCE.vf.shawcable.net) has joined #meshmaps
+T 1329897893 23*	23blaphmat (23Mibbit@hide-29214FCE.vf.shawcable.net) has left #meshmaps
+T 1329921277 23*	23Kyashii has quit (23Ping timeout23)
+T 1329941216 23*	23TrueShiftBlue has quit (23Ping timeout23)
+T 1329945127 19*	19finn (finn@4370C597:5B7760D5:A27DEB82:IP) has joined #meshmaps
+T 1329975810 19*	19Kyashii (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329987647 23*	23finn has quit (23Ping timeout23)
+T 1329988450 19*	19Kasu (kasu@hide-E4787310.lnse3.lon.bigpond.net.au) has joined #meshmaps
+T 1329988568 23*	23Kyashii has quit (23mindjail.subluminal.net abacus.subluminal.net23)
+T 1329988568 23*	23glitchy has quit (23mindjail.subluminal.net abacus.subluminal.net23)
+T 1329988677 19*	19glitchy (glitch@hide-6FD78BD8.nmu.edu) has joined #meshmaps
+T 1329989554 23*	23prurigro has quit (23Ping timeout23)
+T 1329989888 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329990665 19*	19finn (finn@4370C597:5B7760D5:A27DEB82:IP) has joined #meshmaps
+T 1329990850 23*	23finn has quit (23Ping timeout23)
+T 1329990873 19*	19finn (finn@4370C597:5B7760D5:A27DEB82:IP) has joined #meshmaps
+T 1329991771 22*	Kasu is now known as Kyashii
+T 1329992198 23*	23prurigro has quit (23Quit: Quitting23)
+T 1329992229 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329993101 23*	23prurigro has quit (23Quit: Quitting23)
+T 1329993121 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329993900 23*	23prurigro has quit (23Quit: Quitting23)
+T 1329993914 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329993988 23*	23prurigro has quit (23Quit: Quitting23)
+T 1329994024 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1329994608 23*	23prurigro (23prurigro@fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14) has left #meshmaps (23WeeChat 0.3.623)
+T 1329994610 19*	19prurigro (prurigro@fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14) has joined #meshmaps
+T 1329994612 18<prurigro>	cycle
+T 1329996438 23*	23prurigro has quit (23Quit: Quitting23)
+T 1329996548 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330010162 22*	Disconnected (Invalid argument).
+T 1330010173 22*	TheShadowFog sets mode +i TheShadowFog
+T 1330010173 22*	TheShadowFog sets mode +w TheShadowFog
+T 1330010173 22*	TheShadowFog sets mode +x TheShadowFog
+T 1330010174 19*	19Now talking on #meshmaps
+T 1330111146 19*	19Now talking on #meshmaps
+T 1330112941 23*	23finn has quit (23Ping timeout23)
+T 1330112959 23*	23prurigro has quit (23Ping timeout23)
+T 1330113679 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330116694 23*	23prurigro has quit (23Ping timeout23)
+T 1330117248 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330118721 19*	19finn (finn@4370C597:5B7760D5:A27DEB82:IP) has joined #meshmaps
+T 1330123441 23*	23prurigro has quit (23Ping timeout23)
+T 1330124059 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330124599 23*	23prurigro has quit (23Quit: Quitting23)
+T 1330125270 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330125812 23*	23prurigro has quit (23Quit: Quitting23)
+T 1330126129 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330186918 19*	19Now talking on #meshmaps
+T 1330196966 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330197014 23*	23finn has quit (23mindjail.subluminal.net napier.subluminal.net23)
+T 1330197015 23*	23prurigro has quit (23mindjail.subluminal.net napier.subluminal.net23)
+T 1330197106 23*	23Omelette has quit (23Ping timeout23)
+T 1330199931 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330200061 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330202941 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330203100 23*	23Omelette has quit (23Ping timeout23)
+T 1330205095 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330205226 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330207997 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330208137 23*	23Omelette has quit (23Ping timeout23)
+T 1330209074 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330209200 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330209307 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330209456 23*	23Omelette has quit (23Ping timeout23)
+T 1330209515 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330209655 19*	19Omelette__ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330209671 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330209788 23*	23Omelette has quit (23Ping timeout23)
+T 1330209828 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330209894 23*	23Omelette__ has quit (23Ping timeout23)
+T 1330209955 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330210040 19*	19Omelette__ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330210113 23*	23Omelette has quit (23Ping timeout23)
+T 1330210127 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330210174 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330210259 23*	23Omelette__ has quit (23Ping timeout23)
+T 1330210267 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330210394 19*	19Omelette__ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330210414 23*	23Omelette has quit (23Ping timeout23)
+T 1330210473 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330210555 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330210586 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330210611 23*	23Omelette__ has quit (23Ping timeout23)
+T 1330210726 23*	23Omelette has quit (23Ping timeout23)
+T 1330211689 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330211803 19*	19Omelette__ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330211823 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330211852 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330211936 19*	19Omelette___ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330211941 23*	23Omelette has quit (23Ping timeout23)
+T 1330212012 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330212015 23*	23Omelette__ has quit (23Ping timeout23)
+T 1330212070 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330212094 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330212126 19*	19Omelette__ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330212144 23*	23Omelette___ has quit (23Ping timeout23)
+T 1330212228 23*	23Omelette has quit (23Ping timeout23)
+T 1330212235 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330212283 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330212355 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330212381 23*	23Omelette__ has quit (23Ping timeout23)
+T 1330212486 23*	23Omelette has quit (23Ping timeout23)
+T 1330212652 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330212811 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330212855 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330212988 23*	23Omelette has quit (23Ping timeout23)
+T 1330214542 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330214598 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330217200 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330217340 23*	23Omelette has quit (23Ping timeout23)
+T 1330218460 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330218582 23*	23Omelette_ has quit (23Ping timeout23)
+T 1330218943 19*	19Omelette_ (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330219097 23*	23Omelette_ has quit (23Input/output error23)
+T 1330219103 23*	23Omelette has quit (23Ping timeout23)
+T 1330268473 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330283913 23*	23Omelette has quit (23Ping timeout23)
+T 1330283918 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330312752 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330316118 23*	23prurigro has quit (23Ping timeout23)
+T 1330316354 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330319283 23*	23prurigro has quit (23Ping timeout23)
+T 1330319324 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330334436 23*	23prurigro (23prurigro@fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14) has left #meshmaps (23WeeChat 0.3.623)
+T 1330334438 19*	19prurigro (prurigro@fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14) has joined #meshmaps
+T 1330410192 23*	23Kyashii has quit (23Ping timeout23)
+T 1330410231 19*	19Kyashii (kasu@hide-B0C57D4E.lnse5.win.bigpond.net.au) has joined #meshmaps
+T 1330410510 19*	19Kasu (kasu@hide-E8F153FE.lns9.lon.bigpond.net.au) has joined #meshmaps
+T 1330410518 23*	23Kyashii has quit (23Ping timeout23)
+T 1330410639 22*	Kasu is now known as Kyashii
+T 1330413043 23*	23prurigro has quit (23Ping timeout23)
+T 1330413074 19*	19prurigro (prurigro@fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14) has joined #meshmaps
+T 1330413260 23*	23prurigro has quit (23Ping timeout23)
+T 1330414303 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330442082 19*	19Now talking on #meshmaps
+T 1330464830 23*	23prurigro has quit (23Ping timeout23)
+T 1330465681 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330465869 23*	23prurigro has quit (23Ping timeout23)
+T 1330467091 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330467618 23*	23prurigro has quit (23Quit: Quitting23)
+T 1330504993 23*	23Kyashii has quit (23Ping timeout23)
+T 1330505603 19*	19Kyashii (kasu@hide-E8F153FE.lns9.lon.bigpond.net.au) has joined #meshmaps
+T 1330508544 23*	23Kyashii has quit (23Connection reset by peer23)
+T 1330510530 19*	19Kyashii (kasu@hide-E8F153FE.lns9.lon.bigpond.net.au) has joined #meshmaps
+T 1330526525 19*	19Now talking on #meshmaps
+T 1330564812 23*	23Omelette has quit (23Input/output error23)
+T 1330567063 19*	19Omelette (Egghead@hide-4D9718.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330585461 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330602504 23*	23prurigro has quit (23Ping timeout23)
+T 1330602599 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330730383 19*	19Now talking on #meshmaps
+T 1330753396 19*	19schnozzle (Mibbit@hide-F58BDAC.vn.shawcable.net) has joined #meshmaps
+T 1330753402 23*	23schnozzle (23Mibbit@hide-F58BDAC.vn.shawcable.net) has left #meshmaps
+T 1330766194 23*	23prurigro has quit (23Ping timeout23)
+T 1330767540 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330771030 23*	23prurigro has quit (23Ping timeout23)
+T 1330771443 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1330771957 23*	23prurigro has quit (23Quit: Quitting23)
+T 1330798037 23*	23Omelette has quit (23Input/output error23)
+T 1330798095 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330963939 19*	19Now talking on #meshmaps
+T 1330969760 23*	23Kyashii has quit (23Ping timeout23)
+T 1330970395 19*	19Kyashii (kasu@hide-FB4EAC1A.lns8.lon.bigpond.net.au) has joined #meshmaps
+T 1330972474 19*	19Kasu (kasu@hide-FB4EAC1A.lns8.lon.bigpond.net.au) has joined #meshmaps
+T 1330972527 23*	23Kyashii has quit (23Ping timeout23)
+T 1330974612 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330974625 23*	23Omelette has quit (23Connection reset by peer23)
+T 1330975185 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330975312 23*	23Omelette_ has quit (23Connection reset by peer23)
+T 1330975808 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1330975833 23*	23Omelette has quit (23Connection reset by peer23)
+T 1330979379 23*	23Omelette_ has quit (23Connection reset by peer23)
+T 1330979517 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1331306062 19*	19Now talking on #meshmaps
+T 1331327532 23*	23Omelette has quit (23Connection reset by peer23)
+T 1331678751 19*	19Now talking on #meshmaps
+T 1331774273 19*	19Now talking on #meshmaps
+T 1331910471 19*	19Now talking on #meshmaps
+T 1331915885 19*	19Now talking on #meshmaps
+T 1331932747 22*	Disconnected (Connection timed out).
+T 1331938480 19*	19Now talking on #meshmaps
+T 1331972285 23*	23Omelette has quit (23Connection reset by peer23)
+T 1331972307 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1331983294 19*	19Now talking on #meshmaps
+T 1331990754 22*	Disconnected (Connection timed out).
+T 1331990766 19*	19Now talking on #meshmaps
+T 1332034368 19*	19guardband (Android@hide-3F170644.res.bhn.net) has joined #meshmaps
+T 1332034533 23*	23guardband has quit (23Quit: -a- Android IRC 1.8.21 23)
+T 1332095220 19*	19Now talking on #meshmaps
+T 1332112179 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1332131504 23*	23prurigro has quit (23Ping timeout23)
+T 1332131732 19*	19prurigro (prurigro@DB5BCD3D:BCEC19E6:9947F44A:IP) has joined #meshmaps
+T 1332136935 23*	23prurigro has quit (23mindjail.subluminal.net napier.subluminal.net23)
+T 1332157355 19*	19prurigro1 (prurigro@528A102C:3F1ED597:CB361B7A:IP) has joined #meshmaps
+T 1332185342 22*	prurigro1 is now known as prurigro
+T 1332215137 23*	23ChanServ (23ChanServ@ChanServ.services.subluminal.net) has left #meshmaps
+T 1332248162 23*	23Omelette_ has quit (23abacus.subluminal.net mindjail.subluminal.net23)
+T 1332248162 23*	23prurigro has quit (23abacus.subluminal.net mindjail.subluminal.net23)
+T 1332248265 19*	19prurigro (prurigro@528A102C:3F1ED597:CB361B7A:IP) has joined #meshmaps
+T 1332248265 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1332258403 19*	19guardband (Android@hide-A3D0F3C3.sub-97-143-126.myvzw.com) has joined #meshmaps
+T 1332258474 23*	23guardband has quit (23Quit: -a- Android IRC 1.8.2123)
+T 1332267857 19*	19Now talking on #meshmaps
+T 1332291009 23*	23Omelette_ has quit (23Input/output error23)
+T 1332294254 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1332303538 23*	23Omelette has quit (23Connection reset by peer23)
+T 1332303546 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1332329796 19*	19Now talking on #meshmaps
+T 1332437318 19*	19Now talking on #meshmaps
+T 1332456266 22*	Disconnected (Network is unreachable).
+T 1332456277 19*	19Now talking on #meshmaps
+T 1332510263 23*	23Omelette has quit (23Ping timeout23)
+T 1332523614 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1332533616 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1332533769 23*	23Omelette has quit (23Ping timeout23)
+T 1332540382 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1332540462 23*	23Omelette_ has quit (23Ping timeout23)
+T 1332593261 19*	19Now talking on #meshmaps
+T 1332622111 23*	23Omelette has quit (23Connection reset by peer23)
+T 1332637719 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1332644333 23*	23Omelette has quit (23Ping timeout23)
+T 1332644751 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1332653696 23*	23Omelette has quit (23Ping timeout23)
+T 1332654138 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #meshmaps
+T 1332819474 23*	23Omelette has quit (23Connection reset by peer23)
+T 1332854102 19*	19Now talking on #meshmaps
+T 1332897013 19*	19Now talking on #meshmaps
+T 1332912021 19*	19Omelette (Egghead@hide-688B010F.spkn.qwest.net) has joined #meshmaps
+T 1332916826 23*	23Omelette has quit (23Ping timeout23)
+T 1332943808 19*	19Omelette (Egghead@hide-688B010F.spkn.qwest.net) has joined #meshmaps
+T 1332951091 22*	Disconnected (Network is unreachable).
+T 1332951102 19*	19Now talking on #meshmaps
+T 1333022179 19*	19Now talking on #meshmaps
+T 1333141281 19*	19Now talking on #meshmaps
+T 1333143961 23*	23Omelette (23Egghead@wargaming.org) has left #meshmaps
+T 1333194060 19*	19Now talking on #meshmaps
+T 1333300640 22*	Disconnected (Network is unreachable).
+T 1333300650 19*	19Now talking on #meshmaps
+T 1333546667 19*	19Now talking on #meshmaps
+T 1333610225 23*	23prurigro has quit (23abacus.subluminal.net mindjail.subluminal.net23)
+T 1333610327 19*	19prurigro (prurigro@528A102C:3F1ED597:CB361B7A:IP) has joined #meshmaps
+T 1333610327 22*	26mindjail.subluminal.net gives channel operator status to26 prurigro
+T 1333698304 22*	Disconnected (Remote host closed socket).
+T 1333698315 19*	19Now talking on #meshmaps
+T 1333801986 19*	19Now talking on #meshmaps
+T 1333808030 22*	Disconnected (Network is unreachable).
+T 1333808041 19*	19Now talking on #meshmaps
+T 1333833423 19*	19Now talking on #meshmaps
+T 1333964826 22*	Disconnected (Connection timed out).
+T 1333965027 19*	19Now talking on #meshmaps
+T 1334146050 19*	19Now talking on #meshmaps
+T 1334161699 19*	19Now talking on #meshmaps
+T 1334278968 19*	19Now talking on #meshmaps
+T 1334326147 19*	19Now talking on #meshmaps
+T 1334363444 19*	19Now talking on #meshmaps
+T 1334505088 19*	19Now talking on #meshmaps
+T 1334666297 19*	19Now talking on #meshmaps
+T 1334711565 19*	19Now talking on #meshmaps
+T 1334882583 19*	19Now talking on #meshmaps
+T 1335047530 19*	19Now talking on #meshmaps
+T 1335053578 19*	19Now talking on #meshmaps
+T 1335123206 19*	19Now talking on #meshmaps
+T 1335142215 19*	19Now talking on #meshmaps
+T 1335266041 19*	19prurigro (prurigro@528A102C:3F1ED597:CB361B7A:IP) has joined #meshmaps
+T 1335319724 19*	19Now talking on #meshmaps
+T 1335357393 19*	19Now talking on #meshmaps
+T 1335484745 19*	19Now talking on #meshmaps
+T 1335659170 19*	19Now talking on #meshmaps
+T 1335855116 22*	Disconnected (Connection timed out).
+T 1335856896 19*	19Now talking on #meshmaps
+T 1335903593 19*	19godane (tux@hide-B0BFDDAC.hsd1.nh.comcast.net) has joined #meshmaps
+T 1335903599 23*	23godane (23tux@hide-B0BFDDAC.hsd1.nh.comcast.net) has left #meshmaps
+T 1336084126 19*	19Now talking on #meshmaps
+T 1336244006 19*	19Now talking on #meshmaps
+T 1336340261 19*	19Now talking on #meshmaps
+T 1336363775 19*	19prurigro (prurigro@528A102C:3F1ED597:CB361B7A:IP) has joined #meshmaps
+T 1336490121 19*	19Now talking on #meshmaps
+T 1336599076 19*	19Now talking on #meshmaps
+T 1336657599 19*	19Now talking on #meshmaps
+T 1336699658 19*	19Now talking on #meshmaps
+T 1336742154 19*	19Now talking on #meshmaps

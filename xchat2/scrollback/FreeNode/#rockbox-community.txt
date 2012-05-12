@@ -1,0 +1,615 @@
+T 1336650342 18<[Saint]>	works for me.
+T 1336650361 18<gevaerts>	Hmm
+T 1336650372 18<gevaerts>	It works using firefox, but not from dillo or curl
+T 1336650391 23*	23mc2739 has quit (23Ping timeout: 252 seconds23)
+T 1336650416 18<gevaerts>	It does various redirects and cookie things
+T 1336650422 23*	23evilnick has quit (23Ping timeout: 245 seconds23)
+T 1336650505 19*	19mc2739 (~mc2739@rockbox/developer/mc2739) has joined #rockbox-community
+T 1336650620 18<JdGordon>	having fun funman?
+T 1336652276 18<GodEater>	gevaerts: paralympics by then I think
+T 1336652294 18<petur>	perfect timing
+T 1336652357 23*	23[Saint] has quit (23Read error: Connection reset by peer23)
+T 1336652373 18<gevaerts>	GodEater: http://en.wikipedia.org/wiki/2012_Olympics#Calendar seems to indicate otherwise
+T 1336652479 18<GodEater>	shows what I know then
+T 1336652714 18<gevaerts>	It shows you care more about beer than about Olympics :)
+T 1336652754 19*	19perrikwp (~quassel@cpe-024-163-024-033.triad.res.rr.com) has joined #rockbox-community
+T 1336653012 19*	19dfkt (dfkt@unaffiliated/dfkt) has joined #rockbox-community
+T 1336653217 18<GodEater>	this is in someway unusual? :)
+T 1336653289 18<gevaerts>	No
+T 1336653319 18<gevaerts>	But research results should *always* be published, even if they merely match expectations
+T 1336653365 18<GodEater>	it's a fair cop giv
+T 1336653367 18<GodEater>	er
+T 1336653368 18<GodEater>	guv
+T 1336653649 18<gevaerts>	Hmmm
+T 1336653665 18*	gevaerts wants to strangle the guy who wrote this code, but he decides to be lenient
+T 1336653775 18<gevaerts>	Hm, wait
+T 1336653778 18<gevaerts>	It wasn't me!
+T 1336653825 18<gevaerts>	Well, some of the buggy bits weren't me
+T 1336653829 23*	23eyfour (23~a4@158.38.169.171) has left #rockbox-community (23"WeeChat 0.3.5"23)
+T 1336654109 18*	petur lets the neighbours enjoy Michael McKeegan a bit
+T 1336654290 18<B4gder>	is that the name of your aggressive dog?
+T 1336654293 18<B4gder>	B)
+T 1336654313 18<petur>	bass player of Therapy?
+T 1336654334 18<petur>	with a little help of the subwoofer :D
+T 1336654498 18<gevaerts>	Ah, the dog only helps? :)
+T 1336654526 18<petur>	well.... it is black and sits under the desk ;)
+T 1336654541 18<gevaerts>	Does it drool a lot?
+T 1336654576 18<petur>	I hope not, all the interconnects to desk and computers are right behind it
+T 1336654793 22*	kugel_ is now known as kugel
+T 1336654958 18<petur>	what is /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 9 --session 
+T 1336654980 18<petur>	and why is it eating 663MB
+T 1336654986 18<petur>	bad dog!
+T 1336657610 19*	19Now talking on #rockbox-community
+T 1336657610 29*	29Topic for #rockbox-community 29is: Whatever you do, don't say "JdGordon" | JdGordon | Why not? | Don't feed him after midnight either
+T 1336657610 29*	29Topic for #rockbox-community 29set by AlexP 29at Wed May  9 13:55:32 2012
+T 1336658418 19*	19bitcraft (~bitcraft@66.254.199.148) has joined #rockbox-community
+T 1336658788 19*	19evilnick (519af239@rockbox/staff/evilnick) has joined #rockbox-community
+T 1336660218 19*	19AlexP_ (~alex@rockbox/staff/AlexP) has joined #rockbox-community
+T 1336660239 23*	23AlexP has quit (23Ping timeout: 272 seconds23)
+T 1336661207 19*	19[Saint] (~Saint]@101.98.158.103) has joined #rockbox-community
+T 1336661207 23*	23[Saint] has quit (23Changing host23)
+T 1336661207 19*	19[Saint] (~Saint]@unaffiliated/saint/x-8516940) has joined #rockbox-community
+T 1336661911 23*	23Galois has quit (23Ping timeout: 272 seconds23)
+T 1336662124 19*	19benedikt93 (~benedikt9@unaffiliated/benedikt93) has joined #rockbox-community
+T 1336662457 19*	19[Saint_] (~Saint]@101.98.158.103) has joined #rockbox-community
+T 1336662473 23*	23[Saint_] has quit (23Changing host23)
+T 1336662473 19*	19[Saint_] (~Saint]@unaffiliated/saint/x-8516940) has joined #rockbox-community
+T 1336662686 23*	23[Saint] has quit (23Ping timeout: 256 seconds23)
+T 1336662856 19*	19ved (ved@ddsbox.co.cc) has joined #rockbox-community
+T 1336662947 18<pamaury>	petur: I think it's to download eglibc for the yp-r0
+T 1336662977 18<pamaury>	but someone said cvs was required in fact, can't remember who it's was recently (this week I think)
+T 1336663091 18<[Saint_]>	me, a few hours ago?
+T 1336663110 18<[Saint_]>	it needs svn, cvs, and curl...among a fuck-tonne of other things.
+T 1336663186 18<pamaury>	*sorry, wasn't required
+T 1336663199 18<pamaury>	no, someone else than you and not today :)
+T 1336663258 18<[Saint_]>	automake, bison, cvs, curl, flex, gawk, libtool. libncurses5-dev
+T 1336663263 18<[Saint_]>	oh, and linux-2.6.27.59
+T 1336663275 18<[Saint_]>	+subversion
+T 1336663437 18<Zagor>	we should probably add a warning to the ypr0 toolchain. "warning: will take all day and much of your patience"
+T 1336663483 18<[Saint_]>	Or, y'know...pull the required deps when the toolchain is selected :)
+T 1336663493 18<[Saint_]>	whichever is easier.
+T 1336663516 18<Zagor>	[Saint_]: do you want to build curl, automake etc too? I think most people want to get them from their distro...
+T 1336663546 18<n1s>	that's certainly easier :)
+T 1336663561 18<gevaerts>	*can* you build automake without having automake?
+T 1336663573 18<Zagor>	haha, yes
+T 1336663597 18<[Saint_]>	wait...what? I wasn't suggesting build them, but, why can't they be downloaded prior to attempting to build the toolchain?
+T 1336663614 18<[Saint_]>	we do this for other deps, no? or...we build *everything*?
+T 1336663618 18<Zagor>	[Saint_]: because there are 12 different ways to install distro packages?
+T 1336663635 18<Zagor>	we only build the cross tools
+T 1336663642 18<Torne>	thers's only one anybody should really care about :p
+T 1336663643 18<Zagor>	but for ypr0 that's a lot
+T 1336663662 18<[Saint_]>	Torne: well, yes :)
+T 1336663671 18<gevaerts>	Torne: Arch!
+T 1336663694 18<Torne>	well, in all seriousness we *could* apt-get install the dependencies, and that would basically Just Work for all the debian derivs
+T 1336663709 18<Torne>	i mean, only if it looks like this is a debian derivative :p
+T 1336663718 18<Zagor>	or at least offer to do it
+T 1336663724 18<Torne>	supporting other people's weird ass shit is doable, but doesn't work out so well in cost/benefit
+T 1336663737 18<Torne>	Well, yah
+T 1336663759 18<Torne>	the advantage of the debian ecosystem is that not only the package amanger but the package names are basically consistent :)
+T 1336663771 18<Torne>	so you can rely on "apt-get install foo bar baz" working without caring whether it's actualyl debian
+T 1336663789 18<gevaerts>	Check for "rpm -q dpkg", and if it says dpkg isn't installed, it's not debian :)
+T 1336663803 18<Torne>	Heh.
+T 1336663828 18*	gevaerts actually once saw an installer script that checked for rpm by running "rpm -q rpm" and looking at the output
+T 1336663840 18*	Torne has rpm on his debian machine :p
+T 1336663842 18<petur>	well it is currently trying to build without cvs or svn installed, I'll see how it goes
+T 1336663850 18<gevaerts>	Torne: who doesn't? :)
+T 1336663859 18<Torne>	it's handy :p
+T 1336663861 18<petur>	[Saint_]: I added your list to the wiki
+T 1336663875 18<[Saint_]>	petur: oh, thanks.
+T 1336664095 18<[Saint_]>	    echo "ROCKBOXDEV: No downloader tool found!"
+T 1336664095 18<[Saint_]>	    echo "ROCKBOXDEV: Please install curl or wget and re-run the script"
+T 1336664095 18<[Saint_]>	should be changed to "echo "ROCKBOXDEV: Don't bother installing wget, we'll just ask you to install curl later on anyway as a yp-r0 dependency (and curl is better anyway)"
+T 1336664104 19*	19hillshum (~hillshum@75-169-19-210.slkc.qwest.net) has joined #rockbox-community
+T 1336664301 19*	19bitcraft_ (~bitcraft@66.254.199.148) has joined #rockbox-community
+T 1336664314 18<n1s>	serioulsy who has the ypr0?
+T 1336664327 18<n1s>	and also why is its toolchain so special?
+T 1336664332 18<[Saint_]>	like, 2 people I know of :)
+T 1336664350 18<gevaerts>	n1s: it's basically an application toolchain
+T 1336664398 18<[Saint_]>	lebellium, and, kugel.
+T 1336664412 18<[Saint_]>	that's all that I know of personally.
+T 1336664425 18<n1s>	hmm, right it's that special app hybrid
+T 1336664431 23*	23bitcraft has quit (23Ping timeout: 245 seconds23)
+T 1336665225 23*	23Zagor (23~bjst@rockbox/developer/Zagor) has left #rockbox-community
+T 1336665469 23*	23[Saint_] has quit (23Quit: Quit23)
+T 1336665482 19*	19[Saint_] (~Saint]@101.98.158.103) has joined #rockbox-community
+T 1336665483 23*	23[Saint_] has quit (23Changing host23)
+T 1336665483 19*	19[Saint_] (~Saint]@unaffiliated/saint/x-8516940) has joined #rockbox-community
+T 1336666531 18<[Saint_]>	lol...XChat's "user action" for "action" (/me foo) is "/ACTION" which simply does "/me &2" which == "/me+print every word after the first, including the second"
+T 1336666541 19*	19bitcraft (~bitcraft@66.254.199.148) has joined #rockbox-community
+T 1336666581 18<[Saint_]>	...seems to me that its rather a fail, why would you type "/ACTION stuff and words and things" over "/me stuff and words and things"?
+T 1336666727 23*	23bitcraft_ has quit (23Ping timeout: 260 seconds23)
+T 1336666735 18<Torne>	[Saint_]: you can /action #rockbox waves
+T 1336666742 18<Torne>	i think you'll find
+T 1336666748 18<Torne>	i don't use xchat
+T 1336666754 18<Torne>	but that's common in many irc clients
+T 1336666779 18<Torne>	well, okay
+T 1336666785 18<Torne>	my guess is that /me also supports that in xchat, then
+T 1336666789 18<Torne>	but that's not a very natural looking syntax
+T 1336666796 18<Torne>	whereas /action is a nice parallel to /msg
+T 1336666986 22*	[Saint_] is now known as [Saint]
+T 1336668324 18*	hillshum tests this
+T 1336670527 19*	19ZTUoSmFG (~linus@giant.haxx.se) has joined #rockbox-community
+T 1336670566 23*	23Zambezi has quit (23Ping timeout: 252 seconds23)
+T 1336670597 23*	23LinusN has quit (23Read error: Connection reset by peer23)
+T 1336670779 19*	19Zambezi (Zulu@bnc.fran.dotbnc.se) has joined #rockbox-community
+T 1336671445 23*	23evilnick has quit (23Quit: Page closed23)
+T 1336671487 19*	19bertrik (~bertrik@ip117-49-211-87.adsl2.static.versatel.nl) has joined #rockbox-community
+T 1336671488 23*	23bertrik has quit (23Changing host23)
+T 1336671488 19*	19bertrik (~bertrik@rockbox/developer/bertrik) has joined #rockbox-community
+T 1336671510 19*	19Horscht (~Horscht@p549478A6.dip.t-dialin.net) has joined #rockbox-community
+T 1336671510 23*	23Horscht has quit (23Changing host23)
+T 1336671510 19*	19Horscht (~Horscht@xbmc/user/horscht) has joined #rockbox-community
+T 1336672463 23*	23Horscht has quit (23Quit: Verlassend23)
+T 1336673056 19*	19Galois (djao@efnet-math.org) has joined #rockbox-community
+T 1336674343 22*	AlexP_ is now known as AlexP
+T 1336674986 18<gevaerts>	AlexP: so what's your final decision?
+T 1336675112 18<scorche|sh>	oh, look - crazy lady sent another email to $EMPLOYER...
+T 1336675114 18<scorche|sh>	 david of nokomis beach park is "wanted". and, my ex husband's prostitutes are obstructing david from a job. his house was stolen by rachel altman. cordt asked me to create an e-mail for david, so i did. cordt is trying to make a point to larry hamilton. larry steals my thunderbird graduate school e-mail says cordt.
+T 1336675119 18<scorche|sh>	 i created an address for david, please let him know to use it *************@yahoo.com. his password is *******. he needs schooling in use of e-mail. he feuds with his brother. his brother is maxwell smart of the 1960s sitcom. maxwell smart is aka roland of venice florida library. roland wont help david. david was the prime minister of israel in 1995, sharon.
+T 1336675124 18<scorche|sh>	 he was married to seguit. seguit was aka jackie kennedy. he is also charles manson, darren of bewitched, a larry hagman connection, a travolta connection, phil collins and kenny loggins. the miami police have a photo of him. scott of thunderbird was aka john stuit.....its in everyone's best interest this man's storied past fully revealed.
+T 1336675129 18<scorche|sh>	 the truth shall set us all free. he is quite talented.
+T 1336675132 18<scorche|sh>	....my grandmother harasses me at the venice library, in alias and drag. so do: larry hamilton, tammy fenstermaker, laurie hamilton, patty janes and mike pope.
+T 1336675140 18<AlexP>	gevaerts: I sadly can't make it I'm afraid
+T 1336675146 18<AlexP>	Next year!
+T 1336675148 18<gevaerts>	AlexP: boo!
+T 1336675156 18<AlexP>	yeah, will be a shame
+T 1336675161 18<gevaerts>	AlexP: you should probably edit DevConEuro2012 then
+T 1336675164 18<pixelma>	cool, and now everyone in the channel was spammed too :\
+T 1336675177 18<gevaerts>	pixelma: sorry!
+T 1336675179 18*	gevaerts hides
+T 1336675194 18<pixelma>	I wasn't referring to you
+T 1336675203 18<scorche|sh>	but this is fun!
+T 1336675205 18<scorche|sh>	and it isnt spam
+T 1336675209 18<pixelma>	it's not
+T 1336675215 18<scorche|sh>	it is a genuinely crazy person
+T 1336675229 18<gevaerts>	scorche|sh: who, me?
+T 1336675236 18*	gevaerts is upset now!
+T 1336675243 18<scorche|sh>	naw - my (apparently too large) paste
+T 1336675451 18<gevaerts>	AlexP: so all you have to do now is to bug Torne to bug people to expand http://support.google.com/plus/bin/answer.py?hl=en&answer=2571696&topic=2553242&ctx=topic a bit
+T 1336675502 18<AlexP>	You naughty Belgians
+T 1336675515 18<AlexP>	You must have a collective strike on your youtube account
+T 1336675545 18<AlexP>	The alternative is to use a service that doesn't have silly geolocks :)
+T 1336675564 18<gevaerts>	Yes, but that won't be two-way!
+T 1336675587 18<AlexP>	ah, true
+T 1336675596 18<AlexP>	I didn't know this was
+T 1336675640 18<gevaerts>	This is basically google+ hangouts with extra youtube streaming
+T 1336675664 18<AlexP>	Not used hangouts either :)
+T 1336675679 18*	gevaerts neither :)
+T 1336675721 18<AlexP>	I don't really look at g+ these days after
+T 1336675731 18<n1s>	scorche: O_o
+T 1336675737 18<AlexP>	Especially after their stupid redesign, which is just rubbish
+T 1336675816 18*	gevaerts nods
+T 1336677300 18<[Saint]>	Hmmmm...
+T 1336677303 18<[Saint]>	http://i.imgur.com/BNVqQ.gif
+T 1336677340 18<[Saint]>	AlexP: for laughs, open facebook in one tab, and G= in another, and compare the two.
+T 1336677352 18<[Saint]>	G+, even.
+T 1336677366 18<AlexP>	I haven't looked at facebook in years
+T 1336677397 18<[Saint]>	the layouts are pretty much identical.
+T 1336677422 18<AlexP>	ah
+T 1336677429 18<[Saint]>	up to and including shrinking the usable space for feeds to show you a bunch of shit you can't even use if you scroll down any.
+T 1336677474 18<gevaerts>	Does facebook also have the eternally vanishing footer-with-ToS?
+T 1336677535 18<[Saint]>	I love that, "Hey, look...we put this stuff here now...its useful" <scroll down half a page> "hey, we're wasting 2/3 of your screen on blank space....lulz! UI design is awesome!"
+T 1336677604 18<[Saint]>	hats off to whoever made this .gif
+T 1336677618 18<[Saint]>	no sex, gore, wtf, etc. ...just, science!
+T 1336677628 18<n1s>	gevaerts: no it stops vanishing after a while
+T 1336677630 18<[Saint]>	http://i.imgur.com/IXIrT.gif
+T 1336677639 18<gevaerts>	n1s: well yes. Still silly :)
+T 1336677941 18<petur>	[Saint]: saw something similar some time ago... copycat
+T 1336678518 18<bertrik>	my god, it's full of stars
+T 1336678561 18<petur>	filmstars?
+T 1336678580 23*	23ZTUoSmFG (23~linus@giant.haxx.se) has left #rockbox-community
+T 1336678584 19*	19LinusN (~linus@giant.haxx.se) has joined #rockbox-community
+T 1336678585 23*	23n1s has quit (23Read error: Connection timed out23)
+T 1336678604 23*	23LinusN (23~linus@giant.haxx.se) has left #rockbox-community
+T 1336678985 18<bertrik>	just one week to devcon!
+T 1336678994 18*	bertrik should book his transportation
+T 1336679168 18<[Saint]>	Planned events for last night (previous ~4 hours): Finish & push RaaA localization stuff.
+T 1336679177 18<[Saint]>	Actual events: Reddit.
+T 1336679190 18*	bertrik only has a vague notion of reddit
+T 1336679217 18<[Saint]>	its best to keep it that way ;)
+T 1336679290 18<bertrik>	oh I see why: it's social
+T 1336679350 18<[Saint]>	No...that's *really* not why :)
+T 1336679369 18<[Saint]>	that not even up there with the top ten reasons.
+T 1336679453 18<[Saint]>	http://www.reddit.com/r/Gore is probably responsible for at least 5 out of those 10 reasons.
+T 1336679529 18<[Saint]>	http://www.reddit.com/r/morbidreality probably makes up a decent percentage of the other 5...at least 2.5, anyway.
+T 1336679849 18<[Saint]>	yeah...even though I know you /probably/ want to see what the fuss is about, you're a nice guy...and I probably just gave you a few nightmares.
+T 1336679856 18<[Saint]>	sorry :-S
+T 1336679882 18*	gevaerts happens not to feel any compulsion to click on those links
+T 1336679911 18*	pixelma already learned to be careful clicking any links in #rockbox-community anyway
+T 1336679958 18<[Saint]>	well, those are pretty safe...you'd need to then deliberately follow at least one other link :)
+T 1336679985 18<[Saint]>	its not like "surprise, here's sick stuff with a relatively harmless url!"
+T 1336680061 18<gevaerts>	I wasn't expecting anything spectacular right away. I just can't be bothered :)
+T 1336680160 18<[Saint]>	Heh, fair enough.
+T 1336680197 18<[Saint]>	I must apologise for not labelling those URLs, though, even if the context should have made it clear its not for everyone...I should have said so, and usually do.
+T 1336680256 18<[Saint]>	I forget that there's a delicate mix of people that wouldn't be bothered at all, and people that would *really* rather not see such things.
+T 1336680265 18<[Saint]>	+in here.
+T 1336680317 18*	bertrik yawns
+T 1336680321 18<bertrik>	2 hours until bedtime
+T 1336680328 23*	23benedikt93 has quit (23Quit: Bye ;)23)
+T 1336680369 18*	[Saint] yawns
+T 1336680383 18<[Saint]>	14 hours until a time where I won't feel like an old man going to bed.
+T 1336680410 18<bertrik>	now you make me feel old
+T 1336680463 23*	23user890104 has quit (23Quit: .23)
+T 1336680471 18<[Saint]>	bertrik: heh, its only 'cos I planned an all-nighter to get some coding done, and....didn't.
+T 1336680486 18<[Saint]>	last night was a terribly unproductive coding session. I averaged 2 LOC per hour.
+T 1336680491 19*	19user890104 (venci@Addicted.to.Minecraft.ipv6.6bez10.info) has joined #rockbox-community
+T 1336680524 18<[Saint]>	and to make that average, I'm counting two comments. :-S
+T 1336680644 18<[Saint]>	Hmmmmm...this will become interesting.
+T 1336680683 18<[Saint]>	An NZ ISP is now offereing a "global mode" to all customers. Its basically them deliberately fucking over geo-fencing.
+T 1336680707 18<[Saint]>	for sites such as hulu, netflix, gmusic, etc.
+T 1336680788 18<[Saint]>	their incridibly vague statement about how they handle the obfuscation: "[We are doing] A lot more than a VPN. [The] Majority of traffic behaves as normal. [Its] Only different when required to be."
+T 1336680833 18<gevaerts>	Surely all you need to do is lie to the geoip database people? :)
+T 1336681094 18<[Saint]>	wooo! free wolfenstein 3d
+T 1336681097 18<[Saint]>	http://wolfenstein.bethsoft.com/
+T 1336681223 18*	gevaerts will not!
+T 1336681306 18<bertrik>	now I *really* feel old
+T 1336681329 19*	19Llorean (~DarkkOne@rockbox/user/Llorean) has joined #rockbox-community
+T 1336681346 18<Llorean>	Anyone around have a favorite webhost (or perhaps word of one I should absolutely avoid)?
+T 1336681369 18<scorche|sh>	for what? - just a cheap shared host?
+T 1336681422 18<[Saint]>	what does it need to host?
+T 1336681431 18<Llorean>	Some static pages, a blog & podcast, maybe streaming the podcast, and probably a forum. *possibly* a mailing list time thing
+T 1336681438 18<Llorean>	*type
+T 1336681462 18<[Saint]>	have you checked to see if your ISP offers free hosting?
+T 1336681479 18<[Saint]>	mine give me 500MB I've neevr even poked at yet.
+T 1336681510 18<Llorean>	I've already got more than 500mb of old podcasts I'd want to move over to it.
+T 1336681521 18<Llorean>	And it looks like my ISP doesn't anyway
+T 1336681538 18<scorche|sh>	well, shared hosting is a bit of a mixed bag - they all suck in different ways
+T 1336681547 18<petur>	I'm not unhappy about godaddy
+T 1336681555 18<Llorean>	I was looking at Lunarpages basic, it seems to have a pretty good feature list. But I'm not even sure where to get reputable reviews for hosting sites, and where are likely to just be recommending whichever host set up that site. :)
+T 1336681563 18<[Saint]>	petur: welcome to the rest of the world :)
+T 1336681610 18*	Llorean wonders if his satellite link has gone out again.
+T 1336681623 18<Llorean>	Ah, nevermind. Pages are loading again.
+T 1336681638 18<scorche|sh>	if i had to do shared hosting again, i would probably do something like dreamhost
+T 1336681648 18<gevaerts>	Llorean: just go for the full satel. The lite versions tend not to be very good
+T 1336681651 18<scorche|sh>	i have used 1&1 before
+T 1336681682 18<Llorean>	gevaerts: Unfortunately, I'm stuck with the lite. I'm on a plane.
+T 1336681706 18<gevaerts>	Llorean: is it euclidean?
+T 1336681706 18<Llorean>	scorche|sh: I looked at 1&1 first actually, but then a quick google suggested they had horrifying reviews. Which made me realize I don't know where to look for reliable reviews.
+T 1336681720 18<scorche|sh>	i was not happy with 1&1
+T 1336681725 18<petur>	[Saint]: last 6 months reliability has gone up quite a bit, and for the price they offer a lot
+T 1336681732 18<Llorean>	gevaerts: No, which makes things quite complicated.
+T 1336681740 18*	gevaerts sees
+T 1336681766 18<[Saint]>	petur: they kinda had to do *something* to ward off thw masses with flaming torches and pitchforks.
+T 1336681807 18<[Saint]>	their SOPA stance fucked them, and the way they handled people dropping like flies because of it.
+T 1336681823 18<petur>	I need to be pretty pissed if I have to start moving over >100GB of stuff to another host
+T 1336681840 18<[Saint]>	I mean, they're not going anywhere...they're here to stay, but...they hurt themselves pretty bad.
+T 1336681973 18*	Llorean will look at godaddy and dreamhost then.
+T 1336682015 18<petur>	oh hey, crosscompilers all done... only took half a day
+T 1336682052 18<[Saint]>	think what it would have taken without my prior full days worth of fucking about :)
+T 1336682072 18<petur>	tsss
+T 1336682125 18<petur>	I only added one extra off your list that I didn't know of, and I was convinced not to need svn so I was hit by that one anyway ;)
+T 1336682241 18<petur>	deserved some sleep now....
+T 1336682244 18<[Saint]>	I facepalmed when I saw it fail due to missing subversion.
+T 1336682245 23*	23petur has quit (23Quit: Leaving23)
+T 1336682267 18<[Saint]>	"Ok, so...I'm using git, you already asked for cvs...and, now you want svn too...!?!"
+T 1336682348 18<[Saint]>	"echo MUST HAVE ALL VERSIONING SYSTEMZ!!!one1!"
+T 1336682383 18*	bertrik is out of orange juice
+T 1336682428 18<[Saint]>	He's headed south, in a white ford bronco
+T 1336682451 18<[Saint]>	Ohhhhhh....*that* OJ, nevermind.
+T 1336699668 19*	19Now talking on #rockbox-community
+T 1336699668 29*	29Topic for #rockbox-community 29is: Whatever you do, don't say "JdGordon" | JdGordon | Why not? | Don't feed him after midnight either
+T 1336699668 29*	29Topic for #rockbox-community 29set by AlexP 29at Wed May  9 13:55:32 2012
+T 1336700735 23*	23mc2739 has quit (23Ping timeout: 244 seconds23)
+T 1336700861 19*	19mc2739 (~mc2739@71.20.87.137) has joined #rockbox-community
+T 1336700872 23*	23mc2739 has quit (23Changing host23)
+T 1336700872 19*	19mc2739 (~mc2739@rockbox/developer/mc2739) has joined #rockbox-community
+T 1336702841 23*	23pixelma has quit (23Disconnected by services23)
+T 1336702843 19*	19pixelma_ (pixelma@rockbox/staff/pixelma) has joined #rockbox-community
+T 1336702845 22*	pixelma_ is now known as pixelma
+T 1336702854 23*	23amiconn has quit (23Disconnected by services23)
+T 1336702854 19*	19amiconn_ (quassel@rockbox/developer/amiconn) has joined #rockbox-community
+T 1336702876 22*	amiconn_ is now known as amiconn
+T 1336703921 23*	23mc2739 has quit (23Ping timeout: 240 seconds23)
+T 1336703934 18<Scromple>	Cool beans.... http://www.pcmag.com/article2/0,2817,2404188,00.asp
+T 1336704025 19*	19mc2739 (~mc2739@rockbox/developer/mc2739) has joined #rockbox-community
+T 1336704637 23*	23TheSeven has quit (23Disconnected by services23)
+T 1336704646 19*	19[7] (~quassel@rockbox/developer/TheSeven) has joined #rockbox-community
+T 1336705773 23*	23funman has quit (23Read error: Operation timed out23)
+T 1336706029 19*	19funman (~fun@rockbox/developer/funman) has joined #rockbox-community
+T 1336708370 23*	23BHSPitMonkey has quit (23Read error: Connection reset by peer23)
+T 1336713701 19*	19Unhelpful_ (~quassel@rockbox/developer/Unhelpful) has joined #rockbox-community
+T 1336713745 23*	23Unhelpful has quit (23Remote host closed the connection23)
+T 1336714770 19*	19perrikwp_ (~quassel@cpe-024-163-024-033.triad.res.rr.com) has joined #rockbox-community
+T 1336714902 23*	23perrikwp has quit (23Read error: Connection reset by peer23)
+T 1336715707 22*	Unhelpful_ is now known as Unhelpful
+T 1336715783 23*	23Scromple has quit (23Ping timeout: 245 seconds23)
+T 1336715798 19*	19n1s (~n1s@rockbox/developer/n1s) has joined #rockbox-community
+T 1336716083 19*	19Zagor (~bjst@rockbox/developer/Zagor) has joined #rockbox-community
+T 1336716097 19*	19LinusN (~linus@giant.haxx.se) has joined #rockbox-community
+T 1336716142 19*	19Scromple (~Simon@119.225.209.134) has joined #rockbox-community
+T 1336716559 23*	23Scromple has quit (23Ping timeout: 250 seconds23)
+T 1336716602 19*	19Scromple (~Simon@119.225.209.134) has joined #rockbox-community
+T 1336716742 23*	23bluebrother has quit (23Disconnected by services23)
+T 1336716750 19*	19bluebrother (~dom@rockbox/developer/bluebrother) has joined #rockbox-community
+T 1336716808 19*	19BHSPitMonkey (~stephen@unaffiliated/bhspitmonkey) has joined #rockbox-community
+T 1336718475 23*	23funman has quit (23Read error: Operation timed out23)
+T 1336718584 19*	19funman (~fun@rockbox/developer/funman) has joined #rockbox-community
+T 1336720365 19*	19bertrik (~bertrik@ip117-49-211-87.adsl2.static.versatel.nl) has joined #rockbox-community
+T 1336720377 23*	23bertrik has quit (23Changing host23)
+T 1336720377 19*	19bertrik (~bertrik@rockbox/developer/bertrik) has joined #rockbox-community
+T 1336720586 23*	23Scromple has quit (23Quit: Leaving23)
+T 1336721182 23*	23bertrik has quit (23Quit: And That, My Liege, Is How We Know the Earth to Be Banana Shaped23)
+T 1336722235 19*	19[Saint] (~Saint]@unaffiliated/saint/x-8516940) has joined #rockbox-community
+T 1336722290 23*	23[Saint] has quit (23Client Quit23)
+T 1336722310 19*	19[Saint] (~Saint]@unaffiliated/saint/x-8516940) has joined #rockbox-community
+T 1336722786 23*	23Zambezi has quit (23Ping timeout: 265 seconds23)
+T 1336722844 19*	19Zambezi (Zulu@bnc.fran.dotbnc.se) has joined #rockbox-community
+T 1336722977 23*	23[Saint] has quit (23Quit: Bye23)
+T 1336722998 19*	19[Saint] (~Saint]@unaffiliated/saint/x-8516940) has joined #rockbox-community
+T 1336723309 23*	23bitcraft has quit (23Remote host closed the connection23)
+T 1336724108 19*	19bitcraft (~bitcraft@173-20-20-92.client.mchsi.com) has joined #rockbox-community
+T 1336724170 19*	19pamaury (~quassel@sphinx.lix.polytechnique.fr) has joined #rockbox-community
+T 1336724171 23*	23pamaury has quit (23Changing host23)
+T 1336724171 19*	19pamaury (~quassel@rockbox/developer/pamaury) has joined #rockbox-community
+T 1336726253 23*	23[Saint] has quit (23Ping timeout: 256 seconds23)
+T 1336726394 23*	23BHSPitMonkey has quit (23Remote host closed the connection23)
+T 1336726641 18<Zagor>	"4chan discovered the admin password to the Tea Party's website" oops
+T 1336726668 18<B4gder>	hehe
+T 1336726821 23*	23bitcraft has quit (23Remote host closed the connection23)
+T 1336727771 18<n1s>	EGRAMMARFAIL
+T 1336728190 18<Unhelpful>	huh, networkmanager supports bonding? let's see... :P
+T 1336728707 19*	19eyfour (~a4@158.38.169.171) has joined #rockbox-community
+T 1336728724 18*	Unhelpful grumbles about the need to install sane to use network-manager-applet :P
+T 1336728843 18<B4gder>	chromium on this ubuntu 11.04 has become almost unusable, I need to force-kill it daily by now
+T 1336728902 18<gevaerts>	Unhelpful: what?
+T 1336728917 18<Unhelpful>	gevaerts: i don't use gnome. ;)
+T 1336728924 18<gevaerts>	I know you want to be able to scan the wireless spectrum, but...
+T 1336728949 18<gevaerts>	Unhelpful: do you really need network-manager-applet? :)
+T 1336728973 18<Unhelpful>	there doesn't seem to be another decent GUI for NM? or even UI?
+T 1336729017 18<gevaerts>	My UI of choice is "vi /etc/NetworkManager/system-connections/<something>" :)
+T 1336729373 18<Unhelpful>	the documentation for that UI seems to be garbage
+T 1336729384 18<Unhelpful>	otoh it's probably too much to ask for a useful man page. :P
+T 1336729403 18<gevaerts>	I use http://projects.gnome.org/NetworkManager/developers/settings-spec-08.html
+T 1336729408 18<gevaerts>	That's not very new of course
+T 1336729432 18<Unhelpful>	if there's anything new and magic for this supposed bonding support... :)
+T 1336729492 18<gevaerts>	There might well be!
+T 1336729552 18<gevaerts>	Or just use dbus
+T 1336729563 18<gevaerts>	http://projects.gnome.org/NetworkManager/developers/api/09/spec.html
+T 1336733849 23*	23advcomp2019_ has quit (23Read error: Connection reset by peer23)
+T 1336733874 19*	19advcomp2019_ (~advcomp20@97-114-245-156.sxcy.qwest.net) has joined #rockbox-community
+T 1336733877 23*	23advcomp2019_ has quit (23Changing host23)
+T 1336733877 19*	19advcomp2019_ (~advcomp20@unaffiliated/advcomp2019) has joined #rockbox-community
+T 1336734765 23*	23n1s has quit (23Quit: Ex-Chat23)
+T 1336734840 18<Zagor>	wtf? youtube has no option to share a video on g+...
+T 1336734874 23*	23user890104 has quit (23Ping timeout: 272 seconds23)
+T 1336734879 18<Torne>	Zagor: yes it does
+T 1336734884 18<Torne>	+1 button
+T 1336734929 18<Zagor>	oh, that means sharing? that's not obvious to me
+T 1336734945 18<eyfour>	not if you joined pre G+
+T 1336734972 18<Torne>	Zagor: it's how the +1 button works everywhere on the web
+T 1336734978 18<Zagor>	pressing +1 doesn't let me share anything
+T 1336734987 18<Torne>	+1 is the initial action, then after that it asks if you also want to actively share it
+T 1336735014 19*	19user890104 (venci@Addicted.to.Minecraft.ipv6.6bez10.info) has joined #rockbox-community
+T 1336735019 18<Zagor>	doesn't work for me
+T 1336735046 18<Torne>	er
+T 1336735066 18<Torne>	i can't ind the button to drop all the experiments i'm in to check :)
+T 1336735078 18<Zagor>	hehe
+T 1336735101 18<Zagor>	eyfour: what is different if I joined pre-g+?
+T 1336735149 18<eyfour>	if you did, you need to accept that your YTprofile is linked to your G+-profile
+T 1336735154 18<eyfour>	i had to, anyway
+T 1336735159 18<Torne>	trending on google+: Breastfeeding
+T 1336735164 18<Torne>	...not amongst my friends it's not :)
+T 1336735204 18<Torne>	okay, so if i poke enough stuff to get what i think is the normal ui..
+T 1336735207 18<Torne>	it works
+T 1336735211 18<Torne>	there's facebook/twitter/+1 buttons
+T 1336735229 18<Torne>	hit +1 and i get a popup ui element saying "you publicly +1'ed this as torne wuff" with the sharing form underneath
+T 1336735261 18<Zagor>	Torne: oh, that's what it's supposed to do? I just get a faint flicker.
+T 1336735272 18<Torne>	sounds like it's not rendering properly then
+T 1336735277 18<Torne>	something blocking our js?
+T 1336735313 18<Torne>	anyway, i think that's the expected flow for G+ everywhere
+T 1336735314 18<Zagor>	not that I know of. adblock?
+T 1336735337 18<Torne>	you start with the +1 that is a "quiet" signal and then it asks if you also want a loud one :)
+T 1336735354 18<Torne>	various filter subscriptions occasionally break bits of ui for me, iunno ;)
+T 1336735391 18<Zagor>	the javascript console says nothing
+T 1336735408 18<Torne>	well maybe it's just broken, but it works for me in all the browsers that are handy :)
+T 1336735409 18<Zagor>	anyway, the topic is moot :)
+T 1336735660 18<Torne>	firefox locks up more often for me every day
+T 1336735661 18<Torne>	goddamnit
+T 1336735700 18<Torne>	yup entirely dead this time
+T 1336735715 18<Torne>	Hahaha
+T 1336735718 18<Torne>	okay this time: reproducible
+T 1336735727 18<Torne>	loading a particular feed in reader hangs firefox.
+T 1336735733 18<Torne>	well done mozilla.
+T 1336735736 18<B4gder>	my chromium tends to get out of memory killed every few days
+T 1336735756 18<B4gder>	or killed by me since it sucks all my cpu
+T 1336735792 18<Torne>	yeah. okay, so apparently i just can't read that rss feed any more
+T 1336735801 18<Torne>	because attempting to look at it hangs firefox every single time
+T 1336735829 18*	gevaerts had a problem with firefox suddenly starting to use 100% CPU and hanging a few weeks ago
+T 1336735836 18<Torne>	it's not even using 100% cpu
+T 1336735847 18<Torne>	it's using none
+T 1336735848 18<Torne>	it's blocked
+T 1336735854 18<gevaerts>	Turned out /tmp was suddenly tmpfs instead of my root filesystem, and I was filling it all the time
+T 1336735866 18<Torne>	oh, wait
+T 1336735869 18<Torne>	this time it unfroze
+T 1336735872 18<Torne>	after >90 seconds
+T 1336736068 18<GodEater>	B4gder: chrome seems to be doing the same for me recently - esp. when rendering google reader.
+T 1336736080 18<GodEater>	I've seen memory consumption for that tab exceed 1.5GB in the last week
+T 1336736086 18<GodEater>	seems insane
+T 1336736118 18<Zagor>	I recall complaining about just that some months back
+T 1336736135 18<Torne>	it's a problem ;/
+T 1336736142 18<GodEater>	I'm regularly getting "this tab is not responding: wait or kill" on it too
+T 1336736154 18<Torne>	GodEater: are you using adblock?
+T 1336736161 18<GodEater>	yep
+T 1336736167 18<Torne>	that seems to be a serious contributor for me
+T 1336736179 18<GodEater>	interesting - will try turning it off 
+T 1336736181 18<Torne>	unfortunately :/
+T 1336736199 18<Torne>	i think both the adblockers on chrome are now using the WebRequest api to intercept loads and actually kill the requests inflight
+T 1336736211 18<B4gder>	I seem to get it most often for tweetdeck
+T 1336736211 18<Torne>	but.. this is synchronous and blocks the webkit thread
+T 1336736225 18<Torne>	(pretty much unavoidably)
+T 1336736227 18<B4gder>	but its not always clear for which 
+T 1336736242 18<B4gder>	as it locks up everything for ~1 minute until the kernel kills it
+T 1336736276 18<B4gder>	but it never behaves like that at home, only at this silly ubuntu work computer
+T 1336736317 18<GodEater>	ubuntu?!?
+T 1336736322 18<GodEater>	you've gone to the dark side?
+T 1336736322 18<Torne>	the only time i've had chrome go completely off the rails eating all my ram it was an extension doing it :)
+T 1336736323 18<GodEater>	:)
+T 1336736345 18<Torne>	some autoreload button thing i had was, for.. no obvious reason, injecting a bazillion dom nodes into some page
+T 1336736356 18<Torne>	i think it had gone mad and into some kind of infinite loop
+T 1336736361 18<GodEater>	I should really get around to unsubscribing from iphone-dev
+T 1336736367 18<Torne>	so it was just creating divs inside divs inside divs inside divs forever
+T 1336736370 18<GodEater>	I've long since ceased to care how that game is playing out
+T 1336736372 18<Torne>	until webkit ate all my ram
+T 1336736380 18<B4gder>	GodEater: yeah, I kind of got it like this at work and I didn't bother to reinstall anything
+T 1336736447 18<GodEater>	B4gder: you only have yourself to blame then ;)
+T 1336736467 18<B4gder>	darnit!
+T 1336736467 18<Torne>	anyway, not claiming chromium has no bugs, but almost everyone who comes to #chromium-support with memory/cpu eating problems finds they go away without extensions :p
+T 1336736468 18<GodEater>	oooh goody
+T 1336736472 18<GodEater>	it appears to be lunchtime
+T 1336736490 18<Torne>	quite plausibly my problems with firefox are also extensions
+T 1336736491 18<gevaerts>	GodEater: you mean the thing causing your issues?
+T 1336736495 18<Torne>	i have no idea :)
+T 1336736502 18<GodEater>	lol
+T 1336736503 18<GodEater>	no
+T 1336736507 18<GodEater>	I just meant I can go eat now
+T 1336736515 18<GodEater>	not that lunchtime is causing excessive memory usage in chrome
+T 1336736517 18<GodEater>	:D
+T 1336736539 18<Torne>	damn, thought you'd solved that one :)
+T 1336736549 18<Torne>	don't browse the web at lunch; problem solved
+T 1336736563 18<B4gder>	and its always lunch somewhere!
+T 1336736585 18<GodEater>	very true
+T 1336736594 18<GodEater>	it's also time for drink somewhere
+T 1336736602 18<GodEater>	so I shall have a martini with my lunch
+T 1336736603 18<GodEater>	:D
+T 1336736605 18<B4gder>	now that seems like a better focus!
+T 1336736606 18<gevaerts>	Lunchtime is *two* illusions!
+T 1336736885 19*	19dfkt (dfkt@unaffiliated/dfkt) has joined #rockbox-community
+T 1336737652 19*	19n1s (~n1s@nl118-175-223.student.uu.se) has joined #rockbox-community
+T 1336737652 23*	23n1s has quit (23Changing host23)
+T 1336737653 19*	19n1s (~n1s@rockbox/developer/n1s) has joined #rockbox-community
+T 1336737659 18<n1s>	FUCK!
+T 1336737898 18<n1s>	i was supposed to get my delayed pay yesterday but it turns out they paid it out to the wrong account number
+T 1336737985 18<Zagor>	lovely
+T 1336738580 18*	gevaerts called the dinner place
+T 1336738593 18<gevaerts>	They don't do bookings, but they say there shouldn't be any problem
+T 1336738620 18*	gevaerts thinks this is good, devcon shouldn't be planned too much :)
+T 1336738627 18<Zagor>	:)
+T 1336738692 23*	23B4gder has quit (23Quit: Leaving23)
+T 1336738803 18<n1s>	...and now it seems i won't get it untill the 25th, yay
+T 1336739555 23*	23n1s has quit (23Read error: Connection timed out23)
+T 1336739838 18*	gevaerts finds out about sozi
+T 1336740145 19*	19n1s (~n1s@nl118-175-223.student.uu.se) has joined #rockbox-community
+T 1336740146 23*	23n1s has quit (23Changing host23)
+T 1336740146 19*	19n1s (~n1s@rockbox/developer/n1s) has joined #rockbox-community
+T 1336740152 18<Zagor>	gevaerts: http://www.sozi.com/my-life/74-perendicate ?
+T 1336740158 18<gevaerts>	No
+T 1336740164 18<gevaerts>	http://sozi.baierouge.fr/wiki/en:welcome
+T 1336740222 18<Zagor>	ah
+T 1336740349 23*	23[7] has quit (23Disconnected by services23)
+T 1336740355 19*	19TheSeven (~quassel@rockbox/developer/TheSeven) has joined #rockbox-community
+T 1336742163 19*	19Now talking on #rockbox-community
+T 1336742163 29*	29Topic for #rockbox-community 29is: Whatever you do, don't say "JdGordon" | JdGordon | Why not? | Don't feed him after midnight either
+T 1336742163 29*	29Topic for #rockbox-community 29set by AlexP 29at Wed May  9 13:55:32 2012
+T 1336742504 18<GodEater>	is there a decent freenode channel to go ask webapp dev questions on? (i.e. non-specific ones, if you were developing your own)
+T 1336742510 18<GodEater>	something like a #ajax ? :)
+T 1336742553 19*	19peteski (93722cc9@gateway/web/freenode/ip.147.114.44.201) has joined #rockbox-community
+T 1336742604 18<peteski>	Hey all, this is random .. and I think people might think I've suffered a slight retardation asking it.. but 
+T 1336742656 18<peteski>	With magic nowadays technology, is there a way to persist a part of a webpage between page requests, without storing everything on the server and getting it again? Its related to a gtalk/fb chat style chat bar at the bottom of a page.. 
+T 1336742673 18<peteski>	when the user navigates around the intranet site, I want to keep the chats there.. 
+T 1336742682 18<GodEater>	I'm not sure this is the best channel to ask in
+T 1336742690 18<GodEater>	I'm just trying to find a better place to ask it
+T 1336742700 18<peteski>	I'm guessing gmail uses magic ajax or something to relad parts of the page :(
+T 1336742706 18<peteski>	GodEater: yeah, worth a punt though :) 
+T 1336742706 18<peteski>	xxx
+T 1336742708 18<gevaerts>	cookies!
+T 1336742713 18<peteski>	hmn
+T 1336742800 18<peteski>	I know what you mean, but they'd have to be updated more or less all the time so at any point the cookie data (which I guess I'd have to encrypt) would be up to date.. 
+T 1336742832 18<GodEater>	peteski: start in ##javascript
+T 1336742833 18<peteski>	I guess as long as there are ways to handle it, then I don't have to worry for now.. just I went off on a quest without having a good think about it all :D
+T 1336742917 18<peteski>	:)
+T 1336742934 18*	gevaerts uninstalls rom manager
+T 1336742944 18<GodEater>	I'm sure scorche mentioned some neat way to search freenode channels
+T 1336742954 18<GodEater>	and I can't for the life of me remember how you use it
+T 1336742971 18<GodEater>	it wasn't /list | grep btw gevaerts. In case you were thinking of suggesting it.
+T 1336742974 18<GodEater>	:)
+T 1336742990 18<gevaerts>	GodEater: finding it could involve grep :)
+T 1336743032 18<GodEater>	if I could think of what to grep for, maybe :)
+T 1336743038 18<gevaerts>	17:05 <scorche|sh> GodEater_: freenode has "alis" for that
+T 1336743046 18<gevaerts>	17:05 <GodEater_> what does that do?
+T 1336743050 18<gevaerts>	17:06 <scorche|sh> /msg alis list *tex*
+T 1336743068 18*	gevaerts grepped for "list" :)
+T 1336743659 18<GodEater>	hurray
+T 1336743666 18<GodEater>	there you go peteski
+T 1336745188 19*	19hcs (~agashlin@rockbox/contributor/hcs) has joined #rockbox-community
+T 1336745240 18<hcs>	woo, just wanted to celebrate, my old iPod Photo w/ Rockbox finally started working again, after 6 years in a drawer thinking the hdd was dead
+T 1336745264 18<Zagor>	hcs: yay
+T 1336745393 18<Zagor>	and welcome back. long time no see!
+T 1336745429 18<hcs>	it has been a long time indeed, been using the 'box all this time but no longer active in dev
+T 1336745626 18<hcs>	ah, I guess it's only been 4 years, there's some 2008 dates in here
+T 1336745721 18<Zagor>	"only" :-)
+T 1336746022 23*	23soap has quit (23Read error: Operation timed out23)
+T 1336746043 19*	19soap (~soap@cpe-76-181-78-156.columbus.res.rr.com) has joined #rockbox-community
+T 1336746043 23*	23soap has quit (23Changing host23)
+T 1336746043 19*	19soap (~soap@rockbox/staff/soap) has joined #rockbox-community
+T 1336746185 19*	19ldp (~quassel@95.175.67.65) has joined #rockbox-community
+T 1336746185 23*	23ldp has quit (23Changing host23)
+T 1336746185 19*	19ldp (~quassel@unaffiliated/ldp) has joined #rockbox-community
+T 1336747385 23*	23AlexP has quit (23Remote host closed the connection23)
+T 1336747445 23*	23Zagor (23~bjst@rockbox/developer/Zagor) has left #rockbox-community
+T 1336747660 19*	19AlexP (~alex@rockbox/staff/AlexP) has joined #rockbox-community
+T 1336749570 23*	23peteski has quit (23Quit: Page closed23)
+T 1336752509 23*	23ldp has quit (23Ping timeout: 272 seconds23)
+T 1336753304 19*	19ldp (~quassel@91.140.161.152) has joined #rockbox-community
+T 1336753305 23*	23ldp has quit (23Changing host23)
+T 1336753305 19*	19ldp (~quassel@unaffiliated/ldp) has joined #rockbox-community
+T 1336753408 19*	19bitcraft (~bitcraft@173-20-20-92.client.mchsi.com) has joined #rockbox-community
+T 1336754514 18<n1s>	recursive functions with global state makes my head hurt
+T 1336754600 18*	gevaerts doesn't understand recursion
+T 1336754862 19*	19Horscht (~Horscht@p57B57ABB.dip.t-dialin.net) has joined #rockbox-community
+T 1336754880 23*	23Horscht has quit (23Changing host23)
+T 1336754880 19*	19Horscht (~Horscht@xbmc/user/horscht) has joined #rockbox-community
+T 1336754886 18<Torne>	functions with global state are a bad idea, mostly :)
+T 1336754892 18<Torne>	dependency injection! :)
+T 1336754906 18<pamaury>	and even more when used in a recursion function!
+T 1336756190 18<scorche|sh>	which is even more when used in a recursion function!
+T 1336756458 23*	23pamaury has quit (23Remote host closed the connection23)
+T 1336756783 23*	23hillshum has quit (23Ping timeout: 250 seconds23)
+T 1336756906 19*	19benedikt93 (~benedikt9@unaffiliated/benedikt93) has joined #rockbox-community
+T 1336758022 19*	19Strife89 (~Strife89@207.144.201.128) has joined #rockbox-community
+T 1336759441 19*	19pamaury (~quassel@rockbox/developer/pamaury) has joined #rockbox-community
+T 1336759458 23*	23dfkt has quit (23Quit: -= SysReset 2.55=- Sic gorgiamus allos subjectatos nunc.23)
+T 1336759799 19*	19leavittx (~leavittx@89.221.199.187) has joined #rockbox-community
+T 1336759879 19*	19dfkt (dfkt@unaffiliated/dfkt) has joined #rockbox-community
+T 1336759982 19*	19bertrik (~bertrik@ip117-49-211-87.adsl2.static.versatel.nl) has joined #rockbox-community
+T 1336759984 23*	23bertrik has quit (23Changing host23)
+T 1336759984 19*	19bertrik (~bertrik@rockbox/developer/bertrik) has joined #rockbox-community
+T 1336760223 23*	23benedikt93 has quit (23Quit: Bye ;)23)
+T 1336760429 23*	23eyfour (23~a4@158.38.169.171) has left #rockbox-community (23"WeeChat 0.3.5"23)
+T 1336760980 18<bertrik>	evening!
+T 1336760992 18<bertrik>	dinner in 20 minutes \o/
+T 1336761437 19*	19z180 (~chatzilla@ip-2-207-97-121.web.vodafone.de) has joined #rockbox-community
+T 1336761876 18<gevaerts>	bertrik: enjoy your dinner!
+T 1336762382 18<z180>	LinuxTag is soon ,I remember a possible target shown there , the Ben Nanonote MIPS micro notebook 
+T 1336762574 23*	23ldp has quit (23Read error: Connection reset by peer23)
+T 1336762664 19*	19ldp (~quassel@91.140.161.152) has joined #rockbox-community
+T 1336762682 23*	23ldp has quit (23Changing host23)
+T 1336762682 19*	19ldp (~quassel@unaffiliated/ldp) has joined #rockbox-community
+T 1336764402 23*	23Strife89 has quit (23Ping timeout: 250 seconds23)
+T 1336765564 18<scorche|sh>	want: http://beerstreetjournal.com/chimay-celebrates-150-years-with-new-brew/
+T 1336766052 23*	23leavittx has quit (23Remote host closed the connection23)
+T 1336766074 19*	19leavittx (~leavittx@89.221.199.187) has joined #rockbox-community
+T 1336768956 19*	19Topy44 (~Topy44@f049110097.adsl.alicedsl.de) has joined #rockbox-community
+T 1336768997 18*	n1s tries to cure his sore throat with cheap whiskey
+T 1336769026 18<kkit>	aren't you supposed to mix it with tea and honey?
+T 1336769083 18<n1s>	how would that help? :)
+T 1336769146 23*	23T44 has quit (23Ping timeout: 260 seconds23)
+T 1336769171 18<n1s>	i seem to be out of tea, but perhaps i could "borrow" some from my flatmate
+T 1336769366 18<kkit>	well, your flatmate might be into that
+T 1336769803 23*	23adnap has quit (23Ping timeout: 265 seconds23)
+T 1336769948 18<bertrik>	I'd trade some tea for whiskey
+T 1336770358 18<bertrik>	damnit, now the train ticket ordering system is finally back up, but the payment system is screwed up
+T 1336770705 19*	19adnap (~adnap@rrcs-24-227-162-10.sw.biz.rr.com) has joined #rockbox-community
+T 1336770807 19*	19hillshum (~hillshum@75-169-19-210.slkc.qwest.net) has joined #rockbox-community
+T 1336771254 18<bertrik>	ah, worked when using IE
+T 1336771351 23*	23LinusN (23~linus@giant.haxx.se) has left #rockbox-community
+T 1336771930 18*	froggyman 's battlebot's barrel bent the barrel's 3/4" steel shaft
+T 1336772230 23*	23hillshum has quit (23Ping timeout: 256 seconds23)
+T 1336772324 19*	19hillshum (~hillshum@75-169-19-210.slkc.qwest.net) has joined #rockbox-community
+T 1336772612 23*	23hillshum has quit (23Ping timeout: 252 seconds23)
+T 1336773347 19*	19hillshum (~hillshum@75-169-19-210.slkc.qwest.net) has joined #rockbox-community
+T 1336775938 23*	23leavittx has quit (23Ping timeout: 260 seconds23)
+T 1336776017 23*	23z180 has quit (23Ping timeout: 245 seconds23)
+T 1336776159 23*	23Horscht has quit (23Quit: Verlassend23)
+T 1336776557 23*	23dfkt has quit (23Quit: -= SysReset 2.55=- Sic gorgiamus allos subjectatos nunc.23)
+T 1336778655 23*	23hillshum has quit (23Read error: Operation timed out23)
+T 1336779678 23*	23pamaury has quit (23Remote host closed the connection23)

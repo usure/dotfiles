@@ -1,0 +1,552 @@
+T 1336642199 19*	19Dutchguy (~Dutchguy@I.Love.Manami.Tamura) has joined #l/a/nguage
+T 1336643915 23*	23Dutchguy has quit (23Read error: Connection reset by peer23)
+T 1336644286 22*	oru is now known as oru|z
+T 1336644719 23*	23knizz has quit (2323)
+T 1336645576 19*	19Jejuni (~Jejuni@Rizon-1A05C87B.pool.mediaways.net) has joined #l/a/nguage
+T 1336645748 22*	Eggmun|Away is now known as Eggmun
+T 1336648459 19*	19Guy-kun (~Guy-kun@moe.moe.kyun) has joined #l/a/nguage
+T 1336649787 19*	19emer (~emer@Rizon-8A7114B7.tbcn.telia.com) has joined #l/a/nguage
+T 1336649960 19*	19knizz (~knizz@8F7FA67D.2585BE6E.20476D1.IP) has joined #l/a/nguage
+T 1336652473 19*	19Dutchguy (~Dutchguy@I.Love.Manami.Tamura) has joined #l/a/nguage
+T 1336653071 23*	23Dutchguy has quit (23Remote host closed the connection23)
+T 1336657614 19*	19Now talking on #l/a/nguage
+T 1336657614 29*	29Topic for #l/a/nguage 29is: Learning Japanese, the lazy way | Resources: http://pastebin.com/KaWcfU4K | Try to read this! Issunboushi: http://www.mediafire.com/?k8pna1t0ys9fyyf | 5Haven't done anything today? Do it NOW 29| Now, more children's books! http://tinyurl.com/8x42uxk
+T 1336657614 29*	29Topic for #l/a/nguage 29set by Transfer-kun!~Love@Love.Transfer.Coordinator 29at Wed Feb  1 20:39:20 2012
+T 1336657636 18<Jejuni>	that's what happens when you go to a foreign country and only sit at home watching English TV/ visiting English sites, etc
+T 1336657685 18*	knizz hopes he can bring up the motivation to learn the language before his trip to japan.
+T 1336658094 18<Eggmun>	What's important is that you have yourself at a level where you can pick things up on your own
+T 1336658109 18<knizz>	Yeah, that's far away for me.
+T 1336658116 18<Eggmun>	Well, keep at it.
+T 1336658124 18<Eggmun>	You'll get there eventually
+T 1336658131 18<Jejuni>	no matter the level, if you live there it's simply impossible not to pick tons of things up
+T 1336658142 18<Jejuni>	unless, of course, you completely exclude the language
+T 1336658150 18<Eggmun>	It's slow to begin with, but once you start rolling it picks up so quickly
+T 1336658184 18<Eggmun>	Random little discoveries.
+T 1336658219 18<Eggmun>	追う means chase, 加 means add
+T 1336658225 18<Eggmun>	追加 means append
+T 1336658251 23*	23absolutezero has quit (2323)
+T 1336658306 18<knizz>	Fucking one-kana words.
+T 1336658667 18<Jejuni>	all you gotta do is immerse yourself
+T 1336658671 18<Jejuni>	the rest takes care of itself
+T 1336658808 18<Eggmun>	Sure does.
+T 1336658829 18<Eggmun>	Every week I meet up with a cute girl and we get coffee and chat for a few hours.
+T 1336658889 18<Eggmun>	Conversing improves every skill except writing, and to that end we often bring notebooks and test each other's writing abiity.
+T 1336659037 18<Jejuni>	yeah
+T 1336659044 18<Jejuni>	having someone to practice with is nice
+T 1336659222 19*	19Dutchguy (~Dutchguy@I.Love.Manami.Tamura) has joined #l/a/nguage
+T 1336659477 18<Eggmun>	>mfw relistening to old random songs and actually understanding them this time
+T 1336659485 18<Eggmun>	>mfw "atashi sakuranbo"
+T 1336659491 18<knizz>	ahaha
+T 1336659620 18<Eggmun>	lyrical genius.
+T 1336659786 19*	19hekemoko (~UserID@Rizon-551EE1B1.adsl.ppp.infoweb.ne.jp) has joined #l/a/nguage
+T 1336659809 18<hekemoko>	Just on the border of your waking mind...
+T 1336659869 18<Eggmun>	ばんは
+T 1336659879 18<hekemoko>	はーい
+T 1336659913 18<hekemoko>	タスマニアデビル
+T 1336659950 23*	23Jazzu has quit (2323)
+T 1336659970 19*	19Jazzu (~Jazzu@Loving.Humanoid.Interface) has joined #l/a/nguage
+T 1336660046 18<Eggmun>	またその動物？
+T 1336660065 18<Eggmun>	なんで人食い蜘蛛じゃないの？
+T 1336660072 18<hekemoko>	タスマニアエンジェルっていないの
+T 1336660124 18<Eggmun>	ないよ。
+T 1336660131 18<Eggmun>	タスマニアから良いこと来ないから。
+T 1336660141 18<hekemoko>	エンジェルがいないなら
+T 1336660153 18<hekemoko>	お前がお前がエンジェルになれよ！
+T 1336661516 18<Dutchguy>	rank 4450 now
+T 1336661535 18<Dutchguy>	after I'm done with genki, I'll do N5 vocab
+T 1336661540 18<Eggmun>	4450 in what?
+T 1336661543 18<Dutchguy>	should be around 2000 when I'm done with that
+T 1336661546 18<Dutchguy>	Memrise
+T 1336661564 18<Eggmun>	Not even sure what that pertains to but that's a big number.
+T 1336661569 18<Eggmun>	So congratulations are in order.
+T 1336661569 18<Jejuni>	>you think this is a motherfucking game.jpg
+T 1336661605 18<Dutchguy>	It's like anki but online
+T 1336661614 18<Eggmun>	Ah.
+T 1336661639 23*	23Sabactora has quit (23Quit: Bai Bai23)
+T 1336662225 19*	19Deet_ (~zigzagoon@Rizon-1E493431.tbcn.telia.com) has joined #l/a/nguage
+T 1336662232 23*	23Deet- has quit (23Killed (NickServ (GHOST command used by Deet_))23)
+T 1336662232 22*	Deet_ is now known as Deet-
+T 1336662705 23*	23hekemoko (23~UserID@Rizon-551EE1B1.adsl.ppp.infoweb.ne.jp) has left #l/a/nguage (23See you...23)
+T 1336662892 19*	19Aelwain (~Aelwain@Rizon-F9307ACA.haye.cable.virginmedia.com) has joined #l/a/nguage
+T 1336662931 23*	23emer has quit (23Read error: Connection reset by peer23)
+T 1336664095 19*	19Eggmun|Away (~Eggmun@A19D75DF.4B9CBB5E.5DD18DF3.IP) has joined #l/a/nguage
+T 1336664124 23*	23Eggmun has quit (23Killed (NickServ (GHOST command used by Eggmun|Away))23)
+T 1336664125 22*	Eggmun|Away is now known as Eggmun
+T 1336664898 22*	sleepycake is now known as finalcake
+T 1336664979 19*	19BlueDo (~BlueDo@Rizon-83E2570D.dynamic2.rpi.edu) has joined #l/a/nguage
+T 1336665862 19*	19newfriends (~newfriend@Rizon-7A71012B.bstnma.fios.verizon.net) has joined #l/a/nguage
+T 1336666621 23*	23knizz has quit (2323)
+T 1336668371 19*	19knizz (~knizz@8F7FA67D.2585BE6E.20476D1.IP) has joined #l/a/nguage
+T 1336668413 19*	19Teobeat (~chatzilla@Rizon-7E1401E1.ctb.ne.jp) has joined #l/a/nguage
+T 1336669066 19*	19Sabactora (~Sabactora@Rizon-96867241.hsd1.ca.comcast.net) has joined #l/a/nguage
+T 1336669103 19*	19Lue` (Lue@D7A4979E.4CC9AEE6.1BE42B97.IP) has joined #l/a/nguage
+T 1336669147 23*	23Jejuni has quit (23Quit: それでは、よき死出の旅を23)
+T 1336669553 23*	23Sabactora has quit (2323)
+T 1336670696 18<Quagles>	oh god I posted my text on lang-8
+T 1336670712 18<Quagles>	some japanese corrected it, so I wanted to try and return the favor and try correct his english but
+T 1336670738 18<Quagles>	It is so incredibly odd I'm not even sure what he is trying to say
+T 1336670840 18<Dutchguy>	I know what it's like
+T 1336670857 18<Quagles>	Its like he's combining
+T 1336670874 18<Dutchguy>	Some nips want to study Dutch for whatever reason but I haven't seen one post that was even remotely decryptable
+T 1336670901 18<Quagles>	sometimes actually uses complex words, then it seems like he invents words
+T 1336670921 18<Dutchguy>	oh, wait, that's not entirely true. There's one lady who has worked and lived here for a few years and hers was pretty good
+T 1336671213 23*	23Teobeat has quit (23Ping timeout: 240 seconds23)
+T 1336672516 19*	19greyEAX (~grey@Rizon-6506A44.socal.res.rr.com) has joined #l/a/nguage
+T 1336673468 18<knizz>	What's the difference between Interval and Due date in Anki?
+T 1336673663 18<Relial>	Due, how long it'll take until you come across it in reviews. Interval, total time in between the last review and the next one
+T 1336673708 18<knizz>	Ah, thanks.
+T 1336673905 18<Quagles>	I got an odd question today on one of my japanese exercises
+T 1336673956 18<Quagles>	Does X person likes football? The only answer related to that person is that he is good at playing the guitar
+T 1336673960 18<Quagles>	what the fuck do you write then
+T 1336674543 18<dbx10>	今日は私の誕生日です
+T 1336674568 18<dbx10>	うれしい！　＾＾
+T 1336674643 18<Dutchguy>	おめでとう
+T 1336674772 18<dbx10>	ありがと！
+T 1336674787 19*	19Ryan_ (~Dutchguy@C04FF673.F65413B.E0DDEA.IP) has joined #l/a/nguage
+T 1336674856 18<Quagles>	じゃあ、何かするつもりですか。　
+T 1336674863 18<Quagles>	not sure if that wouldeven work though
+T 1336674894 18<Quagles>	Can't sit on irc on your birthday :p
+T 1336674935 23*	23Dutchguy has quit (23Ping timeout: 240 seconds23)
+T 1336674991 18<dbx10>	well its till early, and im only doing stuff tomorrow
+T 1336674996 18<dbx10>	with my imouto
+T 1336675009 22*	Ryan_ is now known as Dutchguy
+T 1336675011 18<dbx10>	and two friends
+T 1336675063 18<Dutchguy>	huh, why not?
+T 1336675088 18<Dutchguy>	I did it too
+T 1336675093 18<Dutchguy>	birthdays are overrated
+T 1336675391 19*	19yakeru (~nyaaa@1149E57C.F93563B5.9C37341A.IP) has joined #l/a/nguage
+T 1336675705 23*	23Guy-kun has quit (23Remote host closed the connection23)
+T 1336675877 19*	19Guy-kun (~Guy-kun@moe.moe.kyun) has joined #l/a/nguage
+T 1336676380 18<Dutchguy>	Is ください written in hiragana or kanji more often?
+T 1336676532 22*	oru|z is now known as oru
+T 1336676697 18<dbx10>	2(Dutchguy2): yea they are and i'm doing stuff over the weekend, for now League of Legends and hot dogs are plenty enough
+T 1336676786 18<Dutchguy>	Seems like the best choice
+T 1336676863 18<Dutchguy>	is there a difference between 下りる and 降りる?
+T 1336676932 18<dbx10>	dont know these kanji
+T 1336676933 23*	23yakeru (23~nyaaa@1149E57C.F93563B5.9C37341A.IP) has left #l/a/nguage (23See ya!23)
+T 1336676935 18<dbx10>	no idea
+T 1336676946 18*	dbx10 flips finalcake's skirt up
+T 1336676946 18<Dutchguy>	It means to "get off" a train or bus or whatever
+T 1336676983 18<dbx10>	im not there yea in my moonrune books
+T 1336677954 18<Dutchguy>	hmm
+T 1336677982 18<Dutchguy>	窓を閉めてもいいですか
+T 1336678020 18<Dutchguy>	What would this translate to? "Do you mind if I close the window?" or "do you mind closing the window?"?
+T 1336678051 18<Jazzu>	the former
+T 1336678083 18<Dutchguy>	thought so
+T 1336679547 18<Quagles>	「夕食ができたようです。」
+T 1336679547 18<Quagles>	意味が違っていたら、ごめんなさい…。 Anyone understand?
+T 1336679653 18<Dutchguy>	not me
+T 1336679658 18<Dutchguy>	maybe in a few months
+T 1336679943 18<newfriends>	What is the difference between 女の子　＆　少女 the former is girl, and the latter is young girl. Is that a good enough differentiation? I know in English that Girl can mean female (gender) as well as child, but I don't see that applicable here. I assume they both mean child female. But is there a difference?
+T 1336679993 18<newfriends>	Maybe 少女 is younger than 女の子。。。？
+T 1336680031 18<newfriends>	*the former is girl and the latter is young girl in Rikaikun.
+T 1336680055 18<Dutchguy>	yeah
+T 1336680059 18<Dutchguy>	JIm breen too
+T 1336680080 18<Dutchguy>	former is girl, latter is young lady, little girl, virgin, maiden, daughter
+T 1336680120 18<Dutchguy>	which to me raises the question, what's the difference between 少女 and　娘
+T 1336680138 18<Dutchguy>	Maybe they're just individual names to make things me clear
+T 1336680143 18<Dutchguy>	me= more*
+T 1336680236 19*	19Sabactora (~Sabactora@Rizon-96867241.hsd1.ca.comcast.net) has joined #l/a/nguage
+T 1336680344 19*	19emer (~emer@Rizon-8A7114B7.tbcn.telia.com) has joined #l/a/nguage
+T 1336680375 18<newfriends>	>young lady, little girl, virgin, maiden, daughter
+T 1336680403 18<newfriends>	Makes it sound like it is used in a more medievil classical sense, some of the time. I suppose I should pay more attention to the multiple definitions. I guess that is good enough for now.
+T 1336680564 19*	19xiaobai (~xiaobai@Rizon-68A64433.lightspeed.tukrga.sbcglobal.net) has joined #l/a/nguage
+T 1336681006 23*	23Konpeki has quit (23Ping timeout: 240 seconds23)
+T 1336681516 23*	23Lue` has quit (23Ping timeout: 240 seconds23)
+T 1336682241 19*	19tokoitoskue-m (~toko@Rizon-B8243C21.dsl.bell.ca) has joined #l/a/nguage
+T 1336682413 23*	23tokoitoskue-m has quit (2323)
+T 1336699674 19*	19Now talking on #l/a/nguage
+T 1336699674 29*	29Topic for #l/a/nguage 29is: Learning Japanese, the lazy way | Resources: http://pastebin.com/KaWcfU4K | Try to read this! Issunboushi: http://www.mediafire.com/?k8pna1t0ys9fyyf | 5Haven't done anything today? Do it NOW 29| Now, more children's books! http://tinyurl.com/8x42uxk
+T 1336699674 29*	29Topic for #l/a/nguage 29set by Transfer-kun!~Love@Love.Transfer.Coordinator 29at Wed Feb  1 20:39:20 2012
+T 1336701560 19*	19Lue` (Lue@D7A4979E.4CC9AEE6.1BE42B97.IP) has joined #l/a/nguage
+T 1336701560 23*	23Lue` has quit (23Remote host closed the connection23)
+T 1336701562 19*	19Lue` (Lue@D7A4979E.4CC9AEE6.1BE42B97.IP) has joined #l/a/nguage
+T 1336703003 19*	19Teobeat (~chatzilla@Rizon-7E1401E1.ctb.ne.jp) has joined #l/a/nguage
+T 1336705509 19*	19Eggmun (~Eggmun@Rizon-9992F6C5.dyn.iinet.net.au) has joined #l/a/nguage
+T 1336706093 23*	23oru has quit (23Quit: Ping timeout: 2000000001 seconds23)
+T 1336706100 19*	19oru (~oru@folding.paper.at.home) has joined #l/a/nguage
+T 1336706204 23*	23newfriends2 has quit (23Quit: Leaving23)
+T 1336708816 19*	19Herpa_Von_Derpus (beatrikkri@3EDDA74F.6011525D.13EFF8F6.IP) has joined #l/a/nguage
+T 1336709091 19*	19absolutezero (~absolutez@Rizon-F735E59B.vc.shawcable.net) has joined #l/a/nguage
+T 1336709104 18<absolutezero>	going through tae kim 
+T 1336709109 18<absolutezero>	「今日は授業がない」と先生から聞いたんだけど。
+T 1336709116 18<absolutezero>	I understand perfectly fine but uhm
+T 1336709141 18<absolutezero>	I feel kind of embarassed but 聞いたんだけど I sort of need clarification 
+T 1336709146 18<absolutezero>	namely the ん
+T 1336709643 18<finalcake>	kiita no dakedo
+T 1336709653 18<finalcake>	Shorter way of saying that.
+T 1336709764 23*	23Teobeat has quit (23Ping timeout: 240 seconds23)
+T 1336709818 18<absolutezero>	oh okay
+T 1336710195 22*	tokoitoskue-m is now known as tokoitoskue-s
+T 1336710306 19*	19Master_Bacon (~chatzilla@Rizon-3194EF44.socal.res.rr.com) has joined #l/a/nguage
+T 1336710431 19*	19Teobeat (~chatzilla@Rizon-7E1401E1.ctb.ne.jp) has joined #l/a/nguage
+T 1336711421 23*	23knizz has quit (23Ping timeout: 240 seconds23)
+T 1336711773 19*	19knizz (~knizz@Rizon-9D307BF4.cust.tele2.at) has joined #l/a/nguage
+T 1336712014 23*	23r8221 has quit (23Quit: GOTTA GO FAST23)
+T 1336712264 23*	23Ramiel has quit (23Quit: ChatZilla 0.9.88.2 [Firefox 12.0/20120420145725]23)
+T 1336712569 23*	23Teobeat has quit (23Ping timeout: 240 seconds23)
+T 1336712610 23*	23knizz has quit (2323)
+T 1336713178 23*	23tokoitoskue-s has quit (23Read error: Connection reset by peer23)
+T 1336713360 19*	19Hakase_MD (~chatzilla@Rizon-65E9E6E9.hsd1.pa.comcast.net) has joined #l/a/nguage
+T 1336713985 23*	23Eggmun has quit (23Ping timeout: 240 seconds23)
+T 1336715397 23*	23absolutezero has quit (23Ping timeout: 240 seconds23)
+T 1336716082 19*	19Konpeki (~Sora@Rizon-DEF9AB61.static.zebra.lt) has joined #l/a/nguage
+T 1336716855 19*	19Jejuni (~Jejuni@Rizon-3829C142.pool.mediaways.net) has joined #l/a/nguage
+T 1336717375 23*	23Eden- has quit (23Ping timeout: 240 seconds23)
+T 1336717423 23*	23Hakase_MD has quit (23Quit: ChatZilla 0.9.88.2 [Firefox 12.0/20120420145725]23)
+T 1336717436 23*	23Dakimakura has quit (23Ping timeout: 240 seconds23)
+T 1336718742 23*	23BlueDo has quit (2323)
+T 1336719109 23*	23Dutchguy has quit (23Quit: Leaving23)
+T 1336719205 22*	finalcake is now known as madcake
+T 1336719642 22*	madcake is now known as sleepycake
+T 1336720311 19*	19Jazzu (~Jazzu@Loving.Humanoid.Interface) has joined #l/a/nguage
+T 1336720494 23*	23Sabactora has quit (23Quit: Bai Bai23)
+T 1336720796 23*	23Herpa_Von_Derpus has quit (23Ping timeout: 240 seconds23)
+T 1336721343 23*	23Jejuni has quit (23Quit: それでは、よき死出の旅を23)
+T 1336721726 23*	23KidDynamite has quit (23Read error: Connection reset by peer23)
+T 1336721941 19*	19Sabactora (~Sabactora@Rizon-96867241.hsd1.ca.comcast.net) has joined #l/a/nguage
+T 1336723403 19*	19Deet- (~zigzagoon@Rizon-1E493431.tbcn.telia.com) has joined #l/a/nguage
+T 1336724941 23*	23takko has quit (23Ping timeout: 240 seconds23)
+T 1336724970 19*	19Dutchguy (~Dutchguy@I.Love.Manami.Tamura) has joined #l/a/nguage
+T 1336725066 23*	23Skor has quit (23Ping timeout: 240 seconds23)
+T 1336725071 19*	19Skor (~Skor@Rizon-D1A23B5F.pitbpa.fios.verizon.net) has joined #l/a/nguage
+T 1336725497 23*	23Sabactora has quit (23Quit: Bai Bai23)
+T 1336725689 19*	19Eggmun (Eggmun@Rizon-7EA4C3D9.dyn.iinet.net.au) has joined #l/a/nguage
+T 1336725895 19*	19Sabactora (~Sabactora@Rizon-96867241.hsd1.ca.comcast.net) has joined #l/a/nguage
+T 1336725932 23*	23Master_Bacon has quit (23Read error: Connection reset by peer23)
+T 1336725935 22*	Sleep-kun is now known as Guy-kun
+T 1336725963 22*	Eggmun is now known as WebEgg
+T 1336725986 19*	19Master_Bacon (~chatzilla@Rizon-3194EF44.socal.res.rr.com) has joined #l/a/nguage
+T 1336725992 22*	WebEgg is now known as Eggmun
+T 1336726208 23*	23Sabactora has quit (2323)
+T 1336728258 23*	23Guy-kun has quit (23Quit: zzz...23)
+T 1336728519 23*	23ayahuasca has quit (23Read error: Connection reset by peer23)
+T 1336728573 19*	19ayahuasca (~fate@say.no.to.drugs.2324) has joined #l/a/nguage
+T 1336728683 23*	23Lue` has quit (23Ping timeout: 240 seconds23)
+T 1336729841 19*	19Herpa_Von_Derpus (~beatrikkr@3EDDA74F.6011525D.13EFF8F6.IP) has joined #l/a/nguage
+T 1336730015 23*	23Dutchguy has quit (23Remote host closed the connection23)
+T 1336730723 19*	19Dutchguy (~Dutchguy@I.Love.Manami.Tamura) has joined #l/a/nguage
+T 1336732576 23*	23Dutchguy has quit (23Remote host closed the connection23)
+T 1336732890 19*	19Dutchguy (~Dutchguy@I.Love.Manami.Tamura) has joined #l/a/nguage
+T 1336733174 19*	19Sabactora (~Sabactora@Rizon-96867241.hsd1.ca.comcast.net) has joined #l/a/nguage
+T 1336735913 19*	19Teobeat (~chatzilla@Rizon-7E1401E1.ctb.ne.jp) has joined #l/a/nguage
+T 1336738120 23*	23Dutchguy has quit (23Read error: Connection reset by peer23)
+T 1336738632 19*	19yoroppa (~Dan@3170880B.68E5AD8A.C3B11C1C.IP) has joined #l/a/nguage
+T 1336739332 23*	23Herpa_Von_Derpus has quit (23Ping timeout: 240 seconds23)
+T 1336739394 19*	19Herpa_Von_Derpus (~beatrikkr@3EDDA74F.6011525D.13EFF8F6.IP) has joined #l/a/nguage
+T 1336739677 19*	19Master_Bacon_ (~chatzilla@Rizon-3194EF44.socal.res.rr.com) has joined #l/a/nguage
+T 1336739753 19*	19knizz (~knizz@8F7FA67D.2585BE6E.20476D1.IP) has joined #l/a/nguage
+T 1336739757 23*	23Master_Bacon has quit (23Ping timeout: 240 seconds23)
+T 1336739759 22*	Master_Bacon_ is now known as Master_Bacon
+T 1336740071 23*	23Master_Bacon has quit (23Ping timeout: 240 seconds23)
+T 1336740083 19*	19Eden` (~Dyxanije@love.and.piece) has joined #l/a/nguage
+T 1336740376 19*	19newfriends (~newfriend@Rizon-7A71012B.bstnma.fios.verizon.net) has joined #l/a/nguage
+T 1336740493 23*	23Herpa_Von_Derpus has quit (23Read error: Connection reset by peer23)
+T 1336740511 19*	19Dutchguy (~Dutchguy@I.Love.Manami.Tamura) has joined #l/a/nguage
+T 1336740513 19*	19Herpa_Von_Derpus (~beatrikkr@3EDDA74F.6011525D.13EFF8F6.IP) has joined #l/a/nguage
+T 1336740810 19*	19deady_83 (~user@6939123.EB6C8B6D.29DFD5FD.IP) has joined #l/a/nguage
+T 1336740850 19*	19KidDynamite (~theGOAT@Rizon-439CD1CC.nwrknj.fios.verizon.net) has joined #l/a/nguage
+T 1336742168 19*	19Now talking on #l/a/nguage
+T 1336742168 29*	29Topic for #l/a/nguage 29is: Learning Japanese, the lazy way | Resources: http://pastebin.com/KaWcfU4K | Try to read this! Issunboushi: http://www.mediafire.com/?k8pna1t0ys9fyyf | 5Haven't done anything today? Do it NOW 29| Now, more children's books! http://tinyurl.com/8x42uxk
+T 1336742168 29*	29Topic for #l/a/nguage 29set by Transfer-kun!~Love@Love.Transfer.Coordinator 29at Wed Feb  1 20:39:20 2012
+T 1336742648 19*	19tokoitoskue-m (~toko@Rizon-B8243C21.dsl.bell.ca) has joined #l/a/nguage
+T 1336742873 19*	19Jejuni (~Jejuni@Rizon-3829C142.pool.mediaways.net) has joined #l/a/nguage
+T 1336742918 23*	23knizz has quit (23Remote host closed the connection23)
+T 1336742942 19*	19knizz (~knizz@8F7FA67D.2585BE6E.20476D1.IP) has joined #l/a/nguage
+T 1336743137 23*	23Dutchguy has quit (23Remote host closed the connection23)
+T 1336743146 19*	19hekemoko (~UserID@Rizon-551EE1B1.adsl.ppp.infoweb.ne.jp) has joined #l/a/nguage
+T 1336743162 18<hekemoko>	こんばんは。ごきげんいかが。
+T 1336743764 19*	19Sabactora (~Sabactora@Rizon-96867241.hsd1.ca.comcast.net) has joined #l/a/nguage
+T 1336743999 23*	23Herpa_Von_Derpus has quit (23Read error: Connection reset by peer23)
+T 1336744014 19*	19Herpa_Von_Derpus (~beatrikkr@3EDDA74F.6011525D.13EFF8F6.IP) has joined #l/a/nguage
+T 1336744316 18<deady_83>	こんばんは|ω・｀)ﾉ ﾔｧ
+T 1336744346 18<hekemoko>	(^^ゞ
+T 1336744613 18<deady_83>	＜＜日本語が少しわかります
+T 1336744687 18<hekemoko>	アニメは sub なしでも見られますか
+T 1336744961 18<deady_83>	since im still newbie are u asking me if i watch anime without sub ? lol ...
+T 1336744987 18<hekemoko>	Yeah.  You got it.
+T 1336745005 18<hekemoko>	How long have you been studying?
+T 1336745012 18<deady_83>	hmm 6 month <_>
+T 1336745067 18<hekemoko>	That means you are not really a newbie.
+T 1336745067 18<deady_83>	using the minna no nihongo book ~ ...next July probably going to use the second book ..
+T 1336745097 18<hekemoko>	Do you follow the learn Japanese thread on /a/?
+T 1336745115 18<deady_83>	yeah recently 
+T 1336745124 18<deady_83>	and it help i guess
+T 1336745151 18<hekemoko>	It'll give you good motivation.
+T 1336745170 18<hekemoko>	Where are you from?
+T 1336745184 18<deady_83>	Malaysia anyway ~
+T 1336745200 18<deady_83>	Im okay with reading Hira and Kata ..just kanji to focus nowadays
+T 1336745220 18<deady_83>	and some of the way of using the particles correctly ..
+T 1336745240 18<hekemoko>	Particles are always the hardest part.
+T 1336745295 18<deady_83>	btw how about your level ?
+T 1336745322 18<hekemoko>	I'm wizard level.
+T 1336745347 18<yoroppa>	heke has inbuilt hacks ;_;
+T 1336745368 18<hekemoko>	lol
+T 1336745391 18<Quagles>	Ah fuck exams 
+T 1336745395 18<hekemoko>	わたしは日本人です
+T 1336745395 18<deady_83>	so nice i can bombard with some question if i have then x3
+T 1336745451 18<deady_83>	a real life nihon ... 
+T 1336745463 18<hekemoko>	Yea they exist.
+T 1336745469 18<deady_83>	IN IRC 
+T 1336745487 18<hekemoko>	on /a/
+T 1336745499 18<deady_83>	^ was about to type
+T 1336745539 18<hekemoko>	Don't worry.  I learned English through reading /a/.
+T 1336745539 18<yoroppa>	all 2 of them
+T 1336745556 23*	23absolutezero has quit (2323)
+T 1336745587 18<hekemoko>	Do they run anime on Malasian tv?
+T 1336745598 18<deady_83>	hmm yeah they do 
+T 1336745600 18<Jazzu>	I think so
+T 1336745603 18<Jazzu>	animax asia
+T 1336745609 18<deady_83>	those typical bleach ..naruto ..
+T 1336745624 18<deady_83>	then there's animax .... to cater some kids ~
+T 1336745684 18<deady_83>	im kinda busy these day with assignment ...only wait for Fourze every week 
+T 1336745727 18<hekemoko>	I heard Malaysia is pious Muslim country.  Is it okay to air some violent stuff like Japanese kids anime?
+T 1336745747 18<deady_83>	PIOUS ...LOL
+T 1336745849 18<deady_83>	nah :P i think the local drama is much more violent 
+T 1336745872 18<hekemoko>	Malaysian slice of life.
+T 1336745886 18<deady_83>	it is indeed a Muslim country but ...we do have anime convention every year
+T 1336745895 18<hekemoko>	Cute Malaysian doing cute things.
+T 1336745899 18<deady_83>	improve with .....tons of cosplayer even muslim cosplayer lolz
+T 1336745914 18<deady_83>	there's AFA this June ... 
+T 1336745922 18<hekemoko>	Cosplayers....they have nerves.
+T 1336745952 18<deady_83>	Kalafina,Maon Kurosaki, and Kotoko coming this year
+T 1336745976 18<hekemoko>	Can you name some Malaysian character in anime?
+T 1336745990 18<deady_83>	exist ? never heard yo
+T 1336746060 18<deady_83>	, _ , not even Hetalia for us ..ahahaah
+T 1336746061 18<hekemoko>	Or an anime that has its setting in Malaysia.
+T 1336746089 18<hekemoko>	Black Lagoon is...Thai?
+T 1336746117 23*	23Sabactora (23~Sabactora@Rizon-96867241.hsd1.ca.comcast.net) has left #l/a/nguage
+T 1336746118 18<deady_83>	i dont watch Black lagoon cant really say ~ 
+T 1336746271 18<hekemoko>	I'm watching this http://www.youtube.com/watch?v=l85y_CcmJqg
+T 1336746292 18<deady_83>	oh Doraemon ...
+T 1336746302 18<deady_83>	its still airing here 
+T 1336746323 18<hekemoko>	In Japan, too
+T 1336746350 18<hekemoko>	Doraemon is never popular outside Asian countries.
+T 1336746383 18<hekemoko>	May be because MC is the absolute beta.
+T 1336746387 18<deady_83>	hmm i think its quite popular here ...
+T 1336746425 18<hekemoko>	Yeah, south east Asia is a part of Asia.
+T 1336746458 18<deady_83>	we aired shin chan ...after that doraemon 
+T 1336746459 18<hekemoko>	It's not popular among Euro and US
+T 1336746477 18<hekemoko>	Perfect combo.
+T 1336746515 18<deady_83>	probably bcoz US have their english cartoon to cater the young kids ? ~~~
+T 1336746519 18<hekemoko>	But Shin chan shows his ass?
+T 1336746534 18<deady_83>	yah shin chan also flirt with his teacher .... - _ - 
+T 1336746547 18<deady_83>	srsly i dunno how people do all this filtering in this country ahaha
+T 1336746568 23*	23Herpa_Von_Derpus has quit (2323)
+T 1336746592 18<deady_83>	maybe thanks to the shin chan style of drawing they dont really thing its a big deal 
+T 1336746647 23*	23knizz has quit (2323)
+T 1336746652 18<hekemoko>	That feel you'll never watch new episode of shin chan.
+T 1336746661 18<hekemoko>	Sad frog.jpg
+T 1336746710 18<deady_83>	hmm that remind me i have to watch that Fourze x Shin chan \o/
+T 1336746730 19*	19tokoitoskue (~tokoitosk@Rizon-B8243C21.dsl.bell.ca) has joined #l/a/nguage
+T 1336746760 18<hekemoko>	Kamen rider?
+T 1336746776 18<deady_83>	yeah you watch it ?
+T 1336746816 18<hekemoko>	But his head shape was weird.
+T 1336746867 18<hekemoko>	This season I watch only akiba ranger for tokusatsu.
+T 1336746900 18<deady_83>	the storyline is quite nice for me .. all the actors is cute too ...
+T 1336746964 18<deady_83>	i watch botch akibaranger and go buster 
+T 1336746979 18<deady_83>	both~
+T 1336747003 18<yoroppa>	akibaranger is so good
+T 1336747015 18<hekemoko>	It's hilarious.
+T 1336747070 18<yoroppa>	AND it has cute girls
+T 1336747073 18<deady_83>	its fun when you really into anime term 
+T 1336747085 18<hekemoko>	And Sexy antagonist.
+T 1336747104 18<hekemoko>	Actually, she is a porn actress.
+T 1336747118 18<yoroppa>	hahaha
+T 1336747120 18<deady_83>	well thats new for me then ...
+T 1336747154 18<yoroppa>	cool, she fits the role as 'bad girl'
+T 1336747168 18<hekemoko>	Yeah, being hot is a sin.
+T 1336747203 18<yoroppa>	well there's beautiful-hot and sexy-dangerous-hot
+T 1336747218 18<deady_83>	example ^ ahaha
+T 1336747243 23*	23takko has quit (23Quit: get satisfied!  :: core-networks.de ««« (Gamers.IRC) »»» gamersirc.net ::23)
+T 1336747245 18<hekemoko>	Female antagonist is always kind a sexy in kids show.
+T 1336747307 18<hekemoko>	Their costume barely covers theyir body.
+T 1336747332 18<deady_83>	pretty cure is still normal ...right ?
+T 1336747375 18<deady_83>	hmm then again ;p adult watch em 
+T 1336747392 18<hekemoko>	No kids watch akiba rangers.
+T 1336747423 18<hekemoko>	And only adult gentlemen watch precure.
+T 1336747482 18<deady_83>	i see that explain my friend huh 
+T 1336747487 18<deady_83>	as for akibaranger
+T 1336747543 18<deady_83>	ending credit got a few kids ...
+T 1336747605 18<hekemoko>	Kids today don't need a sexy character in their tv show.
+T 1336747630 18<yoroppa>	nah they all have access to porn~
+T 1336747632 18<hekemoko>	They just go on internet and watch tons of hard core porn.
+T 1336747893 18<deady_83>	they get bored later zzz
+T 1336748376 19*	19Nuudoru (Farbror@Rizon-82A5554E.tbcn.telia.com) has joined #l/a/nguage
+T 1336748442 23*	23Farbror has quit (23Ping timeout: 240 seconds23)
+T 1336748565 19*	19Dutchguy (~Dutchguy@I.Love.Manami.Tamura) has joined #l/a/nguage
+T 1336749836 18<deady_83>	anyway @hekemoko about the doraemon ... the Toyota ads is pretty famous even outside asia :P
+T 1336749856 18<deady_83>	and ja ne ~ おやすみ
+T 1336749868 23*	23deady_83 has quit (23Quit: Leaving.23)
+T 1336749884 18<hekemoko>	おやすみー
+T 1336750154 18<yoroppa>	ノシ
+T 1336750435 23*	23Dutchguy has quit (23Remote host closed the connection23)
+T 1336750447 19*	19Dutchguy (~Dutchguy@I.Love.Manami.Tamura) has joined #l/a/nguage
+T 1336750642 22*	sleepycake is now known as coffeecake
+T 1336750689 18<coffeecake>	おっは～（＊´∀`）ノ
+T 1336750708 18<hekemoko>	明るいなあ
+T 1336750734 18<coffeecake>	いや～、やっぱ朝からコーヒーは最高ですわ～
+T 1336750814 18<greyEAX>	あんたたち
+T 1336750823 18<greyEAX>	really like to drag out your vowels, hih?
+T 1336750825 18<greyEAX>	*huh
+T 1336750856 18<coffeecake>	Well, I do. :x
+T 1336750861 18<hekemoko>	朝は味噌汁だろふつう・・・
+T 1336750890 18<coffeecake>	日本にいたときそうだったね
+T 1336750946 18<greyEAX>	isn't it rather effeminate for guys though?
+T 1336750950 18<greyEAX>	not that i care
+T 1336751028 18<coffeecake>	僕は男でも女でもない
+T 1336751029 18<hekemoko>	May be （＊´∀`）ノ this is not forgiven on /a/.
+T 1336751035 18<coffeecake>	ただのケーキだよ
+T 1336751049 18<hekemoko>	But this is l/a/nguage.  It's totally ok.
+T 1336751050 18<coffeecake>	I don't go on /a/ (normally)
+T 1336751075 18<hekemoko>	Only emoticon allowed on /a/ may be ; ; .
+T 1336751087 18<coffeecake>	Or QQ maybe
+T 1336751123 18<hekemoko>	ところでcake絵師
+T 1336751160 18<coffeecake>	？
+T 1336751246 18<hekemoko>	コミポでマンガ作ったんだけど、英語チェックしてくれる？
+T 1336751295 18<coffeecake>	コミポ？
+T 1336751309 18<hekemoko>	http://www.dotup.org/uploda/www.dotup.org2971094.jpg
+T 1336751313 18<coffeecake>	いいけど
+T 1336751335 18<hekemoko>	マンガ版の初音ミクみたいなもん
+T 1336751357 18<coffeecake>	！？ｗｗ
+T 1336751437 18<hekemoko>	元の日本語版はこれ http://www.dotup.org/uploda/www.dotup.org2971115.jpg
+T 1336751462 18<hekemoko>	伝わってる？なんかおかしいとこあったら教えて
+T 1336751514 18<coffeecake>	だいたい理解できた
+T 1336751522 18<coffeecake>	けどやっぱりせりふはちょっとね
+T 1336751553 18<hekemoko>	どう直せばいいかしら
+T 1336751629 18<coffeecake>	たとえば"which will surprise you not much at first, but afterward it will"のかわりに"Which doesn't seem surprising at first, but you'll see"の方が自然だね
+T 1336751648 18<hekemoko>	なーる
+T 1336751664 18<coffeecake>	あとはいいかな
+T 1336751685 18<hekemoko>	コミポおもしろいよ。ちょっと遊んでる。
+T 1336751695 18<coffeecake>	ほー
+T 1336751698 18<hekemoko>	ありがとう！
+T 1336751704 18<coffeecake>	ところでコミポて何？
+T 1336751721 18<hekemoko>	3Dモデル組み合わせてマンガ作るソフト
+T 1336751730 18<coffeecake>	おお
+T 1336751735 18<coffeecake>	おもしろそう
+T 1336751789 18<hekemoko>	絵がかけなくてもこの程度なら作れるからぶきっちょに好評ｗ
+T 1336751804 18<Deet->	why is pan (bread) written in katakana?
+T 1336751820 18<coffeecake>	Because it's not a Japanese word.
+T 1336751835 18<Deet->	who calls bread pan?
+T 1336751837 18<hekemoko>	Pan is portguese?
+T 1336751838 18<coffeecake>	Spanish.
+T 1336751844 18<coffeecake>	Or portugese.
+T 1336751844 18<Deet->	what
+T 1336751854 18<coffeecake>	I know the Spanish call bread "pan".
+T 1336751935 18<hekemoko>	Many europeen things were introduced into Japan by Spanish and Portugese.
+T 1336751941 18<coffeecake>	Yeah.
+T 1336751946 18<coffeecake>	Like "part-time job". :V
+T 1336751957 18<coffeecake>	(which is a german word lol)
+T 1336752057 18<hekemoko>	アルバイト
+T 1336752122 18<hekemoko>	「サボる」 is from French word "sabotage".
+T 1336752195 18<coffeecake>	You mean like 授業サボる？
+T 1336752210 18<hekemoko>	Yeah.  Neglect?
+T 1336752212 19*	19Raakile (Raakile@help.I.am.trapped.in.a.vhost.factory) has joined #l/a/nguage
+T 1336752230 18<yoroppa>	speaking of, half my class showed up drunk today
+T 1336752253 18<coffeecake>	haha
+T 1336752294 18<hekemoko>	But it's still Friday, right? 
+T 1336752301 18<yoroppa>	yup
+T 1336752340 18<hekemoko>	Is it okay to drink all night on Thursday in Norway?
+T 1336752359 18<yoroppa>	if you're a student around graduation time
+T 1336752366 18<coffeecake>	My coworkers show up half-drunk the next day after drinking all night. :V
+T 1336752390 18<hekemoko>	At least they show up.
+T 1336752411 18<yoroppa>	hopefully you're not a trucker or something
+T 1336752547 18<hekemoko>	They say in Russia, drinking small amount of alcohol while driving is totally ok.
+T 1336752592 18<coffeecake>	Nah, marketing.
+T 1336752616 18<coffeecake>	It's a pretty laxed job, and they still do their work diligently.
+T 1336752618 18<yoroppa>	well there's a limit to how much alcohol you need in your blood for it to be illegal here too
+T 1336752638 18<coffeecake>	Most of these guys use the bus to get here too, no laws broken.
+T 1336752669 18<yoroppa>	under 0,2 blood alcohol whatevers and you're good to go
+T 1336752678 18<hekemoko>	In Soviet Russia...law broke people.
+T 1336752700 18<coffeecake>	0.2? Man, that's pretty high. lol
+T 1336752705 18<coffeecake>	In California it's 0.08.
+T 1336752750 18<yoroppa>	yeah most people won't bother risking it though
+T 1336752757 18<yoroppa>	you can drive a boat while completely smashed though
+T 1336752762 18<hekemoko>	In Japan, when you blow into cop's face and they smell alcohol, you are guilty.
+T 1336752787 23*	23Quagles has quit (23Read error: Connection reset by peer23)
+T 1336752804 18<hekemoko>	In Japanese, "bloaw a boat" means dozing off.
+T 1336752807 18<yoroppa>	driving while you're drunk is retarded anyway and should be severely punished
+T 1336752816 19*	19Quagles (Quagles@F8C5D14F.6F5ADC43.60100D2C.IP) has joined #l/a/nguage
+T 1336752824 18<coffeecake>	Yeah, they seem to use their judgment in terms of when to enforce laws.
+T 1336752832 18<coffeecake>	Which is both good and bad.
+T 1336752977 18<yoroppa>	this really shouldn't make me laugh as much as it does http://www.youtube.com/watch?v=5axZBLvkwvY&feature=relmfu
+T 1336753054 18<coffeecake>	It does look like Australia. hahaha
+T 1336753095 18<hekemoko>	 Those small chocolate flakes... I used to love eating them when I was young.
+T 1336753116 18<hekemoko>	Isn't this cooking with dog?
+T 1336753174 18<yoroppa>	nah,  those vidoes are just creepy
+T 1336753234 18<yoroppa>	this is the best one http://www.youtube.com/watch?NR=1&feature=endscreen&v=N2mIbgwfDXk
+T 1336753294 18<hekemoko>	What the fuck am I watching?
+T 1336753313 18<coffeecake>	I shouldn't be laughing so hard at these...
+T 1336753361 18<yoroppa>	yup that's my conclusion too, there's no reason for that to be funny
+T 1336753376 23*	23tokoitoskue-m has quit (23Ping timeout: 240 seconds23)
+T 1336753622 18<hekemoko>	talking of Youtube, you must all watch this and sing it in Japanese http://www.youtube.com/watch?v=fioVXnCgQ-U
+T 1336753718 18<yoroppa>	star wars in japanese? uh oh
+T 1336753727 18<hekemoko>	Now something inside you died.
+T 1336753744 18<yoroppa>	my childhood memories
+T 1336753755 18<coffeecake>	これはｗｗｗｗｗ
+T 1336753769 18<hekemoko>	This arrangement is actually nice.
+T 1336753785 18<coffeecake>	てか画質はすごい
+T 1336753840 18<hekemoko>	曲もすごいよ！
+T 1336753865 18<yoroppa>	凄く悪い
+T 1336753907 19*	19Sabactora (~Sabactora@Rizon-96867241.hsd1.ca.comcast.net) has joined #l/a/nguage
+T 1336754010 18<hekemoko>	This is freakingly funny, too.  http://www.youtube.com/watch?v=ozoTzkCeO-A
+T 1336754178 18<yoroppa>	oh lawd
+T 1336754215 18<hekemoko>	Were they all on drugs in those days?
+T 1336754238 18<hekemoko>	Enforcement of hapiness.
+T 1336754438 23*	23Teobeat has quit (23Ping timeout: 240 seconds23)
+T 1336754865 23*	23Sabactora has quit (23Quit: Bai Bai23)
+T 1336755200 23*	23oru has quit (23Quit: {#`%${%&`+'${`%&NO CARRIER")23)
+T 1336755433 19*	19oru (~oru@Rizon-44785A63.hsd1.ca.comcast.net) has joined #l/a/nguage
+T 1336756902 18<hekemoko>	寝オチ・・・
+T 1336756911 23*	23hekemoko has quit (23Quit: hekemoko23)
+T 1336757427 18<Quagles>	Too bad diablo 3 isnt in japanese
+T 1336757572 18<yoroppa>	i'd be practicing 8 hours a day then~
+T 1336758845 22*	Eggmun is now known as Eggmun|Away
+T 1336759465 23*	23dbx10 has quit (23Quit: get satisfied!  :: core-networks.de ««« (Gamers.IRC) »»» gamersirc.net ::23)
+T 1336760038 19*	19Sabactora (~Sabactora@Rizon-96867241.hsd1.ca.comcast.net) has joined #l/a/nguage
+T 1336760061 19*	19BlueDo (~BlueDo@Rizon-9965492D.dynamic2.rpi.edu) has joined #l/a/nguage
+T 1336760431 23*	23BlueDo has quit (23Ping timeout: 240 seconds23)
+T 1336760548 19*	19BlueDo (~BlueDo@Rizon-9965492D.dynamic2.rpi.edu) has joined #l/a/nguage
+T 1336761096 19*	19knizz (~knizz@Rizon-9D307BF4.cust.tele2.at) has joined #l/a/nguage
+T 1336762541 18<coffeecake>	Still waiting for Skullgirls to be released in Japan.
+T 1336762545 18<coffeecake>	..well, officially anyway.
+T 1336762558 18<coffeecake>	Wanna see what type of strategies and shit they'd come up with.
+T 1336762630 23*	23knizz has quit (2323)
+T 1336762674 19*	19WebEgg (WebEgg@Rizon-7EA4C3D9.dyn.iinet.net.au) has joined #l/a/nguage
+T 1336762846 23*	23Eggmun|Away has quit (23Ping timeout: 240 seconds23)
+T 1336763849 23*	23Sabactora has quit (23Quit: Bai Bai23)
+T 1336765905 19*	19takko (~tacocat@Rizon-F4D47ABC.superkabel.de) has joined #l/a/nguage
+T 1336765946 19*	19emer (~emer@Rizon-8A7114B7.tbcn.telia.com) has joined #l/a/nguage
+T 1336766727 19*	19Lue` (Lue@B6286C53.4FBDC599.49018D32.IP) has joined #l/a/nguage
+T 1336767313 18<Dutchguy>	Got all the genki vocab that was worth learning according to the guy who made the list
+T 1336767324 18<Dutchguy>	time to remake the assignments of the last 3 chapters
+T 1336767539 23*	23BlueDo has quit (23Ping timeout: 240 seconds23)
+T 1336767900 18<Dutchguy>	If I'd want to say "Mary is calling her friend", would it be メアリは友達に電話をかけている。?
+T 1336767910 18<Dutchguy>	or some other particle?
+T 1336767994 22*	coffeecake is now known as finalcake
+T 1336769513 23*	23Lue` has quit (23Ping timeout: 240 seconds23)
+T 1336770796 19*	19DragonDread (~DragonDre@pon.pon.pata.pon) has joined #l/a/nguage
+T 1336770960 23*	23oru has quit (23Quit: {#`%${%&`+'${`%&NO CARRIER")23)
+T 1336771163 19*	19oru (~oru@folding.paper.at.home) has joined #l/a/nguage
+T 1336771514 19*	19Guy-kun (~Guy-kun@moe.moe.kyun) has joined #l/a/nguage
+T 1336771918 23*	23Konpeki has quit (23Ping timeout: 240 seconds23)
+T 1336772218 19*	19Sabactora (~Sabactora@Rizon-96867241.hsd1.ca.comcast.net) has joined #l/a/nguage
+T 1336772767 23*	23WebEgg has quit (23Remote host closed the connection23)
+T 1336772777 19*	19WebEgg (WebEgg@Rizon-7EA4C3D9.dyn.iinet.net.au) has joined #l/a/nguage
+T 1336772985 19*	19Raaklie (Raakile@Rizon-584DAB.bb.dnainternet.fi) has joined #l/a/nguage
+T 1336772986 19*	19Aelwain_ (~Aelwain@Rizon-F9307ACA.haye.cable.virginmedia.com) has joined #l/a/nguage
+T 1336772988 23*	23Raakile has quit (23Killed (NickServ (GHOST command used by Raaklie))23)
+T 1336772991 22*	Raaklie is now known as Raakile
+T 1336773040 19*	19Deet_ (~zigzagoon@Rizon-1E493431.tbcn.telia.com) has joined #l/a/nguage
+T 1336773047 23*	23Deet- has quit (23Killed (NickServ (GHOST command used by Deet_))23)
+T 1336773048 22*	Deet_ is now known as Deet-
+T 1336773133 23*	23Aelwain has quit (23Ping timeout: 240 seconds23)
+T 1336773657 23*	23Dutchguy has quit (23Quit: Leaving23)
+T 1336774686 23*	23emer has quit (23Quit: Quiting23)
+T 1336775518 23*	23Deet- has quit (23Quit: hello23)
+T 1336775931 19*	19orlyhauz (~wircer@Rizon-A140A618.tbcn.telia.com) has joined #l/a/nguage
+T 1336776129 23*	23orlyhauz (23~wircer@Rizon-A140A618.tbcn.telia.com) has left #l/a/nguage (23wIRC23)
+T 1336776797 23*	23newfriends has quit (23Quit: Leaving23)
+T 1336777510 23*	23Jejuni has quit (23Quit: それでは、よき死出の旅を23)
+T 1336778848 19*	19s2s2 (~s2s2@Rizon-D09460CE.nc.res.rr.com) has joined #l/a/nguage
+T 1336778918 23*	23s2s2 (23~s2s2@Rizon-D09460CE.nc.res.rr.com) has left #l/a/nguage

@@ -1,0 +1,3 @@
+T 1329587561 31<TheShadowFog>30	!flood
+T 1329587568 23*	23JimmuN has quit (23Connection reset by peer23)
+T 1329587713 23*	23JimmuN has quit (23Connection reset by peer23)

@@ -1,0 +1,8 @@
+T 1336340353 18<Borsalino>	hi
+T 1336340373 31<Annex>30	hi..
+T 1336340386 18<Borsalino>	how are you ?
+T 1336340391 31<Annex>30	good
+T 1336340398 18<Borsalino>	Do you speak Japanese?
+T 1336340403 31<Annex>30	not really
+T 1336344451 23*	23Borsalino has quit (23Ping timeout: 240 seconds23)
+T 1336346415 23*	23Borsalino has quit (2323)

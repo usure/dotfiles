@@ -1,0 +1,3 @@
+T 1328915339 19*	19Now talking on #savoq
+T 1328915339 22*	irc.pantsuland.net sets mode +n #savoq
+T 1328915339 22*	irc.pantsuland.net sets mode +t #savoq

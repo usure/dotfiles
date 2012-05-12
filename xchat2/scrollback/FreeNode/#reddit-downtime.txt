@@ -1,0 +1,699 @@
+T 1336742163 28-29ChanServ28-	[#reddit-downtime] Welcome to #reddit-downtime. You're here because reddit is down or you were redirected from #reddit, probably due to not being registered with freenode. For information, type /msg NickServ help register
+T 1336742821 23*	23iocor has quit (23Quit: Computer has gone to sleep.23)
+T 1336742866 23*	23elm36 has quit (23Quit: elm3623)
+T 1336742894 23*	23Verie has quit (23Quit:  HydraIRC -> http://www.hydrairc.com <- Wibbly Wobbly IRC23)
+T 1336742896 23*	23Kaisii has quit (23Ping timeout: 244 seconds23)
+T 1336742914 23*	23h4mz1d has quit (23Ping timeout: 256 seconds23)
+T 1336743306 19*	19[r4] (~Miranda@194.237.142.17) has joined #reddit-downtime
+T 1336743411 19*	19ohhoe (~rachel@97.86.161.242) has joined #reddit-downtime
+T 1336743472 19*	19tonkar (~anon@541E2DDB.cm-5-7a.dynamic.ziggo.nl) has joined #reddit-downtime
+T 1336743535 23*	23tonkar (23~anon@541E2DDB.cm-5-7a.dynamic.ziggo.nl) has left #reddit-downtime
+T 1336743552 23*	23ohhoe (23~rachel@97.86.161.242) has left #reddit-downtime
+T 1336743719 19*	19nstinson (~nathansti@67-60-10-146.cpe.cableone.net) has joined #reddit-downtime
+T 1336743749 19*	19joram (817d29b0@gateway/web/freenode/ip.129.125.41.176) has joined #reddit-downtime
+T 1336743751 18<joram>	hello
+T 1336743753 18<joram>	berro
+T 1336743756 18<joram>	box
+T 1336743835 19*	19JonneDOLAN (817d29b8@gateway/web/freenode/ip.129.125.41.184) has joined #reddit-downtime
+T 1336743836 19*	19dolan (817d29b0@gateway/web/freenode/ip.129.125.41.176) has joined #reddit-downtime
+T 1336743839 18<dolan>	box
+T 1336743843 18<JonneDOLAN>	gooby
+T 1336743849 18<dolan>	BOX
+T 1336743856 18<dolan>	actully dolan
+T 1336743864 18<JonneDOLAN>	com bailz me out
+T 1336743871 18<dolan>	stil hier
+T 1336743876 18<dolan>	lik a som bo deeeee
+T 1336743880 18<JonneDOLAN>	hallo dames en heren
+T 1336743881 23*	23thecreators has quit (23Quit: thecreators23)
+T 1336743885 18<dolan>	doei\
+T 1336743886 18<JonneDOLAN>	biq boy
+T 1336743892 18<dolan>	fack a ou
+T 1336743894 18<JonneDOLAN>	\qiot
+T 1336743898 18<JonneDOLAN>	\quit
+T 1336743910 18<JonneDOLAN>	i hav biq ordahh 4 uuuuu
+T 1336743910 18<dolan>	\fail
+T 1336743912 23*	23nstinson (23~nathansti@67-60-10-146.cpe.cableone.net) has left #reddit-downtime
+T 1336743913 18<JonneDOLAN>	5000 dowlah
+T 1336743915 18<dolan>	biccc boi
+T 1336743920 18<dolan>	iedereen gaat weg box
+T 1336743928 18<JonneDOLAN>	ja man
+T 1336743931 18<dolan>	loll
+T 1336743931 18<JonneDOLAN>	ik wil mijn naam vernaderen
+T 1336743933 18<JonneDOLAN>	veranderen
+T 1336743935 18<dolan>	\name box
+T 1336743935 23*	23zoite (23zoite@unaffiliated/zoite) has left #reddit-downtime (23"Leaving"23)
+T 1336743937 18<JonneDOLAN>	nice
+T 1336743941 18<dolan>	bye
+T 1336743944 18<dolan>	bye3
+T 1336743948 18<JonneDOLAN>	\quit dolan sux
+T 1336743949 18<dolan>	herro arie gold
+T 1336743957 19*	19Rinsmaster (~Thomas@5ED69697.cm-7-7c.dynamic.ziggo.nl) has joined #reddit-downtime
+T 1336743960 18<dolan>	HOI
+T 1336743961 18<JonneDOLAN>	\arie
+T 1336743962 22*	redditalien sets mode +q #reddit-downtime *!817d29b0@*
+T 1336743969 18<JonneDOLAN>	\rood dolan
+T 1336743979 18<JonneDOLAN>	\ dolan is
+T 1336743986 18<JonneDOLAN>	hallo
+T 1336743992 18<JonneDOLAN>	arie
+T 1336743996 18<JonneDOLAN>	bogs
+T 1336744000 18<JonneDOLAN>	jonne
+T 1336744026 23*	23joram has quit (23Ping timeout: 245 seconds23)
+T 1336744077 19*	19mechler (~mechler@207.177.28.54) has joined #reddit-downtime
+T 1336744086 18<JonneDOLAN>	CAPS LOCK RAGE
+T 1336744106 18<JonneDOLAN>	WAT IS DIT
+T 1336744107 22*	redditalien sets mode +q #reddit-downtime *!817d29b8@*
+T 1336744113 19*	19DOLAN_ (817d29b0@gateway/web/freenode/ip.129.125.41.176) has joined #reddit-downtime
+T 1336744210 19*	19ArieGold (817d29b0@gateway/web/freenode/ip.129.125.41.176) has joined #reddit-downtime
+T 1336744267 22*	redditalien sets mode -q #reddit-downtime *!817d29b0@*
+T 1336744292 23*	23N7 has quit (23Ping timeout: 244 seconds23)
+T 1336744314 19*	19jay456 (c633b3fe@gateway/web/freenode/ip.198.51.179.254) has joined #reddit-downtime
+T 1336744333 23*	23cron has quit (23Ping timeout: 240 seconds23)
+T 1336744351 23*	23dolan has quit (23Ping timeout: 245 seconds23)
+T 1336744362 23*	23jay456 (23c633b3fe@gateway/web/freenode/ip.198.51.179.254) has left #reddit-downtime
+T 1336744367 19*	19cron (cron@bunker.unvanquished.net) has joined #reddit-downtime
+T 1336744376 23*	23DOLAN_ has quit (23Ping timeout: 245 seconds23)
+T 1336744381 23*	23cron has quit (23Changing host23)
+T 1336744381 19*	19cron (cron@unvanquished/developer/cron) has joined #reddit-downtime
+T 1336744432 22*	redditalien sets mode -q #reddit-downtime *!817d29b8@*
+T 1336744551 23*	23JonneDOLAN has quit (23Ping timeout: 245 seconds23)
+T 1336744626 23*	23ArieGold has quit (23Ping timeout: 245 seconds23)
+T 1336744650 23*	23cron has quit (23Ping timeout: 252 seconds23)
+T 1336744666 19*	19cron (cron@bunker.unvanquished.net) has joined #reddit-downtime
+T 1336744669 19*	19Kaisii (~kaisii@103.23.148.175) has joined #reddit-downtime
+T 1336744677 23*	23cron has quit (23Changing host23)
+T 1336744678 19*	19cron (cron@unvanquished/developer/cron) has joined #reddit-downtime
+T 1336744681 19*	19StoSun (StoSun@c-a9c070d5.026-123-73746f5.cust.bredbandsbolaget.se) has joined #reddit-downtime
+T 1336744727 23*	23StoSun (23StoSun@c-a9c070d5.026-123-73746f5.cust.bredbandsbolaget.se) has left #reddit-downtime
+T 1336744785 19*	19Computer (~Computer@209.16.114.100) has joined #reddit-downtime
+T 1336744834 19*	19yyttrr (~yyttrr@dsl51B6D809.pool.t-online.hu) has joined #reddit-downtime
+T 1336744838 19*	19gzee (~gzee@50-0-108-231.dsl.dynamic.sonic.net) has joined #reddit-downtime
+T 1336744973 19*	19Frozenball (~nop@77.223.33.140) has joined #reddit-downtime
+T 1336744999 19*	19Gz_Chicken (~GzChicken@38.100.120.10) has joined #reddit-downtime
+T 1336745036 23*	23impulse150 has quit (2323)
+T 1336745213 23*	23Noxywoxy has quit (23Quit: *poof*23)
+T 1336745232 23*	23nocture has quit (23Quit: Linkinus - http://linkinus.com23)
+T 1336745324 23*	23gzee (23~gzee@50-0-108-231.dsl.dynamic.sonic.net) has left #reddit-downtime (23"WeeChat 0.3.7"23)
+T 1336745673 19*	19alienatu (~alienatu@79.113.149.239) has joined #reddit-downtime
+T 1336745699 22*	alienatu is now known as Guest1441
+T 1336745817 23*	23Guest1441 has quit (23Changing host23)
+T 1336745817 19*	19Guest1441 (~alienatu@unaffiliated/alienatu) has joined #reddit-downtime
+T 1336745851 22*	Guest1441 is now known as alienatu
+T 1336745959 23*	23rubendv has quit (23Quit: Leaving...23)
+T 1336745967 23*	23thenoodl (23~noodles@fatcat.slumber.eu) has left #reddit-downtime
+T 1336746031 19*	19alexkay94 (~alexkay94@101.119.17.110) has joined #reddit-downtime
+T 1336746035 23*	23alexkay94 (23~alexkay94@101.119.17.110) has left #reddit-downtime
+T 1336746140 19*	19rubendv (~rubendv@unaffiliated/rubendv) has joined #reddit-downtime
+T 1336746182 19*	19Atom138 (~atom138@adsl-74-241-39-155.sdf.bellsouth.net) has joined #reddit-downtime
+T 1336746303 19*	19xjiujiu (~quassel@218.77.14.195) has joined #reddit-downtime
+T 1336746399 19*	19Destos (~Destos@216.16.136.58) has joined #reddit-downtime
+T 1336746433 19*	19rackergeoff (~rackergeo@72.32.115.230) has joined #reddit-downtime
+T 1336746446 19*	19GzChicken (~GzChicken@38.100.120.10) has joined #reddit-downtime
+T 1336746548 19*	19dnstbr (~dnstbr@rrcs-24-227-252-21.sw.biz.rr.com) has joined #reddit-downtime
+T 1336746584 23*	23Gz_Chicken has quit (23Ping timeout: 245 seconds23)
+T 1336746627 23*	23yyttrr has quit (23Remote host closed the connection23)
+T 1336746649 19*	19marsulle_ (~Marsu@60.247.46.46) has joined #reddit-downtime
+T 1336746855 19*	19Kroms (~Kroms@72.37.252.50) has joined #reddit-downtime
+T 1336746923 23*	23alienatu has quit (23Read error: Connection reset by peer23)
+T 1336746960 19*	19wdd` (~WangBange@222-151-095-162.jp.fiberbit.net) has joined #reddit-downtime
+T 1336747318 19*	19GeneralMaximus (~ankur@122.162.9.110) has joined #reddit-downtime
+T 1336747382 19*	19dpac (~dpac@unaffiliated/dpac-/x-3408985) has joined #reddit-downtime
+T 1336747411 23*	23dpac has quit (23Read error: Connection reset by peer23)
+T 1336747445 23*	23Spikes has quit (23Quit: Leaving23)
+T 1336747604 23*	23wdd` has quit (23Ping timeout: 240 seconds23)
+T 1336747687 19*	19alienatu (~alienatu@79.113.149.38) has joined #reddit-downtime
+T 1336747713 22*	alienatu is now known as Guest56318
+T 1336747732 19*	19trustyhank (~trustyhan@c-68-82-49-140.hsd1.pa.comcast.net) has joined #reddit-downtime
+T 1336747801 23*	23Guest56318 has quit (23Changing host23)
+T 1336747802 19*	19Guest56318 (~alienatu@unaffiliated/alienatu) has joined #reddit-downtime
+T 1336747813 22*	Guest56318 is now known as alienatu
+T 1336747896 19*	19noshenim (~gavin@d66-183-31-31.bchsia.telus.net) has joined #reddit-downtime
+T 1336747913 19*	19RPG (452b4147@gateway/web/freenode/ip.69.43.65.71) has joined #reddit-downtime
+T 1336747938 22*	RPG is now known as Guest60925
+T 1336747938 23*	23noshenim has quit (23Client Quit23)
+T 1336747997 18<Guest60925>	ahhh
+T 1336748004 18<Guest60925>	reddit is down
+T 1336748004 18<Guest60925>	but im on Reddit right now
+T 1336748005 18<Guest60925>	right meow*
+T 1336748018 18<user10439>	you're kitten me
+T 1336748058 19*	19Inox (~Inox@pool-173-79-131-146.washdc.fios.verizon.net) has joined #reddit-downtime
+T 1336748065 23*	23deeee has quit (23Read error: Connection reset by peer23)
+T 1336748076 23*	23shoogz has quit (23Ping timeout: 252 seconds23)
+T 1336748084 23*	23Guest60925 has quit (23Client Quit23)
+T 1336748119 19*	19xivix (~mike@64.129.86.8) has joined #reddit-downtime
+T 1336748123 19*	19shoogz (~shoogz@unaffiliated/shoogz) has joined #reddit-downtime
+T 1336748162 19*	19DrKabob (~natman97@rrcs-74-62-43-3.west.biz.rr.com) has joined #reddit-downtime
+T 1336748405 23*	23tommles has quit (23Ping timeout: 248 seconds23)
+T 1336748545 19*	19wensul (~wensul@97-119-249-33.spkn.qwest.net) has joined #reddit-downtime
+T 1336748654 23*	23[r4] has quit (23Quit: [r4]23)
+T 1336748750 23*	23Destos has quit (23Remote host closed the connection23)
+T 1336748871 23*	23alienatu has quit (23Read error: Connection reset by peer23)
+T 1336748904 19*	19Destos (~Destos@216.16.136.58) has joined #reddit-downtime
+T 1336749041 19*	19PPPPPPP (~Mathieu@24-113-124-198.wavecable.com) has joined #reddit-downtime
+T 1336749044 19*	19hlveheart (~jer@unaffiliated/hlveheart) has joined #reddit-downtime
+T 1336749066 23*	23dragndrop_ has quit (23Read error: Connection reset by peer23)
+T 1336749101 19*	19dragndrop_ (~IceChat7@76-204-200-65.lightspeed.hstntx.sbcglobal.net) has joined #reddit-downtime
+T 1336749216 19*	19foo_fighter (~quassel@79.103.181.232.dsl.dyn.forthnet.gr) has joined #reddit-downtime
+T 1336749231 23*	23FletcherX has quit (23Ping timeout: 255 seconds23)
+T 1336749253 23*	23xjiujiu has quit (23Ping timeout: 244 seconds23)
+T 1336749283 19*	19el_kevin_ (~el_kevino@216.249.7.209.tor.pathcom.com) has joined #reddit-downtime
+T 1336749330 19*	19RoXtein (~roxtein@a79-169-47-110.cpe.netcabo.pt) has joined #reddit-downtime
+T 1336749336 23*	23hlveheart (23~jer@unaffiliated/hlveheart) has left #reddit-downtime
+T 1336749339 19*	19KindTwo (KindOne@gateway/shell/trekweb.org/x-tppkxracfgfvxrnx) has joined #reddit-downtime
+T 1336749340 23*	23el_kevin_ (23~el_kevino@216.249.7.209.tor.pathcom.com) has left #reddit-downtime
+T 1336749353 23*	23DrKabob has quit (23Quit: You can't fire me, because I quit! I quit!23)
+T 1336749489 19*	19N7 (N7@gateway/shell/trekweb.org/x-smsqozatwazzvnip) has joined #reddit-downtime
+T 1336749498 23*	23N7 has quit (23Changing host23)
+T 1336749498 19*	19N7 (N7@wikia/trekweb.N7) has joined #reddit-downtime
+T 1336749564 19*	19Asako (~abcde@69.16.222.175) has joined #reddit-downtime
+T 1336749579 19*	19RubberChicken69 (~RubberChi@91.232.100.5) has joined #reddit-downtime
+T 1336749635 23*	23WWFan has quit (23Ping timeout: 245 seconds23)
+T 1336749642 23*	23RubberChicken69 (23~RubberChi@91.232.100.5) has left #reddit-downtime
+T 1336749784 23*	23KindTwo has quit (23Changing host23)
+T 1336749784 19*	19KindTwo (KindOne@colchester-lug/silly-fool/donut) has joined #reddit-downtime
+T 1336749818 22*	KindTwo is now known as KindOne
+T 1336749847 23*	23Computer has quit (23Changing host23)
+T 1336749848 19*	19Computer (~Computer@unaffiliated/computer) has joined #reddit-downtime
+T 1336749865 23*	23xezekal has quit (23Ping timeout: 252 seconds23)
+T 1336749885 22*	N7 is now known as n7
+T 1336749953 19*	19martinphone (~richess@222.Red-83-49-90.dynamicIP.rima-tde.net) has joined #reddit-downtime
+T 1336749961 23*	23wonginator1221 has quit (23Remote host closed the connection23)
+T 1336749966 23*	23zeezey has quit (23Ping timeout: 244 seconds23)
+T 1336750237 23*	23ruup has quit (23Quit: - nbs-irc 2.39 - www.nbs-irc.net -23)
+T 1336750294 19*	19kenperkins (~textual@174-24-167-196.tukw.qwest.net) has joined #reddit-downtime
+T 1336750344 23*	23gzur has quit (2323)
+T 1336750470 19*	19QuantumBeep (~QB@d3-4-1-0.r00.dllstx04.us.ce.gin.ntt.net) has joined #reddit-downtime
+T 1336750536 19*	19tommles (~tommles@24-176-99-232.dhcp.jcsn.tn.charter.com) has joined #reddit-downtime
+T 1336750569 19*	19Dotted (Dotted@188.114.141.146) has joined #reddit-downtime
+T 1336750637 19*	19Jewbacchus (~Jewbacchu@cpe-72-227-164-237.nyc.res.rr.com) has joined #reddit-downtime
+T 1336750677 19*	19ryaxnb_ (~ryaxnb@2602:306:ce08:85c0:e9c3:2f01:da8f:59f0) has joined #reddit-downtime
+T 1336750683 23*	23ryaxnb_ (23~ryaxnb@2602:306:ce08:85c0:e9c3:2f01:da8f:59f0) has left #reddit-downtime
+T 1336750787 23*	23Pell has quit (23Read error: Connection reset by peer23)
+T 1336750819 19*	19Pell (~Pell@cpc6-belf9-2-0-cust56.2-1.cable.virginmedia.com) has joined #reddit-downtime
+T 1336751062 23*	23rathis has quit (23Ping timeout: 248 seconds23)
+T 1336751169 19*	19baconability (ca4281c2@gateway/web/freenode/ip.202.66.129.194) has joined #reddit-downtime
+T 1336751174 18<baconability>	jesus christ
+T 1336751189 19*	19rathis (~rathis@b0194253.bb.sky.com) has joined #reddit-downtime
+T 1336751190 18<baconability>	my fucking mom took ambien and she won't stop snoring
+T 1336751208 18<baconability>	and i have a 15-hr flight from beijing to detroit tomorrow morning
+T 1336751213 18<baconability>	in 3 fucking hours
+T 1336751215 18<baconability>	fuck
+T 1336751284 18<radiofree>	sleep on the plane
+T 1336751313 18<baconability>	ha
+T 1336751315 18<baconability>	impossible
+T 1336751323 18<radiofree>	take ambien
+T 1336751368 23*	23dragndrop_ has quit (23Ping timeout: 272 seconds23)
+T 1336751400 18<baconability>	eh
+T 1336751412 18<baconability>	then ill just be tripping
+T 1336751421 18<baconability>	i have to fly in 3 hours and it'll be a bitch to wake up
+T 1336751438 18<radiofree>	I mean on the plane, take it on the plane
+T 1336751444 18<radiofree>	stay up, sleep on the plane...
+T 1336751454 18<baconability>	dude its so hard
+T 1336751465 18<baconability>	on the flight here it was impossible
+T 1336751686 19*	19jemjem (~jem@dslb-092-077-090-111.pools.arcor-ip.net) has joined #reddit-downtime
+T 1336751758 22*	munki_ is now known as munki
+T 1336751793 22*	munki is now known as thatfunkymunki
+T 1336751797 23*	23thatfunkymunki has quit (23Changing host23)
+T 1336751797 19*	19thatfunkymunki (munki@unaffiliated/thatfunkymunki) has joined #reddit-downtime
+T 1336751800 22*	thatfunkymunki is now known as munki
+T 1336751946 19*	19face-ism (~face-ism@81-236-246-12-no66.tbcn.telia.com) has joined #reddit-downtime
+T 1336751949 19*	19pretendperson (~pretendpe@unaffiliated/pretendperson) has joined #reddit-downtime
+T 1336752163 19*	19rai (~rai@ec2-184-72-80-113.compute-1.amazonaws.com) has joined #reddit-downtime
+T 1336752167 19*	19Volis (variable@117.254.210.208) has joined #reddit-downtime
+T 1336752170 19*	19raindog_ (~quassel@50.42.142.186) has joined #reddit-downtime
+T 1336752183 23*	23Volis has quit (23Changing host23)
+T 1336752183 19*	19Volis (variable@unaffiliated/hugo-drax/x-7148487) has joined #reddit-downtime
+T 1336752185 19*	19h4mz1d (~hamfz@130.160.81.94) has joined #reddit-downtime
+T 1336752213 23*	23raindog has quit (23Ping timeout: 252 seconds23)
+T 1336752248 23*	23shoogz has quit (23Quit: Linkinus - http://linkinus.com23)
+T 1336752281 23*	23Atom138 has quit (23Quit: Leaving23)
+T 1336752337 19*	19iocor (~textual@unaffiliated/iocor) has joined #reddit-downtime
+T 1336752367 23*	23baconability has quit (23Quit: Page closed23)
+T 1336752475 19*	19shoogz (~shoogz@115-64-77-180.static.tpgi.com.au) has joined #reddit-downtime
+T 1336752480 23*	23shoogz has quit (23Changing host23)
+T 1336752480 19*	19shoogz (~shoogz@unaffiliated/shoogz) has joined #reddit-downtime
+T 1336752489 23*	23shoogz has quit (23Client Quit23)
+T 1336752489 19*	19Qalqi (~quassel@202.3.77.208) has joined #reddit-downtime
+T 1336752494 19*	19wordToDaBird[Lap (~john@cpe-173-89-235-59.neo.res.rr.com) has joined #reddit-downtime
+T 1336752500 22*	klinquist_ is now known as klinquist
+T 1336752634 19*	19zbowling (~mailorder@96.24.67.149) has joined #reddit-downtime
+T 1336752772 19*	19shoogz (~shoogz@115-64-77-180.static.tpgi.com.au) has joined #reddit-downtime
+T 1336752782 23*	23shoogz has quit (23Changing host23)
+T 1336752782 19*	19shoogz (~shoogz@unaffiliated/shoogz) has joined #reddit-downtime
+T 1336752805 19*	19tacticalbacon (~tacticalb@80.203.61.190) has joined #reddit-downtime
+T 1336752867 19*	19Atom138 (~atom138@adsl-74-241-39-155.sdf.bellsouth.net) has joined #reddit-downtime
+T 1336753069 19*	19zeezey (~textual@adsl-75-23-208-205.dsl.wcfltx.sbcglobal.net) has joined #reddit-downtime
+T 1336753147 23*	23aymbot has quit (23Ping timeout: 260 seconds23)
+T 1336753279 19*	19xianny (~Xianny@S010600026f928d03.vc.shawcable.net) has joined #reddit-downtime
+T 1336753293 23*	23xianny has quit (23Client Quit23)
+T 1336753389 23*	23rook_ has quit (23Ping timeout: 256 seconds23)
+T 1336753451 19*	19t0mmyvyo (~tommyvyo@c-68-83-3-164.hsd1.nj.comcast.net) has joined #reddit-downtime
+T 1336753471 19*	19rlf (~mantra@130.225.243.68) has joined #reddit-downtime
+T 1336753577 19*	19heckman (element@lol.umad-b.ro) has joined #reddit-downtime
+T 1336753642 19*	19Jewbacchus_ (~Jewbacchu@cpe-72-227-164-237.nyc.res.rr.com) has joined #reddit-downtime
+T 1336753751 23*	23Jewbacchus has quit (23Ping timeout: 248 seconds23)
+T 1336753786 19*	19`Winslow (~Winslow@137.99.245.152) has joined #reddit-downtime
+T 1336753786 23*	23`Winslow has quit (23Changing host23)
+T 1336753786 19*	19`Winslow (~Winslow@unaffiliated/winslow/x-6891340) has joined #reddit-downtime
+T 1336753836 19*	19xezekal (~quassel@50.14.160.74) has joined #reddit-downtime
+T 1336754049 23*	23Ghamie has quit (23Quit: - nbs-irc 2.39 - www.nbs-irc.net -23)
+T 1336754184 19*	19FlyingFoX (~quassel@sanktwendel.weh.rwth-aachen.de) has joined #reddit-downtime
+T 1336754251 23*	23FlyingFoX (23~quassel@sanktwendel.weh.rwth-aachen.de) has left #reddit-downtime (23"http://quassel-irc.org - Chat comfortably. Anywhere."23)
+T 1336754257 22*	Qalqi is now known as trololo
+T 1336754260 22*	trololo is now known as Qalqi
+T 1336754264 19*	19Ghamie (~Ghamie@178.143.43.76) has joined #reddit-downtime
+T 1336754276 19*	19suplesse (~suplesse@cpe-76-95-165-201.socal.res.rr.com) has joined #reddit-downtime
+T 1336754416 23*	23Reznov_ has quit (23Ping timeout: 250 seconds23)
+T 1336754586 19*	19Reznov_ (r3znov@dyn-86.106.47.87.tm.upcnet.ro) has joined #reddit-downtime
+T 1336754646 19*	19Gz_Chicken (~GzChicken@38.100.120.10) has joined #reddit-downtime
+T 1336754839 23*	23GzChicken has quit (23Ping timeout: 252 seconds23)
+T 1336754839 19*	19jacobtin (~jacobtin@150.67.209.88.dynamic.monaco.mc) has joined #reddit-downtime
+T 1336754922 19*	19sulf (~sulf@ppp-70-225-169-28.dsl.chmpil.ameritech.net) has joined #reddit-downtime
+T 1336755331 19*	19[r4] (~r4@c83-252-202-247.bredband.comhem.se) has joined #reddit-downtime
+T 1336755340 23*	23martinphone has quit (23Quit: gone23)
+T 1336755341 23*	23tacticalbacon has quit (23Read error: Connection reset by peer23)
+T 1336755361 23*	23h4mz1d has quit (23Read error: Operation timed out23)
+T 1336755366 19*	19tacticalbacon (~tacticalb@190.80-203-61.nextgentel.com) has joined #reddit-downtime
+T 1336755590 23*	23Pell has quit (23Read error: Connection reset by peer23)
+T 1336755605 19*	19Pell (~Pell@cpc6-belf9-2-0-cust56.2-1.cable.virginmedia.com) has joined #reddit-downtime
+T 1336755701 23*	23jemjem has quit (23Ping timeout: 272 seconds23)
+T 1336755880 23*	23Reznov_ has quit (23Ping timeout: 245 seconds23)
+T 1336756112 19*	19Pieman (~F40PH@c-75-67-12-50.hsd1.ma.comcast.net) has joined #reddit-downtime
+T 1336756130 23*	23trustyhank has quit (23Quit: Computer has gone to sleep.23)
+T 1336756169 23*	23synth has quit (23Ping timeout: 265 seconds23)
+T 1336756202 19*	19Grimmur (~Grimmur@157-157-215-178.static.simnet.is) has joined #reddit-downtime
+T 1336756208 23*	23t0mmyvyo has quit (23Quit: http://twitter.com/tommyvyo23)
+T 1336756268 19*	19bashdy (~bashdy@HSI-KBW-078-043-088-243.hsi4.kabel-badenwuerttemberg.de) has joined #reddit-downtime
+T 1336756269 23*	23Zialus has quit (23Ping timeout: 252 seconds23)
+T 1336756312 22*	Pieman is now known as Paimun
+T 1336756326 23*	23Paimun (23~F40PH@c-75-67-12-50.hsd1.ma.comcast.net) has left #reddit-downtime
+T 1336756412 19*	19synth (~cb@c-68-56-44-59.hsd1.fl.comcast.net) has joined #reddit-downtime
+T 1336756412 23*	23synth has quit (23Changing host23)
+T 1336756412 19*	19synth (~cb@unaffiliated/synth) has joined #reddit-downtime
+T 1336756466 19*	19Zialus (~RMF@bl18-106-113.dsl.telepac.pt) has joined #reddit-downtime
+T 1336756616 19*	19thenamesryan (~thenamesr@cpe-24-26-157-208.columbus.res.rr.com) has joined #reddit-downtime
+T 1336756657 19*	19Slavar (~Slavar@92.239.73.94.ip.orionnet.ru) has joined #reddit-downtime
+T 1336756673 19*	19Vile` (~Vile@c-98-229-112-145.hsd1.ma.comcast.net) has joined #reddit-downtime
+T 1336756679 19*	19funnynickname (cd8ea4e1@gateway/web/freenode/ip.205.142.164.225) has joined #reddit-downtime
+T 1336756690 23*	23funnynickname (23cd8ea4e1@gateway/web/freenode/ip.205.142.164.225) has left #reddit-downtime
+T 1336756753 23*	23Zialus has quit (23Ping timeout: 260 seconds23)
+T 1336756769 23*	23Slavar (23~Slavar@92.239.73.94.ip.orionnet.ru) has left #reddit-downtime
+T 1336756830 19*	19trustyhank (~trustyhan@c-68-82-49-140.hsd1.pa.comcast.net) has joined #reddit-downtime
+T 1336756875 23*	23Atom138 has quit (23Quit: Leaving23)
+T 1336756912 23*	23tanukiii has quit (23Ping timeout: 244 seconds23)
+T 1336756948 19*	19GoMLism (~IceChat77@CPE78cd8ecd5980-CM78cd8ecd597d.cpe.net.cable.rogers.com) has joined #reddit-downtime
+T 1336757005 23*	23PPPPPPP has quit (23Quit: Leaving23)
+T 1336757123 23*	23GoMLism (23~IceChat77@CPE78cd8ecd5980-CM78cd8ecd597d.cpe.net.cable.rogers.com) has left #reddit-downtime
+T 1336757195 19*	19PPPPPPP (~Mathieu@24-113-61-66.wavecable.com) has joined #reddit-downtime
+T 1336757298 23*	23moolcool has quit (23Ping timeout: 272 seconds23)
+T 1336757314 19*	19FCKIT_DO_IT_LIVE (~aleff@arcturus.ladigital.com) has joined #reddit-downtime
+T 1336757314 23*	23FCKIT_DO_IT_LIVE has quit (23Changing host23)
+T 1336757315 19*	19FCKIT_DO_IT_LIVE (~aleff@pdpc/supporter/professional/epicdouche) has joined #reddit-downtime
+T 1336757336 19*	19Vorticity (Beldin@108-194-43-94.lightspeed.mtryca.sbcglobal.net) has joined #reddit-downtime
+T 1336757396 23*	23trustyhank has quit (23Quit: Computer has gone to sleep.23)
+T 1336757607 19*	19moolcool (~Michiel@S01060026f3978eaf.vc.shawcable.net) has joined #reddit-downtime
+T 1336757640 23*	23Vorticity has quit (23Ping timeout: 272 seconds23)
+T 1336757678 23*	23Zuzak has quit (23Ping timeout: 272 seconds23)
+T 1336757753 23*	23MidnightFox has quit (23Quit: —I-n-v-i-s-i-o-n— 3.2 (July '10)23)
+T 1336757828 23*	23sahbeewah has quit (2323)
+T 1336757872 19*	19Swifty (63bbee16@gateway/web/freenode/ip.99.187.238.22) has joined #reddit-downtime
+T 1336757898 22*	Jewbacchus_ is now known as Jewbacchus
+T 1336757988 19*	19senj (senj@79-100-72-123.btc-net.bg) has joined #reddit-downtime
+T 1336757991 22*	senj is now known as Senji
+T 1336757996 23*	23Senji (23senj@79-100-72-123.btc-net.bg) has left #reddit-downtime
+T 1336758056 19*	19VulgarDischord (6370d5f9@gateway/web/freenode/ip.99.112.213.249) has joined #reddit-downtime
+T 1336758061 18<VulgarDischord>	You Splone!
+T 1336758076 19*	19MC8 (~herpes@host31-52-131-9.range31-52.btcentralplus.com) has joined #reddit-downtime
+T 1336758077 23*	23MC8 has quit (23Changing host23)
+T 1336758077 19*	19MC8 (~herpes@wikimedia/Microchip08) has joined #reddit-downtime
+T 1336758277 23*	23bashdy has quit (23Quit: Get MacIrssi - http://www.sysctl.co.uk/projects/macirssi/23)
+T 1336758300 23*	23VulgarDischord has quit (23Client Quit23)
+T 1336758438 23*	23Jewbacchus has quit (23Ping timeout: 272 seconds23)
+T 1336758527 19*	19enr (enr@90-231-161-245-no45.tbcn.telia.com) has joined #reddit-downtime
+T 1336758595 23*	23enr has quit (23Client Quit23)
+T 1336758638 19*	19enr (enr@90-231-161-245-no45.tbcn.telia.com) has joined #reddit-downtime
+T 1336758750 23*	23Swifty (2363bbee16@gateway/web/freenode/ip.99.187.238.22) has left #reddit-downtime
+T 1336758925 23*	23Knorre has quit (23Quit: Hosted by rdlBNC (Server 2 - United States of America)23)
+T 1336758967 23*	23Grimmur (23~Grimmur@157-157-215-178.static.simnet.is) has left #reddit-downtime
+T 1336758980 19*	19Grimmur (~Grimmur@157-157-215-178.static.simnet.is) has joined #reddit-downtime
+T 1336759000 19*	19Jewbacchus (~Jewbacchu@cpe-72-227-164-237.nyc.res.rr.com) has joined #reddit-downtime
+T 1336759012 18<Grimmur>	sup
+T 1336759032 23*	23Gz_Chicken (23~GzChicken@38.100.120.10) has left #reddit-downtime (23"Leaving"23)
+T 1336759032 19*	19yyttrr (~yyttrr@dsl51B6D809.pool.t-online.hu) has joined #reddit-downtime
+T 1336759233 19*	19amisconception (~nnscript@ip70-176-67-181.ph.ph.cox.net) has joined #reddit-downtime
+T 1336759452 23*	23iocor has quit (23Quit: Computer has gone to sleep.23)
+T 1336759582 23*	23FCKIT_DO_IT_LIVE has quit (23Quit: Get MacIrssi - http://www.sysctl.co.uk/projects/macirssi/23)
+T 1336759822 23*	23RoXtein has quit (23Quit: Leaving23)
+T 1336759968 19*	19killminusnine1 (~blong@host138.office.sover.net) has joined #reddit-downtime
+T 1336759990 23*	23paulmillar has quit (23Quit: paulmillar23)
+T 1336760007 19*	19Knorre (Knorre3@66.7.217.116) has joined #reddit-downtime
+T 1336760117 23*	23sirdancealot has quit (23Ping timeout: 240 seconds23)
+T 1336760141 19*	19paeniz (~Schwanzus@p5B3A6A62.dip.t-dialin.net) has joined #reddit-downtime
+T 1336760277 19*	19sirdancealot (~sirdancea@98.82.broadband5.iol.cz) has joined #reddit-downtime
+T 1336760339 23*	23Jewbacchus has quit (23Ping timeout: 272 seconds23)
+T 1336760504 23*	23pretendperson has quit (2323)
+T 1336760576 19*	19michael_alex (~michael@nat10-222.cs.ucdavis.edu) has joined #reddit-downtime
+T 1336760578 19*	19takamine (~takamine@75.108.28.109) has joined #reddit-downtime
+T 1336760639 19*	19LazyLausi (~yaaic@78.157.120.241) has joined #reddit-downtime
+T 1336760698 23*	23thenamesryan has quit (23Read error: Operation timed out23)
+T 1336760752 19*	19iocor (~textual@unaffiliated/iocor) has joined #reddit-downtime
+T 1336760756 23*	23GeneralMaximus has quit (23Quit: Leaving23)
+T 1336760857 23*	23takamine (23~takamine@75.108.28.109) has left #reddit-downtime
+T 1336761017 19*	19KetchupMonki (~KetchupMo@87.127.114.202) has joined #reddit-downtime
+T 1336761282 19*	19Jewbacchus (~Jewbacchu@cpe-72-227-164-237.nyc.res.rr.com) has joined #reddit-downtime
+T 1336761331 23*	23dx` has quit (23Quit: leaving23)
+T 1336761343 19*	19dx` (~nohbody@209.141.59.26) has joined #reddit-downtime
+T 1336761431 19*	19alienatu (~alienatu@79.113.149.38) has joined #reddit-downtime
+T 1336761456 22*	alienatu is now known as Guest72203
+T 1336761458 23*	23Guest72203 has quit (23Changing host23)
+T 1336761459 19*	19Guest72203 (~alienatu@unaffiliated/alienatu) has joined #reddit-downtime
+T 1336761481 19*	19raemde2 (~raemde@dslb-088-073-202-053.pools.arcor-ip.net) has joined #reddit-downtime
+T 1336761484 22*	Guest72203 is now known as alienatu
+T 1336761497 23*	23chakl has quit (23Ping timeout: 255 seconds23)
+T 1336761507 23*	23raemde has quit (23Ping timeout: 265 seconds23)
+T 1336761560 19*	19weho (~weho@18.189.112.244) has joined #reddit-downtime
+T 1336761582 19*	19Random_Dude (~Random_Du@ip-178-200-175-20.unitymediagroup.de) has joined #reddit-downtime
+T 1336761700 19*	19Michiel_ (~Michiel@S01060026f3978eaf.vc.shawcable.net) has joined #reddit-downtime
+T 1336761718 19*	19tentanium (~tentanium@c-67-160-197-245.hsd1.ca.comcast.net) has joined #reddit-downtime
+T 1336761725 22*	Michiel_ is now known as Guest27751
+T 1336761816 23*	23moolcool has quit (23Ping timeout: 260 seconds23)
+T 1336761848 23*	23zbowling has quit (2323)
+T 1336761886 19*	19Keniyal (~Kennyx@dyndsl-080-228-185-013.ewe-ip-backbone.de) has joined #reddit-downtime
+T 1336761977 23*	23weho has quit (23Ping timeout: 248 seconds23)
+T 1336762031 23*	23Wassow has quit (23Quit: "And them that take the sword shall perish by the sword." - The Bible, Matthew23)
+T 1336762184 23*	23rubendv has quit (23Quit: Leaving...23)
+T 1336762250 19*	19gaza (~twty@113.199.134.50) has joined #reddit-downtime
+T 1336762267 23*	23gaza (23~twty@113.199.134.50) has left #reddit-downtime
+T 1336762295 22*	alienatu is now known as Hank-Hill
+T 1336762309 22*	Hank-Hill is now known as alienatu
+T 1336762386 22*	alienatu is now known as enroxroz
+T 1336762455 23*	23tacticalbacon has quit (23Quit: tacticalbacon23)
+T 1336762518 19*	19chakl (~chakl@ool-4572b928.dyn.optonline.net) has joined #reddit-downtime
+T 1336762675 19*	19funkshanker (~funkshank@188-194-250-123-dynip.superkabel.de) has joined #reddit-downtime
+T 1336762702 19*	19wiwillia (~liberatas@wsip-70-167-17-57.ri.ri.cox.net) has joined #reddit-downtime
+T 1336762714 18<wiwillia>	Awesome: http://www.reddit.com/r/gaming/comments/tij26/update_about_dacvak_nearperfect_marrow_donor/
+T 1336762753 19*	19Phrea (~FireBeard@178-84-32-217.dynamic.upc.nl) has joined #reddit-downtime
+T 1336762753 23*	23Phrea has quit (23Changing host23)
+T 1336762754 19*	19Phrea (~FireBeard@unaffiliated/phrea) has joined #reddit-downtime
+T 1336762833 23*	23Phrea (23~FireBeard@unaffiliated/phrea) has left #reddit-downtime
+T 1336762982 23*	23xezekal has quit (23Ping timeout: 245 seconds23)
+T 1336763169 22*	killminusnine1 is now known as killminusnine
+T 1336763171 23*	23killminusnine (23~blong@host138.office.sover.net) has left #reddit-downtime
+T 1336763178 19*	19killminusnine (~blong@host138.office.sover.net) has joined #reddit-downtime
+T 1336763182 23*	23enr has quit (23Ping timeout: 245 seconds23)
+T 1336763203 23*	23killminusnine (23~blong@host138.office.sover.net) has left #reddit-downtime
+T 1336763321 23*	23chakl has quit (23Ping timeout: 248 seconds23)
+T 1336763352 19*	19vanik_ (~z@CPE-65-26-202-192.wi.res.rr.com) has joined #reddit-downtime
+T 1336763387 19*	19RestoreFear (~RestoreFe@207-53-196-160.hmps.dynamic-dsl.qis.net) has joined #reddit-downtime
+T 1336763451 19*	19kirun (~kirun@78-86-154-194.zone2.bethere.co.uk) has joined #reddit-downtime
+T 1336763481 23*	23sirdancealot has quit (23Ping timeout: 248 seconds23)
+T 1336763694 23*	23Pell has quit (23Quit: Leaving23)
+T 1336763766 19*	19LazyLausi2 (~yaaic@94.191.187.192.mobile.3.dk) has joined #reddit-downtime
+T 1336763908 19*	19enr (enr@90-231-161-245-no45.tbcn.telia.com) has joined #reddit-downtime
+T 1336763961 23*	23enroxroz has quit (23Read error: Connection reset by peer23)
+T 1336764000 23*	23LazyLausi has quit (23Ping timeout: 260 seconds23)
+T 1336764030 19*	19LazyLausi (~yaaic@78.157.120.241) has joined #reddit-downtime
+T 1336764044 19*	19Gunrun (sausages@host86-149-94-98.range86-149.btcentralplus.com) has joined #reddit-downtime
+T 1336764204 23*	23LazyLausi2 has quit (23Ping timeout: 256 seconds23)
+T 1336764266 23*	23marsulle_ has quit (23Ping timeout: 260 seconds23)
+T 1336764303 19*	19ri0tdorque (~ri0tdorqu@reddit/operator/ri0tdorque) has joined #reddit-downtime
+T 1336764306 19*	19Zialus (~RMF@bl18-106-113.dsl.telepac.pt) has joined #reddit-downtime
+T 1336764343 19*	19takamine (~takamine@75.108.28.109) has joined #reddit-downtime
+T 1336764343 23*	23takamine has quit (23Changing host23)
+T 1336764343 19*	19takamine (~takamine@unaffiliated/takamine) has joined #reddit-downtime
+T 1336764346 23*	23takamine has quit (23Client Quit23)
+T 1336764399 19*	19takamine (~takamine@75.108.28.109) has joined #reddit-downtime
+T 1336764399 23*	23takamine has quit (23Changing host23)
+T 1336764399 19*	19takamine (~takamine@unaffiliated/takamine) has joined #reddit-downtime
+T 1336764406 19*	19tonkar (~anon@541E2DDB.cm-5-7a.dynamic.ziggo.nl) has joined #reddit-downtime
+T 1336764451 19*	19Riley__ (~Riley@S0106001c109fc40c.ss.shawcable.net) has joined #reddit-downtime
+T 1336764487 23*	23takamine (23~takamine@unaffiliated/takamine) has left #reddit-downtime
+T 1336764542 19*	19nwest (~nwest@c-98-250-181-111.hsd1.mi.comcast.net) has joined #reddit-downtime
+T 1336764633 23*	23Riley has quit (23Ping timeout: 244 seconds23)
+T 1336764634 23*	23tonkar has quit (23Client Quit23)
+T 1336764679 23*	23ri0tdorque has quit (23Quit: Leaving23)
+T 1336764706 19*	19Cormack (~opera@cm-84.209.26.246.getinternet.no) has joined #reddit-downtime
+T 1336764766 23*	23Nix-7c0 has quit (23Ping timeout: 255 seconds23)
+T 1336764936 23*	23LoganPhyve has quit (23Quit: SlapWhacked into the 9th dimension by a cosmic space trout...23)
+T 1336765117 23*	23Vile` (23~Vile@c-98-229-112-145.hsd1.ma.comcast.net) has left #reddit-downtime
+T 1336765141 19*	19ad7863_ (~ad7863@cpc18-brad20-2-0-cust364.barn.cable.virginmedia.com) has joined #reddit-downtime
+T 1336765148 23*	23ad7863_ (23~ad7863@cpc18-brad20-2-0-cust364.barn.cable.virginmedia.com) has left #reddit-downtime
+T 1336765291 19*	19pretendperson (~pretendpe@unaffiliated/pretendperson) has joined #reddit-downtime
+T 1336765424 23*	23funkshanker has quit (23Remote host closed the connection23)
+T 1336765508 23*	23Motest003 has quit (23Ping timeout: 272 seconds23)
+T 1336765522 23*	23johzephine (23~joh@CPE0026f32717a8-CM0026f32717a5.cpe.net.cable.rogers.com) has left #reddit-downtime (23"Nothings impossible when you work for the circus!"23)
+T 1336765541 19*	19Motest003 (~swiftirc@cpe-075-178-064-114.ec.res.rr.com) has joined #reddit-downtime
+T 1336765597 19*	19thenamesryan_ (~thenamesr@cpe-24-26-157-208.columbus.res.rr.com) has joined #reddit-downtime
+T 1336765611 23*	23Ender_Wiggin has quit (23Quit: Ender_Wiggin23)
+T 1336765871 19*	19martinphone (~richess@222.Red-83-49-90.dynamicIP.rima-tde.net) has joined #reddit-downtime
+T 1336765983 19*	19buttscicles (joe@buttscicl.es) has joined #reddit-downtime
+T 1336766049 19*	19Reznov_ (r3znov@dyn-86.106.47.87.tm.upcnet.ro) has joined #reddit-downtime
+T 1336766108 19*	19Wassow (~Wassow@02ddb460.bb.sky.com) has joined #reddit-downtime
+T 1336766205 23*	23enr has quit (23Ping timeout: 260 seconds23)
+T 1336766240 23*	23martinphone has quit (23Ping timeout: 260 seconds23)
+T 1336766275 19*	19sirdancealot (~sirdancea@98.82.broadband5.iol.cz) has joined #reddit-downtime
+T 1336766414 23*	23yyttrr has quit (23Remote host closed the connection23)
+T 1336766481 19*	19enr (enr@90-231-161-245-no45.tbcn.telia.com) has joined #reddit-downtime
+T 1336766505 19*	19Senj (Senji@46.10.85.59) has joined #reddit-downtime
+T 1336766512 19*	19mattroxlol (~mattroxlo@ip-94-79-130-128.unitymediagroup.de) has joined #reddit-downtime
+T 1336766522 18<mattroxlol>	can anybody see this?
+T 1336766530 18<Mortvert>	no
+T 1336766534 18<mattroxlol>	ok
+T 1336766552 19*	19dragndrop_ (~IceChat7@76-204-200-65.lightspeed.hstntx.sbcglobal.net) has joined #reddit-downtime
+T 1336766553 18<mattroxlol>	i just passed out after taking my inhaler
+T 1336766558 18<mattroxlol>	my shoulder hurts so much
+T 1336766588 22*	Senj is now known as Senji
+T 1336766596 23*	23Senji (23Senji@46.10.85.59) has left #reddit-downtime
+T 1336766596 19*	19Senji (Senji@46.10.85.59) has joined #reddit-downtime
+T 1336766602 23*	23Senji (23Senji@46.10.85.59) has left #reddit-downtime
+T 1336766618 23*	23enr has quit (23Client Quit23)
+T 1336766664 19*	19enr (enr@90-231-161-245-no45.tbcn.telia.com) has joined #reddit-downtime
+T 1336766676 19*	19gringo (~gringo@e182092135.adsl.alicedsl.de) has joined #reddit-downtime
+T 1336766714 23*	23aurigus has quit (23Changing host23)
+T 1336766714 19*	19aurigus (~quassel@pdpc/supporter/active/aurigus) has joined #reddit-downtime
+T 1336766836 22*	Mortvert is now known as Takanashi
+T 1336766917 22*	Takanashi is now known as Mortvert
+T 1336766960 19*	19ri0tdorque (~ri0tdorqu@71-35-157-192.tukw.qwest.net) has joined #reddit-downtime
+T 1336766961 23*	23ri0tdorque has quit (23Changing host23)
+T 1336766961 19*	19ri0tdorque (~ri0tdorqu@reddit/operator/ri0tdorque) has joined #reddit-downtime
+T 1336767048 23*	23enr has quit (2323)
+T 1336767065 19*	19enr (enr@90-231-161-245-no45.tbcn.telia.com) has joined #reddit-downtime
+T 1336767122 23*	23enr has quit (23Client Quit23)
+T 1336767163 19*	19enr (enr@90-231-161-245-no45.tbcn.telia.com) has joined #reddit-downtime
+T 1336767239 23*	23JamesGray has quit (23Quit: TCP, UDP, FTP, SSH, HTTP // By your protocols combined // I am Captain Internet!23)
+T 1336767246 19*	19zbowling (~mailorder@38.99.44.114) has joined #reddit-downtime
+T 1336767296 23*	23enr has quit (23Client Quit23)
+T 1336767316 19*	19enr (enr@90-231-161-245-no45.tbcn.telia.com) has joined #reddit-downtime
+T 1336767317 19*	19WooKi_ (~WooKi@41-133-231-78.dsl.mweb.co.za) has joined #reddit-downtime
+T 1336767452 19*	19Ender_Wiggin (~IceChat77@c-71-56-22-194.hsd1.ga.comcast.net) has joined #reddit-downtime
+T 1336767453 23*	23Ender_Wiggin has quit (23Changing host23)
+T 1336767453 19*	19Ender_Wiggin (~IceChat77@unaffiliated/ender-wiggin/x-4319764) has joined #reddit-downtime
+T 1336767470 23*	23WooKi has quit (23Ping timeout: 250 seconds23)
+T 1336767557 19*	19phencer42 (8102630f@gateway/web/freenode/ip.129.2.99.15) has joined #reddit-downtime
+T 1336767570 19*	19tonkar (~anon@541E2DDB.cm-5-7a.dynamic.ziggo.nl) has joined #reddit-downtime
+T 1336767609 23*	23tonkar (23~anon@541E2DDB.cm-5-7a.dynamic.ziggo.nl) has left #reddit-downtime
+T 1336767646 23*	23phencer42 (238102630f@gateway/web/freenode/ip.129.2.99.15) has left #reddit-downtime
+T 1336767693 19*	19nimajneb2 (~nimajneb4@cpe-184-153-119-168.rochester.res.rr.com) has joined #reddit-downtime
+T 1336767787 19*	19wry (~wry@c-71-205-142-149.hsd1.mi.comcast.net) has joined #reddit-downtime
+T 1336767865 23*	23sirdancealot has quit (23Ping timeout: 272 seconds23)
+T 1336767904 23*	23Gunrun has quit (23Read error: Connection reset by peer23)
+T 1336767951 23*	23Roogle has quit (23Ping timeout: 244 seconds23)
+T 1336768021 19*	19silentterror89 (~Nope@173-9-212-157-Illinois.hfc.comcastbusiness.net) has joined #reddit-downtime
+T 1336768030 23*	23silentterror89 (23~Nope@173-9-212-157-Illinois.hfc.comcastbusiness.net) has left #reddit-downtime
+T 1336768140 23*	23Volis has quit (23Ping timeout: 245 seconds23)
+T 1336768204 19*	19h4mz1d (~hamfz@130.160.81.94) has joined #reddit-downtime
+T 1336768329 19*	19ujjain (ujjain@ip244-1-208-87.adsl2.static.versatel.nl) has joined #reddit-downtime
+T 1336768329 23*	23ujjain has quit (23Changing host23)
+T 1336768329 19*	19ujjain (ujjain@unaffiliated/ujjain) has joined #reddit-downtime
+T 1336768584 23*	23ri0tdorque has quit (23Ping timeout: 245 seconds23)
+T 1336768642 23*	23dragndrop_ has quit (23Ping timeout: 260 seconds23)
+T 1336768979 19*	19The_Pot (~The_Pot@117.197.100.151) has joined #reddit-downtime
+T 1336768987 23*	23The_Pot has quit (23Changing host23)
+T 1336768987 19*	19The_Pot (~The_Pot@unaffiliated/chinmay) has joined #reddit-downtime
+T 1336768988 23*	23Cormack (23~opera@cm-84.209.26.246.getinternet.no) has left #reddit-downtime
+T 1336769056 23*	23LazyLausi has quit (23Read error: Connection reset by peer23)
+T 1336769263 23*	23M1ck has quit (23Read error: Connection reset by peer23)
+T 1336769311 23*	23shawn-p has quit (23Ping timeout: 252 seconds23)
+T 1336769340 19*	19Carti (~chatzilla@cpc19-brig16-2-0-cust47.3-3.cable.virginmedia.com) has joined #reddit-downtime
+T 1336769582 19*	19shawn-p (shawn@97-91-222-215.dhcp.stls.mo.charter.com) has joined #reddit-downtime
+T 1336769769 23*	23vanik_ has quit (23Quit: vanik_23)
+T 1336769880 19*	19thenamesryan (~thenamesr@cpe-24-26-157-208.columbus.res.rr.com) has joined #reddit-downtime
+T 1336770007 23*	23`Winslow has quit (23Ping timeout: 255 seconds23)
+T 1336770078 23*	23thenamesryan_ has quit (23Ping timeout: 260 seconds23)
+T 1336770152 23*	23thenamesryan has quit (23Ping timeout: 244 seconds23)
+T 1336770155 23*	23RestoreFear has quit (23Ping timeout: 252 seconds23)
+T 1336770162 19*	19vanik_ (~z@CPE-65-26-202-192.wi.res.rr.com) has joined #reddit-downtime
+T 1336770214 19*	19antiisolo (~solo@108-87-121-182.lightspeed.frokca.sbcglobal.net) has joined #reddit-downtime
+T 1336770257 19*	19thenamesryan (~thenamesr@cpe-24-210-17-106.columbus.res.rr.com) has joined #reddit-downtime
+T 1336770372 19*	19ruup (~ruup@host109-151-97-206.range109-151.btcentralplus.com) has joined #reddit-downtime
+T 1336770440 23*	23wiwillia has quit (23Ping timeout: 240 seconds23)
+T 1336770527 23*	23ragna has quit (23Read error: Connection reset by peer23)
+T 1336770551 19*	19Cormack (~opera@cm-84.209.26.246.getinternet.no) has joined #reddit-downtime
+T 1336770560 19*	19ragna (~ragna@e180076170.adsl.alicedsl.de) has joined #reddit-downtime
+T 1336770705 23*	23raporteur has quit (23Read error: Connection reset by peer23)
+T 1336770712 19*	19raporteur (~r@149.255.102.225) has joined #reddit-downtime
+T 1336770740 19*	19killminusnine1 (~blong@c-24-2-187-59.hsd1.vt.comcast.net) has joined #reddit-downtime
+T 1336770749 23*	23killminusnine1 has quit (23Client Quit23)
+T 1336770753 23*	23Cormack has quit (23Read error: Connection reset by peer23)
+T 1336770763 23*	23rackergeoff has quit (23Remote host closed the connection23)
+T 1336770935 19*	19danishpete (~danishpet@port144.ds1-brh.adsl.cybercity.dk) has joined #reddit-downtime
+T 1336770958 23*	23raporteur has quit (23Client Quit23)
+T 1336770967 19*	19raporteur (~r@149.255.102.225) has joined #reddit-downtime
+T 1336771075 19*	19opticlove (~opticlove@74-129-10-130.dhcp.insightbb.com) has joined #reddit-downtime
+T 1336771085 23*	23opticlove has quit (23Changing host23)
+T 1336771085 19*	19opticlove (~opticlove@unaffiliated/opticlove) has joined #reddit-downtime
+T 1336771131 23*	23Guest27751 has quit (23Read error: Connection reset by peer23)
+T 1336771141 19*	19Zeedox (DanDan@h-208-151.a176.priv.bahnhof.se) has joined #reddit-downtime
+T 1336771150 23*	23danishpete (23~danishpet@port144.ds1-brh.adsl.cybercity.dk) has left #reddit-downtime
+T 1336771153 19*	19Guest27751 (~Michiel@S01060026f3978eaf.vc.shawcable.net) has joined #reddit-downtime
+T 1336771301 19*	19bttf (~nnscript@c-75-74-205-104.hsd1.fl.comcast.net) has joined #reddit-downtime
+T 1336771369 19*	19xjd (~xjd@175.109-247-128.customer.lyse.net) has joined #reddit-downtime
+T 1336771387 23*	23xjd has quit (23Changing host23)
+T 1336771388 19*	19xjd (~xjd@unaffiliated/xjd) has joined #reddit-downtime
+T 1336771403 19*	19RestoreFear (~RestoreFe@207-53-196-160.hmps.dynamic-dsl.qis.net) has joined #reddit-downtime
+T 1336771432 19*	19tommyvyo (~tommyvyo@c-68-83-3-164.hsd1.nj.comcast.net) has joined #reddit-downtime
+T 1336771677 23*	23xjd has quit (23Quit: leaving23)
+T 1336771716 23*	23thenamesryan has quit (23Ping timeout: 245 seconds23)
+T 1336771770 19*	19itamz (~itamz@powerslave.ynet.sk) has joined #reddit-downtime
+T 1336771773 23*	23itamz (23~itamz@powerslave.ynet.sk) has left #reddit-downtime
+T 1336771868 19*	19DirtyS (~dirtys@c-71-198-193-46.hsd1.ca.comcast.net) has joined #reddit-downtime
+T 1336771876 23*	23DirtyS (23~dirtys@c-71-198-193-46.hsd1.ca.comcast.net) has left #reddit-downtime (23"Leaving"23)
+T 1336771888 19*	19DirtyS (~dirtys@c-71-198-193-46.hsd1.ca.comcast.net) has joined #reddit-downtime
+T 1336771916 23*	23opticlove has quit (23Ping timeout: 245 seconds23)
+T 1336771928 23*	23nimajneb2 has quit (23Quit: Leaving23)
+T 1336772078 23*	23Random_Dude has quit (23Quit: WeeChat 0.3.423)
+T 1336772192 23*	23RansomTime has quit (23Ping timeout: 260 seconds23)
+T 1336772234 23*	23Asako has quit (23Quit: Client exiting23)
+T 1336772316 23*	23DirtyS has quit (23Quit: Leaving23)
+T 1336772347 23*	23RestoreFear has quit (23Ping timeout: 248 seconds23)
+T 1336772469 23*	23Zialus has quit (23Read error: Connection reset by peer23)
+T 1336772477 19*	19xxHearseboyxx (~newsrealx@cpe-72-230-238-94.rochester.res.rr.com) has joined #reddit-downtime
+T 1336772517 23*	23pretendperson has quit (2323)
+T 1336772550 19*	19Zialus (~RMF@bl18-106-113.dsl.telepac.pt) has joined #reddit-downtime
+T 1336772873 19*	19ri0tdorque (~ri0tdorqu@c-67-171-33-74.hsd1.wa.comcast.net) has joined #reddit-downtime
+T 1336772884 19*	19opticlove (~opticlove@74-129-10-130.dhcp.insightbb.com) has joined #reddit-downtime
+T 1336772885 23*	23ri0tdorque has quit (23Changing host23)
+T 1336772885 19*	19ri0tdorque (~ri0tdorqu@reddit/operator/ri0tdorque) has joined #reddit-downtime
+T 1336772885 23*	23opticlove has quit (23Changing host23)
+T 1336772885 19*	19opticlove (~opticlove@unaffiliated/opticlove) has joined #reddit-downtime
+T 1336772959 19*	19Simian_Supremacy (~QwertyMcQ@68.202.71.150) has joined #reddit-downtime
+T 1336772977 23*	23Simian_Supremacy has quit (23Client Quit23)
+T 1336772994 23*	23dnstbr has quit (23Quit: Shutting down, yo.23)
+T 1336773271 23*	23ujjain has quit (23Quit: Ik ga weg23)
+T 1336773273 23*	23tommyvyo has quit (23Quit: http://twitter.com/tommyvyo23)
+T 1336773295 23*	23Qalqi has quit (23Read error: Operation timed out23)
+T 1336773531 19*	19wensul_ (~wensul@97-119-249-33.spkn.qwest.net) has joined #reddit-downtime
+T 1336773608 23*	23Innarius has quit (2323)
+T 1336773622 23*	23wensul_ has quit (23Client Quit23)
+T 1336773818 23*	23nickdrone has quit (23Remote host closed the connection23)
+T 1336774001 19*	19Doomlefudge (~quassel@88.87.190.140) has joined #reddit-downtime
+T 1336774061 19*	19xezekal (~quassel@50.14.160.74) has joined #reddit-downtime
+T 1336774114 19*	19pretendperson (~pretendpe@unaffiliated/pretendperson) has joined #reddit-downtime
+T 1336774241 23*	23Kroms has quit (23Quit: Computer has gone to sleep.23)
+T 1336774417 23*	23opticlove has quit (23Ping timeout: 252 seconds23)
+T 1336774473 22*	d3m0n_ is now known as d3m0ff
+T 1336774749 23*	23Zialus has quit (23Quit: [Textual IRC Client: http://www.textualapp.com/]23)
+T 1336774818 23*	23Destos has quit (23Ping timeout: 260 seconds23)
+T 1336774884 22*	fhtagn_ is now known as fhtagn
+T 1336774894 23*	23fhtagn has quit (23Changing host23)
+T 1336774894 19*	19fhtagn (~fhtagn@unaffiliated/fhtagn) has joined #reddit-downtime
+T 1336774918 23*	23xivix has quit (23Quit: Leaving23)
+T 1336774993 23*	23torchie has quit (23Ping timeout: 260 seconds23)
+T 1336775095 19*	19torchie (~torchie@adsl-74-233-242-79.mia.bellsouth.net) has joined #reddit-downtime
+T 1336775102 19*	19opticlove (~opticlove@74-129-10-130.dhcp.insightbb.com) has joined #reddit-downtime
+T 1336775102 23*	23opticlove has quit (23Changing host23)
+T 1336775102 19*	19opticlove (~opticlove@unaffiliated/opticlove) has joined #reddit-downtime
+T 1336775131 23*	23[r4] has quit (23Remote host closed the connection23)
+T 1336775172 23*	23antiisolo (23~solo@108-87-121-182.lightspeed.frokca.sbcglobal.net) has left #reddit-downtime
+T 1336775203 23*	23h4mz1d has quit (23Ping timeout: 260 seconds23)
+T 1336775233 23*	23gaurav_ has quit (23Quit: Leaving...23)
+T 1336775233 19*	19throdon (~Daily@c-98-239-104-241.hsd1.ca.comcast.net) has joined #reddit-downtime
+T 1336775391 23*	23Zeedox (23DanDan@h-208-151.a176.priv.bahnhof.se) has left #reddit-downtime (23"Leaving"23)
+T 1336775435 19*	19thenamesryan (~thenamesr@cpe-24-210-17-106.columbus.res.rr.com) has joined #reddit-downtime
+T 1336775634 23*	23mattroxlol has quit (23Ping timeout: 252 seconds23)
+T 1336775665 23*	23JSharpe has quit (23Ping timeout: 256 seconds23)
+T 1336775717 23*	23thenamesryan has quit (23Ping timeout: 245 seconds23)
+T 1336776076 19*	19Desensitised (~Aeon@54189A86.cm-5-1c.dynamic.ziggo.nl) has joined #reddit-downtime
+T 1336776078 23*	23Knorre has quit (23Ping timeout: 260 seconds23)
+T 1336776145 19*	19Knorre (Knorre3@66.7.217.116) has joined #reddit-downtime
+T 1336776167 23*	23blenderhead has quit (23Ping timeout: 245 seconds23)
+T 1336776236 19*	19blenderhead (~amokhtare@c-24-129-105-155.hsd1.fl.comcast.net) has joined #reddit-downtime
+T 1336776416 19*	19h4mz1d (~hamfz@130.160.81.94) has joined #reddit-downtime
+T 1336776683 19*	19kobraKommander (~Onceaman@199.180.28.210) has joined #reddit-downtime
+T 1336776683 23*	23magellanicloud2 has quit (23Ping timeout: 252 seconds23)
+T 1336776718 22*	kobraKommander is now known as scorpiowned
+T 1336776767 19*	19grobend (~MCXABot@24-107-192-246.dhcp.stls.mo.charter.com) has joined #reddit-downtime
+T 1336776784 23*	23scorpiowned (23~Onceaman@199.180.28.210) has left #reddit-downtime
+T 1336776803 19*	19p3mulis (~ouroboros@cpe-69-133-2-117.cinci.res.rr.com) has joined #reddit-downtime
+T 1336776808 19*	19chakl (~chakl@ool-4572b928.dyn.optonline.net) has joined #reddit-downtime
+T 1336776854 23*	23kirun has quit (23Quit: Client exiting23)
+T 1336776882 19*	19FletcherX (~Mathieu@24-113-124-198.wavecable.com) has joined #reddit-downtime
+T 1336776980 19*	19alienatu (~alienatu@79.113.149.38) has joined #reddit-downtime
+T 1336777005 22*	alienatu is now known as Guest58610
+T 1336777021 23*	23PPPPPPP has quit (23Ping timeout: 248 seconds23)
+T 1336777054 19*	19divno (~divno@cpe-76-94-217-158.socal.res.rr.com) has joined #reddit-downtime
+T 1336777054 23*	23Guest58610 has quit (23Changing host23)
+T 1336777055 19*	19Guest58610 (~alienatu@unaffiliated/alienatu) has joined #reddit-downtime
+T 1336777108 22*	Guest58610 is now known as alienatu
+T 1336777330 23*	23ill1cit has quit (23Read error: Connection reset by peer23)
+T 1336777498 23*	23xezekal has quit (23Ping timeout: 252 seconds23)
+T 1336777585 19*	19wdd` (~WangBange@222-151-095-162.jp.fiberbit.net) has joined #reddit-downtime
+T 1336777615 23*	23allied has quit (23Changing host23)
+T 1336777615 19*	19allied (~allied2@unaffiliated/allied) has joined #reddit-downtime
+T 1336777629 19*	19ChrisFPS (~chris@109.70.148.176) has joined #reddit-downtime
+T 1336777718 22*	klinquist is now known as klinquist_
+T 1336777741 23*	23Desensitised (23~Aeon@54189A86.cm-5-1c.dynamic.ziggo.nl) has left #reddit-downtime
+T 1336777777 19*	19lepton (~supson@bas1-montreal29-1279586572.dsl.bell.ca) has joined #reddit-downtime
+T 1336777784 18<lepton>	hello one two testing?
+T 1336777785 19*	19madclown (47fcd8c6@gateway/web/freenode/ip.71.252.216.198) has joined #reddit-downtime
+T 1336777801 18<lepton>	oh well
+T 1336777824 22*	madclown is now known as MadClown
+T 1336777832 18<MadClown>	any folks from DFW here?
+T 1336777907 19*	19Resfirestar (sam@74.196.99.234) has joined #reddit-downtime
+T 1336777908 23*	23Resfirestar has quit (23Changing host23)
+T 1336777908 19*	19Resfirestar (sam@wikipedia/Res2216firestar) has joined #reddit-downtime
+T 1336777952 23*	23The_Pot has quit (23Read error: Connection reset by peer23)
+T 1336777957 18<lepton>	hello
+T 1336777960 18<lepton>	whats dfw
+T 1336777983 18<MadClown>	Dallas/Ft. Worth
+T 1336777993 18<lepton>	this is the reddit.com irc right?
+T 1336778019 18<wry>	It is.
+T 1336778029 18<lepton>	okay
+T 1336778030 19*	19The_Pot (~The_Pot@unaffiliated/chinmay) has joined #reddit-downtime
+T 1336778043 18<lepton>	i just saw stephen wolfram doing another ama soon
+T 1336778053 18<lepton>	im surprized he came back after what happened last time
+T 1336778085 19*	19tommyvyo (~tommyvyo@c-68-83-3-164.hsd1.nj.comcast.net) has joined #reddit-downtime
+T 1336778089 23*	23MC8 has quit (23Ping timeout: 272 seconds23)
+T 1336778137 23*	23alienatu has quit (23Read error: Connection reset by peer23)
+T 1336778142 19*	19JoeHazzers (~joe@area11.joehazzers.com) has joined #reddit-downtime
+T 1336778153 23*	23JoeHazzers (23~joe@area11.joehazzers.com) has left #reddit-downtime
+T 1336778268 18<fhtagn>	what happened?
+T 1336778396 19*	19JoeHazzers (~joe@area11.joehazzers.com) has joined #reddit-downtime
+T 1336778396 23*	23grobend has quit (23Read error: Connection reset by peer23)
+T 1336778401 19*	19Hashrunner (~chatzilla@cpe-075-190-149-207.carolina.res.rr.com) has joined #reddit-downtime
+T 1336778430 23*	23tommyvyo has quit (23Quit: http://twitter.com/tommyvyo23)
+T 1336778440 23*	23JoeHazzers (23~joe@area11.joehazzers.com) has left #reddit-downtime
+T 1336778479 19*	19DrKabob (~natman97@cpe-76-175-135-28.socal.res.rr.com) has joined #reddit-downtime
+T 1336778583 23*	23Knorre has quit (23Ping timeout: 272 seconds23)
+T 1336778587 23*	23JesusWBush has quit (23Read error: Connection reset by peer23)
+T 1336778594 23*	23willisnutz43 (23willisnutz@173-28-62-127.client.mchsi.com) has left #reddit-downtime
+T 1336778606 23*	23vanik_ has quit (23Quit: vanik_23)
+T 1336778610 19*	19JesusWBush (~adam@75.105.14.63) has joined #reddit-downtime
+T 1336778684 19*	19Knorre (Knorre3@66.7.217.116) has joined #reddit-downtime
+T 1336778729 19*	19grobend (~MCXABot@24-107-192-246.dhcp.stls.mo.charter.com) has joined #reddit-downtime
+T 1336778772 19*	19zicoo (~p_garcia_@pha75-5-82-224-188-78.fbx.proxad.net) has joined #reddit-downtime
+T 1336778795 23*	23nosa-j has quit (23Read error: Connection reset by peer23)
+T 1336778796 23*	23zicoo (23~p_garcia_@pha75-5-82-224-188-78.fbx.proxad.net) has left #reddit-downtime
+T 1336778797 23*	23wdd` has quit (23Excess Flood23)
+T 1336778818 23*	23h4mz1d has quit (23Ping timeout: 252 seconds23)
+T 1336778819 22*	klinquist_ is now known as klinquist
+T 1336778824 19*	19wdd` (~WangBange@222-151-095-162.jp.fiberbit.net) has joined #reddit-downtime
+T 1336778836 19*	19arrty (~arrty@cpe-68-175-29-41.nyc.res.rr.com) has joined #reddit-downtime
+T 1336778864 19*	19nosa-j (~m00k@adsl-74-235-79-107.clt.bellsouth.net) has joined #reddit-downtime
+T 1336778922 19*	19tommyvyo (~tommyvyo@c-68-83-3-164.hsd1.nj.comcast.net) has joined #reddit-downtime
+T 1336779058 18<lepton>	he got owned
+T 1336779132 19*	19WWFan (~me@14-202-133-138.static.tpgi.com.au) has joined #reddit-downtime
+T 1336779277 23*	23DrKabob has quit (23Quit: You can't fire me, because I quit! I quit!23)
+T 1336779406 23*	23divno has quit (23Remote host closed the connection23)
+T 1336779407 23*	23grobend has quit (23Read error: Connection reset by peer23)
+T 1336779422 19*	19grobend (grobend@24-107-192-246.dhcp.stls.mo.charter.com) has joined #reddit-downtime
+T 1336779426 23*	23enr has quit (2323)

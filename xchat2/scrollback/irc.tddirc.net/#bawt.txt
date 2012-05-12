@@ -1,0 +1,14 @@
+T 1329586872 19*	19Now talking on #bawt
+T 1329587213 19*	19Bot_greg_130 (Bot_greg_1@TDDIRC-64E687FB.dyn.optonline.net) has joined #bawt
+T 1329587219 31<TheShadowFog>30	!flood
+T 1329587224 23*	23Bot_greg_130 has quit (23Client exited23)
+T 1329587243 19*	19Bot_greg_472 (Bot_greg_4@TDDIRC-64E687FB.dyn.optonline.net) has joined #bawt
+T 1329587246 31<TheShadowFog>30	!do
+T 1329587248 31<TheShadowFog>30	!ddos
+T 1329587257 31<TheShadowFog>30	!ddos
+T 1329587259 23*	23Bot_greg_472 has quit (23Connection reset by peer23)
+T 1329587265 19*	19Bot_greg_651 (Bot_greg_6@TDDIRC-64E687FB.dyn.optonline.net) has joined #bawt
+T 1329587267 31<TheShadowFog>30	:!do
+T 1329587270 31<TheShadowFog>30	:!ddos
+T 1329587448 23*	23Bot_greg_651 has quit (23Ping timeout23)
+T 1329589186 22*	Disconnected ().

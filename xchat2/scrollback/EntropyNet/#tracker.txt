@@ -1,0 +1,502 @@
+T 1335146741 18<fox>	hmm
+T 1335146744 18<fox>	something is missing
+T 1335146753 19*	19Fear-chan (fearbot@i.will.curse.you) has joined #tracker
+T 1335146756 18<fox>	.np
+T 1335146757 18<Fear-chan>	'foxwolfblood' is not listening to anything right now. The last played track is 7光田康典 - 7Lost Fragments, back in 23 Apr 2012, 01:51 UTC.
+T 1335146770 18<fox>	:(
+T 1335146782 18<cafejunkie>	whoever I'm partially seeding to, sorry, charter is a bitch sometimes lol
+T 1335146783 18<fox>	was listening to AFX 
+T 1335146795 21<fox>21	TheShadowFog: probably
+T 1335146815 18<cafejunkie>	he gets 90kB/s from me for about a minute or so
+T 1335146816 18<cafejunkie>	then drops
+T 1335146818 18<cafejunkie>	then reconnects
+T 1335146823 18<cafejunkie>	idk if it's me or him
+T 1335146827 18<fox>	its ok
+T 1335146834 18<fox>	he gets 9 kB/s from me :P
+T 1335146837 18<cafejunkie>	lol
+T 1335147098 18<fox>	[22:02] <Cap_J_L_Picard>
+T 1335147159 18<staticsafe>	lol
+T 1335147208 18<fox>	http://krikkit.foxwolfblood.me:6969/torrents/Dalminjo%20-%20Fjord%20Fusioneer.torrent?B539193F0A2C11CA2A211C40D9D363238C4AA660
+T 1335147216 18<fox>	cafejunkie: ^ this is also ORG Lounge :P
+T 1335147484 18<fox>	staticsafe: what should we do?
+T 1335147491 18<fox>	build our own?
+T 1335147498 18<fox>	or use something existing
+T 1335147503 18<staticsafe>	hmm
+T 1335147510 18<fox>	that whitelist wont work as its ip based
+T 1335147544 18<fox>	ill set up a tracker in a VM to test i guess
+T 1335147665 18<fox>	.np
+T 1335147666 18<Fear-chan>	'foxwolfblood' is not listening to anything right now. The last played track is 7Moby - 7Into the Blue, back in 23 Apr 2012, 02:12 UTC.
+T 1335147707 18<fox>	winning
+T 1335147716 18<fox>	sphinxsearch is in the repos
+T 1335147749 18<fox>	someone want to type out the dotdeb repos quickly?
+T 1335147751 18<cafejunkie>	familiar with BtiTracker?
+T 1335147760 18<cafejunkie>	it's php
+T 1335147823 18<cafejunkie>	http://sourceforge.net/projects/btit-tracker/
+T 1335147854 18<fox>	just found it
+T 1335147862 18<fox>	cafejunkie: ever seen gazelle?
+T 1335147867 18<cafejunkie>	no
+T 1335147869 18<fox>	its NICE
+T 1335147892 18<fox>	thats why i want to use it
+T 1335147950 18<fox>	omg
+T 1335147950 18<fox>	this is epic
+T 1335147950 18<fox>	https://projectgazelle.wordpress.com/2009/11/30/how-to-for-pg-example-tracker-vm/ preconfigured gazelle VM :P
+T 1335148119 18<cafejunkie>	cool
+T 1335148131 18<fox>	anyway
+T 1335148140 18<cafejunkie>	too bad it's debian 5
+T 1335148146 18<fox>	true
+T 1335148360 18<fox>	cafejunkie: why dont we use sources.list.d more often?
+T 1335148366 18<fox>	would make life so much easier
+T 1335148384 18<fox>	then id just have to ls to look at what addon repos are installed
+T 1335148408 18<cafejunkie>	yeah
+T 1335148410 18<cafejunkie>	I should use it more
+T 1335148433 18<cafejunkie>	more...heh, I don't use it at all other than what's put there automatically like the google repos and PPAs lol
+T 1335148463 18<fox>	lol
+T 1335148466 18<fox>	i use it
+T 1335148533 18*	fox is doing the build-dep for sphinxsearch
+T 1335148537 18<cafejunkie>	I don't use many third party repos. I have the spotify repo and google's and that's it. Anything else that isn't in debian or ubuntu I just build
+T 1335148544 18<fox>	.np
+T 1335148548 18<Fear-chan>	'foxwolfblood' is now playing: 7Moby - 7Shot In the Back Of The Head (Tiësto Remix) (10electronic, 10ambient, 10chillout, 10electronica) [705:36]
+T 1335148563 18<fox>	Moby + Tiesto == HOOOOOOOOOOOOLYYYYYYYYYYYYYYYYY FUUUUUUUUUUCCCCCCCCCCKKKKKKKKKKK
+T 1335148618 18<cafejunkie>	now you have me interested
+T 1335148619 18<cafejunkie>	.np
+T 1335148620 18<Fear-chan>	'cafejunkie' is now playing: 7Moby - 7Wait For Me. Remixes! - 7Shot In The Back Of The Head (Tiesto Remix) (10electronic, 10ambient, 10chillout, 10electronica) [707:13]
+T 1335148662 18<fox>	winning?
+T 1335148670 18<cafejunkie>	indeed
+T 1335148728 18*	fox is about to restart his debian VM to give it 6 cores
+T 1335148736 18<fox>	gonna be doing some compiling :P
+T 1335148745 18<cafejunkie>	lol
+T 1335148803 18<fox>	done
+T 1335148815 18<cafejunkie>	someday, if I'm ever stupid rich and have money to blow, I want to get a stupidly large instance on EC2 and build KDE with it just to see how fast it is
+T 1335148830 18<cafejunkie>	The biggest you can gget
+T 1335148844 18<fox>	cafejunkie: well that may be needed for caffeine :P
+T 1335148857 18<fox>	ofc
+T 1335148867 18<fox>	the better way is to just build a stupid powerful server
+T 1335148870 18<staticsafe>	^
+T 1335148871 18<fox>	hmm
+T 1335148889 18<fox>	you can get 16 core AMD chips now
+T 1335148893 18<fox>	2 of those
+T 1335148900 18<fox>	32 cores
+T 1335148912 18<fox>	that should be powerful enough :P
+T 1335148924 18<cafejunkie>	Cluster Compute Eight Extra Large 60.5 GB memory, 88 EC2 Compute Units, 3370 GB of local instance storage, 64-bit platform, 10 Gigabit Ethernet 
+T 1335148934 18<cafejunkie>	looks like the biggest you can get without using GPUs
+T 1335149006 18<cafejunkie>	One EC2 Compute Unit (ECU) provides the equivalent CPU capacity of a 1.0-1.2 GHz 2007 Opteron or 2007 Xeon processor.
+T 1335149027 18<fox>	cafejunkie: well, guess what
+T 1335149080 18<fox>	the new cores would be faster than that
+T 1335149087 18<fox>	32 would probably smoke that
+T 1335149119 18<fox>	88 slow concurrent builds vs 32 fast concurrent builds
+T 1335149203 18<cafejunkie>	their GPU cluster gives you 33 Compute Units and 2 Nvidia Tesla M2050. Each GPU has 665 Gigaflops
+T 1335149222 18<cafejunkie>	brute forcing anyone? xD
+T 1335149269 18<fox>	O_o
+T 1335149284 18<fox>	:D
+T 1335149287 18<fox>	compiling
+T 1335149291 18<fox>	fast
+T 1335149431 18<fox>	ohhhhhhhhhh shit
+T 1335149432 18<fox>	oom
+T 1335149442 18*	fox gives VM 2 gig
+T 1335149469 18<fox>	now it should work :P
+T 1335149481 18<fox>	i hit 368 too fast
+T 1335149551 18<fox>	yea it needed that
+T 1335149561 18<fox>	its using 700 MB of ram
+T 1335149590 18<fox>	O_O
+T 1335149596 18<fox>	it finished in like 
+T 1335149599 18<fox>	a minute
+T 1335149605 18<fox>	no joke
+T 1335149786 18<fox>	is it sad that i have how to add users and grant syntax for mysql memorized?
+T 1335149814 18<cafejunkie>	nah
+T 1335149826 18<fox>	wait i shouldnt be asking here
+T 1335149831 18<cafejunkie>	mysql is something pretty much anyone who works with web servers is doing to need to know eventually
+T 1335149849 18*	fox starts firefox
+T 1335149857 18<fox>	(im using a shitload of ram already
+T 1335149860 18<fox>	prepare for OOM!
+T 1335149900 18<cafejunkie>	damn hot weather...I'm idling at 50*C instead of like 42 now :/
+T 1335149905 18<cafejunkie>	fox: will it kill syslog? lol
+T 1335149909 18<cafejunkie>	rsyslog
+T 1335149924 18<fox>	cafejunkie: nope this is windows
+T 1335149929 18<fox>	it will lock up everything
+T 1335149976 18<fox>	76&
+T 1335150421 18<fox>	cafejunkie: what tracker do you want to use
+T 1335150444 18<fox>	i mean we cabn use that other one
+T 1335150450 18<fox>	it will probably be easeir
+T 1335150578 18<cafejunkie>	doesn't matter to me, I have no experience with tracker software at all so I'm not partial to one or the other
+T 1335150604 18<fox>	as far as im cncerend they are all the same in the end
+T 1335150618 18<fox>	ill just install btitracker
+T 1335150625 18<fox>	easier
+T 1335150694 18<fox>	.np
+T 1335150697 18<Fear-chan>	'foxwolfblood' is now playing: 7Eco - 7After All... (Album Mix) (10trance, 10ebm, 10electronic, 10progressive trance) [707:51]
+T 1335150857 18<fox>	.np
+T 1335150858 18<Fear-chan>	'foxwolfblood' is not listening to anything right now. The last played track is 7Caustic Window - 7Astroblaster, back in 23 Apr 2012, 02:57 UTC.
+T 1335150878 18<cafejunkie>	.np
+T 1335150879 18<Fear-chan>	'cafejunkie' is now playing: 7Ital Tek - 7Mako EP - 7Mako [04<3 - playcount 37x] (10dubstep, 10idm, 10electronic, 10breakcore) [704:16]
+T 1335150896 23*	23Jacky has quit (23Quit: Oops, looks like I'm tired.23)
+T 1335150896 18<cafejunkie>	this song is in no way dubstep
+T 1335150897 18<cafejunkie>	like at all
+T 1335150902 18<cafejunkie>	there are 0 dubstep elements in it
+T 1335150905 18<cafejunkie>	none whatsoever
+T 1335150911 18<fox>	lol
+T 1335151067 18<cafejunkie>	so fucking hot
+T 1335151070 18<cafejunkie>	I think it's time to smoke
+T 1335151103 18<fox>	lol wow
+T 1335151111 18<fox>	wget this
+T 1335151125 18<fox>	http://tinyurl.com/8xsl3ka
+T 1335151188 18<cafejunkie>	that's an....odd name for an archive
+T 1335151210 18<fox>	hmm?
+T 1335151217 18<cafejunkie>	nvm
+T 1335151222 18<fox>	did you see how many hops?
+T 1335151228 18<cafejunkie>	yeah
+T 1335151247 18<fox>	tinyurl - > sourceforge -> sourceforge mirror service - > mirror -> mirror
+T 1335151622 18<staticsafe>	https://github.com/larryng/narwal/pull/2#issuecomment-5273643 yay it fot merged
+T 1335151639 18<staticsafe>	also TIL about PEP8
+T 1335151699 18<fox>	lol
+T 1335151762 18*	fox makes new Arch vm
+T 1335152254 18<fox>	cafejunkie: actually
+T 1335152259 18<fox>	Arch would be  a great server
+T 1335152262 18<fox>	they do so much right
+T 1335152277 18<fox>	also
+T 1335152281 18<fox>	HOLY FUCK THIS IS FAST
+T 1335152295 18<fox>	6 cores on an arch vm == fast
+T 1335152441 18<cafejunkie>	I'd probably run a Gentoo server before an Arch server
+T 1335152450 18<fox>	cafejunkie: why?
+T 1335152460 18<fox>	Arch servers actually kind of make sense
+T 1335152464 18<cafejunkie>	I'm more comfortable with Gentoo
+T 1335152486 18<fox>	really?
+T 1335152492 18<cafejunkie>	Arch was better 1 and a half years ago then it is now (for me)
+T 1335152492 18<cafejunkie>	yeah
+T 1335152519 18<fox>	the only issue i have with Gentoo atm is that the servers that it'd be running on 
+T 1335152525 18<fox>	its too much work
+T 1335152530 18<fox>	i mean
+T 1335152532 18<fox>	i can do it
+T 1335152544 18<fox>	but i don't LIKE having to compile my kernel 
+T 1335152550 18<fox>	it takes too much time
+T 1335152555 18<fox>	also your client dropped
+T 1335152559 18<fox>	(bittorrent)
+T 1335152662 18<fox>	cafejunkie: i mean if there was a perfect way to build gentoo for another machine on this box (the 6 core) id do it
+T 1335152665 18<fox>	but there isn't really
+T 1335153078 18<cafejunkie>	oh shit
+T 1335153100 18<cafejunkie>	it didn't drop, I paused it so I could browse the web a bit faster :P Then I finished what I was doing and forgot I had it paused
+T 1335153120 18<fox>	loooooooooooool
+T 1335153167 18<cafejunkie>	wow, and I haven't even smoked yet
+T 1335153213 18<cafejunkie>	315kB/s
+T 1335153215 18<cafejunkie>	400
+T 1335153234 18<fox>	oh the wonders of superseeding
+T 1335153244 18<fox>	taking advantage of other users bandwidth
+T 1335153281 18<cafejunkie>	awww, looks like I caught up
+T 1335153494 18<fox>	cafejunkie: gentoo is nice i guess in some wyas
+T 1335153504 18<fox>	but Arch is nice in others
+T 1335153513 18<fox>	gentoo on this box would be fine
+T 1335153527 18<fox>	gentoo on the box that this is going on WAS HELL
+T 1335153609 19*	19fox_ (fox@net-6vmvtr.clt.bellsouth.net) has joined #tracker
+T 1335153616 18<fox_>	<- laptop :P
+T 1335153620 18<fox>	\]
+T 1335153647 18<fox_>	mostly so i can go lay down instead of having to sit :P
+T 1335153652 18<fox_>	lazyness :P
+T 1335153654 18<fox_>	
+T 1335153668 18<cafejunkie>	lol
+T 1335153673 18<fox_>	cafejunkie: you know whats awesome?
+T 1335153680 18<fox_>	mpd on windows
+T 1335153681 18<fox_>	why?
+T 1335153688 18<fox_>	im connected to my windows box from freebsd
+T 1335153693 18<fox_>	and ncmpcpp
+T 1335153695 18<cafejunkie>	lol
+T 1335153697 18<fox_>	and you know what i can do?
+T 1335153697 18<cafejunkie>	nice
+T 1335153699 18<fox_>	EVERYTING
+T 1335153713 18<fox_>	volume
+T 1335153715 18<fox_>	actually
+T 1335153716 18<fox_>	can i
+T 1335153725 18<fox_>	yes i can
+T 1335153727 18*	fox_ is listening to Solar Fields - Discovering
+T 1335153732 18<fox_>	via iMPD
+T 1335153775 18<fox_>	pretty win
+T 1335153802 18*	fox_ wants to make a stalk command for irssi (joins all the channels another user is in)
+T 1335153834 18<fox_>	.np
+T 1335153836 18<Fear-chan>	'foxwolfblood' is now playing: 7The Future Sound of London - 7Accelerator Deluxe - 7Papua New Guinea (Andrew Weatherall Full Length mix) (10electronic, 10ambient, 10idm, 10electronica) [711:37]
+T 1335153927 18<fox_>	The Future Sound Of London - Papua New Guinea (Andrew Weatherall Full Length Mix)
+T 1335153930 18<fox_>	[playing] #986/4826   1:36/11:40 (13%)
+T 1335153932 18<fox_>	volume: 44%   repeat: off   random: on    single: off   consume: off
+T 1335153944 18<fox_>	cafejunkie: ok
+T 1335153945 18<fox_>	so
+T 1335153952 18<fox_>	hmm
+T 1335154003 18<fox_>	gentoo...
+T 1335154010 18<cafejunkie>	.np
+T 1335154011 18<Fear-chan>	'cafejunkie' is not listening to anything right now. The last played track is 7Mux Mool - 7False Worship, back in 23 Apr 2012, 03:43 UTC.
+T 1335154014 18<cafejunkie>	lies
+T 1335154017 18<cafejunkie>	.np
+T 1335154019 18<Fear-chan>	'cafejunkie' is not listening to anything right now. The last played track is 7Mux Mool - 7False Worship, back in 23 Apr 2012, 03:43 UTC.
+T 1335154020 18<fox_>	now if i can get distCC to run 
+T 1335154021 18<cafejunkie>	fuck you
+T 1335154026 18<fox_>	it will be less of an issue
+T 1335154032 18<fox_>	cafejunkie: what player are you using?
+T 1335154037 18<fox_>	oh god my arms
+T 1335154040 18<fox_>	my hands
+T 1335154049 18<fox_>	EVERYTHING HURTS LIKE FUCK
+T 1335154060 18<cafejunkie>	.np
+T 1335154061 18<Fear-chan>	'cafejunkie' is now playing: 7ORG Lounge - 7ORG Lounge - 7Jazz Trippin' (10lounge, 10Drum and bass, 10electronic, 10House) [703:57]
+T 1335154064 18<cafejunkie>	fox_: spotify 
+T 1335154074 18<fox_>	eww :P
+T 1335154075 18<cafejunkie>	fox_: I don't have everything set up yet on here lol
+T 1335154080 18<cafejunkie>	I don't even have my music
+T 1335154085 18<fox_>	cafejunkie: sucks
+T 1335154091 18<fox_>	cafejunkie: nfs?
+T 1335154107 18<fox_>	hmmm... getting this to work is going to be problematic
+T 1335154138 18<fox_>	.np
+T 1335154139 18<Fear-chan>	'foxwolfblood' is now playing: 7Ulrich Schnauss & Mark Peters - 7the messiah is falling [playcount 6x] (10ambient, 10downtempo, 10chillout, 10electronic) [703:44]
+T 1335154155 18<cafejunkie>	fox_: I need more disk space
+T 1335154162 18<fox_>	cafejunkie: so do i :/
+T 1335154169 18<fox_>	i have less than you
+T 1335154201 18<fox_>	.np
+T 1335154203 18<Fear-chan>	'foxwolfblood' is now playing: 7Caustic Window - 7we are the music makers [hardcore mix] (10idm, 10electronic, 10experimental, 10techno) [700:00]
+T 1335154335 23*	23fox_ has quit (23Changing host23)
+T 1335154335 19*	19fox_ (fox@entropynet/staff/netadmin/fox) has joined #tracker
+T 1335154358 18<fox_>	We are the music makers and we are the dreamers of dreams
+T 1335155076 23*	23fox_ has quit (23Quit: Lost terminal23)
+T 1335156365 19*	19fox-freebsd (fox@net-6vmvtr.clt.bellsouth.net) has joined #tracker
+T 1335210144 23*	23fox has quit (23Connection closed23)
+T 1335210147 19*	19fox_ (fox@entropynet/staff/netadmin/fox) has joined #tracker
+T 1335211363 19*	19fox (fox@entropynet/staff/netadmin/fox) has joined #tracker
+T 1335211390 19*	19fox-free1sd (fox@net-rqr9hn.clt.bellsouth.net) has joined #tracker
+T 1335211469 23*	23fox-freebsd has quit (23Ping timeout: 121 seconds23)
+T 1335211478 23*	23fox_ has quit (23Ping timeout: 121 seconds23)
+T 1335212017 19*	19fox-test (W2DPp5Xr@net-rqr9hn.clt.bellsouth.net) has joined #tracker
+T 1335212398 18<fox>	staticsafe: 
+T 1335212417 18<fox>	i half way want to code my own tracker :(
+T 1335212420 18<fox>	how hard could it be :P
+T 1335212429 18<fox>	like 90% of the stuff is done over http
+T 1335212443 18<fox>	or http(over udp)
+T 1335212622 18<fox>	staticsafe: that way i can add other nice features :P
+T 1335212654 19*	19TSF (bob@net-gr78ov.dyn.optonline.net) has joined #tracker
+T 1335212660 23*	23TSF (23bob@net-gr78ov.dyn.optonline.net) has left #tracker
+T 1335212915 19*	19fox-freebsd (fox@net-v92req.clt.bellsouth.net) has joined #tracker
+T 1335212923 19*	19fox_ (fox@entropynet/staff/netadmin/fox) has joined #tracker
+T 1335212986 23*	23fox-test has quit (23Ping timeout: 121 seconds23)
+T 1335213045 19*	19fox-test (W2DPp5Xr@net-v92req.clt.bellsouth.net) has joined #tracker
+T 1335213057 23*	23fox has quit (23Ping timeout: 121 seconds23)
+T 1335213065 23*	23fox-free1sd has quit (23Ping timeout: 121 seconds23)
+T 1335213115 18<fox_>	staticsafe: ?
+T 1335213710 18<fox_>	staticsafe: staticsafe staticsafe 
+T 1335213977 18<staticsafe>	fox_: i went to eat
+T 1335213993 18<fox_>	staticsafe: :P
+T 1335214000 18<fox_>	READ
+T 1335214029 18<staticsafe>	fox_: stop reinventing the wheel :P
+T 1335214052 18<fox_>	staticsafe: its not
+T 1335214146 18<fox_>	staticsafe: all the other trackers suxorz
+T 1335214193 18<staticsafe>	fox_: even ocelot?
+T 1335214205 18<fox_>	probs
+T 1335214208 18<fox_>	i mean
+T 1335214219 18<fox_>	fucking too much work
+T 1335214221 18<fox_>	and no docs
+T 1335214301 18<staticsafe>	:D
+T 1335214347 18<fox_>	staticsafe: no really
+T 1335214351 18<fox_>	there are no docs 
+T 1335214352 18<fox_>	at all
+T 1335214357 18<fox_>	for gazelle or ocelot
+T 1335214367 18<staticsafe>	yep i know
+T 1335214377 18<fox_>	staticsafe: if there was i'd use it
+T 1335214382 18<fox_>	just so you know
+T 1335214542 18<staticsafe>	fox_: and Gazelle itself is too big for our needs tbh
+T 1335214548 18<fox_>	staticsafe: yep
+T 1335214557 18<fox_>	although i love some of its features
+T 1335214597 18<staticsafe>	yep it has the best organization 
+T 1335214690 18<fox_>	staticsafe: anyway
+T 1335214708 18<fox_>	i want to do some minor things to whatever tracker we use anyway
+T 1335214725 18<staticsafe>	fox_: can we modify opentracker?
+T 1335214734 18<fox_>	staticsafe: yes i guess
+T 1335214737 18<fox_>	let me check it out
+T 1335214781 18<fox_>	staticsafe: i mean i think its C which means yes we could but its not really what i wanted :P
+T 1335214797 18<staticsafe>	heh
+T 1335214800 18<fox_>	i want it to be modular :P
+T 1335214810 18<staticsafe>	PYTHON TIME
+T 1335214812 18<staticsafe>	:P
+T 1335214827 18<fox_>	staticsafe: actually yes :/
+T 1335214829 18<staticsafe>	hmm i wonder how a tracker in Python would work
+T 1335214835 18<staticsafe>	or if it has been done before
+T 1335214838 18*	staticsafe googles
+T 1335214838 18<fox_>	should be pretty good actually
+T 1335214851 18<fox_>	dont forget the never ending list of modules
+T 1335214857 18<fox_>	also perl would be great too
+T 1335214858 18<fox_>	with POE
+T 1335214873 18<fox_>	there are modules for EVERYTHING
+T 1335214877 18<staticsafe>	https://code.google.com/p/django-torrent-tracker/
+T 1335214898 18<fox_>	staticsafe: id rather the tracker and the web portion be seperate
+T 1335214908 18<fox_>	and only work via views based in the database
+T 1335214925 18<fox_>	reducing the attack vectors on both :P
+T 1335214942 18<staticsafe>	http://xbnbt.sourceforge.net/ - tracker in C++
+T 1335214955 18<fox_>	FUCK C++
+T 1335214956 18<fox_>	FUCK C++
+T 1335214957 18<fox_>	FUCK C++
+T 1335214957 18<fox_>	FUCK C++
+T 1335214958 18<fox_>	FUCK C++
+T 1335214965 18<staticsafe>	lol
+T 1335214994 18<fox_>	staticsafe: tbh, C++ ends up being way more resource intensive than python 
+T 1335215009 18<staticsafe>	https://github.com/JosephSalisbury/python-bittorrent
+T 1335215040 18<fox_>	staticsafe: want to do it?
+T 1335215140 18<fox_>	staticsafe: the main reason i want the two seperate is to reduce the strain on the server 
+T 1335215185 18<staticsafe>	https://github.com/JosephSalisbury/python-bittorrent/blob/master/tracker.py thats the tracker code
+T 1335215190 18<staticsafe>	doesn't look too complicated
+T 1335215210 18<fox_>	staticsafe: it wouldn't be
+T 1335215216 18<fox_>	as i said
+T 1335215218 18<fox_>	its mostly http 
+T 1335215236 18<fox_>	the hard part
+T 1335215267 18<fox_>	thats making passphrases, user identification, determining if a user is allowed to use that torrent
+T 1335215275 18<fox_>	checking that its actually a bittorrent prog
+T 1335215277 18*	staticsafe forks repo
+T 1335215293 18<fox_>	staticsafe: lets make a new github org :P
+T 1335215297 18<fox_>	EntropyNet :P
+T 1335215304 18<fox_>	for our entropynet repos 
+T 1335215418 18<fox_>	staticsafe: i mean watch bittorrent in wireshark
+T 1335215431 18<fox_>	you can use my tracekr for an example :P
+T 1335215465 18<fox_>	the only thing keeping me from using vuze is that its... vuze
+T 1335215530 18<fox_>	staticsafe: look at announce.php in PHPBTTracker for example
+T 1335215571 18<fox_>	staticsafe: actualy i see a problem with this tracker
+T 1335215578 18<fox_>	it doesn't use "announce"
+T 1335215695 18<fox_>	that means no scrape support
+T 1335216004 18<fox_>	staticsafe: http://wiki.theory.org/BitTorrentSpecification#Tracker_HTTP.2FHTTPS_Protocol
+T 1335216272 18<fox_>	staticsafe: ideas?
+T 1335216281 18<fox_>	brb
+T 1335216739 18<fox_>	back
+T 1335217389 18<fox-freebsd>	staticsafe: sooooo ideas
+T 1335217504 18<fox-freebsd>	:/
+T 1335217513 18<fox-freebsd>	cafejunkie: you aren't here yet are you?
+T 1335217579 18<fox-freebsd>	Version 2.x has been tested to handle approximately 10,000 peers on a 1mbit upload connection and a Pentium 4 1.6GHz PC with 1GB of RAM.
+T 1335217585 18<fox-freebsd>	^ this is a PHP script
+T 1335217627 18<fox-freebsd>	staticsafe: ^ thats a php script
+T 1335217992 18<fox-freebsd>	staticsafe: so
+T 1335217994 18<fox-freebsd>	anything?
+T 1335218011 18<staticsafe>	sorry working on some web design >.>
+T 1335218012 18<staticsafe>	<.<
+T 1335218025 18<fox-freebsd>	staticsafe: :/
+T 1335218041 18<fox-freebsd>	staticsafe: so, what do you think we should do?
+T 1335218053 18<fox-freebsd>	i mean, i dont care we can base off whatever we want really
+T 1335218073 18<fox-freebsd>	i just KNOW i want it seperate because otherwise you end up with meh speeds on both
+T 1335218226 18<fox-freebsd>	GET /announce?info_hash=%EB%01%15%DC%3A%0Dr%A3%22
+T 1335218226 18<fox-freebsd>	5d%12%D3%00%D7%AE%5E%B3%B1%13%5F&peer_id=-lt0C90-%15%D8%92%1A%F1%8F%8E%8C%F3i%09%1F&key=693d7415&compact=1&port=23877&uploaded=0&downloaded=0&left=344784981&event=started HTTP/1.1^M
+T 1335218230 18<fox-freebsd>	User-Agent: rtorrent/0.8.9/0.12.9^M
+T 1335218233 18<fox-freebsd>	Host: inferno.demonoid.com:3411^M
+T 1335218235 18<fox-freebsd>	Accept: */*^M
+T 1335218238 18<fox-freebsd>	Accept-Encoding: deflate, gzip^M
+T 1335218432 18<fox-freebsd>	staticsafe: just to give you an example of how it works :P
+T 1335218444 18<fox-freebsd>	told you, its 100% http :P
+T 1335218475 18<fox-freebsd>	HTTP/1.0 200 OK^M
+T 1335218475 18<fox-freebsd>	^M
+T 1335218476 18<fox-freebsd>	d8:completei1e10:incompletei1e8:intervali3600e12:min intervali3600e5:peers12:J
+T 1335219829 18<fox-freebsd>	bored
+T 1335219860 18<fox-freebsd>	staticsafe: what web design shit are you working on?
+T 1335219885 18<staticsafe>	fox-freebsd: tumblr theme
+T 1335219920 18<fox-freebsd>	staticsafe: meh 
+T 1335219927 18<fox-freebsd>	fuck tumblr themes
+T 1335219929 18<fox-freebsd>	btw
+T 1335219994 18<fox-freebsd>	fuck it
+T 1335219998 18<fox-freebsd>	btitracker
+T 1335220015 18<fox-freebsd>	ill have a tracker up in minutes
+T 1335220294 23*	23fox_ has quit (23Connection closed23)
+T 1335220315 23*	23fox-test has quit (23Ping timeout: 121 seconds23)
+T 1335220475 19*	19fox (idontexist@net-v92req.clt.bellsouth.net) has joined #tracker
+T 1335220480 18<fox>	just booted up linux :P
+T 1335220796 23*	23fox has quit (23Changing host23)
+T 1335220796 19*	19fox (idontexist@entropynet/staff/netadmin/fox) has joined #tracker
+T 1335221295 18<fox>	staticsafe: updating arch :P
+T 1335221301 18<fox>	takes for fucking ever
+T 1335227642 23*	23fox has quit (23Quit: Lost terminal23)
+T 1335228214 19*	19fox (idontexist@net-v92req.clt.bellsouth.net) has joined #tracker
+T 1335228396 18<fox>	staticsafe: cafejunkie: tracker!
+T 1335228416 18<staticsafe>	-__
+T 1335228435 18<fox>	staticsafe: i mean you can always make it :P
+T 1335228454 18<staticsafe>	do I look like I'm good at programming? :P
+T 1335228470 18<fox>	staticsafe: who said anything about programming
+T 1335228483 18<fox>	i mean you can throw gazelle/btitracker on a server
+T 1335228487 18<staticsafe>	\o/
+T 1335228493 18<staticsafe>	hmm
+T 1335228493 18<fox>	instead of me doing it
+T 1335228498 18<staticsafe>	             total       used       free     shared    buffers     cached
+T 1335228498 18<staticsafe>	Mem:           494        487          7          0         21        253
+T 1335228498 18<staticsafe>	-/+ buffers/cache:        213        281
+T 1335228498 18<staticsafe>	Swap:          511        241        270
+T 1335228502 18<staticsafe>	thats bender
+T 1335228503 18<fox>	and overcomplicating everything :P
+T 1335228510 18<fox>	             total       used       free     shared    buffers     cached
+T 1335228510 18<fox>	Mem:       4053520    3720492     333028          0     118176    2808224
+T 1335228510 18<fox>	-/+ buffers/cache:     794092    3259428
+T 1335228510 18<fox>	Swap:       265068        800     264268
+T 1335228516 18<fox>	thats slartibartfast
+T 1335228543 18<fox>	lol... look how much is used for cache
+T 1335228557 18<staticsafe>	 free -m
+T 1335228557 18<staticsafe>	             total       used       free     shared    buffers     cached
+T 1335228557 18<staticsafe>	Mem:           494        463         31          0         35        260
+T 1335228557 18<staticsafe>	-/+ buffers/cache:        168        326
+T 1335228557 18<staticsafe>	Swap:          511         59        452
+T 1335228561 18<staticsafe>	thats peregrine
+T 1335228611 18<cafejunkie>	howdy
+T 1335228623 18<fox>	staticsafe: lol whats using up all that ram
+T 1335228636 18<fox>	CACHE
+T 1335228643 18<fox>	you have plenty of ram staticsafe :P
+T 1335228652 18<fox>	you have 326 mb free
+T 1335228658 18<staticsafe>	yea peregrine is mostly free
+T 1335228680 18<fox>	staticsafe: so yea install it :P
+T 1335231214 23*	23cafejunkie has quit (23Ping timeout: 121 seconds23)
+T 1335231512 19*	19cafejunkie-phone| (cafejunkie@EntropyNet/Staff/NetAdmin/cafejunkie) has joined #tracker
+T 1335231729 22*	cafejunkie-phone| is now known as cafejunkie-phone
+T 1335232690 23*	23cafejunkie-phone has quit (23Quit: battery23)
+T 1335233239 19*	19cafejunkie|tablet (cafejunkie@entropynet/staff/netadmin/linuxnja) has joined #tracker
+T 1335242073 19*	19cafejunkie (cafejunkie@entropynet/staff/netadmin/linuxnja) has joined #tracker
+T 1335242125 23*	23cafejunkie|tablet has quit (23Killed (cafejunkie (I'm lazy and it's across the room.))23)
+T 1335262753 23*	23fox has quit (23Ping timeout: 121 seconds23)
+T 1335319724 19*	19Now talking on #tracker
+T 1335319724 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1335319724 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1335357394 19*	19Now talking on #tracker
+T 1335357394 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1335357394 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1335484745 19*	19Now talking on #tracker
+T 1335484745 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1335484745 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1335498921 23*	23fox-freebsd has quit (23Quit: leaving23)
+T 1335498953 19*	19fox (fox@net-v92req.clt.bellsouth.net) has joined #tracker
+T 1335498998 23*	23fox has quit (23Changing host23)
+T 1335498998 19*	19fox (fox@entropynet/staff/netadmin/fox) has joined #tracker
+T 1335659170 19*	19Now talking on #tracker
+T 1335659170 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1335659170 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1335670419 21<cafejunkie>21	howdy TheShadowFog
+T 1335670424 18<cafejunkie>	LOL
+T 1335670429 18<cafejunkie>	I need to check timestamps
+T 1335846035 23*	23Fear-chan has quit (23leela.entropynet.net kif.entropynet.net23)
+T 1335846695 19*	19Fear-chan (fearbot@i.will.curse.you) has joined #tracker
+T 1335848615 23*	23Fear-chan has quit (23leela.entropynet.net kif.entropynet.net23)
+T 1335848969 19*	19Fear-chan (fearbot@i.will.curse.you) has joined #tracker
+T 1335855055 22*	Disconnected (Connection timed out).
+T 1335856897 22*	TheShadowFog sets mode +x TheShadowFog
+T 1335856897 28-29NickServ28-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+T 1335856898 22*	Received a CTCP VERSION from StatServ
+T 1335856898 28-29NickServ28-	You are now identified for TheShadowFog.
+T 1335856900 19*	19Now talking on #tracker
+T 1335856900 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1335856900 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1335878863 28-29Global28-	[Network Notice] staticsafe - EntropyNet is looking for a logo! Any artistic beings interested? :D
+T 1335925326 28-29Global28-	[Network Notice] staticsafe - kif.entropynet.net is experiencing some major packet loss. Sorry for the inconvenience.
+T 1335926607 28-29Global28-	[Network Notice] staticsafe - kif has been forced to connect via IPv6 to alleviate the packet loss and latency. Again, sorry for the netsplits.
+T 1335947472 23*	23cafejunkie has quit (23Ping timeout: 121 seconds23)
+T 1335947995 19*	19cafejunkie (cafejunkie@entropynet/staff/netadmin/linuxnja) has joined #tracker
+T 1336084131 19*	19Now talking on #tracker
+T 1336084131 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1336084131 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1336088754 19*	19cafejunkie (cafejunkie@entropynet/staff/netadmin/linuxnja) has joined #tracker
+T 1336244011 19*	19Now talking on #tracker
+T 1336244011 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1336244011 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1336340264 19*	19Now talking on #tracker
+T 1336340264 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1336340264 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1336490125 19*	19Now talking on #tracker
+T 1336490125 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1336490125 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1336599080 19*	19Now talking on #tracker
+T 1336599080 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1336599080 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1336657603 19*	19Now talking on #tracker
+T 1336657603 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1336657603 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1336699662 19*	19Now talking on #tracker
+T 1336699662 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1336699662 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012
+T 1336742156 19*	19Now talking on #tracker
+T 1336742156 29*	29Topic for #tracker 29is: The EntropyNet Issue Tracker...or is it? probably isn't.... no it is :P
+T 1336742156 29*	29Topic for #tracker 29set by fox!fox@entropynet/staff/netadmin/fox 29at Sun Apr 22 21:54:02 2012

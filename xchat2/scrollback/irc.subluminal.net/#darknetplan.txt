@@ -1,0 +1,544 @@
+T 1335857324 18<thefinn93>	what crypto?
+T 1335857354 18<thefinn93>	it's an option in the installer
+T 1335857358 18<scrood>	ok
+T 1335857392 18<Dan>	you click it & feel at ease that everything is encrypted
+T 1335857397 18<thefinn93>	lol
+T 1335857406 18<Dan>	and you'll never notice it after that
+T 1335857433 18<scrood>	and this works by encrypting data on the hard drive?  but ... what does this solve
+T 1335857449 18<thefinn93>	it prevents against physical attacks, raids, etc
+T 1335857460 18<scrood>	so nothing else can see into it?
+T 1335857466 18<scrood>	only you as the user?
+T 1335857472 18<thefinn93>	correct
+T 1335857480 18<thefinn93>	it's encrypted on the fly as it writes to the disk
+T 1335857486 18<thefinn93>	and it unencrypts when you log in
+T 1335857497 18<thefinn93>	it's so simple most people dont even notice
+T 1335857505 18<scrood>	could come wireless device intercept those on the fly transmissions?
+T 1335857517 18<thefinn93>	na
+T 1335857523 18<scrood>	or is it physical?
+T 1335857527 18<thefinn93>	it's physical
+T 1335857537 18<thefinn93>	it doesn't change what you send of the network
+T 1335857590 18<thefinn93>	so like my IRC client is logging all of this. it tries to write to the hard drive, but instead writes to this virtual partition that ecryptfs setup, which is encrypted and saved to the real disk
+T 1335857619 18<thefinn93>	however the connection from my laptop to the subluminal server isn't encrypted
+T 1335857661 18<thefinn93>	*disclaimer: i'm connected to a BNC with SSL so it actually is encrypted, but that's another matter for another day
+T 1335857678 18<scrood>	im too noob for this man...
+T 1335857685 18<thefinn93>	psh
+T 1335857690 18<thefinn93>	you don't need to know that shit
+T 1335857694 18<thefinn93>	i just happen to
+T 1335857695 18<scrood>	its layer 4 as i am layer 1
+T 1335857708 18<thefinn93>	the fact that you got on IRC all by yourself means that you can do it
+T 1335857720 18<scrood>	motivation and patience
+T 1335857735 18<thefinn93>	that's how it all works
+T 1335857735 18<scrood>	like i said man, i wanna get involved
+T 1335857770 18<thefinn93>	well i encourage you to try linux. It's not as scary as you seem to think it is
+T 1335857782 18<thefinn93>	and we'll give you tech support
+T 1335857785 18<scrood>	way ahead
+T 1335857797 18<thefinn93>	also: what else are you good at? we need more than just techies
+T 1335857812 18<thefinn93>	ie. can you design shit? websites? posters? 
+T 1335857819 18<thefinn93>	what resources do you bring to the project
+T 1335858028 18<scrood>	just a supporter i guess. i've only worked with the actual physical side of networks... installing switches, configuring , installing thousands of wap on a new network on university and configuring... 
+T 1335858054 18<thefinn93>	oh cool
+T 1335858055 18<thefinn93>	nice
+T 1335858062 18<thefinn93>	so you know networking stuff
+T 1335858071 18<scrood>	very basic i would say
+T 1335858116 18<scrood>	but i want to get into other side of things
+T 1335858127 18<thefinn93>	the software side of things?
+T 1335858133 18<scrood>	yes
+T 1335858169 18<thefinn93>	well do you know any programming languages
+T 1335858170 18<thefinn93>	?
+T 1335858186 18<Dan>	meh
+T 1335858212 18<thefinn93>	wut
+T 1335858304 18<Dan>	nothin
+T 1335858365 18<scrood>	not at the moment but i've heard of a few
+T 1335858410 18<thefinn93>	ok
+T 1335858415 18<thefinn93>	what have you heard of?
+T 1335858424 18<thefinn93>	Python is a good one to start with...
+T 1335858426 18<scrood>	maybe start with python
+T 1335858432 18<thefinn93>	yep
+T 1335858434 18<thefinn93>	do it!
+T 1335858439 18<thefinn93>	do you have python installed?
+T 1335858466 18<scrood>	i'm about 2 days into this... i'm trying  haha
+T 1335858560 18<thefinn93>	alright
+T 1335858566 18<thefinn93>	go to python.org, get python
+T 1335858576 18<thefinn93>	you run a mac, right?
+T 1335858595 18<thefinn93>	http://python.org/ftp/python/2.7.3/python-2.7.3-macosx10.6.dmg
+T 1335858739 18<scrood>	okay
+T 1335858779 18<thefinn93>	then you gotta follow some sorta docs cuz i do not have time to teach you python from start to finish right here and now
+T 1335858786 18<thefinn93>	hang on, lemme see what I can do
+T 1335858827 18<thefinn93>	oh right
+T 1335858835 18<thefinn93>	Learn Python The Hard Way
+T 1335858842 18<thefinn93>	http://learnpythonthehardway.org/book/
+T 1335858909 18<thefinn93>	oh hey you're not supposed to get that DMG
+T 1335858920 18<thefinn93>	i forgot MacOS X comes with python
+T 1335858950 18<scrood>	hax me already
+T 1335858965 18<thefinn93>	?
+T 1335858985 18<thefinn93>	http://learnpythonthehardway.org/book/intro.html <-- Read this
+T 1335859011 18<thefinn93>	im outta here, should be back on later tonight unless I go to sleep like I should
+T 1335859013 18<thefinn93>	which i wont
+T 1335859029 18<thefinn93>	messages with my name on them or DM'd to me will get stored and read when i come back
+T 1335859031 18<thefinn93>	tata
+T 1335859201 18<Dan>	night finn
+T 1335859221 18<Dan>	I'm going to go to bed myself
+T 1335859641 18<thefinn93>	lame. sleep is for the weak
+T 1335861641 23*	23scrood has quit (23Ping timeout23)
+T 1335861663 19*	19scrood (david_h@DD99AE17.FCF700D4.83FBBE6D.IP) has joined #darknetplan
+T 1335864156 23*	23godane has quit (23Quit: Leaving.23)
+T 1335865002 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #darknetplan
+T 1335865055 23*	23Omelette has quit (23Ping timeout23)
+T 1335869577 23*	23scrood has quit (23Ping timeout23)
+T 1335870600 19*	19SunGlyph (Ruppetus@hide-43C18815.tunnelr.com) has joined #darknetplan
+T 1335872020 19*	19Kamaran (kboe@hide-C346C055.fullrate.dk) has joined #darknetplan
+T 1335877095 23*	23SunGlyph has quit (23Client exited23)
+T 1335892156 19*	19scrood (david_h@DD99AE17.FCF700D4.83FBBE6D.IP) has joined #darknetplan
+T 1335894893 23*	23scrood has quit (23Quit: scrood23)
+T 1335896116 19*	19godane (tux@hide-B0BFDDAC.hsd1.nh.comcast.net) has joined #darknetplan
+T 1335897489 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #darknetplan
+T 1335897733 18<Dan>	thefinn93: really, sleep is for the weak?
+T 1335897740 18<thefinn93>	indeed
+T 1335897748 18<prurigro>	I used to say that
+T 1335897756 18<prurigro>	every night
+T 1335897767 18<prurigro>	at like 2am
+T 1335897772 18<prurigro>	but by 5 I'd be eating my words :(
+T 1335897778 18<thefinn93>	lol
+T 1335897782 18<Dan>	fun stuff
+T 1335897798 19*	19scrood (david_h@DD99AE17.FCF700D4.83FBBE6D.IP) has joined #darknetplan
+T 1335898198 18<Dan>	Hey, its scrood!
+T 1335898495 18<scrood>	hey
+T 1335898508 18<scrood>	sorry i'm packing. i have to move out in 2 hours
+T 1335898658 18<Dan>	oh, well don't let us delay you!
+T 1335898699 18<Dan>	thefinn93/prurigro: I lol'd at the top comment http://www.reddit.com/r/pics/comments/t1jik/as_promised_my_grandpa_posing_in_the_coffin_he_is/
+T 1335898743 18<prurigro>	lol, oh dear
+T 1335898803 18<Dan>	Reddit innovation!
+T 1335898840 18<prurigro>	I'm sure its had better innovations in the past
+T 1335898842 18<prurigro>	lol
+T 1335899036 18<Dan>	oh god, the update manager in ubuntu is trying to force me to upgrade to 12.04
+T 1335899061 18<prurigro>	haha
+T 1335899066 18<prurigro>	sounds like a good opportunity to arch it up :)
+T 1335899070 18<Dan>	last time I upgraded to 12.04 on this laptop I had to reinstall
+T 1335899095 18<prurigro>	hence arch ;)
+T 1335899095 18<Dan>	But I'll spend 6 hours just configring arch
+T 1335899105 18<prurigro>	arch took me about an hour last time
+T 1335899124 18<Dan>	and how many times have you installed it?
+T 1335899135 18<prurigro>	it was the first time in about 5 years (was switchng to 64bit)
+T 1335899154 18<Dan>	oh
+T 1335899175 18<prurigro>	anyway, aesthetically it was very similar to my previous goes, but its much easier now
+T 1335899184 18<prurigro>	no xorg config needed saves a lot of time
+T 1335899188 18<prurigro>	especially if you use kde or gnome though
+T 1335899202 18<Dan>	yep
+T 1335899207 18<prurigro>	since they pretty well take care of all the hard stuff
+T 1335899243 18<prurigro>	pacman -S gnome or pacman -S whatever kde's metapackage is
+T 1335899288 18<prurigro>	after installing
+T 1335899312 18<prurigro>	the beginners guide walks you through the whole process
+T 1335899374 18<Dan>	huh[
+T 1335899434 18<prurigro>	its filled with a lot more text than you need to worry about, but it can answer any questions along the way https://wiki.archlinux.org/index.php/Beginners%27_Guide
+T 1335899500 18<prurigro>	and then, no more reinstalls or out of date systems again until you accidentally rm -rf / as root or get a new compy
+T 1335899559 18<Dan>	well, that seems really nice
+T 1335899589 18<prurigro>	:)
+T 1335899610 18<prurigro>	like I say, first install in 5 years was only because I was switching to 64bit (and a SSD)
+T 1335899636 18<prurigro>	you can also use my fun cjdns package
+T 1335899645 18<prurigro>	if you're still playing with that
+T 1335899942 18<Dan>	huh
+T 1335900006 18<prurigro>	http://aur.archlinux.org/packages.php?ID=56433
+T 1335900365 23*	23Dethdial has quit (23Client exited23)
+T 1335902564 19*	19natpagle (NatPagle@hide-8CEB0441.static.ip.windstream.net) has joined #darknetplan
+T 1335903948 23*	23natpagle (23NatPagle@hide-8CEB0441.static.ip.windstream.net) has left #darknetplan (23Leaving23)
+T 1335905414 23*	23scrood has quit (23Quit: scrood23)
+T 1335910094 18<prurigro>	Dan, still around?
+T 1335910175 23*	23Kamaran has quit (23Quit: ( www.nnscript.com :: NoNameScript 4.22 :: www.esnation.com )23)
+T 1335910236 18<Dan>	yep
+T 1335910274 18<Dan>	fuck, the getting started guide needs a ton of work. https://wiki.projectmeshnet.org/Getting_started
+T 1335910281 18<prurigro>	do you know the name of that fully open source alternative to the raspberry pi from asia with seemingly random letters/numbers in its name?
+T 1335910365 18<prurigro>	and lol, yea, maybe it would be better to start from scratch almost at this point
+T 1335910511 18<Dan>	yeah, with that wiki piece derp & I are rewriting it.
+T 1335910531 18<Dan>	IDK what that board was, I remember it though
+T 1335910543 18<Dan>	the allwinner A10?
+T 1335910604 18<Dan>	its fully opensauce if I remember right, and laptops with in & a gig of ram running android 4.0 were going for $85 in shenzen
+T 1335910633 18<Dan>	prurigro?
+T 1335910800 18<prurigro>	sorry, gf just got home
+T 1335910813 18<prurigro>	mayyybe the a10 though yea
+T 1335910880 18<prurigro>	hmm, yea, I think that is it- thanks :)
+T 1335910932 18<prurigro>	and word, hmm- well, I don't have time at the moment, but if you guys find some out of date ideas that you think I'd be better to help with then let me know
+T 1335910948 18<prurigro>	keep in mind HttpServer is not currently in cjdns
+T 1335910951 18<prurigro>	anymore
+T 1335911111 18<prurigro>	I was thinking of trying my hand at writing it in node.js for fun, but and apparently a perl or python version might be easier since mikey already wrote a backend
+T 1335911168 18<Dan>	yeah
+T 1335911222 18<Dan>	Was HttpServer the proxy for firefox & other browsers to use to access hyperboria
+T 1335911500 18<prurigro>	nadda, it served a frontend to the adminserver
+T 1335911625 18<Dan>	oh, I need to read up on cjdns
+T 1335911677 18<prurigro>	isn't that what you're updating?
+T 1335912890 18<Dan>	the wiki on it, yes
+T 1335913126 18<prurigro>	haha shizzle
+T 1335913151 18<prurigro>	I actually compiled a list of various scripts being actively developed
+T 1335913157 18<prurigro>	might be useful for the site
+T 1335913377 18<Dan>	yep
+T 1335916527 19*	19Dethdial (dethdial@hide-6BD15996.dsl.telepac.pt) has joined #darknetplan
+T 1335922210 19*	19hintss (hintss@hide-96645EAE.oc.oc.cox.net) has joined #darknetplan
+T 1335926459 23*	23Dethdial has quit (23Client exited23)
+T 1335926778 19*	19monodemono (monodemono@hide-3D7BBF69.socal.res.rr.com) has joined #darknetplan
+T 1335927854 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #darknetplan
+T 1335928430 23*	23bob_twinkles has quit (23Quit: Leaving23)
+T 1335939200 19*	19scrood (david_h@hide-F263398C.hsd1.tn.comcast.net) has joined #darknetplan
+T 1335939292 18<scrood>	hey dark kids
+T 1335939360 18<Dan>	hi
+T 1335939387 19*	19scrood_ (david_h@hide-1316E72B.bna.bellsouth.net) has joined #darknetplan
+T 1335939446 18<rainfly_x>	Hey scrood
+T 1335939509 23*	23scrood has quit (23Ping timeout23)
+T 1335939509 22*	scrood_ is now known as scrood
+T 1335939514 18<scrood>	hey!
+T 1335939565 18<Dan>	you have 2 internet connections?
+T 1335939640 18<scrood>	its how i roll
+T 1335939926 18<scrood>	no like i said. i moved apartments
+T 1335939942 18<rainfly_x>	Got two connections, who needs three? But the third connection, he broke it.
+T 1335939950 18<scrood>	how do you know this though?
+T 1335939955 18<rainfly_x>	</reference>
+T 1335939997 18<scrood>	huh
+T 1335940045 18<rainfly_x>	I don't know IRC enough to know what just happened, but it would seem threatening from the messages if you weren't so confused at the end there.
+T 1335940058 18<rainfly_x>	CTCP flood... gotta look that up...
+T 1335940145 18<rainfly_x>	http://www.youtube.com/watch?feature=player_detailpage&v=ii5IUihNuno#t=156s
+T 1335940197 18<scrood>	so is there a way to be anonymous on irc?
+T 1335940211 18<Dan>	yeah, use a proxy
+T 1335940262 18<scrood>	do you use that?
+T 1335940273 18<Dan>	Me? no
+T 1335940279 18<Dan>	I use a bouncer though
+T 1335940294 18<Dan>	and I have meshwith.me set as my rDNS
+T 1335940305 18<Dan>	so its kind of like a proxy
+T 1335940324 18<Dan>	but not a very good one
+T 1335940749 18<scrood>	well i mean what damage could one do through irc?
+T 1335940752 18<scrood>	beside ddos
+T 1335940840 18<Dan>	idk
+T 1335941031 18<scrood>	hrmm
+T 1335943256 23*	23scrood has quit (23Quit: scrood23)
+T 1335951581 23*	23monodemono has quit (23Quit: *POOF!*23)
+T 1335962215 19*	19Grey (Grey@hide-6FBDEAF3.sgyl.cable.virginmedia.com) has joined #darknetplan
+T 1335965802 23*	23mystline has quit (23Ping timeout23)
+T 1335966129 19*	19mystline (mystline@hide-E118035C.members.linode.com) has joined #darknetplan
+T 1336084126 19*	19Now talking on #darknetplan
+T 1336084126 29*	29Topic for #darknetplan 29is: welcome to the official meshnet channel | building a decentralized internet since 2011! | Learn more : https://wiki.projectmeshnet.org/Getting_started
+T 1336084126 29*	29Topic for #darknetplan 29set by derp 29at Sat Mar  3 18:28:09 2012
+T 1336084257 19*	19mib_sfi3dl (Mibbit@90395D2E.63373F19.CD09D26F.IP) has joined #darknetplan
+T 1336084308 18<mib_sfi3dl>	Hello?
+T 1336084408 19*	19exko (exko@90395D2E.63373F19.CD09D26F.IP) has joined #darknetplan
+T 1336085231 23*	23exko has quit (23Quit: Leaving...23)
+T 1336085277 18<Dan>	hi
+T 1336085291 19*	19exko (exko@90395D2E.63373F19.CD09D26F.IP) has joined #darknetplan
+T 1336085311 18<mib_sfi3dl>	hello Dan
+T 1336085329 18<Dan>	mib_sfi3dl: Welcome to the darknetplsn irc channel
+T 1336085346 18<Dan>	are you looking to discuss project meshnet?
+T 1336085366 18<Dan>	Your in the right place if you are
+T 1336085373 18<exko>	I've actually already set up a node, I just need public key and such
+T 1336085388 18<exko>	Sorry, I was on mibbit as well.
+T 1336085399 18<exko>	this is mib_sfi3dl
+T 1336085418 18<mib_sfi3dl>	i am exko (proof)
+T 1336085426 23*	23mib_sfi3dl (23Mibbit@90395D2E.63373F19.CD09D26F.IP) has left #darknetplan
+T 1336085428 18<Dan>	well, hop over on #cjdns on EFNet
+T 1336085437 18<exko>	already connected
+T 1336085442 18<exko>	im exko over there too
+T 1336085468 18<Dan>	They'll definitely help, ask for cjdns peers & tell them the city your in
+T 1336087456 23*	23mappum has quit (23Connection reset by peer23)
+T 1336088861 23*	23wolfeater_ has quit (23Ping timeout23)
+T 1336090769 23*	23Grey has quit (23Quit: is streets ahead23)
+T 1336095595 23*	23Kamaran has quit (23Connection reset by peer23)
+T 1336096438 19*	19bob_twinkles (bob@hide-7D60F372.washdc.fios.verizon.net) has joined #darknetplan
+T 1336099576 19*	19atticusalien (webchat@hide-18BFD1E7.dyn.optonline.net) has joined #darknetplan
+T 1336099895 18<atticusalien>	hai
+T 1336099907 23*	23atticusalien (23webchat@hide-18BFD1E7.dyn.optonline.net) has left #darknetplan
+T 1336099912 18<thefinn93>	lol
+T 1336101811 18<Omelette_>	>says "hi" on irc
+T 1336101817 18<Omelette_>	>expects a response in under 15 seconds
+T 1336103304 18<Omelette_>	http://www.extremetech.com/extreme/128207-1gbps-wireless-network-made-with-red-and-green-laser-pointers
+T 1336103306 18<Omelette_>	:o
+T 1336103310 22*	Omelette_ is now known as Omelette
+T 1336103482 23*	23exko has quit (23Client exited23)
+T 1336106612 23*	23bob_twinkles has quit (23Quit: Leaving23)
+T 1336107401 19*	19mappum (mappum@hide-3D14D8DE.hsd1.wa.comcast.net) has joined #darknetplan
+T 1336109296 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #darknetplan
+T 1336109424 23*	23thefinn93 has quit (23Client exited23)
+T 1336109468 18<Dan>	hi omelette
+T 1336109505 18<Omelette>	hello Dan
+T 1336109801 18<Dan>	Well, how have you been?
+T 1336109813 23*	23mystline has quit (23Ping timeout23)
+T 1336109985 19*	19thefinn93 (Finn@hide-59CD9FD0.com) has joined #darknetplan
+T 1336109990 18<Omelette>	pretty good. just got 100% forboth  my wireless communications midterm and my webdev midterm
+T 1336110014 18<Omelette>	no school tomorrow... so i can finally sleep in and catch up on sleep
+T 1336110020 18<Dan>	nice!
+T 1336110088 18<Omelette>	jaja
+T 1336110090 18<Omelette>	how about you sir
+T 1336110133 18<Dan>	Oh, not too terribly much is going on, midterms are next week
+T 1336110227 18<Dan>	I should really study for them, but my horrible neighbour just moved out & I'm planning a block party for this weekend
+T 1336110297 18<Omelette>	>:3
+T 1336110337 19*	19mystline (mystline@hide-E118035C.members.linode.com) has joined #darknetplan
+T 1336110362 18<Omelette>	would it be ok if I randomly show up totally smashed?
+T 1336110377 18<Dan>	In seattle?
+T 1336110385 18<Dan>	eh, probably
+T 1336110526 18<Omelette>	lol
+T 1336110708 18<Dan>	this'd help http://www.shortlist.com/cool-stuff/gadgets/the-spray-that-gets-you-instantly-drunk
+T 1336110732 23*	23GreaseMonkey has quit (23Ping timeout23)
+T 1336110755 18<Omelette>	>_>
+T 1336110916 18<Omelette>	I'm also working at an event/wedding venue again
+T 1336110925 18<Omelette>	nice working there and good pay, but I do the night shifts
+T 1336110932 18<Omelette>	totally screws up my night schedule
+T 1336111101 18<Dan>	yeah, that can be a bitch
+T 1336111684 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #darknetplan
+T 1336112841 23*	23GreaseMonkey has quit (23Ping timeout23)
+T 1336113790 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #darknetplan
+T 1336118689 19*	19monodemono (monodemono@hide-3D7BBF69.socal.res.rr.com) has joined #darknetplan
+T 1336121759 23*	23monodemono has quit (23Quit: *POOF!*23)
+T 1336122665 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1336123467 19*	19Kamaran (kboe@hide-C346C055.fullrate.dk) has joined #darknetplan
+T 1336128169 23*	23mappum has quit (23Ping timeout23)
+T 1336141733 19*	19Grey (Grey@hide-6FBDEAF3.sgyl.cable.virginmedia.com) has joined #darknetplan
+T 1336152255 19*	19monodemono (monodemono@hide-3D7BBF69.socal.res.rr.com) has joined #darknetplan
+T 1336153554 23*	23Omelette has quit (23Connection reset by peer23)
+T 1336155816 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #darknetplan
+T 1336156949 23*	23monodemono has quit (23Quit: My battery probably died...23)
+T 1336157494 19*	19monodemono (monodemono@hide-3D7BBF69.socal.res.rr.com) has joined #darknetplan
+T 1336157606 23*	23monodemono has quit (23Quit: *POOF!*23)
+T 1336157622 19*	19monodemono (monodemono@hide-3D7BBF69.socal.res.rr.com) has joined #darknetplan
+T 1336159113 19*	19mappum (mappum@hide-3D14D8DE.hsd1.wa.comcast.net) has joined #darknetplan
+T 1336244006 19*	19Now talking on #darknetplan
+T 1336244006 29*	29Topic for #darknetplan 29is: welcome to the official meshnet channel | building a decentralized internet since 2011! | Learn more : https://wiki.projectmeshnet.org/Getting_started
+T 1336244006 29*	29Topic for #darknetplan 29set by derp 29at Sat Mar  3 18:28:09 2012
+T 1336259319 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #darknetplan
+T 1336259361 23*	23Omelette has quit (23Ping timeout23)
+T 1336262093 23*	23Grey has quit (23Quit: Grey23)
+T 1336262130 19*	19Grey (Grey@hide-6FBDEAF3.sgyl.cable.virginmedia.com) has joined #darknetplan
+T 1336262576 22*	Omelette_ is now known as Omelette
+T 1336263025 19*	19iIIustrious (iIIustriou@hide-C7A98BAD.ed.shawcable.net) has joined #darknetplan
+T 1336266644 19*	19Dethdial (dethdial@hide-B4B024E5.dsl.telepac.pt) has joined #darknetplan
+T 1336266988 23*	23Grey has quit (23Quit: is streets ahead23)
+T 1336267150 19*	19newfag_10182180 (webchat@hide-7A1BA28B.rochester.res.rr.com) has joined #darknetplan
+T 1336267227 18<newfag_10182180>	hello
+T 1336267263 23*	23newfag_10182180 has quit (23Quit: Page closed23)
+T 1336267783 23*	23Kamaran has quit (23Connection reset by peer23)
+T 1336269175 19*	19lol_90 (webchat@hide-A2C67360.bois.qwest.net) has joined #darknetplan
+T 1336269205 18<lol_90>	gay sex
+T 1336269214 23*	23lol_90 has quit (23Quit: Page closed23)
+T 1336273257 23*	23Dethdial has quit (23Quit: Leaving23)
+T 1336276921 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #darknetplan
+T 1336277036 23*	23Omelette has quit (23Ping timeout23)
+T 1336277123 22*	Omelette_ is now known as Omelette
+T 1336277646 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #darknetplan
+T 1336278505 23*	23monodemono has quit (23Quit: *POOF!*23)
+T 1336283588 19*	19mappum (mappum@hide-3D14D8DE.hsd1.wa.comcast.net) has joined #darknetplan
+T 1336285198 19*	19monodemono (monodemono@hide-3D7BBF69.socal.res.rr.com) has joined #darknetplan
+T 1336286144 23*	23monodemono has quit (23Quit: My battery probably died...23)
+T 1336288394 23*	23mappum has quit (23Ping timeout23)
+T 1336290016 23*	23Omelette has quit (23Ping timeout23)
+T 1336290184 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #darknetplan
+T 1336292549 19*	19ds500ss (anonbox@hide-A375B163.adsl2.static.versatel.nl) has joined #darknetplan
+T 1336292741 19*	19monodemono (monodemono@hide-3D7BBF69.socal.res.rr.com) has joined #darknetplan
+T 1336293358 23*	23nameless has quit (23Ping timeout23)
+T 1336293780 19*	19nameless (root@localhost) has joined #darknetplan
+T 1336294957 19*	19Kamaran (kboe@hide-C346C055.fullrate.dk) has joined #darknetplan
+T 1336296506 23*	23monodemono has quit (23Quit: *POOF!*23)
+T 1336298939 23*	23iIIustrious has quit (23Connection reset by peer23)
+T 1336300755 23*	23godane has quit (23Quit: Leaving.23)
+T 1336301456 23*	23GreaseMonkey has quit (23Quit: Superpage closed23)
+T 1336304978 19*	19santoscrew (santoscrew@hide-827ADEB9.dynamic.upc.nl) has joined #darknetplan
+T 1336309336 23*	23Kamaran has quit (23Connection reset by peer23)
+T 1336317335 19*	19Grey (Grey@hide-6FBDEAF3.sgyl.cable.virginmedia.com) has joined #darknetplan
+T 1336319870 19*	19Dethdial (dethdial@hide-B4B024E5.dsl.telepac.pt) has joined #darknetplan
+T 1336323925 19*	19derp (derp@hide-49BC4A7C.abhsia.telus.net) has joined #darknetplan
+T 1336324193 23*	23santoscrew has quit (23Ping timeout23)
+T 1336325284 23*	23Dethdial has quit (23Client exited23)
+T 1336340261 19*	19Now talking on #darknetplan
+T 1336340261 29*	29Topic for #darknetplan 29is: welcome to the official meshnet channel | building a decentralized internet since 2011! | Learn more : https://wiki.projectmeshnet.org/Getting_started
+T 1336340261 29*	29Topic for #darknetplan 29set by derp 29at Sat Mar  3 18:28:09 2012
+T 1336341353 23*	23Grey has quit (23Quit: is streets ahead23)
+T 1336343436 19*	19Grey (Grey@hide-6FBDEAF3.sgyl.cable.virginmedia.com) has joined #darknetplan
+T 1336348835 23*	23Grey has quit (23Quit: is streets ahead23)
+T 1336349390 19*	19iIIustrious (iIIustriou@hide-C7A98BAD.ed.shawcable.net) has joined #darknetplan
+T 1336349456 19*	19monodemono (monodemono@hide-3D7BBF69.socal.res.rr.com) has joined #darknetplan
+T 1336350308 19*	19qwebirc93092 (webchat@8CB45CF8.C365D461.D259FA43.IP) has joined #darknetplan
+T 1336350353 18<qwebirc93092>	Hey.
+T 1336350398 18<TrueShiftBlue>	Good afternoon
+T 1336351647 19*	19mappum (mappum@hide-3D14D8DE.hsd1.wa.comcast.net) has joined #darknetplan
+T 1336352672 18<monodemono>	A reminder: Mother's Day is one week away! You're welcome.
+T 1336352702 18<derp>	heh, thanks
+T 1336352722 18<derp>	reminder: we have a sub for hyperboria (which I recently restyled), http://www.reddit.com/r/hyperboria
+T 1336354389 18<mappum>	ive never been the biggest fa of the name hyperboria
+T 1336354393 18<mappum>	*fan
+T 1336355169 23*	23godane has quit (23Ping timeout23)
+T 1336355450 19*	19godane (tux@hide-B0BFDDAC.hsd1.nh.comcast.net) has joined #darknetplan
+T 1336355635 23*	23godane has quit (23Ping timeout23)
+T 1336356099 19*	19Omelette_ (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #darknetplan
+T 1336356107 23*	23Omelette has quit (23Ping timeout23)
+T 1336358973 23*	23mappum has quit (23Ping timeout23)
+T 1336359396 23*	23qwebirc93092 has quit (23Quit: Page closed23)
+T 1336359492 22*	Omelette_ is now known as Omelette
+T 1336359740 23*	23Omelette has quit (23Ping timeout23)
+T 1336359740 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #darknetplan
+T 1336359845 19*	19godane (tux@hide-B0BFDDAC.hsd1.nh.comcast.net) has joined #darknetplan
+T 1336359994 18<Omelette>	so I went off roading today with some friends on top of some of the hills that surround the valley my town is in
+T 1336360009 18<Omelette>	and drove by about 10 radio towers, and I took a pic of one
+T 1336360013 18<Omelette>	http://i.imgur.com/FrcD7.jpg
+T 1336360033 18<Omelette>	Can ayone identify what all the different antennas are, and what they are all used for?
+T 1336360040 18<Dan>	I'll try
+T 1336360048 18<Omelette>	I know what most of them are, but some of them I'm a little confused
+T 1336360058 18<Omelette>	quality isn't the best, but you can make out most of them
+T 1336360073 18<Dan>	yeah
+T 1336360097 18<Omelette>	there are quite a few, of what appear to be directional wifi antennas at the bottom, not sure why they would have those there
+T 1336360097 18<Dan>	theres an omni at the top
+T 1336360101 18<Omelette>	yar
+T 1336360109 18<Dan>	yeah
+T 1336360141 18<Dan>	there are a few radomes on it
+T 1336360156 18<Dan>	a few sectorized systems it appears
+T 1336360239 18<Omelette>	this is one of the older radio towers
+T 1336360254 18<Omelette>	the newer ones constructed in the past few years are mostly populated with wimax atennas
+T 1336360258 18<Omelette>	guessing for 4g service
+T 1336360265 18<Dan>	yeah
+T 1336360277 18<Dan>	clearwire is going to tdd-lte
+T 1336360279 18<Omelette>	but a few of them had some rather large dish antennas, one was almost 6' wide
+T 1336360287 18<Dan>	backhaul
+T 1336360324 18<Omelette>	that makes sense, but I'm not sure what the point of that would be, they had tons of fiber optic cabling going up there
+T 1336360329 18<Dan>	probably 3.5ghz licensed backhaul or something along that line
+T 1336360349 18<Dan>	they backhaul other remote cell sites to it
+T 1336360354 18<Omelette>	hmm
+T 1336360430 23*	23faye has quit (23Quit: leaving23)
+T 1336360480 18<Dan>	90% of clearwire's sites are wirelessly backhauled
+T 1336360623 18<Omelette>	I see
+T 1336360753 18<Dan>	other wireless companies do it too, but not to that degree
+T 1336368038 19*	19ds500ss (anonbox@BD081D0A.BC68312.5BE0659C.IP) has joined #darknetplan
+T 1336368200 19*	19mappum (mappum@hide-3D14D8DE.hsd1.wa.comcast.net) has joined #darknetplan
+T 1336368886 23*	23softero (23brian@hide-20758803.fennfwsm.ou.edu) has left #darknetplan
+T 1336369369 23*	23monodemono has quit (23Quit: *POOF!*23)
+T 1336370600 19*	19GreaseMonkey (gm@hide-C436FF5D.telstraclear.net) has joined #darknetplan
+T 1336371406 19*	19joshrl (joshrl@hide-6E8A286B.worldnet.co.nz) has joined #darknetplan
+T 1336373793 23*	23derp has quit (23Ping timeout23)
+T 1336375857 23*	23joshrl has quit (23Connection reset by peer23)
+T 1336375881 19*	19joshrl (joshrl@hide-6E8A286B.worldnet.co.nz) has joined #darknetplan
+T 1336379830 23*	23GreaseMonkey has quit (23Input/output error23)
+T 1336381892 19*	19monodemono (monodemono@hide-8FDCB33D.socal.res.rr.com) has joined #darknetplan
+T 1336384588 23*	23monodemono has quit (23Quit: My battery probably died...23)
+T 1336384646 23*	23iIIustrious has quit (23Connection reset by peer23)
+T 1336388416 23*	23joshrl has quit (23Connection timed out23)
+T 1336388442 19*	19joshrl (joshrl@hide-6E8A286B.worldnet.co.nz) has joined #darknetplan
+T 1336389471 23*	23dub has quit (23Ping timeout23)
+T 1336389486 19*	19dub (dub@hide-63CF24BD.dw6.org) has joined #darknetplan
+T 1336389562 23*	23user has quit (23Ping timeout23)
+T 1336389575 19*	19user (user@hide-82F611D2.pl1.william.ir) has joined #darknetplan
+T 1336391324 23*	23joshrl has quit (23Connection timed out23)
+T 1336391360 19*	19joshrl (joshrl@hide-6E8A286B.worldnet.co.nz) has joined #darknetplan
+T 1336392657 23*	23santoscrew has quit (23Ping timeout23)
+T 1336392824 19*	19[Xaronic] (~Xaronic@hide-FF5F9B7C.onyx.net) has joined #darknetplan
+T 1336393770 23*	23[Xaronic] has quit (23Ping timeout23)
+T 1336393808 19*	19[Xaronic] (~Xaronic@hide-FF5F9B7C.onyx.net) has joined #darknetplan
+T 1336393872 23*	23[Xaronic] has quit (23Connection reset by peer23)
+T 1336394020 23*	23mappum has quit (23Ping timeout23)
+T 1336490121 19*	19Now talking on #darknetplan
+T 1336490121 29*	29Topic for #darknetplan 29is: welcome to the official meshnet channel | building a decentralized internet since 2011! | Learn more : https://wiki.projectmeshnet.org/Getting_started
+T 1336490121 29*	29Topic for #darknetplan 29set by derp 29at Sat Mar  3 18:28:09 2012
+T 1336491224 19*	19Grey (Grey@hide-6FBDEAF3.sgyl.cable.virginmedia.com) has joined #darknetplan
+T 1336599076 19*	19Now talking on #darknetplan
+T 1336599076 29*	29Topic for #darknetplan 29is: welcome to the official meshnet channel | building a decentralized internet since 2011! | Learn more : https://wiki.projectmeshnet.org/Getting_started
+T 1336599076 29*	29Topic for #darknetplan 29set by derp 29at Sat Mar  3 18:28:09 2012
+T 1336600254 19*	19SubluminalBurger (Subluminal@AEEE3E2E.CF1C21BE.701788B3.IP) has joined #darknetplan
+T 1336600495 23*	23Dethdial has quit (23Client exited23)
+T 1336601873 19*	19Dethdial (dethdial@hide-5BFA88A8.dsl.telepac.pt) has joined #darknetplan
+T 1336603373 22*	jercos is now known as Saddestjercos
+T 1336603653 22*	Saddestjercos is now known as jercos
+T 1336603666 22*	ChanServ sets mode +q #darknetplan jercos
+T 1336603666 22*	26ChanServ gives channel operator status to26 jercos
+T 1336605966 23*	23Grey has quit (23Ping timeout23)
+T 1336605971 19*	19Grey (Grey@hide-6FBDEAF3.sgyl.cable.virginmedia.com) has joined #darknetplan
+T 1336608091 23*	23mystline has quit (23Ping timeout23)
+T 1336608624 23*	23Dethdial has quit (23Quit: Leaving23)
+T 1336608672 19*	19mystline (mystline@hide-E118035C.members.linode.com) has joined #darknetplan
+T 1336609246 23*	23SubluminalBurger has quit (23Quit: Nettalk6 - www.ntalk.de23)
+T 1336610532 23*	23Kamaran has quit (23Connection reset by peer23)
+T 1336610540 19*	19Kamaran (kboe@hide-C346C055.fullrate.dk) has joined #darknetplan
+T 1336611013 23*	23user has quit (23Ping timeout23)
+T 1336611097 19*	19user (user@hide-740E303.formlessnetworking.net) has joined #darknetplan
+T 1336612907 23*	23Grey has quit (23Quit: is streets ahead23)
+T 1336613074 23*	23monodemono has quit (23Connection reset by peer23)
+T 1336615447 23*	23Kamaran has quit (23Connection reset by peer23)
+T 1336617537 22*	SaddestTurtle is now known as nameless
+T 1336621008 19*	19monodemono (monodemono@hide-8FDCB33D.socal.res.rr.com) has joined #darknetplan
+T 1336622772 23*	23monodemono has quit (23Quit: *POOF!*23)
+T 1336623536 23*	23joshrl has quit (23Connection reset by peer23)
+T 1336624920 23*	23godane has quit (23Quit: Leaving.23)
+T 1336627219 19*	19ds500ss (anonbox@hide-A375B163.adsl2.static.versatel.nl) has joined #darknetplan
+T 1336628358 23*	23dub has quit (23Ping timeout23)
+T 1336628386 19*	19dub (dub@AC538D7A:14240AFB:47B137A5:IP) has joined #darknetplan
+T 1336631932 19*	19monodemono (monodemono@hide-8FDCB33D.socal.res.rr.com) has joined #darknetplan
+T 1336634100 19*	19Grey (Grey@hide-6FBDEAF3.sgyl.cable.virginmedia.com) has joined #darknetplan
+T 1336634105 23*	23Grey has quit (23Quit: Grey23)
+T 1336635548 19*	19godane (tux@hide-B0BFDDAC.hsd1.nh.comcast.net) has joined #darknetplan
+T 1336641326 19*	19santoscrew (santoscrew@hide-827ADEB9.dynamic.upc.nl) has joined #darknetplan
+T 1336643156 19*	19Kamaran (kboe@hide-C346C055.fullrate.dk) has joined #darknetplan
+T 1336649335 23*	23benoliver999 (23benoliver9@hide-B0363134.baconseed.org) has left #darknetplan
+T 1336653997 23*	23monodemono has quit (23Quit: *POOF!*23)
+T 1336657599 19*	19Now talking on #darknetplan
+T 1336657599 29*	29Topic for #darknetplan 29is: welcome to the official meshnet channel | building a decentralized internet since 2011! | Learn more : https://wiki.projectmeshnet.org/Getting_started
+T 1336657599 29*	29Topic for #darknetplan 29set by derp 29at Sat Mar  3 18:28:09 2012
+T 1336659803 23*	23santoscrew has quit (23Ping timeout23)
+T 1336659820 19*	19santoscrew (santoscrew@A06CFFE4.BA602F57.B967C95.IP) has joined #darknetplan
+T 1336659821 23*	23santoscrew has quit (23Connection reset by peer23)
+T 1336660146 19*	19santoscrew (santoscrew@A06CFFE4.BA602F57.B967C95.IP) has joined #darknetplan
+T 1336670121 23*	23godane has quit (23Ping timeout23)
+T 1336671641 23*	23santoscrew has quit (23Ping timeout23)
+T 1336671657 19*	19santoscrew (santoscrew@hide-827ADEB9.dynamic.upc.nl) has joined #darknetplan
+T 1336672231 19*	19[Xaronic] (~Xaronic@hide-7A792C59.cable.virginmedia.com) has joined #darknetplan
+T 1336674077 19*	19godane (tux@hide-B0BFDDAC.hsd1.nh.comcast.net) has joined #darknetplan
+T 1336674209 23*	23santoscrew has quit (23Ping timeout23)
+T 1336674444 23*	23godane has quit (23Ping timeout23)
+T 1336675264 19*	19godane (tux@hide-B0BFDDAC.hsd1.nh.comcast.net) has joined #darknetplan
+T 1336676987 19*	19Grey (Grey@hide-6FBDEAF3.sgyl.cable.virginmedia.com) has joined #darknetplan
+T 1336677093 23*	23ds500ss (23anonbox@hide-A375B163.adsl2.static.versatel.nl) has left #darknetplan
+T 1336677401 23*	23[Xaronic] has quit (23Ping timeout23)
+T 1336678403 19*	19[Xaronic] (~Xaronic@hide-7A792C59.cable.virginmedia.com) has joined #darknetplan
+T 1336679472 23*	23[Xaronic] has quit (23Ping timeout23)
+T 1336680338 19*	19[Xaronic] (~Xaronic@hide-7A792C59.cable.virginmedia.com) has joined #darknetplan
+T 1336699658 19*	19Now talking on #darknetplan
+T 1336699658 29*	29Topic for #darknetplan 29is: welcome to the official meshnet channel | building a decentralized internet since 2011! | Learn more : https://wiki.projectmeshnet.org/Getting_started
+T 1336699658 29*	29Topic for #darknetplan 29set by derp 29at Sat Mar  3 18:28:09 2012
+T 1336701139 23*	23monodemono has quit (23Quit: *POOF!*23)
+T 1336701945 19*	19monodemono (monodemono@hide-8FDCB33D.socal.res.rr.com) has joined #darknetplan
+T 1336713705 23*	23derp (23derp@hide-49BC4A7C.abhsia.telus.net) has left #darknetplan
+T 1336721928 23*	23Exavion has quit (23Connection reset by peer23)
+T 1336724385 23*	23godane has quit (23Ping timeout23)
+T 1336724420 19*	19godane (tux@hide-B0BFDDAC.hsd1.nh.comcast.net) has joined #darknetplan
+T 1336742154 19*	19Now talking on #darknetplan
+T 1336742154 29*	29Topic for #darknetplan 29is: welcome to the official meshnet channel | building a decentralized internet since 2011! | Learn more : https://wiki.projectmeshnet.org/Getting_started
+T 1336742154 29*	29Topic for #darknetplan 29set by derp 29at Sat Mar  3 18:28:09 2012
+T 1336743916 19*	19Kamaran (kboe@hide-C346C055.fullrate.dk) has joined #darknetplan
+T 1336744191 19*	19Grey (Grey@hide-6FBDEAF3.sgyl.cable.virginmedia.com) has joined #darknetplan
+T 1336749179 23*	23Kamaran has quit (23Connection reset by peer23)
+T 1336749901 19*	19grampajoe (grampa@hide-18CE60FF.columbus.res.rr.com) has joined #darknetplan
+T 1336749915 23*	23grampajoe has quit (23Quit: Bye!23)
+T 1336753303 23*	23user has quit (23Ping timeout23)
+T 1336753312 19*	19user (user@hide-DBCC37BA.torservers.net) has joined #darknetplan
+T 1336754435 19*	19qwebirc82081 (webchat@hide-1985FCA4.cisco.com) has joined #darknetplan
+T 1336755278 23*	23qwebirc82081 has quit (23Quit: Page closed23)
+T 1336755299 19*	19Dethdial (dethdial@hide-5BFA88A8.dsl.telepac.pt) has joined #darknetplan
+T 1336755381 19*	19Glitched (Mibbit@hide-4062CA69.dynamic.ip.windstream.net) has joined #darknetplan
+T 1336756046 18<Glitched>	I just got started with Cjdns. What should I use for peers.
+T 1336756081 18<Dan>	well, you can peer with me & some other public peers
+T 1336756133 18<Glitched>	Where can I find the information for them?
+T 1336756150 18<Dan>	hold on, I'll get you a few links
+T 1336756190 18<Glitched>	Ok, thanks a ton
+T 1336756301 18<Dan>	https://wiki.projectmeshnet.org/Public_peers
+T 1336756316 18<Dan>	and heres m peering info https://ezcrypt.it/RY4n#ZwAEXGpo9YMtgcgbUejmK2YX
+T 1336756344 18<Glitched>	Thanks
+T 1336756408 18<Dan>	do you know how to edit the conf file? I can walk youu through it if needed
+T 1336756548 18<Glitched>	Yeah, I know how, but thanks for the offer.
+T 1336756596 18<Dan>	also, hop on  #cjdns over on EFNet, it is where all the devs & normal cjdns users are
+T 1336756650 18<Glitched>	ok
+T 1336756684 18<Dan>	oh, your already there, aren't you?
+T 1336756911 23*	23Glitched has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1336763253 19*	19Exavion (aloven@hide-4BB44113.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined #darknetplan
+T 1336766761 18*	Michichael-Sune yawns
+T 1336766775 18<Michichael-Sune>	Is derp on under any different names? O.o
+T 1336767300 23*	23Omelette has quit (23Connection reset by peer23)
+T 1336767301 19*	19Omelette (Egghead@hide-D9B6D5.dhcp.yakm.wa.charter.com) has joined #darknetplan
+T 1336767318 18<You>	Michichael-Sune: doesn't look like it.
+T 1336767781 19*	19Kamaran (kboe@hide-C346C055.fullrate.dk) has joined #darknetplan
+T 1336767788 19*	19mib_6o1bxz (Mibbit@hide-1DD18BB7.adsl.alicedsl.de) has joined #darknetplan
+T 1336768047 23*	23mib_6o1bxz has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1336768516 23*	23Dethdial has quit (23Client exited23)
+T 1336769696 18<Michichael-Sune>	thanks, you. Been a while since I've had time to poke around here.
+T 1336769710 18<Michichael-Sune>	Last day at my current job, so have some free time coming up.
+T 1336769933 18<Dan>	derp doesn't drop by subluminal much anymore
+T 1336770030 18<Dan>	hes over on EFNet under the name derp_ on #cjdns if you'd like to get ahold of him, but he won't be on till 4pm PST
+T 1336774613 22*	You is now known as The_entire_network
+T 1336774623 22*	The_entire_network is now known as You
+T 1336776546 23*	23Grey has quit (23Ping timeout23)

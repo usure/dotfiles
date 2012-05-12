@@ -1,0 +1,6 @@
+T 1332544304 19*	19Now talking on #lgbt
+T 1332544304 22*	irc.x1n.org sets mode +n #lgbt
+T 1332544304 22*	irc.x1n.org sets mode +t #lgbt
+T 1332972712 19*	19Now talking on #lgbt
+T 1332972712 22*	irc.x1n.org sets mode +n #lgbt
+T 1332972712 22*	irc.x1n.org sets mode +t #lgbt

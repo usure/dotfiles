@@ -1,0 +1,514 @@
+T 1335668924 23*	23gaypriest has quit (23Quit: Computer has gone to sleep.23)
+T 1335669040 19*	19gaypriest (~dentist@Rizon-64B6753A.fv.ks.cox.net) has joined #/mu/
+T 1335671374 19*	19rawfodog (~rawfodog@Rizon-5BD24BB2.static.videotron.ca) has joined #/mu/
+T 1335672900 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335672901 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335677444 19*	19cunty (~cunty@a.b.c.d) has joined #/mu/
+T 1335677458 23*	23cunty (23~cunty@a.b.c.d) has left #/mu/ (23When you're here, you re: family.23)
+T 1335686819 19*	19lpf_ (~boy.bebop@Rizon-4282FF2D.w92-139.abo.wanadoo.fr) has joined #/mu/
+T 1335686852 23*	23lpf has quit (23Ping timeout: 240 seconds23)
+T 1335686860 22*	lpf_ is now known as lpf
+T 1335688450 23*	23rawfodog has quit (23Read error: Operation timed out23)
+T 1335698523 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1335700129 23*	23gaypriest has quit (23Quit: Computer has gone to sleep.23)
+T 1335710829 23*	23lpf has quit (23Quit: a23)
+T 1335710905 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335721420 19*	19rawfodog (~rawfodog@Rizon-5BD24BB2.static.videotron.ca) has joined #/mu/
+T 1335721487 23*	23rawfodog has quit (23Read error: Connection reset by peer23)
+T 1335723286 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335723286 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335726097 23*	23lawltrein has quit (23Ping timeout: 240 seconds23)
+T 1335726099 19*	19lawltrain (~lawltrein@Rizon-BF781E84.dsl.lsan03.sbcglobal.net) has joined #/mu/
+T 1335726747 23*	23lawltrain has quit (23Ping timeout: 240 seconds23)
+T 1335727159 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335727159 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335733138 19*	19gaypriest (~dentist@Rizon-64B6753A.fv.ks.cox.net) has joined #/mu/
+T 1335733443 23*	23lawltrein has quit (23Ping timeout: 240 seconds23)
+T 1335736422 19*	19Heisenberg (~derp@Rizon-2FE4521D.eng.wind.ca) has joined #/mu/
+T 1335736422 22*	26Reinforce gives channel operator status to26 Heisenberg
+T 1335737717 19*	19rawfodog (~rawfodog@Rizon-5BD24BB2.static.videotron.ca) has joined #/mu/
+T 1335739300 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1335739387 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335740280 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335740280 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335741159 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1335741270 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335741271 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335741513 23*	23lawltrein has quit (23Ping timeout: 240 seconds23)
+T 1335741830 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335741830 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335742098 23*	23lawltrein has quit (23Ping timeout: 240 seconds23)
+T 1335744379 23*	23rawfodog has quit (23Remote host closed the connection23)
+T 1335748657 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335748657 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335752729 23*	23lawltrein has quit (23Quit: - nbs-irc 2.39 - www.nbs-irc.net -23)
+T 1335753179 23*	23gaypriest has quit (23Quit: Computer has gone to sleep.23)
+T 1335753226 19*	19gaypriest (~dentist@Rizon-64B6753A.fv.ks.cox.net) has joined #/mu/
+T 1335753656 19*	19tathagataisc (~gehr@FAA6A700.EBE4E901.3AB4A52.IP) has joined #/mu/
+T 1335753667 23*	23tathagataisc (23~gehr@FAA6A700.EBE4E901.3AB4A52.IP) has left #/mu/
+T 1335753669 23*	23gaypriest has quit (2323)
+T 1335753819 19*	19gaypriest (~dentist@Rizon-64B6753A.fv.ks.cox.net) has joined #/mu/
+T 1335754013 18<Heaud>	heard death grips for the first time
+T 1335754018 18<Heaud>	sounds interesting
+T 1335754024 18<Heaud>	still need to get used to the lyrics
+T 1335755459 18<Heisenberg>	never heard of them
+T 1335759032 18<Heaud>	it's a unique take at hip-hop
+T 1335759289 23*	23Heisenberg has quit (2323)
+T 1335759725 18<pem>	DKs r gay
+T 1335766455 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335766456 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335771309 19*	19rawfodog (~rawfodog@Rizon-5BD24BB2.static.videotron.ca) has joined #/mu/
+T 1335771694 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335772657 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335772657 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335778470 23*	23lpf has quit (23Ping timeout: 240 seconds23)
+T 1335778747 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335780979 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1335781755 23*	23lpf has quit (23Remote host closed the connection23)
+T 1335784299 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335786514 23*	23gaypriest has quit (23Quit: Computer has gone to sleep.23)
+T 1335791336 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335792567 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335792567 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335796260 23*	23rawfodog has quit (23Remote host closed the connection23)
+T 1335800730 19*	19Heisenberg (~derp@DFF06578.E71CB7BF.29E25E3E.IP) has joined #/mu/
+T 1335800730 22*	26Reinforce gives channel operator status to26 Heisenberg
+T 1335805216 18<Heaud>	for pem http://nota.legitlookingdomain.com/tmp/dg.zip
+T 1335805221 18<Heaud>	death grips albums
+T 1335806717 23*	23Heisenberg has quit (2323)
+T 1335810327 18<FailureDude>	deth grippaz
+T 1335810748 19*	19Gerry_MKII (~Steelcase@8CA5682D.A9174224.AA6EFCD4.IP) has joined #/mu/
+T 1335810752 18<Gerry_MKII>	Gaiz.
+T 1335810753 18<Gerry_MKII>	Anyone here?
+T 1335811874 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335811875 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335814190 23*	23lawltrein has quit (23Ping timeout: 240 seconds23)
+T 1335815541 19*	19gaypriest (~dentist@Rizon-64B6753A.fv.ks.cox.net) has joined #/mu/
+T 1335820242 23*	23Gerry_MKII (23~Steelcase@8CA5682D.A9174224.AA6EFCD4.IP) has left #/mu/
+T 1335824230 23*	23gaypriest has quit (23Quit: Computer has gone to sleep.23)
+T 1335829150 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1335829223 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335831310 23*	23Str0mer has quit (23Ping timeout: 240 seconds23)
+T 1335831625 19*	19Stromer (~lolol@Rizon-EFD7CDF8.dsl.irvnca.sbcglobal.net) has joined #/mu/
+T 1335832150 19*	19Heisenberg (~derp@Rizon-3A745D4C.eng.wind.ca) has joined #/mu/
+T 1335832150 22*	26Reinforce gives channel operator status to26 Heisenberg
+T 1335834997 22*	Tanami is now known as tzm
+T 1335835042 22*	tzm is now known as Tanami
+T 1335835310 19*	19rawfodog (~rawfodog@Rizon-5BD24BB2.static.videotron.ca) has joined #/mu/
+T 1335835786 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1335835963 19*	19Stromer (~lolol@Rizon-460AC55E.dsl.irvnca.sbcglobal.net) has joined #/mu/
+T 1335836536 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335836537 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335839585 19*	19xiaobai (~xiaobai@what.is.a.hostname) has joined #/mu/
+T 1335842761 19*	19gaypriest (~dentist@Rizon-64B6753A.fv.ks.cox.net) has joined #/mu/
+T 1335842796 23*	23gaypriest has quit (2323)
+T 1335843029 19*	19gaypriest (~mmorz@Rizon-D25CDEBC.fv.ks.cox.net) has joined #/mu/
+T 1335843046 22*	gaypriest is now known as mmemorz
+T 1335844557 22*	mmemorz is now known as cranstonsux
+T 1335845147 23*	23lawltrein has quit (23Ping timeout: 240 seconds23)
+T 1335845744 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335845744 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335845992 23*	23lawltrein has quit (23Ping timeout: 240 seconds23)
+T 1335846381 23*	23Heisenberg has quit (2323)
+T 1335848164 22*	cranstonsux is now known as supergay
+T 1335852399 23*	23rawfodog has quit (23Quit: Leaving23)
+T 1335855094 22*	Disconnected (Connection timed out).
+T 1335856908 19*	19Now talking on #/mu/
+T 1335856909 29*	29Topic for #/mu/ 29is: #/mu/ - Katawa Shoujo general | We are now watching Nisemonogatari.
+T 1335856909 29*	29Topic for #/mu/ 29set by jisatsu!~derp@I.never.asked.for.this.vhost 29at Sun Mar  4 23:43:01 2012
+T 1335859208 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1335859733 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335859733 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335860046 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335864642 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335867363 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1335867488 23*	23supergay has quit (23Remote host closed the connection23)
+T 1335867523 19*	19mmorz (~mmorz@Rizon-D25CDEBC.fv.ks.cox.net) has joined #/mu/
+T 1335869132 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335869132 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335869573 23*	23cocaine has quit (23Ping timeout: 240 seconds23)
+T 1335869776 19*	19cocaine (coco@chug.chug.chug.chug) has joined #/mu/
+T 1335871480 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1335873743 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335873797 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335873797 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335875223 23*	23lpf has quit (23Quit: a23)
+T 1335875545 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335875759 23*	23cocaine has quit (23Remote host closed the connection23)
+T 1335875877 19*	19cocaine (coco@chug.chug.chug.chug) has joined #/mu/
+T 1335876298 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335876386 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335876386 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335881006 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335881865 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335881865 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335882135 23*	23FailureDude has quit (2323)
+T 1335882416 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335882416 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335886820 19*	19Clavros (~Hendrik@Rizon-7691B951.dyn.estpak.ee) has joined #/mu/
+T 1335886820 22*	26Reinforce gives channel operator status to26 Clavros
+T 1335886824 19*	19an_droid (~AndChat@Samsung.Pornophone.SII) has joined #/mu/
+T 1335886899 23*	23Hendrik has quit (23Ping timeout: 240 seconds23)
+T 1335888307 23*	23an_droid has quit (23Quit: Bye23)
+T 1335888933 22*	Clavros is now known as Hendrik
+T 1335889605 23*	23lpf has quit (23Quit: a23)
+T 1335892177 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335897152 19*	19KidDynamite (~upthepunx@BC23EE28.DB08097E.B6744C32.IP) has joined #/mu/
+T 1335897211 19*	19golding (qwebirc@7C2F5D73.9554B027.33EBADB.IP) has joined #/mu/
+T 1335897246 23*	23KidDynamite (23~upthepunx@BC23EE28.DB08097E.B6744C32.IP) has left #/mu/ (23Leaving23)
+T 1335897249 18<golding>	how do I become like radiohead
+T 1335897723 18<FailureDude>	make ur head a radio
+T 1335898071 19*	19mmorz (~mmorz@Rizon-D25CDEBC.fv.ks.cox.net) has joined #/mu/
+T 1335898856 23*	23golding has quit (23Ping timeout: 240 seconds23)
+T 1335899904 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1335901986 19*	19an_hero (titties@Welcome.To.Violent.City) has joined #/mu/
+T 1335901986 22*	26Reinforce gives channel operator status to26 an_hero
+T 1335904455 19*	19mmorz (~mmorz@Rizon-D25CDEBC.fv.ks.cox.net) has joined #/mu/
+T 1335906169 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1335906169 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335913498 23*	23lawltrein has quit (23Ping timeout: 240 seconds23)
+T 1335915142 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335915243 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1335915330 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335916974 23*	23an_hero has quit (23Quit: an_hero retreats coolly23)
+T 1335920426 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1335920668 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335920850 19*	19Heisenberg (~derp@Rizon-3A745D4C.eng.wind.ca) has joined #/mu/
+T 1335920850 22*	26Reinforce gives channel operator status to26 Heisenberg
+T 1335921478 18<xiaobai>	am i idling correctly how do i know
+T 1335921548 23*	23cocaine has quit (23Remote host closed the connection23)
+T 1335922341 23*	23lpf has quit (23Read error: No route to host23)
+T 1335922489 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335927251 19*	19lawltrein (~lawltrein@Rizon-BF781E84.dsl.lsan03.sbcglobal.net) has joined #/mu/
+T 1335927251 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1335929614 18<pem>	yes xiaobai
+T 1335929654 22*	pem has changed the topic to: #/mu/ - we're all too busy listening to music to chat
+T 1335930334 23*	23mmorz has quit (23Killed (irc.cccp-project.net joins/parts in #/g/tv within 9 seconds.)23)
+T 1335930356 19*	19mmorz (~mmorz@Rizon-D25CDEBC.fv.ks.cox.net) has joined #/mu/
+T 1335933201 23*	23Heisenberg has quit (23Ping timeout: 240 seconds23)
+T 1335934171 19*	19Heisenberg (~derp@EFA8E815.CB341EA6.FBFE8188.IP) has joined #/mu/
+T 1335934176 22*	26Reinforce gives channel operator status to26 Heisenberg
+T 1335936353 23*	23Heisenberg has quit (2323)
+T 1335936579 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335936579 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335936824 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335939334 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335939334 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335943109 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335944017 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335944017 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335944189 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1335946144 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335946310 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1335946310 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335949926 23*	23xiaobai has quit (23Ping timeout: 240 seconds23)
+T 1335949959 19*	19fdude (~durr@Rizon-14E5553B.ka.hist.no) has joined #/mu/
+T 1335950045 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335951519 22*	fdude is now known as FailureDude
+T 1335951525 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335956932 19*	19cocaine (coco@chug.chug.chug.chug) has joined #/mu/
+T 1335957925 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1335958003 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1335961254 23*	23mmorz (23~mmorz@Rizon-D25CDEBC.fv.ks.cox.net) has left #/mu/
+T 1335964111 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1335965339 19*	19FailureDude (~durr@PLANET.TITS) has joined #/mu/
+T 1335965339 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1335965923 19*	19an_hero (titties@Welcome.To.Violent.City) has joined #/mu/
+T 1335965923 22*	26Reinforce gives channel operator status to26 an_hero
+T 1336084143 19*	19Now talking on #/mu/
+T 1336084143 29*	29Topic for #/mu/ 29is: #/mu/ - we're all too busy listening to music to chat
+T 1336084143 29*	29Topic for #/mu/ 29set by pem!~pem@pick.up.that.can.america 29at Tue May  1 23:24:12 2012
+T 1336084927 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1336085046 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336086201 19*	19poverty_pimp (~pissedulf@Rizon-FD97510A.lightspeed.rcsntx.sbcglobal.net) has joined #/mu/
+T 1336086226 23*	23poverty_pimp (23~pissedulf@Rizon-FD97510A.lightspeed.rcsntx.sbcglobal.net) has left #/mu/
+T 1336086284 19*	19tarabluh (~tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has joined #/mu/
+T 1336086286 23*	23tarabluh (23~tarabluh@Rizon-6EFC5AC5.hsd1.ga.comcast.net) has left #/mu/
+T 1336087000 19*	19Heisenberg (~derp@Rizon-D977C68C.eng.wind.ca) has joined #/mu/
+T 1336087001 22*	26Reinforce gives channel operator status to26 Heisenberg
+T 1336093343 23*	23mmorz has quit (23Read error: Connection reset by peer23)
+T 1336093381 19*	19mmorz (~mmorz@Rizon-D25CDEBC.fv.ks.cox.net) has joined #/mu/
+T 1336096474 22*	cocaine is now known as cocaine_afk
+T 1336101086 23*	23lawltrain has quit (23Quit: - nbs-irc 2.39 - www.nbs-irc.net -23)
+T 1336101179 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1336101179 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1336101380 23*	23cocaine_afk has quit (2323)
+T 1336101471 23*	23mmorz has quit (23Ping timeout: 240 seconds23)
+T 1336101564 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336109483 19*	19rawfodog (~rawfodog@Rizon-5BD24BB2.static.videotron.ca) has joined #/mu/
+T 1336109546 23*	23an_hero has quit (23Quit: an_hero retreats coolly23)
+T 1336110070 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1336110170 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336112366 23*	23rawfodog has quit (23Remote host closed the connection23)
+T 1336113293 19*	19Guest16114 (~derp@Rizon-D977C68C.eng.wind.ca) has joined #/mu/
+T 1336113342 23*	23Heisenberg has quit (23Ping timeout: 240 seconds23)
+T 1336114717 23*	23Guest16114 has quit (2323)
+T 1336116419 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1336117533 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1336117533 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1336124613 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1336131394 19*	19Jkid (~Jkid@no.social.life.king) has joined #/mu/
+T 1336131853 19*	19an_hero (titties@Welcome.To.Violent.City) has joined #/mu/
+T 1336131853 22*	26Reinforce gives channel operator status to26 an_hero
+T 1336132900 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336138641 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1336139521 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1336139521 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1336143082 19*	19C20H25N3O (titties@Rizon-3449A9C9.adsl.alicedsl.de) has joined #/mu/
+T 1336143092 23*	23an_hero has quit (23Killed (NickServ (GHOST command used by C20H25N3O))23)
+T 1336143093 22*	C20H25N3O is now known as an_hero
+T 1336143094 22*	26Reinforce gives channel operator status to26 an_hero
+T 1336148207 19*	19cocaine (coco@chug.chug.chug.chug) has joined #/mu/
+T 1336154452 19*	19OriginalSin (~OriginalS@Rizon-FE503ED3.lns1.woo.bigpond.net.au) has joined #/mu/
+T 1336154564 23*	23OriginalSin (23~OriginalS@Rizon-FE503ED3.lns1.woo.bigpond.net.au) has left #/mu/
+T 1336154571 19*	19OriginalSin (~OriginalS@Rizon-FE503ED3.lns1.woo.bigpond.net.au) has joined #/mu/
+T 1336154579 23*	23OriginalSin (23~OriginalS@Rizon-FE503ED3.lns1.woo.bigpond.net.au) has left #/mu/
+T 1336156902 18<Heaud>	https://boards.4chan.org/mu/res/24648916#24652186
+T 1336157383 22*	an_hero has changed the topic to: #/mu/ - we're all too busy listening to music to chat | RIP MCA
+T 1336160522 18<FailureDude>	YOU GOTTA FIGHT
+T 1336160524 18<FailureDude>	FOR YOUR RIGHT
+T 1336160527 18<FailureDude>	TO PAAAAAAAAAAAAAAAAAAAAAAARTYYYYYYYYYYYYYYY
+T 1336160537 18<FailureDude>	RIP MCA MAY YOU PARTY IN HEAVEN
+T 1336163300 23*	23Jkid (23~Jkid@no.social.life.king) has left #/mu/
+T 1336244021 19*	19Now talking on #/mu/
+T 1336244021 29*	29Topic for #/mu/ 29is: #/mu/ - we're all too busy listening to music to chat | RIP MCA
+T 1336244021 29*	29Topic for #/mu/ 29set by an_hero!titties@Welcome.To.Violent.City 29at Fri May  4 14:39:21 2012
+T 1336248005 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336249998 19*	19Shieldon (~Heaud@Rizon-8850E070.hsd1.fl.comcast.net) has joined #/mu/
+T 1336249998 22*	26Reinforce gives channel operator status to26 Shieldon
+T 1336250085 23*	23Heaud has quit (23Ping timeout: 240 seconds23)
+T 1336251093 22*	Shieldon is now known as Heaud
+T 1336252863 19*	19cocaine (coco@chug.chug.chug.chug) has joined #/mu/
+T 1336253175 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1336253261 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336259242 23*	23mmorz has quit (23Quit: Leaving...23)
+T 1336259250 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336260126 19*	19Heisenberg (~derp@Rizon-3A745D4C.eng.wind.ca) has joined #/mu/
+T 1336260126 22*	26Reinforce gives channel operator status to26 Heisenberg
+T 1336263727 18<Heaud>	an_hero
+T 1336263729 18<Heaud>	you up?
+T 1336263734 18<an_hero>	yes
+T 1336263750 18<Heaud>	got an album for you http://nota.legitlookingdomain.com/tmp/plbr.zip
+T 1336263799 18<Heaud>	it's doom metal
+T 1336263928 18<an_hero>	13np: 6[13 Pallbearer 6] 6[13 Sorrow And Extinction 6] 6[13 #01 6] 6[13 Foreigner 6] 6[13 Metal 6] 6[13 217 kbps MP3 6] 6[13 0:06/12:21 6] 6[13 ♡♡♡♡♡♡♡♡♡♡♡♡ 6]
+T 1336263935 18<an_hero>	okay, let's do this
+T 1336264065 18<Heaud>	track 04 is p. nice
+T 1336264181 18<an_hero>	sounds traditional as fuk
+T 1336264187 18<Heaud>	yea
+T 1336264218 18<Heaud>	I'll jump to where you are
+T 1336264226 18<Heaud>	how far are you in
+T 1336264505 18<Heaud>	imo this band isn't bad
+T 1336264514 18<Heaud>	the vocals seem a little low, though
+T 1336265006 18<an_hero>	totally sounds like reverend bizarre/lord vicar
+T 1336265048 18<an_hero>	also warning
+T 1336265149 18<Heaud>	hmm
+T 1336265159 18<Heaud>	yeah, some of the riffs are similar to warning
+T 1336265203 18<Heaud>	haven't heard lord vicar, though
+T 1336265264 18<Heaud>	gotta find some metal bros here in Miami
+T 1336265389 18<an_hero>	13np: 6[13 Pallbearer 6] 6[13 Sorrow And Extinction 6] 6[13 #02 6] 6[13 Devoid Of Redemption 6] 6[13 Metal 6] 6[13 232 kbps MP3 6] 6[13 4:14/8:17 6] 6[13 ♥♥♥♥♥♥♡♡♡♡♡♡ 6]
+T 1336265394 18<an_hero>	sounds like bolt thrower there
+T 1336265477 18<Heaud>	adding voices of owls into my top played lists
+T 1336265494 18<Heaud>	http://www.last.fm/music/Cornell+Lab+of+Ornithology
+T 1336265502 18<Heaud>	close to 600 plays so far
+T 1336266176 18<Heaud>	got this new iosys album that is in what.cd
+T 1336266183 18<Heaud>	and the first track sounds like dubstep
+T 1336266184 18<Heaud>	wtf
+T 1336266219 18<Heaud>	second track has a dubstep portion
+T 1336266235 18<Heaud>	gonna give this to my brother for the hell of it
+T 1336266241 18<Heaud>	he might find it funny
+T 1336266582 18<an_hero>	http://dl.dropbox.com/u/32430314/IMG_20120506_025623.jpg
+T 1336266585 18<an_hero>	（⌒‿⌒）
+T 1336267364 18<Heaud>	curry powder?
+T 1336267377 18<an_hero>	happy powder
+T 1336267386 18<Heaud>	not following you
+T 1336267418 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336268109 18<an_hero>	13np: 6[13 40 Watt Sun 6] 6[13 The Inside Room 6] 6[13 #02 6] 6[13 Open My Eyes 6] 6[13 Doom Metal 6] 6[13 1049 kbps FLAC 6] 6[13 0:40/10:44 6] 6[13 ♥♡♡♡♡♡♡♡♡♡♡♡ 6]
+T 1336268118 18<an_hero>	more warning
+T 1336268189 18<Heaud>	meh, no sound clips in last.fm
+T 1336268196 18<Heaud>	gonna check it on youtube
+T 1336268245 18<Heaud>	hahaha, it has warning in the related videos tab
+T 1336268262 18<an_hero>	same singer
+T 1336268282 18<Heaud>	ah
+T 1336268285 18<Heaud>	I was about to say
+T 1336268292 18<Heaud>	that this sounds exactly the same as warning, lol
+T 1336268360 18<Heaud>	meh
+T 1336268366 18<Heaud>	don't like it 
+T 1336268377 18<Heaud>	there's something about the vocalist of warning that makes me uninterested
+T 1336285449 23*	23Heisenberg has quit (2323)
+T 1336285463 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336288238 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336288582 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336290436 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1336297562 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1336297637 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336297856 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1336298049 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336305628 23*	23lpf has quit (23Ping timeout: 240 seconds23)
+T 1336305993 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336307038 19*	19lpf_ (~boy.bebop@Rizon-7A92CFFE.w92-135.abo.wanadoo.fr) has joined #/mu/
+T 1336307098 23*	23lpf has quit (23Ping timeout: 240 seconds23)
+T 1336307110 22*	lpf_ is now known as lpf
+T 1336308530 23*	23FailureDude has quit (2323)
+T 1336309463 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336315898 19*	19C20H25N3O (titties@Rizon-43AF9B6F.adsl.alicedsl.de) has joined #/mu/
+T 1336315912 23*	23an_hero has quit (23Killed (NickServ (GHOST command used by C20H25N3O))23)
+T 1336316245 22*	C20H25N3O is now known as an_hero
+T 1336316245 22*	26Reinforce gives channel operator status to26 an_hero
+T 1336340276 19*	19Now talking on #/mu/
+T 1336340276 29*	29Topic for #/mu/ 29is: #/mu/ - we're all too busy listening to music to chat | RIP MCA
+T 1336340276 29*	29Topic for #/mu/ 29set by an_hero!titties@Welcome.To.Violent.City 29at Fri May  4 14:39:21 2012
+T 1336348649 23*	23cocaine has quit (23Remote host closed the connection23)
+T 1336359115 19*	19Heisenberg (~derp@Rizon-D977C68C.eng.wind.ca) has joined #/mu/
+T 1336359116 22*	26Reinforce gives channel operator status to26 Heisenberg
+T 1336359618 23*	23Heisenberg has quit (23Ping timeout: 240 seconds23)
+T 1336359857 19*	19Heisenberg (~derp@Rizon-D977C68C.eng.wind.ca) has joined #/mu/
+T 1336359862 22*	Heisenberg is now known as Guest38741
+T 1336359959 23*	23Guest38741 has quit (2323)
+T 1336360863 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336361045 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336363573 23*	23an_hero has quit (23Quit: an_hero retreats coolly23)
+T 1336369754 19*	19an_droid (~AndChat@Samsung.Pornophone.SII) has joined #/mu/
+T 1336370047 23*	23an_droid has quit (23Read error: Connection reset by peer23)
+T 1336370074 19*	19an_droid (~AndChat@Samsung.Pornophone.SII) has joined #/mu/
+T 1336371708 19*	19an_droid_ (~AndChat@2BE3CD79.E417DAD5.C68BF2A4.IP) has joined #/mu/
+T 1336371892 23*	23an_droid has quit (23Ping timeout: 240 seconds23)
+T 1336374435 23*	23rawfodog has quit (23Quit: Leaving23)
+T 1336374998 23*	23an_droid_ has quit (23Ping timeout: 240 seconds23)
+T 1336376217 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1336377290 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1336377290 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1336377379 19*	19an_droid (~AndChat@Samsung.Pornophone.SII) has joined #/mu/
+T 1336378423 23*	23an_droid has quit (23Ping timeout: 240 seconds23)
+T 1336390787 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1336391997 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336394756 19*	19an_hero (titties@Welcome.To.Violent.City) has joined #/mu/
+T 1336394757 22*	26Reinforce gives channel operator status to26 an_hero
+T 1336490146 19*	19Now talking on #/mu/
+T 1336490146 29*	29Topic for #/mu/ 29is: #/mu/ - we're all too busy listening to music to chat | RIP MCA
+T 1336490146 29*	29Topic for #/mu/ 29set by an_hero!titties@Welcome.To.Violent.City 29at Fri May  4 14:39:20 2012
+T 1336491537 18<an_hero>	13np: 6[13 Chicago Odense Ensemble 6] 6[13 Chicago Odense Ensemble 6] 6[13 #01 6] 6[13 Parallel Motions 6] 6[13 Fusion 6] 6[13 812 kbps FLAC 6] 6[13 8:27/9:52 6] 6[13 ♥♥♥♥♥♥♥♥♥♥♡♡ 6]
+T 1336599091 19*	19Now talking on #/mu/
+T 1336599091 29*	29Topic for #/mu/ 29is: #/mu/ - we're all too busy listening to music to chat | RIP MCA
+T 1336599091 29*	29Topic for #/mu/ 29set by an_hero!titties@Welcome.To.Violent.City 29at Fri May  4 14:39:21 2012
+T 1336602392 23*	23an_hero has quit (23Quit: an_hero retreats coolly23)
+T 1336604621 23*	23Heaud has quit (23*.net *.split23)
+T 1336604621 23*	23andonuts has quit (23*.net *.split23)
+T 1336604841 19*	19Heaud (~Heaud@tayg.id.eajy) has joined #/mu/
+T 1336604841 19*	19andonuts (~nope@the.dr.is.in) has joined #/mu/
+T 1336604841 22*	26irc.x1n.org gives channel operator status to26 Heaud
+T 1336606531 22*	Disconnected (Connection reset by peer).
+T 1336606580 19*	19Now talking on #/mu/
+T 1336606580 29*	29Topic for #/mu/ 29is: #/mu/ - we're all too busy listening to music to chat | RIP MCA
+T 1336606580 29*	29Topic for #/mu/ 29set by an_hero!titties@Welcome.To.Violent.City 29at Fri May  4 14:39:21 2012
+T 1336613078 23*	23cocaine has quit (23Remote host closed the connection23)
+T 1336614286 19*	19rawfodog (~rawfodog@Rizon-5BD24BB2.static.videotron.ca) has joined #/mu/
+T 1336617591 19*	19[BR]Smurph (~dongus@2DE0513F.2588AA09.4249C630.IP) has joined #/mu/
+T 1336617599 18<[BR]Smurph>	this is not where I wanted to be
+T 1336617600 23*	23[BR]Smurph (23~dongus@2DE0513F.2588AA09.4249C630.IP) has left #/mu/
+T 1336619873 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336620076 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336626646 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336629390 23*	23rawfodog has quit (23Quit: Leaving23)
+T 1336633852 19*	19Siouxsie (~FISH_CAT@all.these.moments.will.be.lost.in.time.like.tears.in.rain) has joined #/mu/
+T 1336633865 18<Siouxsie>	any1 no any good brostep??
+T 1336634125 18<FailureDude>	no such thing
+T 1336634163 18<Siouxsie>	Well that's a shame
+T 1336634176 18<Siouxsie>	I'm in the mood for some good bad music if you get me
+T 1336634223 18<Siouxsie>	Do you like Dizzee Rascal?
+T 1336635795 18<FailureDude>	dizzee rascal isnt brostep
+T 1336635820 18<FailureDude>	but no, i cant say i i'm a fan, although he has a few decent tracks
+T 1336636889 19*	19an_droid (~AndChat@Samsung.Pornophone.SII) has joined #/mu/
+T 1336638252 19*	19an_droid_ (~AndChat@Rizon-ABA3F0B4.net.de.o2.com) has joined #/mu/
+T 1336638390 19*	19cocaine (coco@chug.chug.chug.chug) has joined #/mu/
+T 1336638451 23*	23an_droid has quit (23Ping timeout: 240 seconds23)
+T 1336638496 23*	23an_droid_ has quit (23Ping timeout: 240 seconds23)
+T 1336642408 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1336643948 19*	19an_droid (~AndChat@Samsung.Pornophone.SII) has joined #/mu/
+T 1336644248 19*	19an_droid_ (~AndChat@660BFBC1.73CF6C70.C68BF2A4.IP) has joined #/mu/
+T 1336644365 23*	23an_droid has quit (23Read error: Connection reset by peer23)
+T 1336644492 23*	23an_droid_ has quit (23Ping timeout: 240 seconds23)
+T 1336645685 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1336645743 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336646358 23*	23lpf has quit (23Ping timeout: 240 seconds23)
+T 1336648072 23*	23Siouxsie has quit (23Ping timeout: 240 seconds23)
+T 1336648566 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336649171 19*	19Siouxsie (~FISH_CAT@all.these.moments.will.be.lost.in.time.like.tears.in.rain) has joined #/mu/
+T 1336649727 23*	23Siouxsie has quit (23Killed (NickServ (GHOST command used by KurtCobain))23)
+T 1336649749 19*	19KurtCobain (~FISH_CAT@Rizon-3D341C94.threembb.co.uk) has joined #/mu/
+T 1336652801 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1336652859 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336657613 19*	19Now talking on #/mu/
+T 1336657613 29*	29Topic for #/mu/ 29is: #/mu/ - we're all too busy listening to music to chat | RIP MCA
+T 1336657613 29*	29Topic for #/mu/ 29set by an_hero!titties@Welcome.To.Violent.City 29at Fri May  4 14:39:21 2012
+T 1336658565 18<pem>	cool
+T 1336658569 18<pem>	just saw mutemath live
+T 1336658574 18<pem>	pretty fucking good
+T 1336658592 18<pem>	the bassist looks like heaud would if he had long hair
+T 1336658602 18<Heaud>	lol
+T 1336659267 18<an_hero>	13np: 6[13 Huss & Hodn 6] 6[13 Der Stoff, aus dem die Regenschirme sind 6] 6[13 #02 6] 6[13 Gastspiel 6] 6[13 Hip-Hop 6] 6[13 607 kbps FLAC 6] 6[13 0:37/2:54 6] 6[13 ♥♥♥♡♡♡♡♡♡♡♡♡ 6]
+T 1336659701 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1336659761 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336661462 19*	19C20H25N3O (titties@Rizon-BBBA7E09.adsl.alicedsl.de) has joined #/mu/
+T 1336661472 23*	23an_hero has quit (23Killed (NickServ (GHOST command used by C20H25N3O))23)
+T 1336661474 22*	C20H25N3O is now known as an_hero
+T 1336661475 22*	26Reinforce gives channel operator status to26 an_hero
+T 1336662701 23*	23lpf has quit (23Read error: Connection reset by peer23)
+T 1336662762 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336663869 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336667487 23*	23an_hero has quit (23Quit: an_hero retreats coolly23)
+T 1336667554 19*	19an_hero (titties@Welcome.To.Violent.City) has joined #/mu/
+T 1336667554 22*	26Reinforce gives channel operator status to26 an_hero
+T 1336669125 23*	23mmorz has quit (23Quit: Leaving...23)
+T 1336669131 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336670305 23*	23lpf has quit (23Ping timeout: 240 seconds23)
+T 1336670497 19*	19lpf (~boy.bebop@honey.and.clover) has joined #/mu/
+T 1336671583 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/mu/
+T 1336671583 22*	26Reinforce gives channel operator status to26 lawltrein
+T 1336672280 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336672336 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336673085 19*	19Daman (~kawaii@hi.my.son) has joined #/mu/
+T 1336673102 18<Daman>	#/mu/ why do my hipster friends think this is really good http://www.youtube.com/watch?v=-ia34yXU1gw
+T 1336673990 18<FailureDude>	you should probably ask them
+T 1336673996 18<FailureDude>	but Hudson Mohawke is bad ass
+T 1336674110 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336678716 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336699673 19*	19Now talking on #/mu/
+T 1336699673 29*	29Topic for #/mu/ 29is: #/mu/ - we're all too busy listening to music to chat | RIP MCA
+T 1336699673 29*	29Topic for #/mu/ 29set by an_hero!titties@Welcome.To.Violent.City 29at Fri May  4 14:39:21 2012
+T 1336709389 23*	23cocaine has quit (23Remote host closed the connection23)
+T 1336710923 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336712677 23*	23an_hero has quit (23Quit: an_hero retreats coolly23)
+T 1336716338 19*	19Str0mer (~lolol@Rizon-9AB03D27.dsl.irvnca.sbcglobal.net) has joined #/mu/
+T 1336716471 23*	23Stromer has quit (23Ping timeout: 240 seconds23)
+T 1336716662 19*	19Stromer (~lolol@Rizon-A81E64A.dsl.irvnca.sbcglobal.net) has joined #/mu/
+T 1336716831 23*	23Str0mer has quit (23Ping timeout: 240 seconds23)
+T 1336719139 23*	23mmorz has quit (23Killed (irc.broke-it.com joins/parts in #kbo within 3 seconds.)23)
+T 1336719163 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336720610 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1336721470 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1336722641 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1336722641 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1336730838 23*	23mmorz has quit (23Quit: Computer has gone to sleep.23)
+T 1336733368 23*	23Heaud has quit (23Remote host closed the connection23)
+T 1336735018 19*	19Heaud (~Heaud@Rizon-8850E070.hsd1.fl.comcast.net) has joined #/mu/
+T 1336735018 22*	26Reinforce gives channel operator status to26 Heaud
+T 1336739440 19*	19an_hero (titties@Welcome.To.Violent.City) has joined #/mu/
+T 1336739440 22*	26Reinforce gives channel operator status to26 an_hero
+T 1336739775 23*	23FailureDude has quit (23Ping timeout: 240 seconds23)
+T 1336740637 19*	19FailureDude (derp@PLANET.TITS) has joined #/mu/
+T 1336740637 22*	26Reinforce gives channel operator status to26 FailureDude
+T 1336742167 19*	19Now talking on #/mu/
+T 1336742167 29*	29Topic for #/mu/ 29is: #/mu/ - we're all too busy listening to music to chat | RIP MCA
+T 1336742167 29*	29Topic for #/mu/ 29set by an_hero!titties@Welcome.To.Violent.City 29at Fri May  4 14:39:21 2012
+T 1336742392 18<an_hero>	13np: 6[13 Black Sabbath 6] 6[13 Black Box: The Complete Original Black Sabbath (1970-1978) (disc 1: Black Sabbath) 6] 6[13 #01 6] 6[13 Black Sabbath 6] 6[13 Rock 6] 6[13 288 kbps MP3 6] 6[13 4:50/6:19 6] 6[13 ♥♥♥♥♥♥♥♥♥♡♡♡ 6]
+T 1336747881 19*	19C20H25N3O (titties@Rizon-4A5ED00D.adsl.alicedsl.de) has joined #/mu/
+T 1336747895 23*	23an_hero has quit (23Killed (NickServ (GHOST command used by C20H25N3O))23)
+T 1336747916 22*	C20H25N3O is now known as an_hero
+T 1336747916 22*	26Reinforce gives channel operator status to26 an_hero
+T 1336756402 19*	19cocaine (~cocaine@chug.chug.chug.chug) has joined #/mu/
+T 1336762275 23*	23cocaine has quit (23Remote host closed the connection23)
+T 1336763201 19*	19lpf_ (~boy.bebop@Rizon-A1221FE5.w92-139.abo.wanadoo.fr) has joined #/mu/
+T 1336763263 23*	23lpf has quit (23Ping timeout: 240 seconds23)
+T 1336763279 22*	lpf_ is now known as lpf
+T 1336766330 19*	19mmorz (~mmorz@Rizon-1F059C7.fv.ks.cox.net) has joined #/mu/
+T 1336779410 19*	19cocaine (coco@chug.chug.chug.chug) has joined #/mu/

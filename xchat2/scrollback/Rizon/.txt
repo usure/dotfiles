@@ -1,0 +1,751 @@
+T 1332971689 18<BENOIST>	h
+T 1332971689 18<h_>	h
+T 1332971705 19*	19up2u_ (~up2u@Rizon-E4CEF68D.shv.bellsouth.net) has joined #/a/
+T 1332971750 18<adrien>	YOUR'RE AN UGLY FUCKNUT
+T 1332971776 23*	23up2u has quit (23Ping timeout: 240 seconds23)
+T 1332971830 18<redwire>	>java
+T 1332971840 18<redwire>	I have to use Java for my CS course. Do not want.
+T 1332971850 18<LAMMJohnson>	Been there.
+T 1332971875 18<redwire>	I noticed you had some Java code up on Github a while ago, LAMM. 'sup with that?
+T 1332971887 18<redwire>	Not sure if it was github. Somewher.
+T 1332971891 18<dolphineas>	i
+T 1332971891 18<redwire>	e*
+T 1332971905 18<auREAX>	Java is horribru
+T 1332971909 18<LAMMJohnson>	Think it was just a Conway's Game Of Life.
+T 1332971918 18<LAMMJohnson>	Sometimes I tinker.
+T 1332971921 18<LAMMJohnson>	Better than being idle.
+T 1332971933 18<redwire>	Heh. I'm doing a Conway's Game of Life in Java.
+T 1332971937 18<LAMMJohnson>	Wanted to learn the Java graphics libraries but then changed my mind.
+T 1332971945 18<redwire>	Yeah you really don't.
+T 1332971965 18<redwire>	Swing especially is pig disgusting.
+T 1332972050 18<auREAX>	3>Swing
+T 1332972056 18<auREAX>	laughingGUIlayers.png
+T 1332972066 22*	hatarakicake is now known as finalcake
+T 1332972067 23*	23Jejuni has quit (2323)
+T 1332972067 18<redwire>	Really though.
+T 1332972082 18<finalcake>	お金ゲットーン♪
+T 1332972085 18<redwire>	>OOP lets you structure your code in ways that make it so easy to think about things!
+T 1332972094 18<redwire>	>Lolwut? You thought we meant your OWN structure?
+T 1332972106 18<auREAX>	the problem is Java's OOP implementation is flawed as fuck.
+T 1332972108 23*	23lawltrein has quit (23Read error: Connection reset by peer23)
+T 1332972113 18<redwire>	True that.
+T 1332972131 18<FailureDude>	fuck
+T 1332972135 23*	23Absol` has quit (23Ping timeout: 240 seconds23)
+T 1332972144 18<FailureDude>	why is sleeping so hard
+T 1332972161 18<FailureDude>	sleep stinks
+T 1332972187 18<an_hero>	sleep is awesome
+T 1332972237 18<redlizard>	how so?
+T 1332972241 18<redlizard>	lack of value types, you mean?
+T 1332972249 18<redlizard>	or lack of multiple inheritance?
+T 1332972252 18<FailureDude>	nah
+T 1332972359 18<auREAX>	amongst others, also, enforcing one file == one class and filename == classname
+T 1332972362 18<auREAX>	is stupid as fuck.
+T 1332972377 18<adrien>	oh well. Time to visit bookface for my dose of retard
+T 1332972379 18<adrien>	brb
+T 1332972382 18<an_hero>	(00:00:00)  -› Day changed to Thursday (29 Mar 2012)
+T 1332972384 18<redlizard>	agreed, but that's unrelated to java's OOP implementation
+T 1332972386 18<auREAX>	also, I still think getters and setters are retarded.
+T 1332972386 18<an_hero>	well goodbye
+T 1332972389 18<an_hero>	time2sleep
+T 1332972393 18<redlizard>	why?
+T 1332972396 23*	23Shiki-sama has quit (23Quit: Always I wanna be with you and make believe with you...23)
+T 1332972425 23*	23BENOIST has quit (23Quit: class23)
+T 1332972442 23*	23up2u_ has quit (23Read error: Connection reset by peer23)
+T 1332972453 19*	19van- (~van-@nekomimi.trap) has joined #l/a/nguage
+T 1332972496 18<auREAX>	why have fields in the first place, then?
+T 1332972511 19*	19up2u (~up2u@Rizon-A6FD0C04.shv.bellsouth.net) has joined #/a/
+T 1332972515 18<auREAX>	also, the general concept of accessing fields by calling a function...
+T 1332972515 18<auREAX>	nope.
+T 1332972521 18<redlizard>	for _internal_ storage
+T 1332972602 18<redlizard>	what's wrong with that?
+T 1332972603 19*	19Absol` (~absol@Rizon-6C08CA6A.net.upcbroadband.cz) has joined #perwl
+T 1332972603 22*	26ChanServ gives voice to26 Absol`
+T 1332972647 18<auREAX>	then why have public modifiers on fields at all? hell, why even have the feature of being able to do object.field?
+T 1332972653 18<auREAX>	I just don't like it.
+T 1332972669 18<redlizard>	for structs, of course
+T 1332972679 18<auREAX>	java doesn't have structs.
+T 1332972692 18<redlizard>	semantic structs
+T 1332972712 18<redlizard>	entities with the functionality and goal of a struct
+T 1332972718 18<auREAX>	either implement structs correctly or don't do it at all
+T 1332972722 18<auREAX>	using objects for structs is just hackery.
+T 1332972762 18<redlizard>	there's nothing wrong about java's struct handling
+T 1332972788 18<redlizard>	of course, it needs value types, but that applies to proper classes just as well
+T 1332972860 23*	23Mars_Keeper has quit (23Quit: FOE from client23)
+T 1332972941 18<adrien>	http://www.newgrounds.com/portal/view/157120
+T 1332972941 18<Rachael>	0,3Title I Own Time (www.newgrounds.com)
+T 1332973007 19*	19horkx3 (~anonymous@the.interwebs) has joined #perwl
+T 1332973007 22*	26ChanServ gives voice to26 horkx3
+T 1332973095 19*	19Kivan` (~Kivan@Rizon-A4EE6E3B.dynamic.chello.pl) has joined #/a/
+T 1332973107 19*	19dre (~dre@official.gtech.medium.and.psychologist) has joined #/g/sicp
+T 1332973107 19*	19dre (~dre@official.gtech.medium.and.psychologist) has joined #perwl
+T 1332973107 22*	26ChanServ gives voice to26 dre
+T 1332973107 22*	26ChanServ gives voice to26 dre
+T 1332973140 23*	23BobSapp has quit (23Ping timeout: 240 seconds23)
+T 1332973183 19*	19BobSapp (~root@Rizon-E405BEE6.client.allsimple.net) has joined #perwl
+T 1332973183 22*	26ChanServ gives voice to26 BobSapp
+T 1332973440 23*	23FBINinja has quit (23Quit: - nbs-irc 2.39 - www.nbs-irc.net -23)
+T 1332973441 23*	23r8221 has quit (23Read error: Connection reset by peer23)
+T 1332973450 19*	19lazyguy (~lazyguy@Rizon-80719781.cable.teksavvy.com) has joined #/a/
+T 1332973626 19*	19FBINinja (~plaster@why.are.you.such.a.dingus) has joined #/a/
+T 1332973626 22*	26[^_^] gives voice to26 FBINinja
+T 1332973647 23*	23horkx3 has quit (23Remote host closed the connection23)
+T 1332973654 23*	23knizz has quit (23Quit: Zu~n!23)
+T 1332973661 19*	19r8221 (~r@te.two.to.one) has joined #l/a/nguage
+T 1332973665 18<Quagles>	hmm, how do you write small katana letters? Like if you want to write Te with a small i.
+T 1332973686 19*	19horkx3 (~anonymous@the.interwebs) has joined #perwl
+T 1332973686 22*	26ChanServ gives voice to26 horkx3
+T 1332973697 18<Jazzu>	x-i
+T 1332973702 18<Jazzu>	on windows IME at least
+T 1332973716 18<Jazzu>	small tsu is xtu
+T 1332973757 23*	23horkx3 has quit (2323)
+T 1332973762 18<Quagles>	thanks that worked :)
+T 1332973922 23*	23chapter has quit (23Ping timeout: 240 seconds23)
+T 1332974060 23*	23abunai has quit (23Read error: Connection reset by peer23)
+T 1332974111 18<Jazzu>	there's only one problem I have with heisig
+T 1332974133 18<Jazzu>	how on earth are you supposed to come up with a mental image for such a vague concept as "miscellaneous"
+T 1332974141 23*	23ikamusume has quit (23Ping timeout: 240 seconds23)
+T 1332974230 23*	23van- has quit (23Quit: van-23)
+T 1332974238 23*	23an_hero has quit (23Quit: an_hero retreats coolly23)
+T 1332974238 23*	23an_hero has quit (23Quit: an_hero retreats coolly23)
+T 1332974241 19*	19CookieJar2 (~CookieJar@Rizon-602B2E58.dynamic.mtsallstream.net) has joined #perwl
+T 1332974242 22*	26ChanServ gives voice to26 CookieJar2
+T 1332974243 19*	19abunai (~neetismur@oh.my.look.at.the.time) has joined #/g/sicp
+T 1332974329 23*	23abunai has quit (2323)
+T 1332974383 23*	23Philostyktos has quit (23Ping timeout: 240 seconds23)
+T 1332974418 23*	23CookieJar has quit (23Ping timeout: 240 seconds23)
+T 1332974461 22*	Circlepuller_ is now known as Circlepuller
+T 1332974486 23*	23CookieJar2 has quit (23Ping timeout: 240 seconds23)
+T 1332974709 19*	19abunai (~neetismur@oh.my.look.at.the.time) has joined #/g/sicp
+T 1332974769 23*	23ghostfreeman has quit (23Quit: Not here, will respond later23)
+T 1332974961 19*	19Iiggeh (~t@ke.it.easy) has joined #/a/
+T 1332975167 23*	23jcvf has quit (23Remote host closed the connection23)
+T 1332975191 23*	23abunai has quit (2323)
+T 1332975206 19*	19jcvf (~jcvf@Rizon-B40F2F0.tmi.telenormobil.no) has joined #perwl
+T 1332975206 22*	26ChanServ gives voice to26 jcvf
+T 1332975216 19*	19abunai (~neetismur@oh.my.look.at.the.time) has joined #/g/sicp
+T 1332975280 23*	23FBINinja has quit (23Quit: - nbs-irc 2.39 - www.nbs-irc.net -23)
+T 1332975415 19*	19Philostyktos (~f.for.fak@If.you.go.to.Z.ha.dum.you.will.die) has joined #perwl
+T 1332975415 22*	26ChanServ gives voice to26 Philostyktos
+T 1332975491 23*	23Pseudonym has quit (23Ping timeout: 240 seconds23)
+T 1332975536 19*	19FBINinja (~plaster@Rizon-79F5D255.new.res.rr.com) has joined #/a/
+T 1332975546 22*	26[^_^] gives voice to26 FBINinja
+T 1332975646 23*	23Jelly has quit (23Quit: Leaving23)
+T 1332975681 19*	19Xanth (~Xanth@Rizon-6DC3BBFB.cable.virginmedia.com) has joined #/a/
+T 1332975706 19*	19Yotsuba (~ircII@Rizon-B1E5953D.dhcp.oxfr.ma.charter.com) has joined #/b/radio
+T 1332975751 18<Quagles>	For some reason Im having a hard time syncronizing my decks :/
+T 1332975855 19*	19Pseudonym (~weeaboo@Rizon-EDD484FB.hsd1.md.comcast.net) has joined #/a/
+T 1332975855 22*	26[^_^] gives voice to26 Pseudonym
+T 1332975959 19*	19flyingpants (~john@shithats.fuckoff) has joined #/b/radio
+T 1332975961 18<flyingpants>	http://www.youtube.com/watch?v=cI3Mw3sPd1k
+T 1332975961 18<flyingpants>	da fuq
+T 1332976102 19*	19SFR (~Trini@Rizon-462EA75E.tampfl.fios.verizon.net) has joined #/a/
+T 1332976102 22*	26[^_^] gives voice to26 SFR
+T 1332976115 18<RocketLauncher>	http://play.typeracer.com/?rt=3jx1muxwqa41 typreacer
+T 1332976116 18<Rachael>	0,3Title TypeRacer - Test your typing speed and learn to type faster. Free typing game and competition. Way more fun than a typing tutor! (play.typeracer.com)
+T 1332976127 23*	23GrimaH has quit (2323)
+T 1332976200 23*	23outsomnia has quit (23Ping timeout: 240 seconds23)
+T 1332976508 19*	19lawltrein (~lawltrein@the.game.is.afoot) has joined #/a/
+T 1332976508 22*	26[^_^] gives channel operator status to26 lawltrein
+T 1332976565 23*	23Luminous_Path has quit (23Ping timeout: 240 seconds23)
+T 1332976565 23*	23Luminous_Path has quit (23Ping timeout: 240 seconds23)
+T 1332976605 19*	19Luminous_Path (derp@Rizon-82879326.dhcp.slid.la.charter.com) has joined #/a/
+T 1332976605 19*	19Luminous_Path (derp@Rizon-82879326.dhcp.slid.la.charter.com) has joined #/b/radio
+T 1332976609 22*	[^_^] sets mode +a #/a/ Luminous_Path
+T 1332976609 22*	26[^_^] gives channel operator status to26 Luminous_Path
+T 1332976788 23*	23Xanth has quit (23Read error: Connection timed out23)
+T 1332976830 19*	19van- (~van-@nekomimi.trap) has joined #l/a/nguage
+T 1332976856 23*	23asdfman has quit (23Quit: WeeChat 0.3.723)
+T 1332976856 23*	23asdfman has quit (23Quit: WeeChat 0.3.723)
+T 1332976909 23*	23RocketLauncher has quit (23Quit: Leaving23)
+T 1332976984 23*	23gaydentist has quit (23Quit: Computer has gone to sleep.23)
+T 1332976984 23*	23gaydentist has quit (23Quit: Computer has gone to sleep.23)
+T 1332977041 19*	19Sephirot (~HighAncie@nothing.is.true.everything.is.permitted) has joined #/a/
+T 1332977180 23*	23Deufo has quit (23Ping timeout: 240 seconds23)
+T 1332977229 19*	19Vin (~Vin@broken.as.fuck) has joined #/a/
+T 1332977336 19*	19dsa (~dsa@Rizon-3BD43BB9.lightspeed.cicril.sbcglobal.net) has joined #/a/
+T 1332977370 23*	23Supermidgetmob has quit (23Ping timeout: 240 seconds23)
+T 1332977456 19*	19Kite-kun (~kitelanfo@Rizon-B196C975.socal.res.rr.com) has joined #/a/
+T 1332977526 23*	23yoroppa has quit (23Read error: Connection reset by peer23)
+T 1332977531 18<Yotsuba>	>1080
+T 1332977547 19*	19gaydentist (~dentist@Rizon-EA4E7BAE.fv.ks.cox.net) has joined #/a/
+T 1332977548 19*	19gaydentist (~dentist@Rizon-EA4E7BAE.fv.ks.cox.net) has joined #perwl
+T 1332977548 22*	26ChanServ gives voice to26 gaydentist
+T 1332977667 19*	19Charmaine (aru@3852EAC7.9434AC5E.65D742DE.IP) has joined #/a/
+T 1332977672 23*	23Oiotoshi has quit (23Quit: Oiotoshi23)
+T 1332977707 18<Yotsuba>	flyingpants: it does not look like a time travelling adventure I want it to be, looks more like a chick flick
+T 1332977715 23*	23Godsh0t has quit (23Ping timeout: 240 seconds23)
+T 1332977715 23*	23Godsh0t has quit (23Ping timeout: 240 seconds23)
+T 1332977734 19*	19Godsh0t (~OH.MAI.GA@Rizon-7DAEEAA1.hr.hr.cox.net) has joined #/a/
+T 1332977734 19*	19Godsh0t (~OH.MAI.GA@Rizon-7DAEEAA1.hr.hr.cox.net) has joined #/b/radio
+T 1332977754 19*	19cake (~cake@delicious.cake) has joined #/a/
+T 1332977754 19*	19cake (~cake@delicious.cake) has joined #/b/radio
+T 1332977754 22*	26[^_^] gives channel operator status to26 cake
+T 1332977809 19*	19RocketLauncher (~RocketLau@shelf.is.my.friend) has joined #perwl
+T 1332977809 22*	26ChanServ gives voice to26 RocketLauncher
+T 1332977956 19*	19outsomnia (~outsomnia@B807B2F7.2AE6680.9FFB154C.IP) has joined #/a/
+T 1332978197 23*	23Kiriel has quit (23Quit: Sleep...probably23)
+T 1332978219 19*	19Kiriel (~Kiriel@ka.ka) has joined #l/a/nguage
+T 1332978262 23*	23Go has quit (23Ping timeout: 240 seconds23)
+T 1332978350 18<flyingpants>	ya
+T 1332978354 18<flyingpants>	thats wat i thought too
+T 1332978360 18<flyingpants>	looks like a fucking romance with a TWEEEST ending
+T 1332978408 18<flyingpants>	says its some indie movie
+T 1332978416 18<Yotsuba>	let me guess, he really goes back in time to make her his girl!
+T 1332978418 18<Yotsuba>	d'aww
+T 1332978427 18<Yotsuba>	the theatre floods with tears of joy
+T 1332978510 19*	19ghostfreeman (~cameronki@Rizon-F9FA3199.hsd1.ga.comcast.net) has joined #/a/
+T 1332978740 19*	19TheContra (~TheContra@Rizon-CC51E0.hsd1.wa.comcast.net) has joined #/a/
+T 1332978755 19*	19Go (~Nic@Rizon-AA6354C3.atclnj.east.verizon.net) has joined #perwl
+T 1332978755 22*	26ChanServ gives voice to26 Go
+T 1332978820 23*	23ronronronronron has quit (23Quit: キタナイ( ゜Д゜ )　23)
+T 1332978878 18<BradPitt>	>teachers places code example on site
+T 1332978890 18<BradPitt>	>links to download instead of just a page that displays the code
+T 1332978894 18<BradPitt>	whhhhhhhhhhhyyyyyyyyyyyyyyyyyyy
+T 1332978899 19*	19Lue (Lue@2A273694.4CC9AEE6.1BE42B97.IP) has joined #l/a/nguage
+T 1332978930 19*	19Hakubi (~JohnDoe@Rizon-3B3C7120.vc.shawcable.net) has joined #/a/
+T 1332978971 23*	23Pii_ has quit (23Quit: 4223)
+T 1332979021 18<LAMMJohnson>	So that you can view it in your ncie editor with syntax highlighting?
+T 1332979047 18<Bandit>	http://imgur.com/7nXYW
+T 1332979047 18<SICPBot>	Site title: /quit
+T 1332979050 18<Bandit>	._.
+T 1332979101 18<DeezeNuts>	31<DeezeNuts>30 Im looking for a program on windows that can convert MP4 video into wav
+T 1332979106 18<DeezeNuts>	n e help
+T 1332979143 23*	23sharkmachine has quit (23Quit: leaving23)
+T 1332979177 18<DeezeNuts>	<DeezeNuts> Im looking for a program on windows that can convert MP4 video into wav
+T 1332979177 18<DeezeNuts>	<DeezeNuts> any help?
+T 1332979239 23*	23Vin has quit (23Ping timeout: 240 seconds23)
+T 1332979260 23*	23Go has quit (23Ping timeout: 240 seconds23)
+T 1332979261 22*	ippia2 is now known as ippia
+T 1332979385 18<hangphyr>	ok
+T 1332979396 18<hangphyr>	so ive tried gettysburd armoured warfare
+T 1332979400 18<hangphyr>	very obviously unfinished
+T 1332979403 18<hangphyr>	low budget
+T 1332979416 18<hangphyr>	but the dev seems very motivated and receptive to his communitiy
+T 1332979418 18<hangphyr>	(▰˘◡˘▰)
+T 1332979421 18<Yotsuba>	are there any redeeming qualities?
+T 1332979431 18<hangphyr>	its an interesting concept
+T 1332979433 18<hangphyr>	i guess
+T 1332979435 18<hangphyr>	and its only 10 bucks
+T 1332979443 18<hangphyr>	right now, its useless
+T 1332979448 18<hangphyr>	no server binaries even yet
+T 1332979459 18<hangphyr>	single player mode, the bots are quite broken
+T 1332979464 23*	23Jombo has quit (23Quit: YOU CAN NOT TRAIN ME!23)
+T 1332979465 18<hangphyr>	but dev is working on all the problems
+T 1332979470 18<hangphyr>	controls have some issues also
+T 1332979495 19*	19Go (~Nic@Rizon-1486E1F1.atclnj.east.verizon.net) has joined #perwl
+T 1332979495 22*	26ChanServ gives voice to26 Go
+T 1332979510 23*	23frussif has quit (23Ping timeout: 240 seconds23)
+T 1332979572 19*	19savetheinternet (~savethein@s.avetheinter.net) has joined #perwl
+T 1332979573 22*	26ChanServ gives voice to26 savetheinternet
+T 1332979573 18<flyingpants>	how come conquest of elysium 3 isn't some place to torrent yet
+T 1332979683 18<hangphyr>	just buy it
+T 1332979684 18<hangphyr>	faggot
+T 1332979698 18<hangphyr>	very few independent games get a scene release
+T 1332979715 18<hangphyr>	and even if COE3 does get a scene release, patches wont be supported
+T 1332979718 18<hangphyr>	just like with dom3
+T 1332979733 18<hangphyr>	and illwinter adds massive ammounts of stuff with every patch
+T 1332979797 23*	23RocketLauncher has quit (23Read error: Connection timed out23)
+T 1332979917 19*	19RocketLauncher (~RocketLau@shelf.is.my.friend) has joined #perwl
+T 1332979917 22*	26ChanServ gives voice to26 RocketLauncher
+T 1332980213 18<flyingpants>	are you saying there is DRM
+T 1332980215 18<flyingpants>	in it?
+T 1332980286 18<flyingpants>	good
+T 1332980287 19*	19Asuka`s_Hair_Clips (cgiirc@Rizon-3F5A9BF9.cable.mindspring.com) has joined #perwl
+T 1332980287 22*	26ChanServ gives voice to26 Asuka`s_Hair_Clips
+T 1332980289 18<flyingpants>	someone put it on piratebay
+T 1332980445 23*	23RocketLauncher has quit (2323)
+T 1332980464 19*	19RocketLauncher (~RocketLau@shelf.is.my.friend) has joined #perwl
+T 1332980464 22*	26ChanServ gives voice to26 RocketLauncher
+T 1332980505 23*	23up2u has quit (23Ping timeout: 240 seconds23)
+T 1332980526 18<Yotsuba>	there's even an osx version if you dare
+T 1332980552 23*	23hachimitsu has quit (23Ping timeout: 240 seconds23)
+T 1332980595 18<flyingpants>	who uses osx?
+T 1332980637 18<Yotsuba>	web developers
+T 1332980652 18<Yotsuba>	and typists - they like the way the fonts look
+T 1332980688 18<flyingpants>	ebcause you can't get osx fonts in windows huh
+T 1332980688 18<flyingpants>	?
+T 1332980705 18<Yotsuba>	I don't know, I just use the console if I'm on OSX
+T 1332980764 18<Yotsuba>	the UI is not meant for multitasking - it's like a cheap chinese copy of Ubuntu with a lot of multitouch tech-demos built in
+T 1332980789 18<Yotsuba>	I feel like I'm in the Flash OS
+T 1332980819 18<Yotsuba>	Macromedia might even emulate OSX one day
+T 1332980820 18<flyingpants>	why would web devs use osx
+T 1332980825 18<flyingpants>	no
+T 1332980833 18<flyingpants>	macromedia is gonna die because noone even uses flash anymore
+T 1332980846 18<Yotsuba>	Yeah, it's a great thing
+T 1332980862 18<Yotsuba>	all that business converting flash to html and web apps
+T 1332980893 18<Yotsuba>	It might be something with being in a preppy suburb of Boston
+T 1332980911 18<flyingpants>	ya hipsters and homosexuals
+T 1332980921 18<Yotsuba>	and azns
+T 1332980925 18<Yotsuba>	and jews
+T 1332980939 19*	19Oiotoshi (~Oiotoshi@Rizon-9C5152AC.dsl.bell.ca) has joined #l/a/nguage
+T 1332980939 18<Yotsuba>	can't throw a rock without hitting a deli
+T 1332980944 18<Yotsuba>	though that's a good thing
+T 1332980965 18<Yotsuba>	pastrami on rye done the right way is a godlike lunch
+T 1332980973 18<hangphyr>	flyingpants there is a cd key to play it
+T 1332980976 18<hangphyr>	then its unlocked
+T 1332980997 18<flyingpants>	i'm surprised then it took so long to be uploaded
+T 1332981003 18<flyingpants>	was like a couple months
+T 1332981007 23*	23savetheinternet has quit (23Ping timeout: 240 seconds23)
+T 1332981014 23*	23Quagles has quit (23Ping timeout: 240 seconds23)
+T 1332981063 18<hangphyr>	itll only work with first version
+T 1332981075 18<hangphyr>	like with dom3, only the first couple patches were cracked
+T 1332981081 18<hangphyr>	after that, had to buy the game
+T 1332981101 18<hangphyr>	im not sure what to think about coe3
+T 1332981103 19*	19savetheinternet (~savethein@s.avetheinter.net) has joined #perwl
+T 1332981103 22*	26ChanServ gives voice to26 savetheinternet
+T 1332981105 18<hangphyr>	i liked dom3 much more
+T 1332981114 18<hangphyr>	coe3, there is a very high frustration factor
+T 1332981122 19*	19BENOIST (~unko@the.pleasure.of.being.cummed.inside) has joined #perwl
+T 1332981123 22*	26ChanServ gives voice to26 BENOIST
+T 1332981125 18<hangphyr>	very small slip-ups can cost you the game very quickly
+T 1332981130 18<hangphyr>	the game is very unforgiving
+T 1332981134 19*	19Suigining (~Suigin@593A2354.39E00EE6.2386269.IP) has joined #/a/
+T 1332981137 18<hangphyr>	all decisions have to be weighed carefully
+T 1332981149 18<hangphyr>	losing a commander in the early game pretty much spells defeat
+T 1332981151 18<DrCameron>	wuts coe3
+T 1332981155 18<hangphyr>	conquest of elysium 3
+T 1332981156 19*	19Rolo (~Rolo@love.me.some.DFC) has joined #/a/
+T 1332981181 18<DrCameron>	how does this conquest work
+T 1332981208 19*	19Suiginininging (~Suigin@593A2354.39E00EE6.2386269.IP) has joined #/a/
+T 1332981240 23*	23Iiggeh has quit (23Quit: 4(???) Aww sheeeeiiiit23)
+T 1332981294 23*	23MagicalSpicyLyricalCurry has quit (23Read error: Connection reset by peer23)
+T 1332981332 18<flyingpants>	its like a shitty new indie heores of might and magic 
+T 1332981354 18<DrCameron>	oh
+T 1332981359 18<DrCameron>	that doesnt sound like fun at all
+T 1332981361 18<hangphyr>	its way better than heroes of m+m
+T 1332981368 23*	23adrien has quit (23Read error: Connection reset by peer23)
+T 1332981369 18<hangphyr>	heroes of mm sucks to be honest
+T 1332981371 19*	19MagicalSpicyLyricalCurry (~chatzilla@F7296136.624955C0.69376DA6.IP) has joined #/a/
+T 1332981376 18<hangphyr>	coe3 isnt really anything like it
+T 1332981394 19*	19up2u (~up2u@Rizon-A6FD0C04.shv.bellsouth.net) has joined #/a/
+T 1332981396 23*	23Suigining has quit (23Ping timeout: 240 seconds23)
+T 1332981397 18<hangphyr>	but really youre better off playing dominions 3
+T 1332981402 18<hangphyr>	coe3 isnt illwinter's best
+T 1332981415 18<hangphyr>	coe3 is unforgiving as shit
+T 1332981461 23*	23Suiginininging has quit (23Ping timeout: 240 seconds23)
+T 1332981463 19*	19Suigining (~Suigin@593A2354.39E00EE6.2386269.IP) has joined #/a/
+T 1332981516 19*	19CookieJar (~CookieJar@irc.is.like.sex.except.i.am.having.it) has joined #perwl
+T 1332981517 22*	26ChanServ gives voice to26 CookieJar
+T 1332981741 19*	19proclifi (~proclifi@Rizon-2F30164.dhcp.gwnt.ga.charter.com) has joined #perwl
+T 1332981741 22*	26ChanServ gives voice to26 proclifi
+T 1332982047 18<Aurlito>	Tama,o
+T 1332982050 18<Aurlito>	Tanami
+T 1332982055 18<Aurlito>	Fuck you
+T 1332982059 23*	23savetheinternet has quit (23Quit: Leaving23)
+T 1332982071 18<Aurlito>	Garfunk Fuck you 
+T 1332982171 23*	23Noxialis has quit (23Ping timeout: 240 seconds23)
+T 1332982173 19*	19zeroj (~WAT@I.STILL.THINK.ITS.REAL.DAMMIT) has joined #/a/
+T 1332982174 22*	26[^_^] gives voice to26 zeroj
+T 1332982183 19*	19ergo (~lkjwhw@the.blue.and.the.white) has joined #/a/
+T 1332982206 18<BENOIST>	h
+T 1332982269 19*	19savetheinternet (~savethein@s.avetheinter.net) has joined #perwl
+T 1332982270 22*	26ChanServ gives voice to26 savetheinternet
+T 1332982278 19*	19adrien (~roar@7CFFC95E.2E8A3E68.39A15EFE.IP) has joined #perwl
+T 1332982278 22*	26ChanServ gives voice to26 adrien
+T 1332982485 23*	23proclifi has quit (23Remote host closed the connection23)
+T 1332982608 18<flyingpants>	im unforgiving
+T 1332982658 19*	19Noxialis (~nokshalee@tired.of.mere.fantasy) has joined #perwl
+T 1332982660 22*	26ChanServ gives voice to26 Noxialis
+T 1332982730 23*	23sweetjones has quit (23Ping timeout: 240 seconds23)
+T 1332982879 19*	19Kirbir (~Kiriel@ka.ka) has joined #l/a/nguage
+T 1332982888 23*	23Kiriel has quit (23Killed (NickServ (GHOST command used by Kirbir))23)
+T 1332982893 22*	Kirbir is now known as Kiriel
+T 1332982927 18<hangphyr>	youre autistic
+T 1332982933 18<hangphyr>	and useless
+T 1332983140 23*	23toastmonster has quit (2323)
+T 1332983298 19*	19boatsnhoes (~boatsnhoe@Rizon-E87FCD2B.cpe.net.cable.rogers.com) has joined #/b/radio
+T 1332983310 23*	23lpf has quit (23Quit: a23)
+T 1332983324 19*	19chapter (chapter@chapter.house.toll.house) has joined #/a/
+T 1332983343 23*	23GEEGEEGEE has quit (23Read error: Connection reset by peer23)
+T 1332983345 23*	23Suigining has quit (23Ping timeout: 240 seconds23)
+T 1332983379 19*	19GEEGEEGEE (~GEEGEEGEE@dongus.dongus.dongus) has joined #perwl
+T 1332983379 22*	26ChanServ gives voice to26 GEEGEEGEE
+T 1332983753 18<flyingpants>	da fuq
+T 1332983755 18<flyingpants>	how do i make it work
+T 1332983791 23*	23outsomnia has quit (23Ping timeout: 240 seconds23)
+T 1332983969 19*	19Subarashinki (~xs27kw@Rizon-57C4069.singnet.com.sg) has joined #/a/
+T 1332983977 18<Subarashinki>	http://gscmikatan.wordpress.com/2012/03/28/racing-miku-2011-ver/
+T 1332984028 23*	23Lumi-P has quit (23Quit: http://www.mibbit.com ajax IRC Client23)
+T 1332984101 23*	23takko has quit (23Quit: get satisfied!  :: core-networks.de ««« (Gamers.IRC) »»» gamersirc.net ::23)
+T 1332984111 23*	23CatsOnMars has quit (23Quit: You watched it, You can't unwatch it!23)
+T 1332984196 23*	23Noxialis has quit (23Quit: Fuck this gay earth23)
+T 1332984341 18<_Sata_>	how2internet
+T 1332984346 23*	23Pseudonym has quit (23Ping timeout: 240 seconds23)
+T 1332984367 19*	19gotgot (i_got_got@Rizon-D6224787.phlapa.east.verizon.net) has joined #/a/
+T 1332984373 23*	23gotgot has quit (23Remote host closed the connection23)
+T 1332984379 22*	wutno is now known as wutno`dead
+T 1332984391 23*	23gotx2 has quit (23Ping timeout: 240 seconds23)
+T 1332984422 19*	19hachimitsu (~nnscript@Rizon-3602ED18.dsl.teksavvy.com) has joined #/a/
+T 1332984422 22*	26[^_^] gives channel operator status to26 hachimitsu
+T 1332984439 19*	19CatsOnMars (~Svc@You.Shot.Who.In.The.What.Now) has joined #/a/
+T 1332984480 23*	23xDemonessx has quit (2323)
+T 1332984506 18<flyingpants>	it like i dnno 
+T 1332984525 19*	19Xanth (~Xanth@Rizon-6DC3BBFB.cable.virginmedia.com) has joined #/a/
+T 1332984527 19*	19Pseudonym (~weeaboo@Rizon-EDD484FB.hsd1.md.comcast.net) has joined #/a/
+T 1332984528 22*	26[^_^] gives voice to26 Pseudonym
+T 1332984531 18<flyingpants>	it doesnt properly set a resolution idont know how to fix
+T 1332984732 19*	19outsomnia (~outsomnia@8C009D75.874FB253.9FFB154C.IP) has joined #/a/
+T 1332984819 23*	23Tabs has quit (23Read error: Connection reset by peer23)
+T 1332985144 23*	23outsomnia has quit (2323)
+T 1332985156 23*	23Yotsuba has quit (23Quit: Miranda IM! Smaller, Faster, Easier. http://miranda-im.org23)
+T 1332985157 19*	19outsomnia (~outsomnia@8C009D75.874FB253.9FFB154C.IP) has joined #/a/
+T 1332985175 18<lazyguy>	jesus that fig looks delicious
+T 1332985179 23*	23van- has quit (23Quit: van-23)
+T 1332985212 22*	Jazzu is now known as Jazz|bed
+T 1332985246 19*	19nandeyanen (~nandeyane@Rizon-F23918F5.nycap.res.rr.com) has joined #l/a/nguage
+T 1332985270 22*	Jazz|bed is now known as Jazzu
+T 1332985285 22*	Jazzu is now known as Jazz|bed
+T 1332985388 22*	Eggmun|Away is now known as Eggmun
+T 1332985522 18<Subarashinki>	time to throw your money
+T 1332985534 18<Subarashinki>	http://livedoor.blogimg.jp/otaku_blog/imgs/d/3/d3649f25.jpg
+T 1332985539 18<Subarashinki>	CAN'T WAIT FOR IT
+T 1332985561 19*	19Tiffanyan (~T@Im.a.serial.killer.and.a.woman.and.proud.of.it) has joined #perwl
+T 1332985561 22*	26ChanServ gives voice to26 Tiffanyan
+T 1332985727 23*	23boatsnhoes has quit (23Ping timeout: 240 seconds23)
+T 1332985737 23*	23Xanth has quit (23Read error: Connection timed out23)
+T 1332985882 19*	19Noxialis (~nokshalee@tired.of.mere.fantasy) has joined #perwl
+T 1332985882 22*	26ChanServ gives voice to26 Noxialis
+T 1332985956 23*	23savetheinternet has quit (23Quit: Leaving23)
+T 1332986062 23*	23Oiotoshi has quit (23Quit: Oiotoshi23)
+T 1332986139 19*	19Winter (~winterkid@Rizon-BE84FCB8.ptld.qwest.net) has joined #perwl
+T 1332986139 22*	26ChanServ gives voice to26 Winter
+T 1332986267 19*	19Jazz|bed (Jazzu@country.grown.vegetables) has joined #/a/
+T 1332986455 19*	19savetheinternet (~savethein@s.avetheinter.net) has joined #perwl
+T 1332986455 22*	26ChanServ gives voice to26 savetheinternet
+T 1332986560 19*	19proclifi (~proclifi@Rizon-2F30164.dhcp.gwnt.ga.charter.com) has joined #perwl
+T 1332986561 22*	26ChanServ gives voice to26 proclifi
+T 1332986711 19*	19Oio|mobile (~Oio@Rizon-9C5152AC.dsl.bell.ca) has joined #l/a/nguage
+T 1332986792 23*	23SFR has quit (2323)
+T 1332986905 22*	dre is now known as dre|ded
+T 1332986950 19*	19SFR (~Trini@Let.Us.Just.Assume.I.Am.Always.Right) has joined #/a/
+T 1332986951 22*	26[^_^] gives voice to26 SFR
+T 1332987080 23*	23savetheinternet has quit (23Quit: Leaving23)
+T 1332987086 19*	19savetheinternet (~savethein@s.avetheinter.net) has joined #perwl
+T 1332987087 22*	26ChanServ gives voice to26 savetheinternet
+T 1332987316 18<flyingpants>	hangphyr, 
+T 1332987316 23*	23Go has quit (23Ping timeout: 240 seconds23)
+T 1332987321 18<flyingpants>	how do i fix the gfx stuff
+T 1332987373 19*	19Kaiji (~sm@tru.NEET) has joined #l/a/nguage
+T 1332987378 18<hangphyr>	what do you mean fix
+T 1332987388 18<hangphyr>	the game works fine for me
+T 1332987396 18<flyingpants>	well like
+T 1332987396 18<hangphyr>	maybe buy it you fag
+T 1332987399 18<flyingpants>	no
+T 1332987403 18<flyingpants>	30 bux i dnt think so
+T 1332987482 19*	19Go (~Nic@Rizon-1486E1F1.atclnj.east.verizon.net) has joined #perwl
+T 1332987483 22*	26ChanServ gives voice to26 Go
+T 1332987624 18<adrien>	Voice for mute people.
+T 1332987679 23*	23adrien (23~roar@7CFFC95E.2E8A3E68.39A15EFE.IP) has left #perwl (23Leaving23)
+T 1332987715 19*	19Firge (~WinNT@FF9246C6.16678D4F.D5EFD311.IP) has joined #/a/
+T 1332987720 23*	23ZombieKing has quit (23Ping timeout: 240 seconds23)
+T 1332987773 23*	23proclifi (23~proclifi@Rizon-2F30164.dhcp.gwnt.ga.charter.com) has left #perwl
+T 1332987991 19*	19ZombieKing (Where@the.funky.dealer) has joined #/a/
+T 1332988360 23*	23ZombieKing has quit (23Ping timeout: 240 seconds23)
+T 1332988390 18<flyingpants>	the problem would exist if i buy it
+T 1332988415 18<hangphyr>	get a real comp
+T 1332988423 18<hangphyr>	ok i applied to 2 more internship finding firms
+T 1332988424 18<hangphyr>	(▰˘◡˘▰)
+T 1332988437 18<hangphyr>	i still have no idea if ill be able to get a job this summer, probably not
+T 1332988443 18<hangphyr>	but might as well give it a shot
+T 1332988483 18<flyingpants>	fuck i opened it and the mouse curser disappeared
+T 1332988520 23*	23chazu has quit (23Ping timeout: 240 seconds23)
+T 1332988574 19*	19chazu (~chazu@Rizon-C46A2A7F.knology.net) has joined #/a/
+T 1332988584 18<hangphyr>	lol
+T 1332988585 18<hangphyr>	gj
+T 1332988592 18<hangphyr>	maybe its something to do with pirated
+T 1332988599 18<hangphyr>	ive not heard of any issues like that with legit copies
+T 1332988608 18<hangphyr>	you probably lack installed dependencies
+T 1332988646 18<flyingpants>	no
+T 1332988650 18<flyingpants>	i dnno
+T 1332988656 18<flyingpants>	it happens with other games too
+T 1332988667 18<flyingpants>	like it doesn't display the whole screen on my screen
+T 1332988678 18<flyingpants>	it only shows the top left corner at 480p or w/e
+T 1332988689 18<flyingpants>	and i can scroll around to view the whole thing
+T 1332988703 18<hangphyr>	get a computer that isnt shitty
+T 1332988709 18<flyingpants>	its not the computer
+T 1332988716 18<hangphyr>	pebcak error
+T 1332988755 19*	19ZombieKing (Where@the.funky.dealer) has joined #/a/
+T 1332989013 18<_Sata_>	http://img.gawkerassets.com/img/17ht2ce7mp9f7jpg/original.jpg
+T 1332989015 18<_Sata_>	hangphyr on the left
+T 1332989034 18<hangphyr>	yea
+T 1332989050 18<hangphyr>	those girls are all kind of ugly
+T 1332989056 18<hangphyr>	but i could still fap to them
+T 1332989057 18<hangphyr>	(▰˘◡˘▰)
+T 1332989059 18<_Sata_>	yea
+T 1332989062 18<_Sata_>	7/10
+T 1332989063 18<_Sata_>	top
+T 1332989194 18<flyingpants>	>gyurls
+T 1332989251 23*	23Kite-kun has quit (23Ping timeout: 240 seconds23)
+T 1332989265 19*	19sweetjones (~allisterb@2F5240F0.C749C4C0.BA081AC2.IP) has joined #/a/
+T 1332989286 18<hangphyr>	lol 7/10
+T 1332989288 18<hangphyr>	not even close
+T 1332989313 23*	23ZombieKing has quit (2323)
+T 1332989320 18<flyingpants>	there are no girls in that picture
+T 1332989377 18<_Sata_>	term and his mental sickness is a humbling thing
+T 1332989416 23*	23Ramiel has quit (23Ping timeout: 240 seconds23)
+T 1332989454 18<hangphyr>	yes
+T 1332989459 18<hangphyr>	we can all learn a lesson from him
+T 1332989463 18<hangphyr>	we need to thankful for what we have
+T 1332989482 18<hangphyr>	shit i didnt get any work done on my paper today
+T 1332989484 18<hangphyr>	（　´Д｀）
+T 1332989487 18<hangphyr>	but i did get some things done
+T 1332989487 18<_Sata_>	（　´_ゝ｀）
+T 1332989489 18<hangphyr>	(▰˘◡˘▰)
+T 1332989495 18<_Sata_>	like faps
+T 1332989499 18<hangphyr>	more internship applications, another short paper due tomorrow is done
+T 1332989531 19*	19van- (~van-@nekomimi.trap) has joined #l/a/nguage
+T 1332989542 18<hangphyr>	so ive got about... 17 pages of papers left to write this term
+T 1332989552 18<hangphyr>	then 2 finals, then im free for corear
+T 1332989553 18<hangphyr>	(▰˘◡˘▰)
+T 1332989649 19*	19Ramiel (~chatzilla@Rizon-DA262205.lightspeed.wchtks.sbcglobal.net) has joined #l/a/nguage
+T 1333300679 28-29NickServ28-	This nickname is registered and protected. If it is your
+T 1333300679 28-29NickServ28-	nick, type /msg NickServ IDENTIFY password. Otherwise,
+T 1333300679 28-29NickServ28-	please choose a different nick.
+T 1333300679 22*	Annex sets mode +r Annex
+T 1333300679 28-29NickServ28-	Password accepted - you are now recognized.
+T 1333300720 19*	19Now talking on #/b/
+T 1333300720 29*	29Topic for #/b/ 29is: #/b/ - Random | Ded. RIP in peace. ‡ 2005-2012 | http://i.imgur.com/uTBFg.png <- Proof that Bui is gay |  (╯°□°）╯︵ ┻━┻
+T 1333300720 29*	29Topic for #/b/ 29set by Kazisho!~milkshake@do.you.even.feel 29at Sat Mar 31 13:33:06 2012
+T 1333300720 28-29GayServ28-	[#/b/] 06#/b/ is the official /b/ IRC, we use it to discuss and talk about random things.
+T 1333300821 23*	23Furret has quit (23Quit: restarting le vps23)
+T 1333300985 19*	19Furret (~fur@only.furret) has joined #/b/
+T 1333300986 23*	23schapp (23hobart@F9EFCAE.921DACA.DC7DA83.IP) has left #/b/
+T 1333300986 19*	19monteiro (hanover@95CAD4C.4A47B7B.B582E72.IP) has joined #/b/
+T 1333300992 23*	23follie (23hochhalte@Rizon-5D22172.pool871.interbusiness.it) has left #/b/
+T 1333300992 19*	19less (wryals@Rizon-AE41CE6.dc.res.rr.com) has joined #/b/
+T 1333301098 23*	23Furret has quit (23Remote host closed the connection23)
+T 1333301287 23*	23monteiro (23hanover@95CAD4C.4A47B7B.B582E72.IP) has left #/b/
+T 1333301287 19*	19frevert (tokunaga@2392C0B.8394369.501E8B1.IP) has joined #/b/
+T 1333301292 23*	23less (23wryals@Rizon-AE41CE6.dc.res.rr.com) has left #/b/
+T 1333301292 19*	19varnedoe (campagnon@Rizon-F44F81D.knology.net) has joined #/b/
+T 1333301587 23*	23frevert (23tokunaga@2392C0B.8394369.501E8B1.IP) has left #/b/
+T 1333301587 19*	19dadds (zibell@Rizon-4BA9D24.lutn.cable.ntl.com) has joined #/b/
+T 1333301592 23*	23varnedoe (23campagnon@Rizon-F44F81D.knology.net) has left #/b/
+T 1333301592 19*	19edens (vachon@Rizon-F293EA7.tisdip.tiscali.de) has joined #/b/
+T 1333301866 23*	23Bui has quit (23Read error: Connection reset by peer23)
+T 1333301887 23*	23dadds (23zibell@Rizon-4BA9D24.lutn.cable.ntl.com) has left #/b/
+T 1333301888 19*	19delpino (tignor@0FFCCAC.FD6B801.1F7C71C.IP) has joined #/b/
+T 1333301889 19*	19Bui (~skybe@Rizon-FFD4FCDF.range86-146.btcentralplus.com) has joined #/b/
+T 1333301889 22*	26GayServ gives voice to26 Bui
+T 1333301892 23*	23edens (23vachon@Rizon-F293EA7.tisdip.tiscali.de) has left #/b/
+T 1333301892 19*	19robinson (keshishia@A251711.B0C90B6.8E1D80F.IP) has joined #/b/
+T 1333302188 23*	23delpino (23tignor@0FFCCAC.FD6B801.1F7C71C.IP) has left #/b/
+T 1333302188 19*	19dolberry (sutic@1C89808.E907559.47C185F.IP) has joined #/b/
+T 1333302192 23*	23robinson (23keshishia@A251711.B0C90B6.8E1D80F.IP) has left #/b/
+T 1333302192 19*	19prashad (janssen@Rizon-960953A.lutn.cable.ntl.com) has joined #/b/
+T 1333302488 23*	23dolberry (23sutic@1C89808.E907559.47C185F.IP) has left #/b/
+T 1333302489 19*	19stockhausen (wolzen@Rizon-E8B3A05.pools.arcor-ip.net) has joined #/b/
+T 1333302492 23*	23prashad (23janssen@Rizon-960953A.lutn.cable.ntl.com) has left #/b/
+T 1333302492 19*	19baldrey (terronez@233AFEB.2939538.C04EF03.IP) has joined #/b/
+T 1333302528 19*	19slowking_s_thompson (~sloooowww@Rizon-C806599E.ph.ph.cox.net) has joined #/b/
+T 1333302687 19*	19Furret (~fur@only.furret) has joined #/b/
+T 1333302766 23*	23CameraLady has quit (23Read error: Connection reset by peer23)
+T 1333302789 23*	23stockhausen (23wolzen@Rizon-E8B3A05.pools.arcor-ip.net) has left #/b/
+T 1333302789 19*	19tenaglia (vora@40106E9.986972F.F7BB8D8.IP) has joined #/b/
+T 1333302792 23*	23baldrey (23terronez@233AFEB.2939538.C04EF03.IP) has left #/b/
+T 1333302792 19*	19meldrum (vargo@B5F3318.EA4DA56.75AFBB6.IP) has joined #/b/
+T 1333302799 19*	19CameraLady (~galo@Rizon-6CB982AC.tb.shawcable.net) has joined #/b/
+T 1333303089 23*	23tenaglia (23vora@40106E9.986972F.F7BB8D8.IP) has left #/b/
+T 1333303090 19*	19hafen (plona@0F39DDD.8CEFC33.9F09E15.IP) has joined #/b/
+T 1333303092 23*	23meldrum (23vargo@B5F3318.EA4DA56.75AFBB6.IP) has left #/b/
+T 1333303092 19*	19skillern (oby@Rizon-9FDD22A.hsd1.ga.comcast.net) has joined #/b/
+T 1333303390 23*	23hafen (23plona@0F39DDD.8CEFC33.9F09E15.IP) has left #/b/
+T 1333303390 19*	19adloff (joecks@Rizon-3F0EEF2.dsl.cavtel.net) has joined #/b/
+T 1333303392 23*	23skillern (23oby@Rizon-9FDD22A.hsd1.ga.comcast.net) has left #/b/
+T 1333303392 19*	19durphey (frasch@711AD2C.AA2A026.DE9428D.IP) has joined #/b/
+T 1333303397 19*	19Kazisho (~milkshake@do.you.even.feel) has joined #/b/
+T 1333303397 18<GayServ>	[Kazisho] 13Welcome back, Onii-chan! ♥~
+T 1333303397 22*	GayServ sets mode +q #/b/ Kazisho
+T 1333303397 22*	26GayServ gives channel operator status to26 Kazisho
+T 1333303439 18<Cap>	Kaz, did you see that pony flash?
+T 1333303624 18<Kazisho>	You mean Zone's?
+T 1333303645 18<Cap>	Yeah. I guess that's a yes.
+T 1333303684 18<Kazisho>	03>that feel when Zone said he'll never do pony flashes, but now he did
+T 1333303690 23*	23adloff (23joecks@Rizon-3F0EEF2.dsl.cavtel.net) has left #/b/
+T 1333303691 19*	19jackstadt (levey@Rizon-1BBF724.bulldogdsl.com) has joined #/b/
+T 1333303692 23*	23durphey (23frasch@711AD2C.AA2A026.DE9428D.IP) has left #/b/
+T 1333303692 19*	19klinekole (encallado@3203607.8EA659A.4D27249.IP) has joined #/b/
+T 1333303702 18<Kazisho>	Even though it's April's Fools, it's still awesome.
+T 1333303736 23*	23CameraLady has quit (23Read error: Connection reset by peer23)
+T 1333303750 18<Kazisho>	And even better, it's not actually real, so no Pinkie rape.
+T 1333303761 19*	19CameraLady (~galo@Rizon-6CB982AC.tb.shawcable.net) has joined #/b/
+T 1333303763 18<Kazisho>	God, Zone is too awesome.
+T 1333303819 18<Cap>	I hope we get something from moot. There's still time, r-right? ;_;
+T 1333303927 18<Kazisho>	I hope so too. ;_;
+T 1333303942 18<Bui>	KIK,
+T 1333303942 18<Kazisho>	Look at fucking Candy.as, they have April's Fools there.
+T 1333303945 18<Bui>	LOL.*
+T 1333303952 21*	21Kazisho has kicked Bui from #/b/ (You wanted that?21)
+T 1333303952 19*	19Bui (~skybe@Rizon-FFD4FCDF.range86-146.btcentralplus.com) has joined #/b/
+T 1333303952 22*	26GayServ gives voice to26 Bui
+T 1333303956 18<Bui>	xddd
+T 1333303958 18<Kazisho>	xd
+T 1333303991 23*	23jackstadt (23levey@Rizon-1BBF724.bulldogdsl.com) has left #/b/
+T 1333303991 19*	19namaka (prevet@A83A576.60570A7.E88C195.IP) has joined #/b/
+T 1333303992 23*	23klinekole (23encallado@3203607.8EA659A.4D27249.IP) has left #/b/
+T 1333303992 19*	19solonika (dechart@Rizon-D18C749.lutn.cable.ntl.com) has joined #/b/
+T 1333304171 23*	23jcvf_ has quit (23Ping timeout: 240 seconds23)
+T 1333304182 19*	19jcvf (~jcvf@5F931F73.8DD4831E.B6020491.IP) has joined #/b/
+T 1333304261 23*	23Cap has quit (23Ping timeout: 240 seconds23)
+T 1333304290 19*	19Cap (~Cap@Ophidian.Copulator) has joined #/b/
+T 1333304290 22*	26GayServ gives channel operator status to26 Cap
+T 1333304291 23*	23namaka (23prevet@A83A576.60570A7.E88C195.IP) has left #/b/
+T 1333304292 19*	19ecklund (yusuf@Rizon-6F66BC7.bb.netvision.net.il) has joined #/b/
+T 1333304292 23*	23solonika (23dechart@Rizon-D18C749.lutn.cable.ntl.com) has left #/b/
+T 1333304292 19*	19lucchesi (kreiter@Rizon-A52FE6A.pool871.interbusiness.it) has joined #/b/
+T 1333304592 23*	23ecklund (23yusuf@Rizon-6F66BC7.bb.netvision.net.il) has left #/b/
+T 1333304592 23*	23lucchesi (23kreiter@Rizon-A52FE6A.pool871.interbusiness.it) has left #/b/
+T 1333304592 19*	19palacious (boiles@6A61112.ADDA2C5.4B66464.IP) has joined #/b/
+T 1333304592 19*	19wanczyk (nedbalek@Rizon-9416673.knology.net) has joined #/b/
+T 1333304650 19*	19Rotom (~Rotom@ro.tom) has joined #/b/
+T 1333304682 18<Cap>	http://bulbanews.bulbagarden.net/wiki/Leaked_document_reveals_upcoming_games
+T 1333304685 18<Rotom>	[ Leaked document reveals upcoming games - Bulbanews ] - http://bulbanews.bulbagarden.net
+T 1333304687 18<Cap>	3>Pokémon Black and White for Game Boy
+T 1333304691 18<Cap>	Oh Bulbapedia
+T 1333304892 23*	23wanczyk (23nedbalek@Rizon-9416673.knology.net) has left #/b/
+T 1333304892 19*	19delbo (constanti@F5772B7.FABDDD7.B26219B.IP) has joined #/b/
+T 1333304892 23*	23palacious (23boiles@6A61112.ADDA2C5.4B66464.IP) has left #/b/
+T 1333304893 19*	19washko (temme@Rizon-129954B.cable.ubr02.chap.blueyonder.co.uk) has joined #/b/
+T 1333305192 23*	23delbo (23constanti@F5772B7.FABDDD7.B26219B.IP) has left #/b/
+T 1333305192 19*	19kapsos (ridgnal@Rizon-9CF0026.pool871.interbusiness.it) has joined #/b/
+T 1333305193 23*	23washko (23temme@Rizon-129954B.cable.ubr02.chap.blueyonder.co.uk) has left #/b/
+T 1333305193 19*	19omarah (boxwell@Rizon-FE7705B.carolina.res.rr.com) has joined #/b/
+T 1333305455 23*	23Bui has quit (23Quit: Bui23)
+T 1333305464 19*	19Bui (~skybe@Rizon-FFD4FCDF.range86-146.btcentralplus.com) has joined #/b/
+T 1333305465 22*	26GayServ gives voice to26 Bui
+T 1333305466 18<Kazisho>	.yt fluttershy fluttershy fluttershy can hardly fly
+T 1333305467 18<Internets>	3:: YouTube FLUTTERSHY CAN HARDLY FLY 8D 3:: URL http://www.youtube.com/watch?v=bSdWjqmH-as (00:12) 3:: Views 1,500 3:: Rating 5.0/5 - 28 votes 3[+] 28 likes 4[-] 0 dislikes 3::
+T 1333305467 18<godzilla>	[0/15] "FLUTTERSHY CAN HARDLY FLY 8D" (12s); By: olibacon; 1,500 views; 5/5 (28 votes) - http://youtu.be/bSdWjqmH-as
+T 1333305467 18<FUCKUIMABOT>	01,00You00,04Tube ▶ "godzilla can't wait to show his new buttplug to #/b/" (People & Blogs) [5:10] - ★★★★☆ (3.41) - Uploaded by: godzilla on 2012-04-01 Viewed 1165 times.
+T 1333305467 18<FUCKUIMABOT>	Internets: FLUTTERSHY CAN HARDLY FLY 8D - length 12s - rated 5.00/5.0 (28) - 1533 views - olibacon on 2012.03.24
+T 1333305468 18<FUCKUIMABOT>	godzilla: FLUTTERSHY CAN HARDLY FLY 8D - length 12s - rated 5.00/5.0 (28) - 1533 views - olibacon on 2012.03.24
+T 1333305468 18<Rotom>	[ FLUTTERSHY CAN HARDLY FLY 8D - YouTube ] - http://www.youtube.com
+T 1333305469 18<Rotom>	[ FLUTTERSHY CAN HARDLY FLY 8D - YouTube ] - http://youtu.be
+T 1333305470 18<godzilla>	I'm starting to wonder if anyone can put blogs on the show, but that's the answer was: The bedford strangler - here, b-baka! I-I just like people know they're being viewed by a "you don't.
+T 1333305474 18<godzilla>	"FLUTTERSHY CAN HARDLY FLY 8D" (12s); By: olibacon; 1,533 views; 5/5 (28 votes) - http://youtu.be/bSdWjqmH-as
+T 1333305475 18<FUCKUIMABOT>	godzilla: FLUTTERSHY CAN HARDLY FLY 8D - length 12s - rated 5.00/5.0 (28) - 1533 views - olibacon on 2012.03.24
+T 1333305476 18<Rotom>	[ FLUTTERSHY CAN HARDLY FLY 8D - YouTube ] - http://youtu.be
+T 1333305481 18<godzilla>	Internets: FLUTTERSHY CAN HARDLY FLY 8D - length 12s - rated 5.00/5.0 (28) - 1533 views - olibacon on 2012.03.24.
+T 1333305492 23*	23kapsos (23ridgnal@Rizon-9CF0026.pool871.interbusiness.it) has left #/b/
+T 1333305492 19*	19reitsma (mekeel@BC28534.703D73A.65C86C9.IP) has joined #/b/
+T 1333305493 23*	23omarah (23boxwell@Rizon-FE7705B.carolina.res.rr.com) has left #/b/
+T 1333305494 19*	19lupul (tropp@Rizon-897A558.cpe.net.cable.rogers.com) has joined #/b/
+T 1333305511 19*	19The_Vole_ (~aherpydad@Rizon-873176BD.cm-6-6c.dynamic.ziggo.nl) has joined #/b/
+T 1333305518 18<Kazisho>	[20:31:12]	FUCKUIMABOT	YouTube ▶ "godzilla can't wait to show his new buttplug to #/b/" (People & Blogs) [5:10] - ★★★★☆ (3.41) - Uploaded by: godzilla on 2012-04-01 Viewed 1165 times.
+T 1333305518 18<FUCKUIMABOT>	fuck you
+T 1333305518 18<godzilla>	Hint: Mad (cartoon network-02x22), kickin' it (I probably streamed to you on this show can be viewed as insane.
+T 1333305519 18<Kazisho>	What.
+T 1333305792 23*	23reitsma (23mekeel@BC28534.703D73A.65C86C9.IP) has left #/b/
+T 1333305792 19*	19lovin (postert@6747AE9.F000C46.7D2E10C.IP) has joined #/b/
+T 1333305794 23*	23lupul (23tropp@Rizon-897A558.cpe.net.cable.rogers.com) has left #/b/
+T 1333305794 19*	19lauture (klice@1FC189B.77FDE82.3CA334F.IP) has joined #/b/
+T 1333306092 23*	23lovin (23postert@6747AE9.F000C46.7D2E10C.IP) has left #/b/
+T 1333306099 19*	19rayborn (krebs@E70E76C.84AF163.609009E.IP) has joined #/b/
+T 1333306099 23*	23lauture (23klice@1FC189B.77FDE82.3CA334F.IP) has left #/b/
+T 1333306099 19*	19barreneche (mway@Rizon-C6F3CFD.liwest.at) has joined #/b/
+T 1333306299 19*	19gueriLLaPunK (~bewbs@Rizon-37165749.loves.bananas.and.being.inside.ur.seriesoftub.es) has joined #/b/
+T 1333306392 23*	23rayborn (23krebs@E70E76C.84AF163.609009E.IP) has left #/b/
+T 1333306392 19*	19micali (marchizan@9E91F2C.025FDF6.6EF5460.IP) has joined #/b/
+T 1333306395 23*	23barreneche (23mway@Rizon-C6F3CFD.liwest.at) has left #/b/
+T 1333306395 19*	19schuble (galeas@Rizon-602C6F7.pools.arcor-ip.net) has joined #/b/
+T 1333306692 23*	23micali (23marchizan@9E91F2C.025FDF6.6EF5460.IP) has left #/b/
+T 1333306692 19*	19laffey (goelz@Rizon-C64262F.liwest.at) has joined #/b/
+T 1333306695 23*	23schuble (23galeas@Rizon-602C6F7.pools.arcor-ip.net) has left #/b/
+T 1333306695 19*	19rolack (cabble@94F1B6A.A31953C.7B5DFC7.IP) has joined #/b/
+T 1333306992 23*	23laffey (23goelz@Rizon-C64262F.liwest.at) has left #/b/
+T 1333306992 19*	19mccastle (hennagin@9D14C0E.63D346F.428CB5B.IP) has joined #/b/
+T 1333306995 23*	23rolack (23cabble@94F1B6A.A31953C.7B5DFC7.IP) has left #/b/
+T 1333306996 19*	19abson (kidder@AE8EAB5.01A932D.551C8E9.IP) has joined #/b/
+T 1333307085 23*	23gueriLLaPunK has quit (23Quit: DISK BOOT FAILURE, INSERT SYSTEM DISK AND PRESS ENTER.23)
+T 1333307292 23*	23mccastle (23hennagin@9D14C0E.63D346F.428CB5B.IP) has left #/b/
+T 1333307292 19*	19demer (shugars@Rizon-D7BFAA1.bb.netvision.net.il) has joined #/b/
+T 1333307296 23*	23abson (23kidder@AE8EAB5.01A932D.551C8E9.IP) has left #/b/
+T 1333307296 19*	19wiss (grunden@AF269B2.AA84E7A.F7BCCD3.IP) has joined #/b/
+T 1333307460 22*	slowking_s_thompson is now known as showerking
+T 1333307592 23*	23demer (23shugars@Rizon-D7BFAA1.bb.netvision.net.il) has left #/b/
+T 1333307592 19*	19trongone (rosan@Rizon-2F72338.dip.t-dialin.net) has joined #/b/
+T 1333307596 23*	23wiss (23grunden@AF269B2.AA84E7A.F7BCCD3.IP) has left #/b/
+T 1333307597 19*	19urick (perona@Rizon-7DF4E89.rns02-dryb-mel.dsl.comindico.com.au) has joined #/b/
+T 1333307706 22*	Roseradee is now known as Pireuniclus
+T 1333307834 22*	Pireuniclus is now known as Roseradee
+T 1333307892 23*	23trongone (23rosan@Rizon-2F72338.dip.t-dialin.net) has left #/b/
+T 1333307892 19*	19badey (sorge@Rizon-38E014E.dsl.cavtel.net) has joined #/b/
+T 1333307897 23*	23urick (23perona@Rizon-7DF4E89.rns02-dryb-mel.dsl.comindico.com.au) has left #/b/
+T 1333307897 19*	19janssen (asner@4DE8C4F.77AFD37.4FABBF6.IP) has joined #/b/
+T 1333308192 23*	23badey (23sorge@Rizon-38E014E.dsl.cavtel.net) has left #/b/
+T 1333308192 19*	19lysher (salmans@Rizon-5E62DEB.cpe.net.cable.rogers.com) has joined #/b/
+T 1333308197 23*	23janssen (23asner@4DE8C4F.77AFD37.4FABBF6.IP) has left #/b/
+T 1333308198 19*	19farha (okuhara@Rizon-B5401F3.bb.netvision.net.il) has joined #/b/
+T 1333308383 23*	23The_Vole_ has quit (23Remote host closed the connection23)
+T 1333308405 19*	19The_Vole_ (~aherpydad@Rizon-873176BD.cm-6-6c.dynamic.ziggo.nl) has joined #/b/
+T 1333308492 23*	23lysher (23salmans@Rizon-5E62DEB.cpe.net.cable.rogers.com) has left #/b/
+T 1333308492 19*	19janeiro (pobanz@93D14F2.4ED4E74.62D5952.IP) has joined #/b/
+T 1333308498 23*	23farha (23okuhara@Rizon-B5401F3.bb.netvision.net.il) has left #/b/
+T 1333308498 19*	19vandebrake (stadick@9B22264.B900EB1.F52C869.IP) has joined #/b/
+T 1333308792 23*	23janeiro (23pobanz@93D14F2.4ED4E74.62D5952.IP) has left #/b/
+T 1333308793 19*	19hanawalt (timmons@Rizon-19E500B.dip.t-dialin.net) has joined #/b/
+T 1333308798 23*	23vandebrake (23stadick@9B22264.B900EB1.F52C869.IP) has left #/b/
+T 1333308799 19*	19prator (pecor@29B6A11.862917E.D413E68.IP) has joined #/b/
+T 1333308953 23*	23CameraLady has quit (23Read error: Connection reset by peer23)
+T 1333308985 19*	19CameraLady (~galo@Rizon-6CB982AC.tb.shawcable.net) has joined #/b/
+T 1333309046 23*	23Bui has quit (23Read error: Connection reset by peer23)
+T 1333309065 19*	19Bui (~skybe@Rizon-FFD4FCDF.range86-146.btcentralplus.com) has joined #/b/
+T 1333309065 22*	26GayServ gives voice to26 Bui
+T 1333309092 23*	23hanawalt (23timmons@Rizon-19E500B.dip.t-dialin.net) has left #/b/
+T 1333309093 19*	19niehaus (rexrode@E597C14.FDB189F.2E88BF5.IP) has joined #/b/
+T 1333309099 23*	23prator (23pecor@29B6A11.862917E.D413E68.IP) has left #/b/
+T 1333309099 19*	19doorn (westenber@Rizon-D017948.dc.res.rr.com) has joined #/b/
+T 1333309158 22*	showerking is now known as slowking_s_thompson
+T 1333309392 23*	23niehaus (23rexrode@E597C14.FDB189F.2E88BF5.IP) has left #/b/
+T 1333309393 19*	19em (poto@Rizon-086A43C.versanet.de) has joined #/b/
+T 1333309399 23*	23doorn (23westenber@Rizon-D017948.dc.res.rr.com) has left #/b/
+T 1333309400 19*	19gionest (cearley@Rizon-2888E10.bham.res.rr.com) has joined #/b/
+T 1333309490 19*	19Ivory23 (~WdWReGuf@Rizon-6A47993A.ip76.fastwebnet.it) has joined #/b/
+T 1333309490 23*	23Ivory23 has quit (23Connection closed23)
+T 1333309692 23*	23em (23poto@Rizon-086A43C.versanet.de) has left #/b/
+T 1333309693 19*	19mooneyhan (spight@Rizon-77101F8.versanet.de) has joined #/b/
+T 1333309700 23*	23gionest (23cearley@Rizon-2888E10.bham.res.rr.com) has left #/b/
+T 1333309700 19*	19tarantino (khoury@Rizon-D060117.tisdip.tiscali.de) has joined #/b/
+T 1333309992 23*	23mooneyhan (23spight@Rizon-77101F8.versanet.de) has left #/b/
+T 1333309993 19*	19kaup (buys@Rizon-CF91EB9.dhcp.nrwl.ca.charter.com) has joined #/b/
+T 1333310000 23*	23tarantino (23khoury@Rizon-D060117.tisdip.tiscali.de) has left #/b/
+T 1333310001 19*	19corsey (marchione@4AF5E6C.C42F2DF.C0437CE.IP) has joined #/b/
+T 1333310087 23*	23The_Vole_ has quit (23Ping timeout: 240 seconds23)
+T 1333310180 19*	19The_Vole_ (~aherpydad@Rizon-873176BD.cm-6-6c.dynamic.ziggo.nl) has joined #/b/
+T 1333310292 23*	23kaup (23buys@Rizon-CF91EB9.dhcp.nrwl.ca.charter.com) has left #/b/
+T 1333310293 19*	19daine (weiglein@Rizon-F088F2D.cable.ubr02.chap.blueyonder.co.uk) has joined #/b/
+T 1333310301 23*	23corsey (23marchione@4AF5E6C.C42F2DF.C0437CE.IP) has left #/b/
+T 1333310301 19*	19branker (vilar@Rizon-30B6B9C.cpe.net.cable.rogers.com) has joined #/b/
+T 1333310592 23*	23daine (23weiglein@Rizon-F088F2D.cable.ubr02.chap.blueyonder.co.uk) has left #/b/
+T 1333310593 19*	19defonce (gillenwat@Rizon-8039456.dc.res.rr.com) has joined #/b/
+T 1333310601 23*	23branker (23vilar@Rizon-30B6B9C.cpe.net.cable.rogers.com) has left #/b/
+T 1333310602 19*	19carfora (vugteveen@0C64F1F.1B86DCA.2CDD761.IP) has joined #/b/
+T 1333310819 19*	19Cap_ (~Cap@Rizon-F202A677.as13285.net) has joined #/b/
+T 1333310845 23*	23Cap has quit (23Killed (NickServ (GHOST command used by Cap_))23)
+T 1333310849 22*	Cap_ is now known as Cap
+T 1333310859 22*	26GayServ gives channel operator status to26 Cap
+T 1333310892 23*	23defonce (23gillenwat@Rizon-8039456.dc.res.rr.com) has left #/b/
+T 1333310893 19*	19vicente (class@Rizon-2B86737.sympatico.ca) has joined #/b/
+T 1333310902 23*	23carfora (23vugteveen@0C64F1F.1B86DCA.2CDD761.IP) has left #/b/
+T 1333310902 19*	19widhalm (heiney@66BF789.44BA652.6ED061C.IP) has joined #/b/
+T 1333311192 23*	23vicente (23class@Rizon-2B86737.sympatico.ca) has left #/b/
+T 1333311193 19*	19mcgaffee (wattley@Rizon-283DF13.mc.videotron.ca) has joined #/b/
+T 1333311203 23*	23widhalm (23heiney@66BF789.44BA652.6ED061C.IP) has left #/b/
+T 1333311203 19*	19riegler (brierly@Rizon-059E607.lutn.cable.ntl.com) has joined #/b/
+T 1333311492 23*	23mcgaffee (23wattley@Rizon-283DF13.mc.videotron.ca) has left #/b/
+T 1333311493 19*	19alberty (pflughoef@F06766E.BCA1AD5.5380CFC.IP) has joined #/b/
+T 1333311503 23*	23riegler (23brierly@Rizon-059E607.lutn.cable.ntl.com) has left #/b/
+T 1333311503 19*	19ilacqua (kiever@976760B.501A62C.9CB96BB.IP) has joined #/b/
+T 1333311792 23*	23alberty (23pflughoef@F06766E.BCA1AD5.5380CFC.IP) has left #/b/
+T 1333311793 19*	19fudge (lewandows@4EA9C21.6ECCDA0.7024873.IP) has joined #/b/
+T 1333311804 23*	23ilacqua (23kiever@976760B.501A62C.9CB96BB.IP) has left #/b/
+T 1333311804 19*	19nwabeke (cohagan@Rizon-A59FA4B.bulldogdsl.com) has joined #/b/
+T 1333312092 23*	23fudge (23lewandows@4EA9C21.6ECCDA0.7024873.IP) has left #/b/
+T 1333312093 19*	19partenope (zapp@53D31DF.99D9876.5F1815C.IP) has joined #/b/
+T 1333312104 23*	23nwabeke (23cohagan@Rizon-A59FA4B.bulldogdsl.com) has left #/b/
+T 1333312105 19*	19darroch (blenman@Rizon-9418690.telia.com) has joined #/b/
+T 1333312392 23*	23partenope (23zapp@53D31DF.99D9876.5F1815C.IP) has left #/b/
+T 1333312393 19*	19penniman (vicker@1D7D4B4.FC76952.1457A6E.IP) has joined #/b/
+T 1333312405 23*	23darroch (23blenman@Rizon-9418690.telia.com) has left #/b/
+T 1333312405 19*	19santamaria (mcniell@Rizon-6DBCA17.dsl.irvnca.pacbell.net) has joined #/b/
+T 1333312669 23*	23Bui has quit (23Read error: Connection reset by peer23)
