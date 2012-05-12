@@ -1,3 +1,4 @@
+#!/bin/zsh
 alias sshb='ssh root@theshadowfog.com'
 alias ls='ls --color=auto'
 alias grep='grep --colour=auto'
@@ -9,7 +10,7 @@ alias lla='ls -la'
 #alias ls='ls --tabsize=0 --literal --color=auto --show-control-chars --human-readable --group-directories-first -X'
 alias mkdir='mkdir -p -v'
 alias mv='mv -v'
-alias pingg='ping www.google.fr'
+alias pingg='ping www.google.com'
 alias suvim='sudo vim'
 alias volume='alsamixer -c 0'
 alias rtop='~/reddit-top/reddit_top.py'
