@@ -1,2 +1,2 @@
-*Various dotfiles & scripts.*
+**Various dotfiles & scripts.**
 
