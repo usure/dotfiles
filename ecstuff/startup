@@ -1,0 +1,11 @@
+nitrogen --restore &
+#~/time.sh &
+#dropbox start &
+wmname LG3D &
+xrdb .Xdefaults &
+#(sleep 2s && conky | dzen2 -x '850' -e '' -fg '#737373' -bg '#262626' -h '14' -ta r -fn '-*-fixed-medium-r-*-*-12-*-*-*-*-*-iso8859-*' -p) &
+#(sleep 3s && trayer --expand true --widthtype request --transparent true --alpha 255 --edge bottom --align right) &
+#(sleep 3s && xcompmgr -n -f) &
+#(sleep 3s && xcompmgr -cCfF -t-5 -l-5 -r4.2 -o.55 -D6) &
+#(sleep 5s && wbar) &
+xbindkeys &
