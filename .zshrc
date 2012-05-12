@@ -1,4 +1,4 @@
-# Greg's config
+# TheShadowFog's config
 PATH="$PATH:/usr/sbin"
 PATH="$PATH:/sbin/"
 PATH="$PATH:/usr/local/bin/"
