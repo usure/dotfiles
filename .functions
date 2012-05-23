@@ -26,3 +26,12 @@ imgbin()
 {
 curl -F "clbin=@$1" https://clbin.com/ 
 }
+
+clf()
+{
+curl "http://www.commandlinefu.com/commands/browse/sort-by-votes/plaintext"
+}
+
+ompload() { curl -# -F file1=@"$1" http://ompldr.org/upload|awk '/Info:|File:|Thumbnail:|BBCode:/{gsub(/<[^<]*?\/?>/,"");$1=$1;print}';}
+
+up() { for updirs in $(seq ${1:-1}); do cd ..; done; }

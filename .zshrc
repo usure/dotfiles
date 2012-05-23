@@ -133,18 +133,18 @@ if [ $TERM = "linux" ]; then
     setfont ter-v16n
 fi
 #xhost local:mpromber > /dev/null
-
-screenfetch
+clear
+archey
 # su -c 'mount -t vfat /dev/sdc /SANSA\ DISK'
 
 #LANG=en_US.UTF-8
 #LANGUAGE=en_US.UTF-8
-LANG="en_US.UTF-8" 
+#LANG="en_US.UTF-8" 
 SUPPORTED="en_US:en" 
 SYSFONT="latarcyrheb-sun16" 
 
 export ASIO_INPUTS=4
 export ASIO_OUTPUTS=8
-export LC_ALL=en_US.UTF-8
 export LANG="POSIX" 
+
 
