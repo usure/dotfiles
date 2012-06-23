@@ -147,4 +147,4 @@ export ASIO_INPUTS=4
 export ASIO_OUTPUTS=8
 export LANG="POSIX" 
 
-
+printf '\33]701;%s\007' "$LC_CTYPE"  
