@@ -1,2 +1,7 @@
 Various dotfiles & scripts.
 
+file: _urls
+
+put it somewhere in your $fpath.
+
+then type in a url and press tab.

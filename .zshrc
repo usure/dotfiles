@@ -140,11 +140,16 @@ archey
 #LANG=en_US.UTF-8
 #LANGUAGE=en_US.UTF-8
 #LANG="en_US.UTF-8" 
-SUPPORTED="en_US:en" 
-SYSFONT="latarcyrheb-sun16" 
+#SUPPORTED="en_US:en" 
 
 export ASIO_INPUTS=4
 export ASIO_OUTPUTS=8
-export LANG="POSIX" 
 
-printf '\33]701;%s\007' "$LC_CTYPE"  
+
+export LANG=en_US.UTF-8
+export LC_MESSAGES="C"
+
+LANG="en_US.UTF-8"
+
+#RPROMPT='$(prompt_char)'
+

@@ -6,6 +6,11 @@ function imgur {
   curl -s -F "image=@$1" -F "key=486690f872c678126a2c09a9e196ce1b" http://imgur.com/api/upload.xml | grep -E -o "<original_image>(.)*</original_image>" | grep -E -o "http://i.imgur.com/[^<]*"
 }
 
+pronounce(){ wget -qO- $(wget -qO- "http://www.m-w.com/dictionary/$@" | grep 'return au' | sed -r "s|.*return au\('([^']*)', '([^'])[^']*'\).*|http://cougar.eb.com/soundc11/\2/\1|") | aplay -q; }
+
+#imgur_capture(){ $*|convert label:@- png:-|curl -F "image=@-" -F "key=1913b4ac473c692372d108209958fd15" http://api.imgur.com/2/upload.xml|grep -Eo "<original>(.)*</original>" | grep -Eo 
+#"http://i.imgur.com/[^<]*";}
+
 #nessus
 alias nessus='/opt/nessus/bin/nessus'
 #/opt/nessus/sbin/nessusd
@@ -35,3 +40,11 @@ curl "http://www.commandlinefu.com/commands/browse/sort-by-votes/plaintext"
 ompload() { curl -# -F file1=@"$1" http://ompldr.org/upload|awk '/Info:|File:|Thumbnail:|BBCode:/{gsub(/<[^<]*?\/?>/,"");$1=$1;print}';}
 
 up() { for updirs in $(seq ${1:-1}); do cd ..; done; }
+
+wiki() { dig +short txt $1.wp.dg.cx }
+
+chromex() { for i in $(find ~/.config/chromium/*/Extensions -name 'manifest.json'); do n=$(grep -hIr name $i| cut -f4 -d '"'| sort);u="https://chrome.google.com/extensions/detail/";ue=$(basename $(dirname $(dirname $i))); echo -e "$n:\n$u$ue\n" ; done }
+
+whatismyip() { dig +short myip.opendns.com @208.67.222.222 }
+
+backup() { tar zcvf $1-$(date +%Y%m%d-%H%M).tar.gz $1/ }
