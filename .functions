@@ -48,3 +48,5 @@ chromex() { for i in $(find ~/.config/chromium/*/Extensions -name 'manifest.json
 whatismyip() { dig +short myip.opendns.com @208.67.222.222 }
 
 backup() { tar zcvf $1-$(date +%Y%m%d-%H%M).tar.gz $1/ }
+
+restart() {source ~/.zshrc}

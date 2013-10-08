@@ -1,47 +1,10 @@
-#!/bin/sh
-# $XConsortium: xinitrc.cpp,v 1.4 91/08/22 11:41:34 rws Exp $
+#!/usr/bin/env bash
 
-userresources=$HOME/.Xresources
-usermodmap=$HOME/.Xmodmap
-sysresources=/etc/X11/xinit/.Xresources
-sysmodmap=/etc/X11/xinit/.Xmodmap
+# Load .Xresources
+xrdb -merge $HOME/.Xresources
 
-# merge in defaults and keymaps
+# Set the default window manager
+DEFAULT=dwm
 
-if [ -f $sysresources ]; then
-    xrdb -merge $sysresources
-fi
-
-if [ -f $sysmodmap ]; then
-    xmodmap $sysmodmap
-fi
-
-if [ -f $userresources ]; then
-    xrdb -merge $userresources
-fi
-
-if [ -f $usermodmap ]; then
-    xmodmap $usermodmap
-fi
-
-# Start the window manager:
-#if [ -z "$DESKTOP_SESSION" -a -x /usr/bin/ck-launch-session ]; then
- # exec ck-launch-session /usr/bin/startfluxbox
-#else
-#  exec /usr/bin/startfluxbox
-#fi
-sh ~/ecstuff/startup &
-killall notification-daemon &> /dev/null
-statnot &
-#LANG=en_US.UTF-8
-#LANGUAGE=en_US.UTF-8
-#GNOME_DESKTOP_SESSION_ID=Default
-#export DESKTOP_SESSION=gnome
-LANG="en_US" 
-SUPPORTED="en_US:en" 
-SYSFONT="latarcyrheb-sun16" 
-dwm
-
-
-
-
+# Start `Openbox`/`dwm`
+exec dwm-startup
